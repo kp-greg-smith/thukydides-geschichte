@@ -269,3 +269,194 @@ Keine.
 Alle 28 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 31 --end 40`: 45/45 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Kapitel 41–50
+
+Geprüft: **41 Abschnitte**; geändert: **19 Abschnitte**.
+
+Prüfliste: 41.1, 41.2, 41.3, 42.1, 42.2, 42.3, 42.4, 43.1, 43.2, 43.3, 43.4, 44.1, 44.2, 44.3, 45.1, 45.2, 45.3, 46.1, 46.2, 46.3, 46.4, 46.5, 47.1, 47.2, 47.3, 48.1, 48.2, 48.3, 48.4, 49.1, 49.2, 49.3, 49.4, 49.5, 49.6, 49.7, 50.1, 50.2, 50.3, 50.4, 50.5.
+
+### 41.1 · Änderung 1
+
+- Griechisch: οὐκ ἐχθροὶ ὄντες ὥστε βλάπτειν οὐδ’ αὖ φίλοι ὥστ’ ἐπιχρῆσθαι
+- Alt: Da wir weder Feinde sind, sodass wir schaden, noch Freunde, sodass wir die Freundschaft in Anspruch nehmen könnten
+- Neu: Da wir weder Feinde sind, denen ihr schaden dürft, noch Freunde, auf die ihr beliebig zurückgreifen könnt
+- Begründung: Subjekte und Richtung der Handlungen berichtigt.
+
+### 41.2 · Änderung 2
+
+- Griechisch: ὑπὲρ τὰ Μηδικά
+- Alt: zur Zeit der Perserkriege
+- Neu: vor den Perserkriegen
+- Begründung: Zeitverhältnis berichtigt.
+
+### 41.2 · Änderung 3
+
+- Griechisch: ἡ ἐς Σαμίους
+- Alt: die an den Samiern
+- Neu: die im Fall der Samier
+- Begründung: Die Wohltat wurde Athen erwiesen.
+
+### 41.3 · Änderung 4
+
+- Griechisch: τὰ οἰκεῖα χεῖρον τίθενται φιλονικίας ἕνεκα τῆς αὐτίκα
+- Alt: Was ihnen eigentlich zusteht, stellen sie um des unmittelbaren Vorteils willen zurück.
+- Neu: Selbst ihre eigenen Angelegenheiten bringen sie in eine schlechtere Lage, um den augenblicklichen Sieg zu erringen.
+- Begründung: Eigene Interessen und unmittelbarer Siegeswille statt Anspruch und Vorteil.
+
+### 42.1 · Änderung 5
+
+- Griechisch: ὧν ἐνθυμηθέντες καὶ νεώτερός τις … ἀξιούτω
+- Alt: Wenn ihr das bedenkt — und ein Jüngerer, der es von einem Älteren gelernt hat —, so möge er verlangen, dass ihr uns in gleicher Weise beisteht. Und er soll nicht meinen:
+- Neu: Bedenkt das — ein Jüngerer möge es von einem Älteren erfahren — und haltet es für recht, uns in gleicher Weise beizustehen. Meint nicht:
+- Begründung: Unverbundene Satzteile und Wechsel des Subjekts grammatisch gefasst.
+
+### 42.2 · Änderung 6
+
+- Griechisch: τὸ μέλλον τοῦ πολέμου ᾧ φοβοῦντες ὑμᾶς … κελεύουσιν ἀδικεῖν
+- Alt: der kommende Krieg, zu dessen Furcht euch die Kerkyraier zum Unrecht auffordern
+- Neu: der künftige Krieg, mit dem die Kerkyraier euch Furcht machen und zum Unrecht auffordern
+- Begründung: Satzbezug und Bedeutung des griechischen Ausdrucks berichtigt.
+
+### 42.2 · Änderung 7
+
+- Griechisch: φανερὰν ἔχθραν ἤδη καὶ οὐ μέλλουσαν
+- Alt: eine offene, alsbaldige und unaufschiebbare Feindschaft
+- Neu: eine offene, schon gegenwärtige und nicht erst künftige Feindschaft
+- Begründung: Der Gegensatz jetzt/künftig, keine Unaufschiebbarkeit.
+
+### 42.4 · Änderung 8
+
+- Griechisch: τὸ πλέον ἔχειν
+- Alt: das meiste zu erringen
+- Neu: einen Vorteil zu erringen
+- Begründung: Komparativ statt unbegründetem Superlativ.
+
+### 45.2 · Änderung 9
+
+- Griechisch: Στρομβίχου
+- Alt: Strobichos
+- Neu: Strombichos
+- Begründung: Fehlenden Konsonanten im Eigennamen ergänzt.
+
+### 45.3 · Änderung 10
+
+- Griechisch: μὴ … πλέωσι καὶ μέλλωσιν ἀποβαίνειν ἢ ἐς τῶν ἐκείνων τι χωρίων
+- Alt: wenn diese nicht gegen Kerkyra segelten und im Begriff wären zu landen oder eines der zugehörigen Gebiete anzugreifen
+- Neu: wenn diese nicht gegen Kerkyra oder eines der zugehörigen Gebiete segelten und dort im Begriff wären zu landen
+- Begründung: Die Weisung erlaubt Eingreifen bei drohender Landung auch im zugehörigen Gebiet.
+
+### 46.2 · Änderung 11
+
+- Griechisch: πέμπτος αὐτός
+- Alt: selbst der Fünfte
+- Neu: einer von fünf Befehlshabern
+- Begründung: Die idiomatische Gesamtzahl statt einer unbelegten Rangfolge.
+
+### 46.4 · Änderung 12
+
+- Griechisch: ἐν τῇ Ἐλαιάτιδι
+- Alt: im Elaitis
+- Neu: in der Elaiatis
+- Begründung: Ortsname und grammatisches Geschlecht berichtigt.
+
+### 47.2 · Änderung 13
+
+- Griechisch: Ζακυνθίων
+- Alt: zapynthische
+- Neu: zakynthische
+- Begründung: Falschen Volksnamen berichtigt.
+
+### 48.3 · Änderung 14
+
+- Griechisch: ἦρχε 〈τῶν〉 τριῶν στρατηγῶν
+- Alt: deren jede einer der drei Befehlshaber führte.
+- Neu: deren jede einer der drei Befehlshaber führte. [Anm.: Der Herausgeber ergänzt hier im griechischen Text den Artikel tōn (»der«).]
+- Begründung: Herausgeberergänzung gemäß Regel 4 gekennzeichnet.
+
+### 48.4 · Änderung 15
+
+- Griechisch: τὸ μὲν δεξιὸν κέρας … ὡς ἕκαστοι
+- Alt: das rechte Flügel hielten die megarischen und die ambrakiotischen Schiffe, in der Mitte die übrigen Bundesgenossen, jeder wie es sich traf
+- Neu: den rechten Flügel hielten die megarischen und die ambrakiotischen Schiffe, in der Mitte die übrigen Bundesgenossen, jeweils für sich
+- Begründung: Kasus berichtigt; ὡς ἕκαστοι meint die einzelnen Kontingente, keine zufällige Aufstellung.
+
+### 48.4 · Änderung 16
+
+- Griechisch: ταῖς ἄριστα τῶν νεῶν πλεούσαις
+- Alt: mit den besten Schiffen
+- Neu: mit den am besten segelnden Schiffen
+- Begründung: Die Qualität bezieht sich ausdrücklich auf die Fahreigenschaften.
+
+### 49.2 · Änderung 17
+
+- Griechisch: τῇ μὲν τέχνῃ οὐχ ὁμοίως
+- Alt: in der Kunst nicht gleich
+- Neu: doch nicht in gleichem Maße kunstgerecht
+- Begründung: Kein Vergleich der Fähigkeit beider Seiten, sondern der Heftigkeit mit der Kampfkunst.
+
+### 49.6 · Änderung 18
+
+- Griechisch: ἡσσῶντό [τε] καὶ
+- Alt: die noch auf der Verfolgung waren.
+- Neu: die noch auf der Verfolgung waren. [Anm.: Der Herausgeber kennzeichnet hier das verbindende Wort te als zu tilgenden Zusatz.]
+- Begründung: Eckige Herausgeberklammer gemäß Regel 4 erläutert.
+
+### 49.7 · Änderung 19
+
+- Griechisch: ἀπροφασίστως … μὴ ἐμβάλλειν τινί
+- Alt: halfen jetzt ohne Vorwand: Zuerst hielten sie sich zurück, um niemanden anzugreifen
+- Neu: halfen jetzt unverhüllt: Zuerst hielten sie sich noch davon zurück, ein Schiff zu rammen
+- Begründung: Unverhülltes Eingreifen und besondere Bedeutung des Rammens erhalten.
+
+### 49.7 · Änderung 20
+
+- Griechisch: ἔργου πᾶς εἴχετο … ἐς τοῦτο ἀνάγκης
+- Alt: da erst griffen alle in das Werk ein, und es wurde nicht mehr unterschieden, sondern es kam so weit
+- Neu: da erst griffen alle in den Kampf ein, und es wurde nicht mehr unterschieden, sondern es kam zwangsläufig so weit
+- Begründung: Unverständliche Wendung berichtigt und Zwangslage ergänzt.
+
+### 50.1 · Änderung 21
+
+- Griechisch: τὰ σκάφη … οὐχ εἷλκον ἀναδούμενοι … φονεύειν … μᾶλλον ἢ ζωγρεῖν
+- Alt: zogen die Korinther die Rümpfe der Schiffe, die sie versenkt hatten, nicht empor, um sie sich zuzueignen, sondern wandten sich gegen die Leute, um sie zu töten — sie fuhren eher hindurch, als sie gefangen zu nehmen
+- Neu: nahmen die Korinther die Rümpfe der Schiffe, die sie versenkt hatten, nicht ins Schlepptau, sondern wandten sich gegen die Leute und fuhren zwischen ihnen hindurch, um sie eher zu töten als gefangen zu nehmen
+- Begründung: Abschleppen statt Herausziehen; μᾶλλον ἤ verbindet Töten und Gefangennehmen.
+
+### 50.4 · Änderung 22
+
+- Griechisch: οἱ δὲ ταῖς πλωίμοις … δείσαντες … ἀποβαίνειν
+- Alt: Diese aber — die seetüchtigen Schiffe und die übrigen zusammen mit den athenischen Schiffen — segelten ihnen entgegen, weil sie fürchteten, die Feinde könnten in ihr Land einfallen.
+- Neu: Diese aber segelten ihnen mit den seetüchtigen und allen übrigen noch vorhandenen Schiffen zusammen mit den athenischen entgegen, weil sie fürchteten, die Feinde könnten versuchen, in ihrem Land zu landen.
+- Begründung: Die Kerkyraier sind Subjekt, Schiffe das Mittel; befürchteter Landungsversuch ergänzt.
+
+### 50.5 · Änderung 23
+
+- Griechisch: πρύμναν ἐκρούοντο
+- Alt: wandten sich plötzlich zur Umkehr
+- Neu: ruderten plötzlich rückwärts
+- Begründung: Rückwärtsrudern ohne Wenden wiedergegeben.
+
+### 50.5 · Änderung 24
+
+- Griechisch: ἃς ὕστερον τῶν δέκα βοηθοὺς ἐξέπεμψαν
+- Alt: die Athen später als die zehn Helfer gesandt hatte
+- Neu: die Athen nach den ersten zehn als Hilfe gesandt hatte
+- Begründung: Zeitvergleich und Funktion der zwanzig Schiffe entwirrt.
+
+### 50.5 · Änderung 25
+
+- Griechisch: μὴ νικηθῶσιν οἱ Κερκυραῖοι
+- Alt: es könnte — was dann geschah — die Kerkyraier unterliegen
+- Neu: die Kerkyraier könnten — was dann geschah — unterliegen
+- Begründung: Falschen Numerus und überzähliges es berichtigt.
+
+### Unsicher, bitte prüfen
+
+Keine.
+
+### Nachprüfung
+
+Alle 19 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+
+`python3 scripts/check_translation.py --language de --book 1 --start 41 --end 50`: 41/41 Abschnitte, 0 Fehler, 0 Warnungen.
