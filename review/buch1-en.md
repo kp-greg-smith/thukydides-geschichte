@@ -66,17 +66,25 @@ Zweitprüfung: work/en/review/batch01.md. Meldungen: 16 in 11 Abschnitten (1 Blo
 - Entscheidungen am überlieferten Text: 1.6.3 „ἐν τοῖς πρῶτοι“ als unverständliche Partikel unbeachtet („the first“); 1.9.4 die Marginalie „Hom. Il. 2.108“ ist ein editorischer Verweis, kein thukydideischer Text; 1.10.4 αὐτερέται/περίνεως nach evidentem Sinn mit Anmerkung.
 Alle Meldungen angenommen (meist mit Texteingriff, vereinzelt nur als Vermerkskorrektur).
 
+### Kap. 11–20 (Batch 02) — 28 Abschnitte
+Zweitprüfung: work/en/review/batch02.md. Meldungen: 14 (0 Blocker, 14 Minor).
+- Ausgewählte Fixes: 1.11.2 (ἀπονώτερον; περί πολιορκίας), 1.11.3 (ἔργα/λόγοι), 1.13.1 (μᾶλλον ἀντείχοντο), 1.13.5 (χρημάτων προσόδῳ), 1.13.6 (τῶν νήσων), 1.14.1 (ναυτικόν = fleet), 1.15.2 (ὡς ἕκαστοι), 1.16.1 (τὰ πράγματα; τῷ Φοινίκων ναυτικῷ), 1.17.1 (φανερόν), 1.19.1 (τὰ κράτιστα), 1.20.3 (δύοιν ψήφοιεν).
+- Entscheidung am überlieferten Text: 1.18.1 ἐπὶ πολὺ καὶ πρὶν τυραννευθείσης als gestört behandelt, sinngemäß wiedergegeben, mit Anmerkung.
+Alle Meldungen angenommen.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
 - 1.7.1 ἀνῳκισμένοι — Lesart „up-country“ gewählt; Anmerkung nennt die Alternative.
 - 1.9.4 / 1.10.4 — beschädigte Überlieferung (Homerverweis als editorisch; αὐτερέται/περίνεως) nach evidentem Sinn mit Anmerkung.
+- 1.18.1 ἐπὶ πολὺ καὶ πρὶν τυραννευθείσης — gestört; sinngemäß mit Anmerkung.
+- 1.20.2 — fehlendes Verb der Information ergänzt („learning from their confederates“).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 37 in den Kapiteln 1–10 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 37 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 16 Fundstellen (1 Blocker, 15 Minor).
+- Übersetzte Abschnitte: 65 in den Kapiteln 1–20 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 65 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 30 Fundstellen (1 Blocker, 29 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
 - Nicht veröffentlicht, obwohl work in progress: Kapitel 51–60 sind Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 61–146 noch nicht begonnen.
