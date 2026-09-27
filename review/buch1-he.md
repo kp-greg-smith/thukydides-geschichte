@@ -132,6 +132,16 @@ Zweitprüfung: work/he/review/batch09.md. Meldungen: 11 in 10 Einträgen (2 Bloc
 - Buchhaltungskorrektur: kumulierter Abschnittszähler Batch 08 von 357 auf 314 berichtigt (271+43 — Rechenfehler des Koordinators im Emitter; UK/EN geprüft und fehlerfrei).
 Alle 11 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
 
+### Kap. 91–100 (Batch 10) — 39 Abschnitte
+Zweitprüfung: work/he/review/batch10.md. Meldungen: 12 Minor in 15 Einträgen (0 Blocker).
+- Spiegel-Treue: der über 1.100.2→3 erfundene Punkt über der überlieferten Mitten-komma getilgt — der Abschnitt endet jetzt wie der exemplarische Spiegel 1.93.3→4 mitten im Satz (komma-offen); die Wahl per Vermerk dokumentiert.
+- Eigener Vorwurf angenommen: mein Global-Replace («באותה הגמוניה»→«באותו פיקוד») hatte die erste Zitatform im 1.94.2-Vermerk mitverändert, sodass er dieselbe Form als Wiedergabe und als „Alternative“ führte — nach dem Vorschlag des Prüfers neu gefasst; ebenso der 1.96.2-Vermerk, der die per Elft-Addendum ausgeschlossene Form «טלנט» noch vormerksweise vorschlug, auf „geklärt“ gesetzt.
+- Drei fehlende Anomalie-Vermerke ergänzt: 1.95.4 (Doppel-τε-Koordination), 1.95.5 (μὴ ἀδικεῖν Präsens statt Aorist), 1.95.7 (ἐνεῖδον epische Form) + die Spiegel-Dokumentation 1.100.2; die Σanktion ἀνάγκαι = חיובים per Vermerk fixiert; die nicht gegen unsere quellenlose Datei verifizierbare ἀκινοῦντες-Konjektur aus dem 1.93.2-Vermerk entfernt.
+- Register-Fixes: «דלוס הייתה להם לאוצרת» → «לאוצר» (הנון „curatrix“-Lesart weg), «בוצרו» → «הובצרו» + die Stimme von «ואת היתר התקינו» ins Passiv zurück (κατεσκευάζοντο), ἤχθοντο zweimal vereinheitlicht («התמרמרו בסתר»), 1.98.4 das baumelnde Subjekt geschlossen («והאתונאים יצאו עליהם»), 1.91 σαφῶς = «בבירור» (an 1.91.3 angeglichen) + zugesetztes «עוד» getilgt + «הדיה לשמור» → «במידה המספיקה לשמור», 1.97.2 λόγος = Erzählung («ממהלך הדברים») + die ausschließende Kraft von ὅσπερ καὶ und ἐπεμνήσθη wiederhergestellt («ורק הלניקוס הזכירם אף הוא»), 1.95.7 «לרועץ» → «גרועים מהם», 1.99.3 «מס כסף» → «תשלומי כסף» (der Tribut-Begriff bleibt φόρος vorbehalten).
+- Bestätigt: sämtliche Sonderprüfungen bestanden — «In erster Linie» öffnet 1.98.1 (die parallele Auslassung existiert hier nicht), [Ἐννέα ὁδοί] dreifach als schlichte Apposition («תשע הדרכים», ohne Klammern, ohne Notiz), 1.99.1 keine Strafklausel importiert, Themistocles-Rede durchgängig indirekt bis zum überlieferten ἔφη, 1.93.3→4 exakt; die zwei Amts-Lesungen stehen exakt an 1.93.3/1.96.2, sonst שלטון ungeschönt; «באותו פיקוד» im Körper; Versklavungen ungeschönt; alle Zahlen (460 כיכר etc.); sämtliche Zehnt/Elft-Addendum-Namen im Druck, לקדמון ohne Regression.
+- Vermerks-Hausordnung: von den fünf per Elft-Addendum obsoleten Namens-Proposal-Vermerken bleiben die vier bewilligenden als Dokumentation stehen (der Widerspruchsfall 1.96.2-טלנט behoben); die Vorlagen ἀνάγκαι/διαχείρισις/ξύνοδοι/ξυνεστράτευον vom Prüfer am Griechischen verifiziert und unterstützt.
+Alle 12 Meldungen angenommen (11 mit Text- oder Vermerkseingriff; 1 als Spiegel-Dokumentation ergänzt).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
@@ -145,10 +155,10 @@ Alle 11 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 356 in den Kapiteln 1–90 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 356 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 127 Fundstellen (7 Blocker, 120 Minor).
+- Übersetzte Abschnitte: 395 in den Kapiteln 1–100 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 395 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 139 Fundstellen (7 Blocker, 132 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 91–100: Übersetzung im Gang; Kapitel 101–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 101–110: Übersetzung im Gang; Kapitel 111–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
