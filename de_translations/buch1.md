@@ -1226,26 +1226,46 @@
 
 ### Kapitel 102
 
-§1 Die Spartaner entließen die Athener als einzige Bundesgenossen ohne Angabe von Gründen. Die Athener zürnten und lösten das Bündnis mit Sparta. Sie verbündeten sich mit Argos, Spartas Feind.
+§1 Die Lakedaimonier aber, als sich ihnen der Krieg gegen die in Ithome verlängerte, riefen auch andere Bundesgenossen und die Athener herbei; die kamen unter Kimons Führung, in nicht geringer Zahl.
 
+§2 Am meisten riefen sie sie herbei, weil sie als tüchtig im Mauerkampf galten; der lang andauernden Belagerung aber waren sie bedürftig — mit Gewalt würden sie den Ort nehmen.
+
+§3 Und aus dieser Unternehmung wurde der erste offene Streit zwischen Lakedaimoniern und Athenern. Die Lakedaimonier nämlich, als der Ort mit Gewalt nicht genommen wurde, fürchteten die Verwegenheit der Athener und ihren Neuerungsgeist — und hielten sie zugleich für Fremdstämmige —, dass sie, wenn sie blieben, von den Ithome-Leuten überredet, Neuerungen unternehmen würden. Sie entließen also die Athener als einzige der Bundesgenossen, den Verdacht verbergend.
+
+§4 Die Athener aber erkannten, dass sie nicht zum Besseren entlassen wurden, sondern weil etwas Verdächtiges aufgekommen war. Und es schwer nehmend und es nicht für würdig haltend, dies von den Lakedaimoniern zu erleiden, lösten sie, sobald sie zurückgekehrt waren, das gegen den Meder geschlossene Bündnis mit ihnen und verbündeten sich mit deren Feinden, den Argivern, und zugleich mit den Thessalern. Denn mit beiden gingen sie dieselben Eide ein.
 ---
 
 ### Kapitel 103
 
-§1 Die Messenier auf Ithome kapitulierten nach zehn Jahren. Die Lakedaimonier ließen sie frei abziehen. Die Athener wiesen ihnen Naupaktos zu. So wuchs die Feindschaft.
+§1 Die in Ithome aber — im zehnten Jahr, als sie nicht mehr widerstehen konnten — kamen mit den Lakedaimoniern überein, unter Vertrag aus der Peloponnes auszuziehen und sie nie mehr zu betreten; wenn einer ergriffen würde, sei er Sklave des Ergreifenden.
 
+§2 Es war den Lakedaimoniern auch ein Orakel aus Delphi vorhergegangen, den Schützling des Zeus Ithomates loszulassen.
+
+§3 Und sie zogen aus, Männer, Kinder und Frauen; und die Athener nahmen sie auf — schon den Hass gegen die Lakedaimonier hegend — und siedelten sie in Naupaktos an, das sie soeben den ozolischen Lokrern abgenommen hatten.
+
+§4 Und die Megarer traten den Athenern ins Bündnis bei, von den Lakedaimoniern abfallend, weil sie die Korinther mit Krieg über die Grenzen des Landes bedrängten. Und die Athener nahmen Megara und Pegai ein und bauten den Megarern die langen Mauern von der Stadt nach Nisaia und bewachten sie selbst. Und den Korinthern begann von da an der heftigste Hass gegen die Athener zuerst.
 ---
 
 ### Kapitel 104
 
-§1 Die Athener zogen nach Ägypten und unterstützten Inaros gegen Persien. Sechs Jahre kämpften sie am Nil. Die Perser siegten. Die athenische Flotte in Ägypten ging unter.
+§1 Inaros aber, Sohn des Psammetichos, Lybier, König der Lybier an der Grenze Ägyptens, brach aus Mareia, der Stadt oberhalb von Pharos, ab: den größten Teil Ägyptens vom König Artaxerxes. Und als er selbst Herrscher geworden war, rief er die Athener herbei.
 
+§2 Die — es trug sich, dass sie mit zweihundert eigenen und bundesgenössischen Schiffen gegen Kypros zogen — kamen, Kypros verlassend, und fuhren von See in den Nil hinauf; und den Fluss beherrschend, kämpften sie gegen Memphis, zwei Drittel der Stadt, gegen das dritte Teil, das Weiße Mauer heißt. Darin saßen die Perser und Meder, die geflüchtet waren, und die Ägypter, die nicht abgefallen waren.
 ---
 
 ### Kapitel 105
 
-§1 Zugleich führten die Athener Krieg in Griechenland. Sie siegten bei Megara und bauten die langen Mauern. Athen wurde uneinnehmbar zur See und zu Lande.
+§1 Und den Athenern, die bei Halieis an Land gegangen waren, wurde eine Schlacht gegen die Korinther und Epidaurier geliefert, und die Korinther siegten. Später lieferten sich die Athener bei Kekryphaleia den Peloponnesiern eine Seeschlacht, und die Athener siegten.
 
+§2 Und da den Athenern danach mit den Aigineten Krieg entstand, wurde bei Aigina eine große Seeschlacht Athener und Aigineten geliefert — die Bundesgenossen standen beiden bei —, und die Athener siegten und gingen mit siebzig eroberten Schiffen ins Land und belagerten, unter Leokrates, Sohn des Stroibos, führend.
+
+§3 Dann wollten die Peloponnesier den Aigineten beistehen und setzten dreihundert Hopliten zuerst von Korinth und Epidauros als Helfer nach Aigina über; die Spitze der Geraneia besetzten die Korinther mit den Bundesgenossen und gingen in die Megaris hinab — in der Meinung, die Athener könnten den Megarern nicht beistehen, weil in Aigina eine große Armee abwesend sei.
+
+§4 Die Athener aber rührten das Heer bei Aigina nicht; die aus der Stadt Übriggebliebenen, die ältesten und die jüngsten, kamen unter Myronides' Führung nach Megara.
+
+§5 Und eine Schlacht von gleichem Gewicht wurde den Korinthern geliefert; sie trennten sich voneinander, und beide glaubten, im Werk nicht unterlegen zu sein.
+
+§6 Und die Athener — sie waren doch eher überlegen — errichteten, als die Korinther abgezogen waren, ein Siegeszeichen. Die Korinther aber, von den Älteren in der Stadt gescholten, rüsteten sich und errichteten, nach etwa zwölf Tagen kommend, auch ihrerseits ein Siegeszeichen als Sieger. Und die Athener, aus Megara ausrückend, zerstörten denen, die das Zeichen errichteten, die Arbeit.
 ---
 
 ### Kapitel 106
