@@ -61,17 +61,24 @@ Zweitprüfung: work/uk/review/batch01.md. Meldungen: 20 in 19 Abschnitten (2 Blo
 - Entscheidung: 1.6.3 wie in den anderen Sprachen (gemeinsame Pipeline-Entscheidung, „першими“).
 Alle Meldungen angenommen.
 
+### Kap. 11–20 (Batch 02) — 28 Abschnitte
+Zweitprüfung: work/uk/review/batch02.md. Meldungen: 24 (0 Blocker, 24 Minor).
+- Ausgewählte Fixes: 1.11.1/1.11.2 (Geometrie des Chersones- Sprechens; λῃστεία/γεωργία), 1.12.3 (60. Jahr nach Ilion), 1.13.1 (флот), 1.13.2 (триєри), 1.13.5 (Corinth am Isthmus; ἀφνειόν), 1.16.1, 1.17.1, 1.18.1/1.18.2 (Tyrannis-Passagen; διεκρίθησαν offengehalten), 1.18.3, 1.19.1 (oligarchische Klausel der Symmachie), 1.20.2, 1.20.3 (Пітанський лох).
+- Namen: Амінокл, Кір/Камбіз/Дарій, Полікрат, Ренея, фокейці, Массалія, карфагеняни, річка Галис, хіосці/лесбосці — in die Listen übernommen.
+Alle Meldungen angenommen.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
 - 1.7.1 ἀνῳκισμένοι — Lesartentscheidung mit Dokumentation.
 - 1.9.4/1.10.4 — wie EN (gemeinsame Entscheidungen, sinngemäß mit Anmerkung).
+- 1.18.1 — gestörte Überlieferung, sinngemäß mit Anmerkung.
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 37 in den Kapiteln 1–10 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 37 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 20 Fundstellen (2 Blocker, 18 Minor).
+- Übersetzte Abschnitte: 65 in den Kapiteln 1–20 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 65 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 44 Fundstellen (2 Blocker, 42 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 1.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
 - Nicht veröffentlicht, obwohl work in progress: Kapitel 51–60: Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 61–146 noch nicht begonnen.
