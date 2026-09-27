@@ -130,6 +130,14 @@ Zweitprüfung: work/en/review/batch09.md. Meldungen: 7 in 7 Abschnitten (0 Block
 - Bestätigt: Extraktion 42/42 identisch mit source.xml; Namen per neuntem Addendum (Sthenelaidas einmal, bei der Vorstellung; Leotychides mit ω; Mycale zweimal; Sestus); alle Zahlen; Redenmarken (Archidamus ohne Klammer, wo das Griechische es zeigt; Sthenelaidas unmarkiert; die Kurzinstruktion 1.87.2 in „ ”); Regel 6 sauber (einziger Rutsch 1.90.5 behoben).
 Alle 7 Meldungen angenommen (6 mit Texteingriff, 1 als reine Vermerks-Ergänzung; zusätzlich 4 Vermerks-Revisionen und 2 Erledigungs-Markierungen).
 
+### Kap. 91–100 (Batch 10) — 39 Abschnitte
+Zweitprüfung: work/en/review/batch10.md. Meldungen: 6 in 6 Abschnitten (1 Blocker, 5 Minor).
+- Blocker 1.100.3: die editorische Ergänzung [αἱ Ἐννέα ὁδοί] war gar nicht wiedergegeben („a place“ statt der Namensapposition) — jetzt gemäß zehntem Addendum als schlichte Apposition gedruckt: „the founding of this place, the Nine Ways, was a thing of enmity“; der Vermerk hatte fälschlich behauptet, schon vorher so gedruckt zu haben —neu gefasst.
+- Minorfixes: 1.98.1 (πρῶτον μέν = „First, they took Eion…“ — die损失的 Reihenöffnung wieder da), 1.94.1/1.95.1/1.95.3 (Ἕλληνες = the Greeks gemäß Kernliste — dreimal war konventionswidrig „Hellenes“ gedruckt), 1.91.4 (πρεσβεύεσθαι als Medium: die Lakedaimonier selbst kommen — „wished to come to them on an embassy“ — nicht „send an embassy“), 1.91.4b (ἰέναι als schlichtes Wollen, nicht als Ratschlag), 1.93.2 (Garden-Path behoben: „the construction still shows plainly even now that it was done in haste“).
+- Vermerks-Ergänzungen: die überlieferten mitten-im-Satz-Sektionsbrüche 1.93.3→4 und 1.100.2→3 sind getreu gespiegelt, bleiben aber dokumentiert (Starkheit der Rohheit für den Koordinator sichtbar); 1.94.2 erhält die bestätigende Regelung (ἡγεμονία = Pausanias’ persönliches Kommando — nicht „hegemony“).
+- Bestätigt: Themistocles-Adresse bleibt bis 1.91.7 durchgehend indirekt (ἔφη geehrt, kein enclosing mark, keine Promotion); 1.99.1 enthält keine Strafklausel (in source.xml verifiziert) und importiert keine; die Amts-Regelungen 1.93.3/1.96.2 sauber; die spartanischen στρατηγός-Stellen = „commander“; alle zehnten-Addendum-Namen auf dem Druck; Zahlen (20, 30 Schiffe; drei Häfen; 460 Talente; 200; zehntausend) korrekt; Naxos als „first allied city enslaved contrary to the established order“ ungeschönt.
+Alle 6 Meldungen angenommen (alle mit Texteingriff; dazu 2 Vermerks-Ergänzungen, 2 Vermerks-Revisionen).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
@@ -147,10 +155,10 @@ Alle 7 Meldungen angenommen (6 mit Texteingriff, 1 als reine Vermerks-Ergänzung
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 356 in den Kapiteln 1–90 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 356 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 112 Fundstellen (10 Blocker, 102 Minor).
+- Übersetzte Abschnitte: 395 in den Kapiteln 1–100 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 395 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 118 Fundstellen (11 Blocker, 107 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 91–100: Übersetzung im Gang; Kapitel 101–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 101–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
