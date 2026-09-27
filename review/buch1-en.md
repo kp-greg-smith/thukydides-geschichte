@@ -104,6 +104,14 @@ Zweitprüfung: work/en/review/batch06.md. Meldungen: 8 in 6 Abschnitten (1 Block
 - Zahlen geprüft und korrekt: zwanzig; dreißig attische Schiffe; ≥1,000 Gefangene, ~70 versenkt, ~30 zerstört; 800 verkauft, 250 behalten; 30 Schiffe und 1,000 Hopliten; 1,600 + 400; der vierzigste Tag. Die Kurzreden von 1.53 in „ “ gemäß Beschluss.
 Alle 8 Meldungen angenommen (7 mit Texteingriff, 1 als Vermerks-Ergänzung).
 
+### Kap. 61–70 (Batch 07) — 45 Abschnitte
+Zweitprüfung: work/en/review/batch07.md. Meldungen: 10 in 10 Abschnitten (1 Blocker, 9 Minor).
+- Blocker 1.69.5: τινὰς πού ist ein abgeschrägtes „some men somewhere“; die Steigerung „not a few“ (Übertreibung) wurde zurückgenommen, das fehlende ἤδη ergänzt.
+- Ausgewählte Minor-Fixes: 1.63.1 (vorweggenommenes „force his way“ entfernt), 1.65.1 (ἔκπλους = „sailed out“ gemäß Regelung), 1.65.3 (ἔστιν ἃ καί = „even some small towns“), 1.69.3 (ἀναίσθητον = „want of perception“), 1.69.4 (Ἕλληνες = Greeks), 1.69.6 (αἰτία im freundschaftlichen Tadel-Sinn = „blame“; „complaint“ bleibt ἔγκλημα vorbehalten; κατηγορία = accusation), 1.70.3 (nicht überliefertes „greatest“ entfernt).
+- Prozess: die überlieferten Kasus-Anomalien 1.67.4 (Μεγαρῆς) und 1.69.2 (οὐ μέλλοντες) nachvermerkt, Text nach evidentem Sinn unverändert.
+- Bestätigt: Kongress-Kapitel regel-6-sauber (Klagen der Verbündeten bleiben deren; Korintherrede läuft ohne Schließung über 1.70 hinaus); alle Zahlen (2 000 + 40; 1 000; 3 000 + Bundesgenossen + 600 Reiter + 70 Schiffe; 200 Reiter; ~60 Stadien; <300 gegen 150; 1 600; 500) korrekt; Namen gemäß siebtem Addendum; alle Draft-Vermerke wahrhaftig, kein falscher Verderbnis-Behauptung.
+Alle 10 Meldungen angenommen (8 mit Texteingriff, 2 als Vermerks-Ergänzung).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
@@ -121,10 +129,10 @@ Alle 8 Meldungen angenommen (7 mit Texteingriff, 1 als Vermerks-Ergänzung).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 226 in den Kapiteln 1–60 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 226 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 84 Fundstellen (7 Blocker, 77 Minor).
+- Übersetzte Abschnitte: 271 in den Kapiteln 1–70 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 271 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 94 Fundstellen (8 Blocker, 86 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 61–70: Übersetzung im Gang; Kapitel 71–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 71–80: Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 81–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
