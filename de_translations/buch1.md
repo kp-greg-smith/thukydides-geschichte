@@ -1531,28 +1531,38 @@
 
 ### Kapitel 129
 
-§1 Die Athener schickten Schiffe um die Peloponnes. Sie verwüsteten die Küste Lakoniens. Ein Teil der Flotte fuhr nach Akarnanien, ein anderer kehrte zurück. Der Krieg wurde von beiden Seiten geführt, wie es Brauch war.
+§1 So viel zeigte der Brief. Xerxes aber freute sich über den Brief und sandte Artabazos, Sohn des Pharnakes, ans Meer und befahl ihm, die Satrapie Daskyliitis zu übernehmen, nachdem er Megabates abgesetzt hatte, der vorher dort herrschte; und gegen Pausanias nach Byzantion legte er ihm einen Antwortbrief auf, ihn schleunigst zu übersenden.
 
+§2 Und er kam an und tat das übrige, wie gesagt war, und übersandte den Brief.
+
+§3 Es war hineingeschrieben: »So spricht der König Xerxes zu Pausanias: Der Männer, die du mir jenseits des Meeres aus Byzantion errettet hast, wird die Wohltat im Haus uns ein für allemal unverlöslich angeschrieben sein, und die Worte von dir gefallen mir. Weder Nacht noch Tag halte dich ab, irgendetwas der Versprochenen zu vollenden; weder Gold noch Silber...«
 ---
 
 ### Kapitel 130
 
-§1 So endete das erste Jahr des Krieges. Es war der Anfang von siebenundzwanzig Jahren Kampf. In Athen wartete man auf den Winter, segelte dann aus und bereitete das nächste Jahr vor.
+§1 Pausanias aber, die Briefe empfangend — da er auch vorher bei den Griechen in hoher Würde stand wegen der Führung bei Plataiai —, erhob sich damals noch viel mehr und konnte nicht mehr auf die eingeführte Weise leben; sondern in medische Kleidung gehüllt ging er aus Byzantion heraus, und wenn er durch Thrakien ging, begleiteten ihn medische und ägyptische Leibwache.
 
+§2 Und er machte sich unzugänglich und wandte seinen Zorn so hart gegen alle an, dass keiner sich ihm nähern konnte — deswegen ging der Bund am meisten zu den Athenern über.
 ---
 
 ### Kapitel 131
 
-§1 Pausanias, der Spartaner, der bei Plataiai gesiegt hatte, unterlag der Hybris. Er kleidete sich persisch und nahm persische Sitten an. Er trug Medisches unter dem Mantel des Griechen und träumte die Herrschaft über Griechenland unter persischem Schutz.
+§1 Und die Lakedaimonier, es zuerst aus diesem Grund merkend, riefen ihn zurück; und als er das zweite Mal mit dem hermionischen Schiff ohne ihren Befehl ausfuhr und solches zu tun schien, und aus Byzantion von den Athenern mit Gewalt aus der Belagerung vertrieben, kehrte er nicht nach Sparta zurück, sondern ließ sich in Kolonai in der Troas nieder.
 
-§2 Die Ephoren erfuhren davon durch einen Sklaven, den Pausanias hatte töten lassen wollen und der mit einem Brief zum Großkönig geflohen war. Der Brief enthielt den Verrat. Pausanias floh in den Tempel der Athena Chalkioikos. Die Ephoren mauerten ihn ein und ließen ihn verhungern.
-
+§2 Er aber, so wenig wie möglich verdächtig sein wollend — im Vertrauen, mit Geld die Verleumdung zu beheben —, kehrte das zweite Mal nach Sparta zurück. Und er kam zunächst durch die Ephoren in das Gefängnis (den Ephoren ist es möglich, dies gegen den König zu tun); dann aber, es ausgerichtet habend, ging er hinaus und stellte sich allen, die es wollten, zum Prozess.
 ---
 
 ### Kapitel 132
 
-§1 Themistokles, der Retter Griechenlands, wurde von den Athenern durch das Scherbengericht verbannt und in Sparta verklagt. Er floh zu den Molossern, dann zum Perserkönig und starb im Perserreich. So endete der Mann, der Athen zur See groß gemacht hatte.
+§1 Und die Spartaner hatten kein offenkundiges Zeichen — weder die Feinde noch die ganze Stadt —, womit sie sicher gegen einen Mann vom königlichen Geschlecht, der noch gegenwärtig Ehre hatte (denn er war Vormund des Pleistarchos, Sohn des Leonidas, des noch jungen Königs),
 
+§2 Viele Verdächtigungen aber gab er durch die Gesetzesübertretung und die Nachahmung der Barbaren — nicht gleich den Gegenwärtigen sein wollend; und sie untersuchten das übrige, ob er irgend etwas von den festgesetzten Gesetzen übertreten hatte — und dass er einmal auf den Dreifuß in Delphi, den die Griechen von den Medern als Zehnt weihten, eigenmächtig eine Inschrift anbringen wollte.
+
+§3 Das Distichon aber meißelten die Lakedaimonier sogleich damals vom Dreifuß aus und schrieben namentlich die Städten ein, die gemeinsam den Barbaren vertrieben und das Weihgeschenk aufgestellt hatten. Die Übertretung des Pausanias aber schien damals schon zu bestehen; und da er dabei verblieb, schien sie in der gegenwärtigen Zeit noch viel ähnlicher.
+
+§4 Und sie erfuhren, dass er auch den Heloten etwas versprach; und es war so: Er versprach ihnen Freiheit und Bürgerrecht, wenn sie gemeinsam aufständen und alles mit ihm durchsetzten.
+
+§5 Aber auch so vertrauten sie den Anzeigen einiger Heloten nicht und meinten, etwas Neues gegen ihn unternehmen zu müssen — auf die Weise, die sie gewohnt sind: gegen einen spartanischen Mann ohne unbestreitbare Beweise nichts Unwiderrufliches zu beschließen. Bis aber, wie es heißt, der Mann, der dem König die letzten Briefe bringen sollte...
 ---
 
 ### Kapitel 133
