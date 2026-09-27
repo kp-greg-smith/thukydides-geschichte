@@ -1,131 +1,4 @@
-#!/usr/bin/env python3
-"""
-Thukydides: Der Peloponnesische Krieg
-=====================================
-Vollständige Übersetzung aller acht Bücher aus dem Altgriechischen ins moderne Deutsch.
-
-Quelle: Perseus Digital Library (tlg0003.tlg001.perseus-grc2.xml)
-Edition: Henry Stuart Jones, OCT 1910/1942
-
-Übersetzungsgrundsätze:
-  1.  Einheitliche Schlüsselbegriffe im ganzen Werk
-  2.  Nichts hinzugefügt, nichts gesteigert
-  3.  Harte Formulierungen nicht abschwächen
-  4.  Anmerkungen nur bei echten textkritischen Zweifeln
-  5.  Sorgfältige Behandlung griechischer Ambiguitäten
-  6.  Abschnittszählung mit §‑Zeichen
-
-Glossar der Kernbegriffe:
-  πρόφασις (prophasis)    → wahrer Grund
-  αἰτία (aitia)           → Vorwurf / Anschuldigung
-  στάσις (stasis)         → Bürgerkrieg
-  δύναμις (dynamis)       → Macht
-  παρασκευή (paraskeuē)   → Rüstung
-  δουλεία (douleia)       → Knechtschaft
-  ξυμμαχία (xymmachia)    → Bündnis
-  λόγος / ἔργον           → Wort und Tat
-  ἀνάγκη (anankē)         → Zwang
-  τύχη (tychē)            → Zufall / Glück
-"""
-
-import subprocess, os, sys, textwrap
-
-OUTPUT = os.path.dirname(os.path.abspath(__file__))
-
-# ================================================================
-# HILFSFUNKTIONEN
-# ================================================================
-
-def write_md(path, content):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(content)
-    print(f"  ✓ {path}")
-
-def write_html(path, content):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(content)
-    print(f"  ✓ {path}")
-
-def md_to_html(md_content):
-    """Simple Markdown-to-HTML converter."""
-    import re
-    lines = md_content.split("\n")
-    html = []
-    html.append('<!DOCTYPE html>')
-    html.append('<html lang="de">')
-    html.append('<head>')
-    html.append('<meta charset="UTF-8">')
-    html.append('<meta name="viewport" content="width=device-width, initial-scale=1.0">')
-    html.append('<title>Thukydides: Der Peloponnesische Krieg</title>')
-    html.append('<style>')
-    html.append('body{max-width:40em;margin:2em auto;padding:0 1em;font-family:Georgia,serif;line-height:1.6;color:#1a1a1a}')
-    html.append('h1{font-size:1.8em;margin-top:2em;border-bottom:1px solid #ccc}')
-    html.append('h2{font-size:1.4em;margin-top:2.5em}')
-    html.append('h3{font-size:1.2em;margin-top:2em;color:#555}')
-    html.append('p{margin:0.8em 0}')
-    html.append('.kapitel{font-weight:bold;color:#333;font-size:0.85em;text-transform:uppercase;letter-spacing:0.05em}')
-    html.append('.section{display:inline;color:#083;font-weight:bold;margin-right:0.3em}')
-    html.append('.annot{color:#832;font-style:italic;font-size:0.9em}')
-    html.append('blockquote{font-style:italic;margin:1em 2em;color:#444}')
-    html.append('hr{border:none;border-top:1px solid #ddd;margin:2em 0}')
-    html.append('</style>')
-    html.append('</head>')
-    html.append('<body>')
-    
-    in_para = False
-    for line in lines:
-        if line.startswith('# Thukydides'):
-            html.append(f'<h1>{line[2:]}</h1>')
-        elif line.startswith('## '):
-            html.append(f'<h2>{line[3:]}</h2>')
-        elif line.startswith('### '):
-            html.append(f'<h3>{line[4:]}</h3>')
-        elif line.startswith('**Kapitel'):
-            num = line.replace('**Kapitel ', '').replace('**', '')
-            html.append(f'<p class="kapitel">Kapitel {num}</p>')
-        elif line.startswith('§'):
-            html.append(f'<p class="section">{line}</p>')
-        elif line.startswith('>'):
-            html.append(f'<blockquote>{line[2:]}</blockquote>')
-        elif line.startswith('[Anm.'):
-            html.append(f'<p class="annot">{line}</p>')
-        elif line == '---':
-            html.append('<hr>')
-        elif line == '':
-            html.append('')
-        else:
-            html.append(f'<p>{line}</p>')
-    
-    html.append('</body>')
-    html.append('</html>')
-    return '\n'.join(html)
-
-def generate_pdf(md_path, pdf_path):
-    """Generate PDF from Markdown using pandoc or weasyprint."""
-    try:
-        subprocess.run([
-            "pandoc", md_path, "-o", pdf_path,
-            "--pdf-engine=xelatex",
-            "-V", "mainfont=DejaVu Serif",
-            "-V", "geometry:margin=2.5cm",
-            "-V", "fontsize=11pt",
-            "-V", "lang=de"
-        ], check=True, capture_output=True)
-        print(f"  ✓ {pdf_path}")
-    except FileNotFoundError:
-        print(f"  ⚠ pandoc nicht verfügbar, PDF-Erzeugung übersprungen")
-    except subprocess.CalledProcessError as e:
-        print(f"  ⚠ PDF-Fehler: {e.stderr.decode()[:200]}")
-
-# ================================================================
-# BUCH 1: ARCHÄOLOGIE UND VORGESCHICHTE (Kapitel 1–146)
-# ================================================================
-
-BUCH1 = """# Thukydides: Der Peloponnesische Krieg
-
-## Erstes Buch
+# Thukydides: Der Peloponnesische Krieg\n\n## Erstes Buch\n
 
 ---
 
@@ -225,7 +98,7 @@ BUCH1 = """# Thukydides: Der Peloponnesische Krieg
 
 §3 Dies, scheint mir, übernahm Agamemnon und, zugleich mit einer Flotte mehr als die anderen erstarkend, führte er den Feldzug nicht so sehr durch Gunst als durch Furcht versammelt durch.
 
-§4 Er kam offenbar selbst mit den meisten Schiffen und stellte sie noch den Arkadern bei, wie Homer dies gezeigt hat, wenn jemandem sein Zeugnis ausreicht. Und bei der Übergabe des Zepters hat er von ihm gesagt: »über viele Inseln und das ganze Argos zu herrschen.« Er hätte nicht Inseln außer den umliegenden – diese dürften nicht viele sein –, da er ein Festlandbewohner war, beherrscht, wenn er nicht auch eine Flotte gehabt hätte. Man muss aber auch nach diesem Feldzug auf das Vorhergehende schließen.
+§4 Er kam offenbar selbst mit den meisten Schiffen und stellte sie noch den Arkadern bei, wie Homer dies gezeigt hat, wenn jemandem sein Zeugnis ausreicht. Und bei der Übergabe des Zepters hat er von ihm gesagt: »über viele Inseln und das ganze Argos zu herrschen«. Er hätte nicht Inseln außer den umliegenden – diese dürften nicht viele sein –, da er ein Festlandbewohner war, beherrscht, wenn er nicht auch eine Flotte gehabt hätte. Man muss aber auch nach diesem Feldzug auf das Vorhergehende schließen.
 
 ---
 
@@ -233,7 +106,7 @@ BUCH1 = """# Thukydides: Der Peloponnesische Krieg
 
 §1 Dass Mykene klein war oder dass irgendein Städtchen von damals heute unbedeutend erscheint, darf man nicht als genaues Zeichen nehmen, um zu bezweifeln, dass der Feldzug so groß war, wie die Dichter gesagt haben und die Überlieferung festhält.
 
-§2 Denn wenn die Stadt der Lakedaimonier verödet würde, zurückblieben aber die Heiligtümer und die Grundmauern der Gebäude, so würde – glaube ich – nach langer Zeit bei den Späteren großer Zweifel an ihrer Macht im Verhältnis zu ihrem Ruhm bestehen; und dies, obwohl sie zwei der fünf Teile der Peloponnes bewohnen, die ganze beherrschen und viele auswärtige Bundesgenossen haben. Weil aber die Stadt nicht zusammengesiedelt ist und weder Heiligtümer noch prächtige Bauten aufweist, sondern nach der alten Weise Griechenlands in Dörfern bewohnt wird, erschiene sie geringer. Von der Macht Athens dagegen würde man, wenn ihm dasselbe widerführe, nach dem sichtbaren Anblick der Stadt auf das Doppelte dessen schließen, was sie ist.
+§2 Denn wenn die Stadt der Lakedaimonier veröden würde, zurückblieben aber die Heiligtümer und die Grundmauern der Gebäude, so würde – glaube ich – nach langer Zeit bei den Späteren großer Zweifel an ihrer Macht im Verhältnis zu ihrem Ruhm bestehen; und dies, obwohl sie zwei der fünf Teile der Peloponnes bewohnen, die ganze beherrschen und viele auswärtige Bundesgenossen haben. Weil aber die Stadt nicht zusammengesiedelt ist und weder Heiligtümer noch prächtige Bauten aufweist, sondern nach der alten Weise Griechenlands in Dörfern bewohnt wird, erschiene sie geringer. Von der Macht Athens dagegen würde man, wenn ihm dasselbe widerführe, nach dem sichtbaren Anblick der Stadt auf das Doppelte dessen schließen, was sie ist.
 
 §3 Man darf also nicht zweifeln, noch mehr auf das Aussehen der Städte schauen als auf ihre Macht, sondern muss annehmen, dass jener Feldzug zwar der größte vor ihm war, aber hinter den jetzigen zurückbleibt – wenn man auch hier dem Werk Homers etwas glauben darf, das er als Dichter wohl ins Größere ausgeschmückt hat; doch erscheint es auch so noch geringer.
 
@@ -309,7 +182,7 @@ BUCH1 = """# Thukydides: Der Peloponnesische Krieg
 
 ### Kapitel 17
 
-§1 Die Tyrannen in den griechischen Städte, die nur auf ihren eigenen Vorteil bedacht waren – was den Leib und die Mehrung des eigenen Hauses betraf –, schützten sich möglichst durch Sicherungen; nichts Nennenswertes wurde von ihnen vollbracht, jede Stadt für sich, außer etwa gegen Nachbarn. So kam in Griechenland lange Zeit aus keiner Stadt etwas Großes zustande. [Anm.: Der überlieferte Text dieser Stelle ist unsicher.]
+§1 Die Tyrannen in den griechischen Städten, die nur auf ihren eigenen Vorteil bedacht waren – was den Leib und die Mehrung des eigenen Hauses betraf –, schützten sich möglichst durch Sicherungen; nichts Nennenswertes wurde von ihnen vollbracht, jede Stadt für sich, außer etwa gegen Nachbarn. So kam in Griechenland lange Zeit aus keiner Stadt etwas Großes zustande. [Anm.: Der überlieferte Text dieser Stelle ist unsicher.]
 
 ---
 
@@ -321,7 +194,7 @@ BUCH1 = """# Thukydides: Der Peloponnesische Krieg
 
 §3 Nicht lange danach traten die Griechen, die vom Meder abgefallen waren und die noch mit ihm verbündet, in zwei Lager auseinander: die um die Athener und die um die Lakedaimonier. In der Rüstung standen diese am meisten hervor, die einen zu Lande, die anderen mit den Schiffen die Stärksten.
 
-§4 Die Bündnisse bestanden kurze Zeit, dann gerieten die Lakedaimonier und die Athener, entzweit, mit den Verbündeten aneinander in Krieg. Und von den übrigen Griechen schloss sich, wenn irgendwo ein Streit ausbrach, ein Teil dem einen, ein Teil dem anderen an. So führten sie von den Perserkriegen an bis zu diesem Krieg – bald Frieden schließend, bald Krieg führend, teils gegeneinander, teils gegen die abgefallenen Bundesgenossen – Krieg und rüsteten sich wohl; und sie wurden geübter in den Gefahren.
+§4 Die Bündnisse bestanden kurze Zeit, dann gerieten die Lakedaimonier und Athener, entzweit, mit den Verbündeten aneinander in Krieg. Und von den übrigen Griechen schloss sich, wenn irgendwo ein Streit ausbrach, ein Teil dem einen, ein Teil dem anderen an. So führten sie von den Perserkriegen an bis zu diesem Krieg – bald Frieden schließend, bald Krieg führend, teils gegeneinander, teils gegen die abgefallenen Bundesgenossen – Krieg und rüsteten sich wohl, und sie wurden geübter in den Gefahren.
 
 ---
 
@@ -345,7 +218,7 @@ BUCH1 = """# Thukydides: Der Peloponnesische Krieg
 
 §1 Wer aufgrund der angeführten Zeichen das von mir Dargelegte betrachtet, der wird nicht fehlgehen und weder glauben, was die Dichter besingend ausgeschmückt haben, noch was die Geschichtenschreiber eher im Hinblick auf das Anhören als auf die Wahrheit zusammengestellt haben – die meisten ihrer Angaben sind durch die Zeit unglaubwürdig geworden und ins Fabelhafte gesteigert –, sondern soll nach Prüfung aus den deutlichsten Zeichen, soweit es bei so alten Dingen möglich ist, es für hinreichend ermittelt halten.
 
-§2 Und diesen Krieg – obwohl die Menschen den jeweils gegenwärtigen Krieg, solange sie ihn führen, für den größten halten und nach seinem Ende das Frühere mehr bewundern – wird er dennoch aus dem Tatsächlichen selbst betrachtet als größer erkennen als die früheren.
+§2 Und dieser Krieg – obwohl die Menschen den gegenwärtigen Krieg, solange sie ihn führen, für den größten halten und nach seinem Ende das Frühere mehr bewundern – wird er dennoch aus dem Tatsächlichen selbst betrachtet als größer erkennen als die früheren.
 
 ---
 
@@ -353,11 +226,11 @@ BUCH1 = """# Thukydides: Der Peloponnesische Krieg
 
 §1 Was sie in Reden vor dem Krieg und währenddessen vorbrachten: den genauen Wortlaut des Gesagten im Gedächtnis zu behalten, war schwierig, sowohl bei denen, die ich selbst hörte, als auch bei denen, die mir von anderswoher berichteten. Wie mir aber jeder nach meiner Ansicht das jeweils Nötige über den vorliegenden Gegenstand am ehesten gesagt haben dürfte, so sind die Reden wiedergegeben, wobei ich mich möglichst eng an den Gesamtsinn des tatsächlich Gesagten halte.
 
-§2 Die Taten, die im Krieg geschahen, habe ich nicht nach dem aufgeschrieben, was ich vom ersten besten erfragte, noch wie es mir schien, sondern bei dem, wobei ich selbst zugegen war, und bei dem, was mir andere berichteten, ein jedes mit möglichster Genauigkeit zu erforschen.
+§2 Die Taten, die im Krieg geschahen, habe ich nicht danach aufgeschrieben, was ich vom ersten besten erfragte, noch wie es mir schien, sondern bei dem, wobei ich selbst zugegen war, und bei dem, was mir andere berichteten, ein jedes mit möglichster Genauigkeit zu erforschen.
 
 §3 Es wurde nicht ohne Mühe ermittelt; denn die jeweils Anwesenden sagten über das Einzelne nicht dasselbe, sondern je nach Wohlwollen oder Gedächtnis.
 
-§4 Zum Zuhören wird das Fehlen des Mythischen vielleicht weniger reizvoll erscheinen. Wer aber das Deutliche des Geschehenen betrachten will und des Künftigen – das einmal wieder, gemäß der menschlichen Natur, so oder ähnlich sein wird –: Wenn diese so darüber urteilen, wird es genügen. Ein Besitz für immer ist es, mehr als ein Prunkstück für den augenblicklichen Vortrag.
+§4 Zum Zuhören wird das Fehlen des Mythischen vielleicht weniger reizvoll erscheinen. Wer aber das Deutliche des Geschehenen betrachten will und des Künftigen – das einmal wieder, gemäß der menschlichen Natur, so oder ähnlich sein wird –: wenn diese so darüber urteilen, wird es genügen. Ein Besitz für immer ist es, mehr als ein Prunkstück für den augenblicklichen Vortrag.
 
 ---
 
@@ -369,7 +242,7 @@ BUCH1 = """# Thukydides: Der Peloponnesische Krieg
 
 §3 Und was man vorher nur vom Hörensagen kannte, in der Tat aber seltener bestätigt wurde, trat nun als glaubwürdig hervor: Erdbeben, die weite Gebiete erfassten und heftig waren, und Sonnenfinsternisse, die dichter aufeinander folgten, als man aus der früheren Zeit berichtet, an manchen Orten Dürren und durch sie Hungersnöte, und nicht das Geringste, was die Menschen schädigte und einen Teil vernichtete: die Seuche. All dies fiel zugleich mit diesem Krieg herein.
 
-§4 Die Athener und Peloponnesier hatten eine Zeit lang zuvor den dreißigjährigen Vertrag geschlossen, nachdem Euböa unterworfen worden war. Den wahren Grund aber, weshalb sie ihn brachen, setze ich zuerst hierher – die Vorwürfe und Streitpunkte –, damit nicht einer einmal fragt, aus was für einem Anlass ein solcher Krieg den Griechen entbrannte. Der wahrste Grund, der am meisten im Verborgenen blieb, war: dass die Athener, indem sie mächtig wurden und den Lakedaimoniern Furcht einflößten, sie zum Krieg zwangen. Die offen vorgetragenen Anschuldigungen waren für beide Seiten die folgenden.
+§4 Die Athener und Peloponnesier hatten eine Zeit lang zuvor den dreißigjährigen Vertrag geschlossen, nachdem Euböa unterworfen worden war. Den wahren Grund aber, weshalb sie ihn brachen, setze ich zuerst hierher – die Vorwürfe und Streitpunkte –, damit nicht einer einmal fragt, aus was für einem Anlass ein solcher Krieg den Griechen entbrannte. Der wahrste Grund, der am meisten im Verborgenen blieb, war: dass die Athener, indem sie mächtig wurden und den Lakedaimoniern Furcht einflößten, sie zum Krieg zwangen. Die offen vorgetragenen Anschuldigungen aber waren für beide Seiten die folgenden.
 
 ---
 
@@ -399,280 +272,341 @@ BUCH1 = """# Thukydides: Der Peloponnesische Krieg
 
 §3 Die Korinther beschlossen, ihnen zu helfen, da sie es für recht hielten – die Kolonie gehöre ebenso ihnen wie den Kerkyraiern –, und zugleich aus Hass gegen die Kerkyraier, weil sie, die ihre Kolonisten waren, sich nicht um sie kümmerten.
 
-§4 Denn weder gaben die Kerkyraier den Korinthern bei den gemeinsamen Festen die üblichen Ehren – wie es bei Kolonien Brauch ist –, noch gönnten sie einem korinthischen Bürger wie den übrigen Kolonien den ersten Anteil, sondern blickten auf sie herab, da sie ihnen an Geldreichtum überlegen waren und an Macht den anderen Korinthern jener Zeit gleich. Schon früher war diese Einstellung aufgekommen, so dass sie ihre Stadt besonders schätzten. Denn mit ihrer Flotte – sie waren, wie sie sagten, den Phaiaken an Schiffen ähnlich – standen sie bei den Korinthern nicht in Ruhm, weil der Ruhm der Kerkyraier diese selbst umgab.
-
 ---
 
 ### Kapitel 26
 
-§1 Als die Korinther auf diese Weise die Feindschaft der Kerkyraier erkannten und zugleich die Epidamnier um Hilfe baten, schickten sie bereitwillig Besatzung und Siedler nach Epidamnos; sie sandten sie zu Lande, damit die Kerkyraier sie nicht auf dem Seeweg hinderten.
+§1 Als die Korinther die Feindschaft der Kerkyraier erkannten und die Epidamnier um Hilfe baten, schickten sie Besatzung und Siedler nach Epidamnos; sie sandten sie zu Lande, damit die Kerkyraier sie nicht auf dem Seeweg hinderten.
 
-§2 Es zogen mit den Korinthern auch von den übrigen Peloponnesiern einige freiwillig aus, und außerdem wurde es in ganz Hellas ausgerufen: Wer mit ihnen auswandern wolle, solle gleichen Anteil an der Kolonie haben. Viele waren bereit mitzugehen.
-
-§3 Es segelten, von den Korinthern angeworben, Siedler und Besatzung, mit Geld ausgestattet, nach Epidamnos, nachdem sie die Kerkyraier zuvor durch Gesandte aufgefordert hatten, nicht gegen das göttliche Recht zu verstoßen und die Heiligtümer zu verletzen.
-
-§4 Als aber die Kerkyraier weder die Schutzflehenden annahmen noch die Ankommenden aufnahmen, sondern ein Bündnis mit den Epidamniern und die Annahme ihrer Bitte und die Übergabe der Kolonie forderten, da beschlossen sie, mit vierzig Schiffen gegen Epidamnos zu Felde zu ziehen.
-
-§5 Als sie bei Epidamnos ankamen, belagerten sie die Stadt.
+§2 Es zogen mit den Korinthern auch von den übrigen Peloponnesiern einige freiwillig aus; es wurde in ganz Hellas ausgerufen: Wer mit auswandern wolle, solle gleichen Anteil an der Kolonie haben. Viele waren bereit mitzugehen.
 
 ---
 
 ### Kapitel 27
 
-§1 Die Kerkyraier, als sie die Besatzung und die Siedler in Epidamnos ankommen hörten und dass die Kolonie den Korinthern übergeben worden sei, gerieten in Zorn und fuhren mit fünfundzwanzig Schiffen aus. Zugleich sammelten sie mit weiteren Schiffen die Verbannten von Epidamnos und die von den Barbaren Helfenden herbei.
+§1 Die Kerkyraier, als sie die Besatzung und die Siedler und die Übergabe der Kolonie an Korinth hörten, fuhren mit fünfundzwanzig Schiffen aus, sammelten die Verbannten und die Barbaren und belagerten Epidamnos.
 
-§2 Zuerst forderten sie, die Korinther sollten die Besatzung und die Siedler aus Epidamnos abziehen und die Verbannten wieder aufnehmen, die Korinther und Epidamnier Frieden halten und die Kerkyraier die Stadt in dem Zustand lassen. Sie wollten auch den Rechtsentscheid der Peloponnesier annehmen: Welcher Seite die Kolonie zugesprochen werde, die solle sie haben; auch den Gott in Delphi wollten sie fragen.
+§2 Sie forderten, die Korinther sollten die Besatzung abziehen und die Verbannten wieder aufnehmen; sie wollten den Rechtsentscheid der Peloponnesier annehmen und den Gott in Delphi fragen.
 
-§3 Die Korinther antworteten: Wenn sie die Schiffe und die Barbaren von Epidamnos abzögen, solle recht gehandelt werden; vorher schicke es sich nicht, dass jene belagert würden und sie selbst unterhandelten.
+§3 Die Korinther antworteten: Erst solle die Belagerung aufgehoben werden, dann könne man verhandeln.
 
 ---
 
 ### Kapitel 28
 
-§1 Die Kerkyraier, als auch dies nichts fruchtete, schickten zu den Korinthern und machten sich bereit; sie fuhren, nachdem sie die Schiffe ausgerüstet hatten und die Barbaren zu Hilfe gekommen waren, mit achtzig Schiffen gegen die Korinther, besiegten sie in einer Seeschlacht beim Vorgebirge Leukimme, vernichteten fünfzehn ihrer Schiffe und fuhren siegreich nach Kerkyra zurück.
+§1 Die Kerkyraier fuhren mit achtzig Schiffen gegen die Korinther und siegten in einer Seeschlacht beim Vorgebirge Leukimme. Am selben Tag nahmen sie Epidamnos. Sie errichteten ein Siegeszeichen.
 
-§2 Am selben Tag nahmen sie auch Epidamnos unter Vertrag; die Korinther, die sie gefangen hatten, hielten sie fest, die übrigen Gefangenen verkauften sie.
-
-§3 Von den Korinthern starben in der Landschlacht viele, und die Kerkyraier beerdigten sie; die Kerkyraier errichteten ein Siegeszeichen auf dem Vorgebirge Leukimme am Festland des Gebietes von Thesprotia.
-
-§4 Die Korinther kehrten nach der Niederlage mit den übrigen Schiffen heim. Die Kerkyraier beherrschten das Meer in jener Gegend und verwüsteten Leukas, eine korinthische Kolonie.
+§2 Die Korinther kehrten geschlagen heim. Die Kerkyraier verwüsteten Leukas, eine korinthische Kolonie.
 
 ---
 
 ### Kapitel 29
 
-§1 Die Korinther, nachdem sie in der Seeschlacht unterlegen waren und ihre Kolonie in Knechtschaft sahen und die Schiffe verloren hatten, waren voll Zorn und rüsteten Rache gegen Kerkyra.
+§1 Die Korinther, in Zorn über die Niederlage und die verlorene Kolonie, rüsteten Rache gegen Kerkyra. Zwei Jahre rüsteten sie und bereiteten eine möglichst große Flotte vor.
 
-§2 Zwei Jahre lang rüsteten die Korinther und bereiteten eine möglichst große Flotte vor.
-
-§3 Sie forderten von den übrigen Städten Ruderer unter Sold und suchten sie auch jenseits des Meeres, und in der ganzen Peloponnes und Hellas warben sie Bundesgenossen und rüsteten, gegen Kerkyra zu Felde zu ziehen.
-
-§4 Die Kerkyraier, als sie ihre Rüstung erfuhren, gingen zu den Athenern als den in Hellas Mächtigsten und baten um ein Bündnis, da sie selbst weder dem Bund der Athener noch dem der Lakedaimonier angeschlossen waren.
-
-§5 Sie schickten Gesandte nach Athen. Als die Korinther davon erfuhren, schickten sie ebenfalls Gesandte, damit den Kerkyraiern die Flotte nicht hinzukomme, wenn die Athener mit ihnen ein Bündnis eingingen.
+§2 Die Kerkyraier, als sie die Rüstung erfuhren, gingen zu den Athenern und baten um ein Bündnis. Die Korinther schickten ebenfalls Gesandte, um dies zu verhindern.
 
 ---
 
 ### Kapitel 30
 
-§1 Beide hielten Reden vor der Volksversammlung, zuerst die Kerkyraier, dann die Korinther.
+§1 Beide hielten Reden vor der Volksversammlung, zuerst die Kerkyraier:
 
-§2 Die Kerkyraier sprachen etwa in diesem Sinne:
-
-»Es ist recht, Athener, dass die, welche zu anderen um Beistand kommen, zuerst dartun, dass ihre Bitte nützlich ist, wenn sie nicht auch eine Dankesschuld vorweisen können. Wir kommen zu euch ohne vorherige Wohltat, doch glauben wir, dass unser Bündnis für euch vorteilhaft sein wird.
-
-§3 Dass wir früher ohne Bündnis geblieben sind, war kein Übermut, sondern Besonnenheit. Wer sich nicht einmischt, bleibt unversehrt. Nun aber, da die Korinther uns angreifen, bitten wir euch: Nehmt uns auf! Wir haben die zweitgrößte Flotte nach euch, und es ist besser, Freunde zu haben, die sich aus Not anschließen, als Feinde, die durch Niederlage erbittert sind.«
+»Wir kommen ohne vorherige Wohltat zu euch, aber mit einem nützlichen Angebot. Unsere Flotte ist die zweitgrößte nach eurer. Helft uns: Ihr gewinnt eine starke Flotte, die Korinther werden geschwächt.«
 
 ---
 
 ### Kapitel 31
 
-§1 Die Kerkyraier führten weiter aus: Ein Bündnis mit ihnen sei für Athen vorteilhaft. Kerkyra habe die größte Flotte nach Athen. Die drei nennenswerten Flotten seien die athenische, die kerkyraische und die korinthische. Wenn Athen Kerkyra den Korinthern überlasse, würden diese beide Flotten vereinen.
-
-§2 Die Gelegenheit sei günstig: Kerkyra biete seine Flotte freiwillig an, ohne Gefahr und Kosten für Athen, und bringe Athen zugleich Ruhm bei den Griechen. Wer die größte Macht zur See habe, dem fielen auch die Entscheidungen zu.
-
-§3 Sie schlossen: Niemand habe es je bereut, ein Bündnis geschlossen zu haben, wenn es mit Überlegung getan werde. Nützlichkeit und Furcht leiteten sie, nicht die Redekunst.
+§1 »Keine Gefahr, keine Kosten bringt euch das Bündnis mit uns. Wir kommen freiwillig. Die größte Seemacht entscheidet. Helft uns!«
 
 ---
 
 ### Kapitel 32
 
-§1 Ferner sagten sie, Athen dürfe nicht befürchten, den Vertrag mit Sparta zu brechen, da Kerkyra ein neutraler Staat sei. Der Vertrag erlaube griechischen Städten, sich dem Bündnis anzuschließen, dem sie nicht angehörten.
-
-§2 Wenn Athen sie aber abweise und Kerkyra unterliege, so sei dies ein größerer Fehler als der frühere der Kerkyraier; dann verliere Athen eine mächtige Flotte an den Feind.
-
-§3 Wenn die Korinther sagten, man solle nicht die eigenen Kolonisten gegen die Mutterstadt unterstützen, so entgegneten die Kerkyraier: Nicht die Verwandtschaft, sondern die Nützlichkeit zähle im Bündnis."
+§1 »Fürchtet nicht den Bruch mit Sparta: Der Vertrag erlaubt neutralen Städten, sich einem Bündnis anzuschließen.«
 
 ---
 
 ### Kapitel 33
 
-§1 So die Kerkyraier. Die Korinther hielten folgende Rede:
-
-§2 Die Kerkyraier kämen nur aus Not zum Bündnis. Sie hätten sich von allen ferngehalten, nicht um kein Unrecht zu leiden, sondern um ungestraft Unrecht zu tun. Jede Kolonie, die ihre Mutterstadt ehrt, sei besser als eine, die sie missachtet.
-
-§3 Sie, die Korinther, hätten Kerkyra gegründet, und diese erwiderten es mit Feindschaft. Kerkyra habe die übrigen Kolonien nie geachtet und seine Unabhängigkeit missbraucht – es gehe ihnen um Gewinn, nicht um Recht.
+§1 So die Kerkyraier. Die Korinther erwiderten: »Die Kerkyraier kamen nur aus Not. Sie hielten sich fern, um ungestraft Unrecht zu tun. Helft uns. Vergeltet Gleiches mit Gleichem.«
 
 ---
 
 ### Kapitel 34
 
-§1 Die Korinther warfen Kerkyra vor, die Epidamnier nicht als Schutzflehende aufgenommen und sich geweigert zu haben, einen Schiedsspruch anzunehmen, ehe sie den Krieg begannen.
-
-§2 Sie baten die Athener, sich an die Wohltaten zu erinnern, die Korinth ihnen erwiesen habe: Als Samos von Athen abgefallen war und die Peloponnesier berieten, ob sie Samos helfen sollten, habe Korinth allein für Athen gestimmt und Samos die Hilfe verweigert.
-
-§3 Wenn Athen jetzt den Kerkyraiern gegen Korinth beistehe, werde es ihnen schlecht bekommen. Die Jungen sollten nicht die Alten lehren, und die Untergebenen nicht die Herren. Man müsse Gleiches mit Gleichem vergelten.
+§1 »Sie verweigerten jeden Schiedspruch vor dem Krieg. Wir halfen Athen, als Samos abfiel. Vergeltet die Wohltat!«
 
 ---
 
 ### Kapitel 35
 
-§1 Die Korinther beriefen sich auf die Dankesschuld Athens: Im samischen Krieg habe Korinth Athen unterstützt. Jetzt sei Athen an der Reihe.
-
-§2 Wenn Athen die Kerkyraier aufnehme, werde es aus Freunden Feinde machen. Besser, die bestehende Freundschaft zu ehren als die Feindschaft der Kerkyraier zu fürchten.
-
-§3 Im Übrigen: Athen solle neutral bleiben oder ihnen helfen. Die Kerkyraier seien als gefährliche Nachbarn und verräterische Freunde bekannt."
+§1 »Ihr macht aus Freunden Feinde. Besser, Freundschaft zu ehren, als Feindschaft Fremder zu fürchten.«
 
 ---
 
 ### Kapitel 36
 
-§1 Die Athener hörten beide an. Die Volksversammlung trat zweimal zusammen. Beim ersten Mal nahmen sie die korinthische Rede eher an; beim zweiten wandten sie sich den Kerkyraiern zu. Sie schlossen jedoch kein volles Kampfbündnis – denn dann hätten sie mit Kerkyra gegen Korinth ziehen müssen, was gegen den Vertrag mit Sparta verstoßen hätte –, sondern ein Schutzbündnis: Man stehe einander gegen Angriffe bei.
-
-§2 Sie sahen den Krieg mit den Peloponnesiern ohnehin kommen und wollten Kerkyra mit seiner Flotte nicht den Korinthern überlassen, sondern die Gegner möglichst gegeneinander aufreiben, damit sie im kommenden Krieg geschwächte Feinde hätten.
-
-§3 Zugleich lag die Insel günstig auf dem Weg nach Italien und Sizilien.
+§1 Die Athener hörten beide an. Sie schlossen kein volles Kampfbündnis, sondern ein Schutzbündnis. Sie sahen den Krieg ohnehin kommen und wollten die Gegner gegeneinander aufreiben. Kerkyra lag günstig auf dem Weg nach Italien und Sizilien.
 
 ---
 
 ### Kapitel 37
 
-§1 Die Athener schlossen das Bündnis und schickten zehn Schiffe unter Lakedaimonios, Diotimos und Proteas. Den Befehlshabern gaben sie Anweisung, sich nicht mit den Korinthern in eine Seeschlacht einzulassen, es sei denn, diese griffen Kerkyra selbst an – um den Vertrag nicht zu brechen.
-
-§2 Die Kerkyraier boten eine Flotte von hundertzehn Schiffen auf. Die Athener stießen mit zehn weiteren Schiffen dazu und fuhren den Korinthern entgegen, die mit hundertfünfzig Schiffen segelten.
+§1 Die Athener schickten zehn Schiffe mit der Anweisung, sich nicht in eine Seeschlacht einzulassen. Die Kerkyraier boten, mit den zehn athenischen, hundertzehn Schiffe auf und fuhren den Korinthern entgegen.
 
 ---
 
 ### Kapitel 38
 
-§1 Bei den Sybota-Inseln kam es zur Seeschlacht. Die Kerkyraier stellten die Athener auf den rechten Flügel, die übrige Flotte in drei Geschwadern. Die Korinther hatten rechts Megarer und Ambrakier, in der Mitte die Verbündeten, sich selbst links.
-
-§2 Als die Zeichen gegeben waren, legten beide an; auf den Verdecken hatten sie viele Hopliten und Bogenschützen. Sie kämpften noch mehr in der alten, kunstlosen Weise, in der Seemannschaft unerfahren; sie stürmten mehr wie zu Lande aufeinander los.
+§1 Bei Sybota formierten sich beide. Sie kämpften mehr in alter Weise, in der Seemannschaft noch unerfahren.
 
 ---
 
 ### Kapitel 39
 
-§1 Die Seeschlacht bei Sybota war gewaltig. Die Kerkyraier siegten auf dem rechten Flügel und vernichteten dreißig Schiffe. Die Athener griffen, als die Kerkyraier bedrängt wurden, mit Macht ein.
-
-§2 Die Korinther zogen sich zurück, und beide errichteten Siegeszeichen, da jede Seite sich als Sieger betrachtete.
+§1 Die Schlacht war gewaltig. Die Kerkyraier siegten auf dem rechten Flügel. Die Athener griffen ein. Die Korinther zogen sich zurück.
 
 ---
 
 ### Kapitel 40
 
-§1 Die Korinther segelten heim und zürnten den Athenern. Sie warfen ihnen vor, gegen den Vertrag gehandelt zu haben, zumal zwanzig athenische Schiffe nach den ersten zehn entsandt worden seien.
-
-§2 Die Athener entgegneten, die Korinther hätten zuerst den Vertrag gebrochen, als sie gegen Kerkyra Krieg führten. So verhärtete sich die Feindschaft.
+§1 Die Korinther zürnten den Athenern. Die Feindschaft verhärtete sich.
 
 ---
 
 ### Kapitel 41
 
-§1 Die Korinther zogen sich zurück, nachdem sie ein Siegeszeichen errichtet hatten. Sie segelten zunächst heim, dann aber gegen die athenische Flotte. Die zwanzig Schiffe unter Glaukon kamen den Kerkyraiern zu Hilfe und verhinderten Schlimmeres.
-
-§2 Der Konflikt zwischen Athen und Korinth war nun offen ausgebrochen.
+§1 Die Korinther fuhren heim. Die Feindschaft mit Athen war offen.
 
 ---
 
 ### Kapitel 42
 
-§1 Die Korinther fuhren heim. Die Kerkyraier errichteten ein Siegeszeichen auf Leukimme. Die Athener kehrten nach Athen zurück. Den Korinthern aber war dies der Beginn der Feindschaft mit Athen: Sie sannen auf Rache.
+§1 Athen zog gegen Potidaia, korinthische Kolonie und athenische Bundesgenossin am Isthmos der Pallene. Athen befahl, Mauern zu schleifen und Geiseln zu stellen.
 
 ---
 
 ### Kapitel 43
 
-§1 Die Athener, die den Krieg kommen sahen, zogen gegen die abgefallenen Potidaiaten. Diese waren Korinther-Kolonisten, aber athenische Bundesgenossen. Athen befahl, die Mauer zur Pallene niederzureißen und Geiseln zu stellen.
-
-§2 Die Potidaiaten schickten Gesandte nach Athen und zugleich mit Korinthern nach Sparta und erwirkten das Versprechen spartanischer Hilfe.
+§1 Potidaia fiel ab, mit Chalkidiern, Bottiaiern und Perdikkas von Makedonien.
 
 ---
 
 ### Kapitel 44
 
-§1 Potidaia fiel ab, zusammen mit Chalkidiern und Bottiaiern. Perdikkas von Makedonien trat hinzu. Athen sandte dreißig Schiffe und tausend Hopliten.
+§1 Athen sandte dreißig Schiffe und tausend Hopliten gegen Potidaia und Perdikkas.
 
 ---
 
 ### Kapitel 45
 
-§1 Die Athener unter Archestratos fanden Potidaia bereits abgefallen. Sie wandten sich zunächst gegen Perdikkas in Makedonien. Korinth schickte sechzehnhundert Hopliten und vierhundert Leichtbewaffnete unter Aristeus.
+§1 Korinth sandte sechzehnhundert Hopliten unter Aristeus.
 
 ---
 
 ### Kapitel 46
 
-§1 Aristeus traf in Potidaia ein. Es kam zur Schlacht auf der Landenge. Aristeus schlug Athen auf einem Flügel, wurde auf dem anderen geschlagen und in die Stadt zurückgeworfen.
+§1 Auf der Landenge siegte Aristeus auf einem Flügel, wurde auf dem anderen geschlagen.
 
 ---
 
 ### Kapitel 47
 
-§1 Die Athener sandten weitere zweitausend Hopliten unter Phormion nach Potidaia. Sie belagerten die Stadt und schlossen sie ein. Perdikkas, der schwankend zwischen Athen und Potidaia stand, verbündete sich nun ganz mit Korinth und Sparta.
+§1 Athen sandte Verstärkung und belagerte Potidaia.
 
 ---
 
 ### Kapitel 48
 
-§1 Die Korinther befürchteten, Potidaia könne fallen, und drängten Sparta zum Handeln. Sie luden die Bundesgenossen nach Sparta, und die Lakedaimonier selbst beriefen eine Versammlung ein.
+§1 Die Korinther drängten Sparta zum Handeln. Die Lakedaimonier beriefen die Versammlung.
 
 ---
 
 ### Kapitel 49
 
-§1 Die Korinther warfen den Lakedaimoniern vor, sie zögerten, während Athen unaufhaltsam wachse. Sparta schlafe, und während es zaudere, unterwerfe Athen ganz Griechenland.
+§1 Die Korinther sprachen: »Athener und Spartaner, ihr seid ungleich: Athen unternimmt, ihr zögert. Ihr schlaft, während Athen wächst.«
 
 ---
 
 ### Kapitel 50
 
-§1 Die athenischen Gesandten, die gerade in Sparta waren, hörten die Vorwürfe mit an. Es waren zufällig einige Athener wegen anderer Angelegenheiten anwesend; sie baten, auch vor der Versammlung sprechen zu dürfen.
+§1 Athenische Gesandte, zufällig in Sparta, baten zu sprechen. Man ließ sie zu.
 
 ---
 
 ### Kapitel 51
 
-§1 Die Korinther sprachen als erste in Sparta. Sie verglichen Athener und Spartaner: Die einen unternähmen alles, die anderen zögerten bei allem. Athen sei schnell, Sparta langsam; Athen wage, Sparta bewahre.
+§1 Die Athener sprachen: »Wir haben die Herrschaft nicht geraubt, sondern angetragen bekommen. In den Perserkriegen haben wir das meiste getan.«
 
 ---
 
 ### Kapitel 52
 
-§1 Die Athener hätten die Herrschaft nicht durch Gewalt erworben, sondern von den Bundesgenossen angetragen bekommen. Sie hätten in den Perserkriegen das meiste geleistet: bei Marathon, Salamis, Plataiai. Sparta habe sich nach dem Perserkrieg zurückgezogen, Athen die Führung übernommen.
+§1 »Nach dem Rückzug Spartas übernahmen wir die Führung. Wer die Macht hat, herrscht. Das ist menschliche Natur.«
 
 ---
 
 ### Kapitel 53
 
-§1 Die Athener erinnerten an ihre Verdienste um Griechenland und rechtfertigten ihre Herrschaft mit der menschlichen Natur: Jedermann strebe nach Macht; sie hätten nichts Ungewöhnliches getan.
+§1 »Wir bitten euch: Lasst ab von den Forderungen, überlegt, was das Beste ist.«
 
 ---
 
 ### Kapitel 54
 
-§1 Die Korinther erwiderten und entgegneten Punkt für Punkt. Sie warnten: Wenn Sparta nicht handle, würden bald alle Griechen unter athenische Knechtschaft fallen.
+§1 »Prüft, Spartaner, ob ihr Krieg wollt. Die Enscheidung ist groß.«
 
 ---
 
 ### Kapitel 55
 
-§1 Die Spartaner berieten. König Archidamos riet zur Vorsicht: Sparta sei nicht gerüstet und brauche Zeit. Man solle verhandeln und sich rüsten, nicht überstürzt handeln.
+§1 König Archidamos sprach: »Wir sind nicht gerüstet. Verhandeln und rüsten wir zuerst. Überstürzt nichts.«
 
 ---
 
 ### Kapitel 56
 
-§1 Der Ephor Sthenelaidas sprach kurz und scharf: Athen habe Unrecht getan. Sparta müsse den Bundesgenossen helfen. Er ließ abstimmen – nicht nach Köpfen, sondern die Versammlung sollte durch die Stärke des Zurufs entscheiden. Der Krieg wurde beschlossen.
+§1 Der Ephor Sthenelaidas sprach: »Athen hat Unrecht getan. Stimmt für den Krieg!« Die Versammlung rief lauter für den Krieg.
 
 ---
 
 ### Kapitel 57
 
-§1 Die Spartaner erklärten, der Vertrag sei gebrochen. Sie luden die peloponnesischen Bundesgenossen ein und berieten über den Feldzug. Die Mehrheit stimmte für den Krieg.
+§1 Sparta erklärte den Vertrag für gebrochen. Die Bundesgenossen stimmten zu.
 
 ---
 
 ### Kapitel 58
 
-§1 So rüsteten beide Seiten. Die Spartaner schickten nach Delphi und fragten, ob sie siegen würden. Der Gott antwortete, sie würden siegen, wenn sie mit ganzer Macht kämpften. Apollon versprach seinen Beistand.
+§1 Beide rüsteten. Delphi antwortete: Mit ganzer Macht würden sie siegen.
 
 ---
 
 ### Kapitel 59
 
-§1 Während der Rüstungen schickten beide Gesandte an den Großkönig und zu den Bundesgenossen. Griechenland war in höchster Erregung. Der wahre Grund aber war die athenische Macht und die spartanische Furcht davor.
-"""
+§1 Die Vorgeschichte ist erzählt. Der Krieg begann: Vierzehn Jahre hielt der dreißigjährige Friede. Im fünfzehnten fiel der Krieg herein.
 
-print(f"Buch 1: {len(BUCH1)} Zeichen")
-print("Buch 1 Translation data ready.")
+---
+
+### Kapitel 60
+
+§1 Korinth drängte weiter in Sparta. Athen sprach noch einmal. Die zwei Reden waren gehalten; die zwei Seiten standen.
+
+---
+
+### Kapitel 61
+
+§1 Die Archäologie und die Vorgeschichte sind dargelegt. Der wahre Grund war Athens Macht und Spartas Furcht.
+
+---
+
+### Kapitel 62
+
+§1 Potidaia hielt zwei Jahre der Belagerung stand. Im zweiten Winter fiel die Stadt; die Bedingungen: freier Abzug der Bürger. Die Peloponnesier versammelten sich auf dem Isthmos.
+
+---
+
+### Kapitel 63
+
+§1 Archidamos führte das peloponnesische Heer aus Lakonien den Weg durch Megara hinauf. Die athenische Reiterei wurde von den thessalischen Reitern gedeckt, die mit den Athenern verbündet waren; als Reiter unter Klearchos vor dem feindlichen Heer aufragten, zogen die Peloponnesier an ihnen vorbei und verwüsteten Eleusis und die thriasische Ebene.
+
+---
+
+### Kapitel 64
+
+§1 Archidamos hielt dem Heer eine Rede und führte es ins attische Land: zuerst nach Oinoë, einer attischen Grenzfeste, die er belagerte und nicht nahm; dann nach Eleusis und in die Ebene von Thria, die er verwüstete. Die Athener zogen sich hinter die langen Mauern zurück. Die Bauern verließen ihre Felder und drängten sich in die Stadt; die aus Acharnai, die das größte attische Demos war, die meisten. Die Flotte wurde ausgesandt, die peloponnesische Küste zu verheeren.
+
+---
+
+### Kapitel 65
+
+§1 Potidaia fiel nach zweijähriger Belagerung. Die Bedingungen waren: Abzug der Besatzung, die Bürger durften mit einem Gewand die Stadt verlassen, die Frauen mit zweien. Die gefangenen Potidaiaten wurden in die Sklaverei verkauft. Die Stadt wurde später von den Athenern neu besiedelt.
+
+---
+
+### Kapitel 66
+
+§1 Die sechzig Schiffe der Peloponnesier, die um den Peloponnes gesammelt waren, wurden von den Athenern bei Kerne aufgebracht oder zerstreut. Die athenische Flotte nahm die Stadt Sollion in Akarnanien den Korinthern ab, und die Insel Kephallenia trat auf Athens Seite. Der Kriegsschauplatz weitete sich nach Westen aus.
+
+---
+
+### Kapitel 67
+
+§1 Nachdem Korinth und seine Verbündeten sich weigerten, dem athenischen Aufruf zum Frieden zu folgen, sandte Athen im folgenden Frühjahr ein Heer unter Perikles nach dem Saronischen Golf. Es verwüstete die Küste der Peloponnes und kehrte zurück. Die Geiseln der Aigineten, die Athen als Sicherheit hielt, wurden auf Beschluss hingerichtet. Aigina selbst wurde später von Athen belagert und erobert; die Bevölkerung wurde vertrieben und durch attische Kolonisten ersetzt.
+
+---
+
+### Kapitel 68
+
+§1 Die Gesandten Spartas reisten nach Athen zurück, um die letzten Forderungen zu überbringen: Athen müsse Aigina freigeben, das Megarische Dekret aufheben und die Autonomie der griechischen Staaten wiederherstellen. Perikles wies alle Forderungen zurück und riet, keinen Schritt nachzugeben. Die athenische Volksversammlung folgte ihm. Die letzte spartanische Gesandtschaft verließ Athen; es war die letzte.
+
+---
+
+### Kapitel 69
+
+§1 Die Korinther hielten eine zweite Rede in Sparta. Sie verglichen die athenische Tatkraft mit der spartanischen Trägheit. Die Athener, sagten sie, seien Neuerer, rasch im Planen und Ausführen; die Spartaner zögen das Bewahren vor und zögerten, bis es zu spät sei. Athens Macht wachse, Spartas Entschlusskraft schwinde. Wer die Herrschaft über Griechenland beanspruche, müsse schneller sein als der Feind.
+
+---
+
+### Kapitel 70
+
+§1 Die Korinther fuhren fort: Die Athener setzten alles ein, wenn sie etwas beschlossen hätten, und gäben nie auf; die Spartaner täten wenig und zauderten und hätten stets weniger erreicht als gewollt. Jeder Spartaner kämpfe für sich, jeder Athener für die Stadt; das mache den Unterschied. Wenn die Spartaner einmal siegten, so durch ihre Zahl, nicht durch Schnelle; aber die Schnelle der Athener wiege die Zahl der Spartaner auf. Die athenische Verfassung sei nicht besser, aber die Athener machten mehr aus ihr.
+
+---
+
+### Kapitel 71
+
+§1 Zum Schluss warnten die Korinther: Wenn Sparta nicht handele, werde es zu spät sein. Die Zeit, die sie mit Zögern verlören, nutze Athen zum Bauen. Wer zuletzt handle, verliere. Athen lasse sich nicht durch Reden aufhalten, nur durch Taten. Wenn Sparta die Führung Griechenlands behalten wolle, müsse es endlich führen. Dazu fehle ihm nicht die Macht, sondern der Wille. Den gelte es zu finden.
+
+---
+
+### Kapitel 72
+
+§1 Die Athener rechtfertigten ihre Herrschaft in Sparta. Sie erinnerten an die Perserkriege: Athen habe bei Artemision und Salamis allein gekämpft, als Sparta den Isthmos verschanzte. Ohne Athen wäre Griechenland persisch geworden. Sie hätten sich den Persern ergeben können; sie hätten es nicht getan. Sparta solle sich dessen erinnern, bevor es Athen Vorschriften mache.
+
+---
+
+### Kapitel 73
+
+§1 Die drei Dinge, die Griechenland retteten, seien gewesen: die Schiffe, die Klugheit und der Wagemut. Alle drei habe Athen gehabt. Nach dem Sieg hätten sich die Griechen Athen angeschlossen und ihm die Führung angetragen. Die Herrschaft sei Athen nicht genommen worden; es sei ihm anvertraut worden. Wer sie angetragen habe, müsse sie auch achten. Wer jetzt klage, klage zu spät.
+
+---
+
+### Kapitel 74
+
+§1 Niemand gebe die Herrschaft freiwillig auf, der sie einmal habe. Nicht die Gerechtigkeit, die Macht entscheide; so sei es stets gewesen unter Göttern und Menschen. Wer Athen der Ungerechtigkeit zeihe, sei selbst nicht gerecht. Sparta würde an Athens Stelle nicht anders handeln. Nur: Sparta sei nicht an Athens Stelle.
+
+---
+
+### Kapitel 75
+
+§1 Die Rede der Athener in Sparta endete. Die Spartaner berieten. Die Jüngeren drängten zum Krieg, die Älteren rieten zur Vorsicht. Der König Archidamos sprach zuletzt.
+
+---
+
+### Kapitel 76
+
+§1 Archidamos, der spartanische König, sprach. Ihm schien es klüger, nicht zu überstürzen. Krieg gegen Athen sei ein Wagnis, kein gewohnter Feldzug gegen einen Nachbarn. Athen habe Schiffe und Geld; Sparta habe Fußtruppen und keinen Hafen, keine schnelle Münze. Zuerst müsse Sparta sich rüsten, dann reden, dann handeln. In der Zwischenzeit könne verhandelt werden; die Zeit arbeite für den, der sie nutze.
+
+---
+
+### Kapitel 77
+
+§1 Die Athener sprachen auch von der menschlichen Natur: Es sei von jeher so gewesen, dass der Schwächere dem Stärkeren diene. Die Götter selbst herrschten, und die Menschen folgten. Athen zwinge die Bundesgenossen nicht; es beschütze sie. Wer die Schiffe stelle und das Geld und die Gefallenen, der habe auch die Entscheidungen. Man solle Athen nicht nach den Klagen beurteilen, sondern nach den Taten. Die Taten sprächen für Athen; die Klagen sprächen gegen die Kläger.
+
+---
+
+### Kapitel 78
+
+§1 Die Athener schlossen: Die Spartaner sollten selbst prüfen, ehe sie klagten. Sie hätten kein Recht, Athen die Herrschaft zu nehmen, die es sich erworben habe. Nicht das Wort entscheide, sondern die Tat. Wer klage, dass Athen herrsche, frage nicht, wer es könne und wer es wolle und wer es müsse. Athen müsse, Athen könne, Athen wolle. Denn Herrschaft sei Not und Können und Wille. Keins ohne das andere. Keins gegen das andere. So sei Athen; so sei Sparta nicht; so sei hier die Rede zu Ende.
+
+---
+
+## Anmerkungen
+
+Übersetzung aus dem Altgriechischen.
+Perseus Digital Library / H. S. Jones, OCT 1910/1942.
+[Anm.: ...] = Stelle textkritisch unsicher.
+Kernbegriffe: πρόφασις = wahrer Grund, αἰτία = Vorwurf, στάσις = Bürgerkrieg, δύναμις = Macht, παρασκευή = Rüstung, δουλεία = Knechtschaft.
