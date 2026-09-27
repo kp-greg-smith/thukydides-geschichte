@@ -1413,20 +1413,33 @@
 
 ### Kapitel 119
 
-§1 So zogen die Peloponnesier gen Athen. Die ersten Schiffe stachen in See. Die ersten Schlachtreihen standen. Der Archidamische Krieg hub an.
-
+§1 Und wieder riefen sie die Bundesgenossen auf und wollten die Abstimmung darüber herbeiführen, ob man Krieg führen solle. Und als die Gesandten aus dem Bund gekommen waren und die Versammlung zustande gekommen war, sagten die anderen, was sie wollten — die meisten klagten gegen die Athener und forderten den Krieg. Und die Korinther, zuvor die einzelnen Städte herbeigeholt habend, damit sie für den Krieg stimmten, traten zuletzt auf und sprachen Folgendermaßen.
 ---
 
 ### Kapitel 120
 
-§1 Die Bündnisse standen fest. Athen und die Inseln gegen Sparta und den Bund. Kein Gott und kein Mensch konnte sie mehr trennen. Was kommen sollte, war vorgezeichnet in dem, was gewesen war.
+§1 »Die Lakedaimonier, ihr Bundesgenossen, werden wir nicht mehr beschuldigen: Sie haben selbst für den Krieg gestimmt und uns jetzt hierzu versammelt. Es ist nämlich für die Führer richtig, das Eigene gleichmäßig zu verteilen und sich um das Gemeinsame zu kümmern — wie sie auch in allem anderen vor allen ausgezeichnet sind.
 
+§2 Von uns aber bedürfen die, welche schon mit den Athenern verkehrt haben, keiner Lehre, sich vor ihnen zu hüten; die aber, die mehr im Binnenland und nicht an der Meerenge wohnen, sollen wissen: Wenn sie denen am Meer nicht beistehen, werden sie die Heranschaffung der Früchte schwieriger haben und den Zugang zu dem verlieren, was das Meer dem Festland gibt; und die, welche so reden, soll man nicht für schlechte Richter halten, weil sie nicht betroffen sind —
+
+§3 deshalb sollen sie auch nicht zögern, den Krieg an die Stelle des Friedens zu setzen. Besonnene Männer ruhig zu halten, wenn man kein Unrecht erleidet — das eine; brave Männer aber, wenn man Unrecht erleidet, aus dem Frieden den Krieg zu machen und danach wieder gut übereinzukommen — das andere; und man soll sich weder im Kriegsglück überheben noch am stillen Frieden Gefallen finden, wenn man Unrecht leidet.
+
+§4 Denn der aus Gefälligkeit Zögernde wird am schnellsten des Angenehmen beraubt, um dessentwillen er zögert — wenn er stillhält; und der im Kriegsglück Übermaßende hat nicht bedacht, dass er sich auf unglaubwürdiger Verwegenheit erhebt.
+
+§5 Vieles, schlecht beraten, ist den Gegnern, die es trafen, gut ausgegangen; und noch mehr, gut beraten scheinend, ist ins Gegenteil schimpflich umgeschlagen. Denn keiner bedenkt dasselbe in gleicher Weise, wie er es ausführt: In Sicherheit meinen wir es richtig, mit Furcht fehlt es uns im Werk.
 ---
 
 ### Kapitel 121
 
-§1 Die Korinther riefen die Bundesgenossen auf, jeder nach seinen Kräften zu rüsten. Sie versprachen den Spartanern, dass sie mit Geld und Schiffen helfen würden. Die Zeit der Entscheidung war da. Jeder musste wählen, auf welcher Seite er stehen wolle.
+§1 Wir aber erheben jetzt, Unrecht erleidend, den Krieg — mit hinreichenden Beschuldigungen; und wenn wir uns gegen die Athener wehren, werden wir ihn zur rechten Zeit niederlegen.
 
+§2 Aus vielem ist es uns wahrscheinlich, die Oberhand zu behalten: Erstens, weil wir an Menge und Kriegserfahrung voranstehen; zweitens, weil wir alle gleichmäßig dem Befehl gehorchen;
+
+§3 Die Flotte aber, mit der sie stark sind, werden wir aus dem vorhandenen Besitztum eines jeden und aus dem Geld in Delphi und Olympia rüsten. Denn wenn wir es als Darlehen nehmen, können wir ihre eigenen Ruderer mit größerem Sold an uns ziehen: Die Macht der Athener ist mehr gepachtert als eigen; die unsrige aber würde das weniger erleiden, da sie mehr auf die Körper als auf das Geld gestützt ist.
+
+§4 Mit einem Sieg zur See werden sie voraussichtlich fallen; wenn sie aber widerstehen, werden auch wir in längerer Zeit die Seekunst lernen; und wenn wir das Können auf gleiche Stufe gebracht haben, werden wir ihnen an Verwegenheit überlegen sein. Denn das Gute, das wir von Natur haben, könnte ihnen durch Lehre nicht zuteilwerden; das aber, worin sie durch Können voranstehen, ist von uns durch Übung niederzuringen.
+
+§5 Das Geld aber, es zu haben, werden wir herschaffen. Und es wäre schrecklich, wenn deren Bundesgenossen, es bringend zu ihrer eigenen Versklavung, es nicht versagten — wir aber es nicht aufwendeten: wir, die wir die Feinde bestrafen und zugleich uns selbst retten! Und nicht sollen wir das Geld von ihnen wegnehmen lassen, um mit demselben Schaden zu erleiden.
 ---
 
 ### Kapitel 122
