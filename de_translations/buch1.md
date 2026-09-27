@@ -954,55 +954,115 @@
 
 ### Kapitel 79
 
-§1 Archidamos, der spartanische König, sprach: »Ich rate zur Vorsicht. Krieg gegen Athen ist nicht leicht. Athen ist mächtig zu Land und zur See. Wir müssen Zeit gewinnen, uns rüsten, Bundesgenossen werben. Lasst uns erst verhandeln, dann handeln.«
+§1 So sprachen die Athener. Als die Lakedaimonier aber die Beschuldigungen der Bundesgenossen gegen die Athener und die Worte der Athener gehört hatten, zogen sie sich alle zurück und berieten für sich über die gegenwärtigen Dinge.
+
+§2 Und die Meinungen der meisten trugen dahin, dass die Athener schon Unrecht begingen und man schleunigst Krieg führen müsse. Da trat auf Archidamos, ihr König — ein Mann, der als einsichtig und besonnen galt —, und sprach Folgendes.
 
 ---
 
 ### Kapitel 80
 
-§1 »Wir haben keine Schiffe, Athen hat viele. Wir haben kein Geld, Athen hat beides. Krieg gegen eine Seemacht ist ein Neuland für uns. Wir müssen die Kunst des Seekriegs erst lernen.«
+§1 »Ich selbst bin vieler Kriege schon erfahren, ihr Lakedaimonier, und sehe die euren im selben Lebensalter — sodass ich weder aus Unerfahrenheit mir etwas von der Sache verspreche — was den meisten widerfährt —, noch sie für gut und sicher halte.
+
+§2 Ihr würdet finden: Das, worüber ihr jetzt beratet, ist nicht das Geringste — wenn einer es besonnen überdenkt.
+
+§3 Gegen Peloponnesier und Nachbarstädte ist unsere Abwehr gleichartig, und es ist möglich, in kurzem an jeden Ort zu kommen; gegen Männer aber, die weit entfernte Lande haben und überdies seekundig sind und in allem übrigen am besten ausgerüstet sind — an Reichtum, privatem wie öffentlichem, an Schiffen und Reitern und Waffen und Volksmenge, wie sie in keinem anderen einzelnen griechischen Gebiet ist —, und die überdies viele tributpflichtige Bundesgenossen haben: Wie soll man gegen die leichtfertig Krieg aufnehmen, und mit welchem Vertrauen unvorbereitet schleunigst hineinrennen?
+
+§4 Mit den Schiffen etwa? Wir sind ihnen unterlegen. Und wenn wir es erlernen und Gegenrüstung machen, wird Zeit hineingehen. Mit dem Geld aber? Wir stehen noch viel weiter dahinter zurück; und wir haben es weder in der gemeinsamen Kasse, noch bringt es einer bereitwillig aus dem eigenen.«
 
 ---
 
 ### Kapitel 81
 
-§1 »Spartaner, ihr seid zu gutmütig. Eure Bundesgenossen fürchten euch nicht; sie lieben euch. Die athenischen Bundesgenossen lieben Athen nicht; sie fürchten es. Furcht hält fester als Liebe.«
+§1 »Vielleicht könnte einer Mut fassen, weil wir ihnen an Waffen und Menge überlegen sind, sodass wir, in ihr Land einfallend, es verwüsten könnten.
+
+§2 Die aber haben viel Land, über das sie herrschen, und werden von See her herbeischaffen, was sie brauchen.
+
+§3 Wenn wir aber versuchen, die Bundesgenossen zum Abfall zu bringen, werden wir auch diesen mit Schiffen helfen müssen — zum größten Teil sind es Inselbewohner.
+
+§4 Was also wird unser Krieg sein? Denn wenn wir nicht entweder mit Schiffen siegen oder die Einkünfte wegnehmen, aus denen sie ihre Flotte speisen, werden wir das meiste Schaden nehmen.
+
+§5 Und dabei ist es nicht einmal ehrenvoll, sich zu ergeben — zumal wenn es scheint, dass wir mehr den Streit begonnen haben.
+
+§6 Erheben wir uns also nicht mit der Hoffnung, der Krieg werde schnell aufhören, wenn wir ihr Land verwüsten. Ich fürchte vielmehr, dass wir ihn eher noch den Kindern hinterlassen. So ist es bei den Athenern wahrscheinlich: Aus Stolz werden sie weder dem Land untertan werden noch wie Unerfahrene vor dem Krieg zurückschrecken.«
 
 ---
 
 ### Kapitel 82
 
-§1 »Die Langsamkeit ist spartanische Art. Lieber überlegen als überstürzen. Lieber langsam siegen als schnell verlieren. So haben es die Väter gehalten; so sollen es die Söhne tun.«
+§1 »Nicht aber empfehle ich, unempfindlich zuzusehen, wie unsere Bundesgenossen geschädigt und Nachstellungen gegen uns geplant werden — sondern: die Waffe jetzt noch nicht zu ergreifen, sondern Gesandte zu schicken und Beschwerde zu führen; den Krieg weder allzu deutlich zeigend noch als ob wir alles dulden würden. Und dabei das Unsre für sie auszurüsten — durch Herbeiführung von Bundesgenossen, griechischen wie barbarischen —, woher immer wir eine Kraft an Schiffen oder Geld aufnehmen werden. Denn unverwerflich ist es, wenn die — wie wir — von den Athenern Bedrohten nicht nur Griechen, sondern auch Barbaren heranziehen.
+
+§2 Gehorchen sie uns, wenn wir Gesandte schicken, ist das das Beste. Wenn nicht, werden wir — wenn zwei oder drei Jahre vergangen sind, wenn es richtig scheint — besser gerüstet gegen sie losziehen.
+
+§3 Und vielleicht werden sie, wenn sie unsere Rüstung und die ihr entsprechenden Worte andeutend sehen, eher nachgeben — ihr Land noch unbeschnitten und über gegenwärtige, noch unzerstörte Güter verfügend.
+
+§4 Ihr sollt nämlich ihr Land nicht anders ansehen denn als ein Pfand — umso mehr, als es am besten bewacht ist: Sein soll man schonen, so weit es geht, und sie nicht, indem man sie bis zum Äußersten treibt, unzugänglicher machen.
+
+§5 Wenn wir nämlich — unvorbereitet wegen der Beschwerden der Bundesgenossen — schleunigst ihr Land verwüsten, dann seht zu, dass wir der Peloponnes nicht Schimpflicheres und Schwereres antun.
+
+§6 Beschwerden nämlich können sowohl Städte als auch Einzelne beilegen; den Krieg aber, den man insgesamt unternommen hat um des Eigenen willen — und es steht nicht zu, zu wissen, wie er ausgehen wird —, den ist es nicht leicht, ehrenvoll einzustellen.«
 
 ---
 
 ### Kapitel 83
 
-§1 »Die Klugheit rät zum Warten. Die Bundesgenossen drängen – das ist natürlich. Aber ihr müsst für sie denken, nicht sie für euch. Eilt nicht in den Krieg; der Krieg eilt schon genug, wenn er kommt.«
+§1 »Und als Feigheit soll es keinem gelten, wenn viele einer einzelnen Stadt nicht schleunigst zuziehen.
+
+§2 Denn auch jene haben nicht weniger Bundesgenossen, die Geld beisteuern; und der Krieg entscheidet sich nicht am meisten durch die Waffen, sondern durch die Aufwendungen, durch die die Waffen nützen — zumal für Festlandbewohner gegen Seebewohner.
+
+§3 Wir wollen also zuerst die Mittel beschaffen und uns nicht durch die Worte der Bundesgenossen vorher aufreiben. Wir werden — wer immer am Ausgang die meiste Schuld tragen wird, beiden gegenüber — auch im Stillen am meisten über sie voraussehen.«
 
 ---
 
 ### Kapitel 84
 
-§1 »Spartaner, eure Erziehung hat euch langsam gemacht; sie hat euch aber auch stark gemacht. Die Besonnenheit ist die beste Bundesgenossin im Krieg. Wer sich nicht überstürzt, hat schon halb gesiegt.«
+§1 »Und der Langsamkeit und des Zögerns, das man uns am meisten vorwirft, schämt euch nicht: Eilet ihr nämlich, würdet ihr eher aufhören müssen, weil ihr unvorbereitet zugreift, und zugleich behaltet ihr eine freie und hochangesehenste Stadt für immer.
+
+§2 Die kluge Besonnenheit ist die nützlichste Einsicht: Nur wir überheben uns durch sie beim Gelingen nicht und weichen im Unglück weniger als andere. Und durch den Beifall derer, die uns über unsere Meinung hinaus zu den gefährlichen Dingen treiben, lassen wir uns nicht gefällig hinreißen; und wenn einer mit Anklage aufreizt, lassen wir uns, nicht etwa erboster, überzeugen.
+
+§3 Kriegstüchtig und wohlberaten werden wir durch die gute Ordnung — jenes, weil die Ehrfurcht am meisten an der Besonnenheit Anteil hat und die Ehrfurcht die Tapferkeit; wohlberaten, weil wir in den Gesetzen, strenger erzogen, besonnener sind, als eigenmächtig zu sein, und nicht, übermäßig klug, mit Worten die Rüstungen der Feinde schön zu tadeln, im Werk aber ungleich nachzustehen; sondern die Gesinnungen der anderen für ähnlich und die Widerfahrnisse für unentscheidbar haltend.
+
+§4 Immer aber rüsten wir im Werk, als ständen wohlberatende Gegner gegen uns; und nicht auf deren Verfehlen sollen wir die Hoffnungen setzen, sondern auf unsere eigene sichere Vorsorge. Und man soll nicht meinen, der eine Mensch unterscheide sich viel vom anderen; der beste ist, wer in dem Notwendigsten erzogen ist.«
 
 ---
 
 ### Kapitel 85
 
-§1 »Ich rate: Lasst uns Gesandte nach Athen schicken. Bitten wir sie, den Forderungen zu entsprechen. Wenn sie es tun, ist der Krieg vermieden. Wenn nicht, dann haben wir Zeit gewonnen.«
+§1 »Diese Übungen also, die uns die Väter übergeben haben und die uns durchgehend nützen, lasst uns nicht aufgeben — und nicht in einem kurzen Teil eines Tages über viele Leiber und Gelder und Städte und Ruhm schleunigst beraten, sondern in Ruhe. Uns ist es, mehr als anderen, durch Stärke möglich.
+
+§2 Und sendet gegen die Athener wegen Potidaias und sendet wegen der Dinge, deretwegen die Bundesgenossen Unrecht zu erleiden behaupten — zumal sie bereit sind, Gericht zu stehen. Gegen den, der es gibt, geht man nicht eher zu wie gegen einen Unrecht Tuenden. Rüstet aber zugleich den Krieg. Denn so werdet ihr am besten beraten und den Gegnern am furchtbarsten sein.«
+
+§3 So sprach Archidamos. Es trat aber zuletzt auf Sthenelaidas, einer der damaligen Ephoren, und sprach Folgendermaßen.
 
 ---
 
 ### Kapitel 86
 
-§1 Der Ephor Sthenelaidas sprach dagegen: »Reden ist schön, handeln ist besser. Athen hat Unrecht getan. Der Vertrag ist gebrochen. Kein Zögern mehr! Stimmt für den Krieg!«
+§1 »Das viele Gerede der Athener verstehe ich nicht. Sie haben sich vieles selbst gelobt und nirgends bestritten, dass sie unseren Bundesgenossen und der Peloponnes Unrecht tun. Wenn sie aber damals gegen den Meder gut waren und jetzt gegen uns schlecht sind, so verdienen sie doppelte Strafe — weil sie statt Guten schlecht geworden sind.
+
+§2 Wir aber sind damals und jetzt gleich; und wenn wir besonnen sind, werden wir die Bundesgenossen, wenn sie Unrecht leiden, nicht übersehen und nicht zögern, uns zu rächen. Die Athener aber tun schon Unrecht — sie warten nicht mehr.
+
+§3 Anderen ist viel Geld und Schiffe und Reiter; uns aber sind gute Bundesgenossen — die darf man den Athenern nicht überlassen und nicht durch Gerichte und Worte scheiden, sie selbst Unrecht leidend, sondern man muss sich schleunigst rächen mit ganzer Kraft.
+
+§4 Und wie es uns zusteht, als Unrecht-Leidende zu beraten — das soll uns niemand lehren; sondern die, die Unrecht tun wollen, müssen erst recht lange beraten.
+
+§5 Stimmt also ab, ihr Lakedaimonier, der Würde Spartas entsprechend für den Krieg, und lasst die Athener nicht größer werden und die Bundesgenossen nicht verraten, sondern lasst uns mit den Göttern gegen die Unrecht Tuenden losziehen.«
 
 ---
 
 ### Kapitel 87
 
-§1 So sprach Sthenelaidas, und die Versammlung stimmte ab. Nicht durch Stimmsteine – die Spartaner rufen –, sondern durch die Stärke des Zurufs. Der Zuruf für den Krieg war stärker. Der Krieg war beschlossen.
+§1 So sprechend stimmte er — als Ephor — in der Versammlung der Lakedaimonier ab.
+
+§2 Diese aber urteilen mit Zuruf und nicht mit dem Stimmstein. Und da er sagte, er könne nicht erkennen, welcher Zuruf der größere sei, wollte er sie, damit sie die Meinung offen zeigend mehr zum Krieg trieben, sagen lassen: »Wer von euch, ihr Lakedaimonier, glaubt, dass die Verträge gebrochen sind und die Athener Unrecht tun, der stehe auf an jenen Ort« — er zeigte ihnen einen Ort —, »wer aber glaubt, dass nicht, gehe auf die andere Seite.« Und sie standen auf und teilten sich,
+
+§3 und es waren viel mehr, denen die Verträge gebrochen schienen.
+
+§4 Und sie riefen die Bundesgenossen und sagten, dass ihnen die Athener Unrecht zu tun schienen; sie wollten aber, dass auch die Bundesgenossen herbeigerufen abstimmen, damit sie gemeinsam beratend den Krieg führen, wenn es richtig scheint.
+
+§5 Und die gingen nach Hause, nachdem sie dies vollbracht hatten, und die athenischen Gesandten später, nachdem sie ausgerichtet hatte, weswegen sie gekommen waren.
+
+§6 Und dieser Beschluss der Versammlung, dass die Verträge gebrochen seien, geschah im vierzehnten Jahr der dreißigjährigen Verträge, die nach dem Euböischen geschlossen worden waren.
 
 ---
 
