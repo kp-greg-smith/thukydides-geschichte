@@ -1184,25 +1184,43 @@
 
 ### Kapitel 98
 
-§1 Die erste Stadt, die unterworfen wurde, war Naxos. Sie fiel ab; Athen belagerte und unterwarf sie. So wurde aus Bundesgenossen Untertanen. Es folgten Thasos und andere.
+§1 Zuerst nahmen sie mit Belagerung Eion am Strymon, das die Meder hielten, und versklavten es — unter der Führung Kimons, Sohn des Miltiades.
+
+§2 Danach die Insel Skyros im Ägäischen Meer, die Dolopes bewohnten: Sie versklavten sie und besiedelten sie selbst.
+
+§3 Gegen die Karystier entstand ihnen Krieg ohne die übrigen Euböer, und mit der Zeit unterwarfen sie sich nach Übereinkunft.
+
+§4 Den danach abgefallenen Naxiern führten sie Krieg und stellten sich mit Belagerung auf. Das war die erste verbündete Stadt, die gegen das Bestehende versklavt wurde; danach erging es den anderen jeweils, wie es traf.
 
 ---
 
 ### Kapitel 99
 
-§1 Die Ursache, dass die Bundesgenossen zu Untertanen wurden: Sie verweigerten den Kriegsdienst oder fielen ab. Daraus erwuchs den Athenern die Macht. Sie fürchteten die Abtrünnigen und unterwarfen sie nach und nach.
+§1 Und andere Ursachen der Abfälle waren da; die größten aber waren die Tribute und die Schiffsaushebungen und das Fernbleiben vom Feldzug, wenn es einem widerfuhr. Denn die Athener verfuhren genau und waren lästig, den Ungeübten und Unwilligen die Notwendigkeiten aufdrängend.
+
+§2 Und aus anderen Gründen herrschten die Athener nicht mehr gleich angenehm; und den Bundesgenossen, die nicht mehr von gleicher Stufe mitzogen, war es leicht, sich zum Abfall treiben zu lassen.
+
+§3 Selbst schuld daran waren die Bundesgenossen: Aus Abneigung gegen die Feldzüge bestimmten die meisten, um nicht von Hause wegzugehen, an Stelle der Schiffe Geld, das die aufkommenden Kosten trage; und so wuchs den Athenern die Flotte aus der Ausgabe, die jene beisteuerten — sie selbst aber wurden, wenn sie abfielen, unvorbereitet und unerfahren in den Krieg gebracht.
 
 ---
 
 ### Kapitel 100
 
-§1 Thasos fiel ab. Die Athener belagerten die Insel und unterwarfen sie. Die Thasier riefen Sparta zu Hilfe; Sparta versprach Hilfe, kam aber nicht wegen des Erdbebens und des Helotenaufstands. Die Thasier kapitulierten nach drei Jahren.
+§1 Nach diesen Dingen geschah auch der Kampf am Fluss Eurymedon in Pamphylien, zu Lande und zur See, Athener und Bundesgenossen gegen Meder. Und sie siegten am selben Tag in beiden — Athener unter der Führung Kimons, Sohn des Miltiades — und nahmen phönikische Trieren und zerstörten alle zusammen zweihundert.
+
+§2 Später fielen die Thasier ab, weil sie sich mit den Athenern über die Handelsplätze am gegenüberliegenden Thrakien und das Bergwerk, das sie dort nutzten, entzweit hatten. Mit Schiffen gegen Thasos fahrend siegten die Athener in der Seeschlacht und gingen ins Land,
+
+§3 Und zum Strymon sandten sie zehntausend Ansiedler der eigenen und der Bundesgenossen, um das damals sogenannte Ennea Hodoi — Neun Wege —, jetzt Amphipolis, zu besiedeln; Ennea Hodoi selbst eroberten sie, das die Edoner hielten. Weiter ins Binnenland Thrakiens vordringend wurden sie in Drabeskos im edonischen Gebiet von allen Thrakern vernichtet, denen das Gebiet feindselig war.
 
 ---
 
 ### Kapitel 101
 
-§1 Sparta bat Athen um Hilfe gegen Ithome. Kimon führte athenische Hopliten nach Messenien. Die Spartaner fürchteten die athenische Kühnheit und schickten sie zurück. Das war der erste Bruch zwischen Athen und Sparta.
+§1 Die Thasier aber, in der Schlacht besiegt und belagert, riefen die Lakedaimonier und baten sie, in Attika einzubrechen und beizustehen.
+
+§2 Die sagten den Athenern gegenüber heimlich zu und waren im Begriff — wurden aber verhindert durch das Erdbeben, bei dem auch die Heloten und von den Periöken die Thuriater und Aithaier nach Ithome abfielen. Die meisten der Heloten waren Abkömmlinge der alten Messenier, die damals versklavt worden waren; deshalb wurden alle »Messenier« genannt.
+
+§3 Also stand den Lakedaimoniern der Krieg gegen die in Ithome bevor. Die Thasier aber kamen im dritten Jahr, belagert, mit den Athenern überein: die Mauer niederzureißen und die Schiffe zu übergeben, sofort eine bestimmte Summe Geldes festsetzend zu zahlen und das Übrige fortan zu entrichten — und das Festland und das Bergwerk aufgebend.
 
 ---
 
