@@ -1163,3 +1163,279 @@ Prüfliste: 71.1, 71.2, 71.3, 71.4, 71.5, 71.6, 71.7, 72.1, 72.2, 73.1, 73.2, 73
 Alle 24 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 71 --end 80`: 43/43 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Kapitel 81–90
+
+Geprüft: **42 Abschnitte**; geändert: **29 Abschnitte**.
+
+Prüfliste: 81.1, 81.2, 81.3, 81.4, 81.5, 81.6, 82.1, 82.2, 82.3, 82.4, 82.5, 82.6, 83.1, 83.2, 83.3, 84.1, 84.2, 84.3, 84.4, 85.1, 85.2, 85.3, 86.1, 86.2, 86.3, 86.4, 86.5, 87.1, 87.2, 87.3, 87.4, 87.5, 87.6, 88.1, 89.1, 89.2, 89.3, 90.1, 90.2, 90.3, 90.4, 90.5.
+
+### 81.2 · Änderung 1
+
+- Griechisch: ἄλλη γῆ … πολλή
+- Alt: haben viel Land
+- Neu: haben viel anderes Land
+- Begründung: Der Gegensatz zum verwüsteten attischen Land war ausgelassen.
+
+### 81.4 · Änderung 2
+
+- Griechisch: βλαψόμεθα τὰ πλείω
+- Alt: werden wir das meiste Schaden nehmen
+- Neu: werden wir den größeren Schaden erleiden
+- Begründung: Grammatik und komparative Bedeutung berichtigt.
+
+### 81.5 · Änderung 3
+
+- Griechisch: καταλύεσθαι … ἄρξαι μᾶλλον τῆς διαφορᾶς
+- Alt: ist es nicht einmal ehrenvoll, sich zu ergeben — zumal wenn es scheint, dass wir mehr den Streit begonnen haben
+- Neu: wäre es nicht einmal ehrenvoll, den Krieg zu beenden — zumal wenn es scheint, dass eher wir den Streit begonnen haben
+- Begründung: Beendigung des Krieges ist keine Kapitulation; μᾶλλον betrifft die Zurechnung des Kriegsbeginns.
+
+### 82.1 · Änderung 4
+
+- Griechisch: μήτε πόλεμον ἄγαν δηλοῦντας μήθ’ ὡς ἐπιτρέψομεν
+- Alt: den Krieg weder allzu deutlich zeigend noch als ob wir alles dulden würden
+- Neu: dabei weder allzu deutlich den Krieg anzukündigen noch den Eindruck zu erwecken, dass wir alles dulden würden
+- Begründung: Unverbundene Satzteile grammatisch gefasst.
+
+### 82.1 · Änderung 5
+
+- Griechisch: εἴ ποθέν τινα ἢ ναυτικοῦ ἢ χρημάτων δύναμιν προσληψόμεθα
+- Alt: woher immer wir eine Macht an Schiffen oder Geld aufnehmen werden
+- Neu: um zu sehen, ob wir irgendwo unsere Macht durch eine Flotte oder Mittel verstärken können
+- Begründung: Offene Möglichkeit und Zweck statt sicherer Gewinnung; χρήματα nach Glossar.
+
+### 82.3 · Änderung 6
+
+- Griechisch: τήν τε παρασκευὴν καὶ τοὺς λόγους αὐτῇ ὁμοῖα ὑποσημαίνοντας
+- Alt: unsere Rüstung und die ihr entsprechenden Worte andeutend sehen
+- Neu: unsere Rüstung sehen und unsere Worte dieselbe Entschlossenheit erkennen lassen
+- Begründung: ὑποσημαίνοντας bezieht sich auf die Worte; „andeutend sehen“ war unverständlich.
+
+### 82.4 · Änderung 7
+
+- Griechisch: ἧς φείδεσθαι χρὴ … μὴ … ἀληπτοτέρους ἔχειν
+- Alt: es soll geschont werden, so weit es geht, und sie nicht, indem man sie bis zum Äußersten treibt, unzugänglicher machen
+- Neu: man muss es so weit wie möglich schonen und darf sie nicht dadurch, dass man sie zur Verzweiflung treibt, noch schwerer bezwingbar machen
+- Begründung: Fehlendes Subjekt und Modalverb berichtigt; ἀληπτοτέρους meint schwerer zu bezwingen.
+
+### 82.6 · Änderung 8
+
+- Griechisch: ἐγκλήματα … καὶ πόλεων καὶ ἰδιωτῶν … ξύμπαντας … ἕνεκα τῶν ἰδίων
+- Alt: Beschuldigungen nämlich können sowohl Städte als auch Einzelne beilegen; den Krieg aber, den man insgesamt unternommen hat um des Eigenen willen — und es steht nicht zu, zu wissen, wie er ausgehen wird —, den ist es nicht leicht, ehrenvoll einzustellen.
+- Neu: Beschuldigungen von Städten wie von Einzelnen lassen sich beilegen; einen Krieg aber, den alle gemeinsam um der Interessen Einzelner willen begonnen haben — und dessen Verlauf man nicht vorher wissen kann —, kann man nicht leicht ehrenvoll beenden.
+- Begründung: Subjektbeziehungen, Gesamtbeteiligung an Einzelinteressen und Unmöglichkeit des Vorherwissens berichtigt.
+
+### 83.2 · Änderung 9
+
+- Griechisch: χρήματα
+- Alt: Geld beisteuern
+- Neu: Mittel beisteuern
+- Begründung: Glossarentsprechung.
+
+### 83.3 · Änderung 10
+
+- Griechisch: τῆς αἰτίας
+- Alt: [Anm.: αἰτία heißt hier »Verantwortung«, nicht »Vorwurf«.]
+- Neu: [Anm.: Griechisch aitía, hier im Sinn von »Verantwortung« für den Ausgang des Krieges.]
+- Begründung: Anmerkung an Leser gerichtet.
+
+### 84.1 · Änderung 11
+
+- Griechisch: σχολαίτερον ἂν παύσαισθε … νεμόμεθα
+- Alt: Eilet ihr nämlich, würdet ihr eher aufhören müssen, weil ihr unvorbereitet zugreift, und zugleich behaltet ihr eine freie und hochangesehenste Stadt für immer.
+- Neu: Eilt ihr nämlich, könntet ihr umso später ans Ende gelangen, weil ihr unvorbereitet zugreift; zugleich bewohnen wir seit jeher eine freie und höchst angesehene Stadt.
+- Begründung: Sinnumkehr früher/später sowie Person und Zeitbezug der freien Stadt korrigiert.
+
+### 84.2 · Änderung 12
+
+- Griechisch: δύναται … σωφροσύνη ἔμφρων τοῦτ’ εἶναι
+- Alt: Die kluge Besonnenheit ist die nützlichste Einsicht
+- Neu: Gerade dies kann als verständige Besonnenheit gelten
+- Begründung: Das zuvor genannte Verhalten wird als Besonnenheit bezeichnet; kein Vergleich des Nutzens.
+
+### 84.2 · Änderung 13
+
+- Griechisch: παρὰ τὸ δοκοῦν ἡμῖν … ἡδονῇ … ἀχθεσθέντες
+- Alt: über unsere Meinung hinaus zu den gefährlichen Dingen treiben, lassen wir uns nicht gefällig hinreißen; und wenn einer mit einer Anklage aufreizt, lassen wir uns darüber nicht umso eher überzeugen
+- Neu: gegen unsere eigene Überzeugung in Gefahr treiben wollen, lassen wir uns nicht aus Freude am Lob hinreißen; und wenn einer uns mit einem Vorwurf aufreizt, lassen wir uns auch aus Verärgerung nicht eher umstimmen
+- Begründung: Gegensatz von Überzeugung und Verlockung sowie die beiden Gefühlsmotive erhalten.
+
+### 84.3 · Änderung 14
+
+- Griechisch: μὴ τὰ ἀχρεῖα ξυνετοὶ ἄγαν … λόγῳ … ἔργῳ … διανοίας … οὐ λόγῳ διαιρετάς
+- Alt: und nicht, in unnützen Dingen übermäßig klug, mit Worten die Rüstungen der Feinde schön zu tadeln, im Werk aber ungleich nachzustehen; sondern die Gesinnungen der anderen für ähnlich und die Widerfahrnisse für unentscheidbar haltend
+- Neu: wir sind auch nicht in unnützen Dingen so übermäßig klug, dass wir die Rüstung der Feinde mit Worten trefflich tadeln, ihr aber in der Tat unzureichend entgegentreten; vielmehr halten wir die Pläne der anderen für den unseren ähnlich und die eintretenden Zufälle für nicht durch Überlegung bestimmbar
+- Begründung: Grammatisch unverbundene Fortsetzung, Wort/Tat-Gegensatz und Inhalt der Planungen und Zufälle berichtigt.
+
+### 84.4 · Änderung 15
+
+- Griechisch: ἔργῳ παρασκευαζόμεθα
+- Alt: rüsten wir im Werk
+- Neu: treffen wir unsere Rüstung in der Tat
+- Begründung: Unverständliche Wendung nach Wort/Tat-Gegensatz gefasst.
+
+### 85.1 · Änderung 16
+
+- Griechisch: χρημάτων
+- Alt: Gelder
+- Neu: Mittel
+- Begründung: Glossarentsprechung.
+
+### 85.2 · Änderung 17
+
+- Griechisch: αὐτῶν δίκας δοῦναι … οὐ πρότερον νόμιμον
+- Alt: zumal sie bereit sind, Gericht zu stehen. Gegen den, der es gibt, geht man nicht eher zu wie gegen einen Unrecht Tuenden
+- Neu: zumal die Athener bereit sind, sich einem Rechtsentscheid zu stellen. Gegen den, der sich dazu bereit erklärt, darf man nach geltendem Recht nicht vorher wie gegen einen Unrecht Tuenden vorgehen
+- Begründung: Bezugswort der Bereitschaft und rechtliche Grenze vor dem Schiedsverfahren klargestellt.
+
+### 86.1 · Änderung 18
+
+- Griechisch: ἐπαινέσαντες … ἑαυτούς
+- Alt: Sie haben sich vieles selbst gelobt
+- Neu: Sie haben sich selbst vielfach gelobt
+- Begründung: Fehlerhafte Rektion berichtigt.
+
+### 86.2 · Änderung 19
+
+- Griechisch: οὐδὲ μελλήσομεν τιμωρεῖν
+- Alt: nicht zögern, uns zu rächen
+- Neu: nicht zögern, ihnen zu helfen
+- Begründung: τιμωρεῖν bezeichnet hier den Beistand für die geschädigten Bundesgenossen.
+
+### 86.3 · Änderung 20
+
+- Griechisch: χρήματα … μὴ λόγῳ καὶ αὐτοὺς βλαπτομένους … τιμωρητέα
+- Alt: Anderen ist viel Geld und Schiffe und Reiter; uns aber sind gute Bundesgenossen — die darf man den Athenern nicht überlassen und nicht durch Gerichte und Worte scheiden, sie selbst Unrecht leidend, sondern man muss sich schleunigst rächen mit ganzer Kraft.
+- Neu: Andere haben viele Mittel und Schiffe und Reiter; wir aber haben gute Bundesgenossen — die darf man den Athenern nicht überlassen. Man darf den Streit nicht mit Gerichten und Worten entscheiden, da sie selbst nicht durch bloße Worte geschädigt werden, sondern muss ihnen schleunigst mit ganzer Kraft beistehen.
+- Begründung: Fehlende Verneinung und Wort/Tat-Gegensatz ergänzt; unverständliches „scheiden“ und Zweck des Beistands berichtigt.
+
+### 86.4 · Änderung 21
+
+- Griechisch: ὡς … πρέπει βουλεύεσθαι … μηδεὶς διδασκέτω
+- Alt: Und wie es uns zusteht, als Unrecht-Leidende zu beraten — das soll uns niemand lehren
+- Neu: Und niemand soll uns belehren, dass wir als Unrecht Leidende erst beraten müssten
+- Begründung: Inhaltssatz mit ὡς statt Frage nach der Art der Beratung.
+
+### 86.5 · Änderung 22
+
+- Griechisch: μήτε τοὺς ξυμμάχους καταπροδιδῶμεν
+- Alt: und die Bundesgenossen nicht verraten
+- Neu: und lasst uns die Bundesgenossen nicht verraten
+- Begründung: Erste Person der Aufforderung wiederhergestellt.
+
+### 87.2 · Änderung 23
+
+- Griechisch: οὐκ ἔφη … ἀλλὰ βουλόμενος … ἔλεξεν
+- Alt: Und da er sagte, er könne nicht erkennen, welcher Zuruf der größere sei, wollte er sie, damit sie die Meinung offen zeigend mehr zum Krieg trieben, sagen lassen:
+- Neu: Er sagte, er könne nicht erkennen, welcher Zuruf der größere sei; weil er sie aber durch das offene Bekunden ihrer Meinung stärker zum Krieg antreiben wollte, sprach er:
+- Begründung: Sthenelaidas spricht selbst; seine Absicht wird als Erzählererklärung erhalten.
+
+### 87.4 · Änderung 24
+
+- Griechisch: τοὺς πάντας ξυμμάχους παρακαλέσαντες ψῆφον ἐπαγαγεῖν
+- Alt: sie wollten aber, dass auch die Bundesgenossen herbeigerufen abstimmen, damit sie gemeinsam beratend den Krieg führen, wenn es richtig scheint
+- Neu: sie wollten aber alle Bundesgenossen herbeirufen und zur Abstimmung bringen, damit sie nach gemeinsamer Beratung Krieg führten, falls sie sich dafür entschieden
+- Begründung: „Alle“ ergänzt, Einberufungssubjekt und indirekte Rede erhalten.
+
+### 87.5 · Änderung 25
+
+- Griechisch: χρηματίσαντες
+- Alt: nachdem sie ausgerichtet hatte
+- Neu: nachdem sie ausgerichtet hatten
+- Begründung: Numerusfehler berichtigt.
+
+### 88.1 · Änderung 26
+
+- Griechisch: τὰ πολλὰ τῆς Ἑλλάδος
+- Alt: das meiste Griechenland ihnen schon untertan war
+- Neu: der größte Teil Griechenlands ihnen schon untertan war
+- Begründung: Grammatisch fehlerhafte Mengenangabe berichtigt.
+
+### 89.3 · Änderung 27
+
+- Griechisch: διεκομίζοντο … ὅθεν ὑπεξέθεντο παῖδας καὶ γυναῖκας καὶ τὴν περιοῦσαν κατασκευήν
+- Alt: holte alsbald von überallher her, wo sie Kinder und Frauen und das übrige Gerät untergebracht hatten
+- Neu: holte alsbald Kinder und Frauen und das noch vorhandene Gerät von dort zurück, wo es sie in Sicherheit gebracht hatte
+- Begründung: Fehlendes Akkusativobjekt der Rückführung und Bedeutung von περιοῦσαν ergänzt.
+
+### 90.1 · Änderung 28
+
+- Griechisch: αἰσθόμενοι τὸ μέλλον
+- Alt: das Kommende ahnend
+- Neu: als sie von dem Vorhaben erfuhren
+- Begründung: Kenntnis des konkreten Vorhabens statt Ahnung.
+
+### 90.2 · Änderung 29
+
+- Griechisch: τὸ … βουλόμενον καὶ ὕποπτον τῆς γνώμης οὐ δηλοῦντες
+- Alt: das Begehrende und Verdächtige ihrer Meinung nicht gegen die Athener zeigend
+- Neu: den Zweck ihres Vorschlags und ihr Misstrauen gegen die Athener legten sie nicht offen
+- Begründung: Unverständliche substantivierte Adjektive gemäß Satzfunktion wiedergegeben.
+
+### 90.3 · Änderung 30
+
+- Griechisch: ἄλλους … ἑλομένους πρέσβεις
+- Alt: die er sich mitwählte
+- Neu: die man neben ihm wählen sollte
+- Begründung: Die Athener sollen die weiteren Gesandten wählen; nicht Themistokles allein.
+
+### 90.3 · Änderung 31
+
+- Griechisch: τὸ τεῖχος … ἄρωσιν … ἐκ τοῦ ἀναγκαιοτάτου ὕψους
+- Alt: bis das Wallen so hoch sei, dass es zur Abwehr mit der nötigsten Höhe reiche
+- Neu: bis man die Mauer auf die zur Abwehr unbedingt nötige Höhe gebracht habe
+- Begründung: Bekannten Wortfehler und unverständliche Höhenangabe berichtigt.
+
+### 90.3 · Änderung 32
+
+- Griechisch: [καὶ αὐτοὺς καὶ γυναῖκας καὶ παῖδας]
+- Alt: alle, auch Frauen und Kinder
+- Neu: alle, auch Frauen und Kinder [Anm.: Der Herausgeber hält die ausdrückliche Aufzählung der Bürger, Frauen und Kinder für einen späteren Zusatz.]
+- Begründung: Der inhaltlich bedeutsame, vom Herausgeber getilgte Zusatz wird gemäß präzisierter Regel erläutert.
+
+### 90.5 · Änderung 33
+
+- Griechisch: διῆγε καὶ προυφασίζετο
+- Alt: trieb sich herum und fand Ausreden
+- Neu: ließ Zeit verstreichen und fand Ausreden
+- Begründung: διῆγε bezeichnet hier das Hinauszögern, nicht räumliches Herumtreiben.
+
+### 90.5 · Änderung 34
+
+- Griechisch: ἔφη τοὺς ξυμπρέσβεις ἀναμένειν
+- Alt: sagte er, die Mitgesandten säumen noch
+- Neu: sagte er, er warte auf die Mitgesandten
+- Begründung: Themistokles ist Subjekt des Wartens.
+
+### 82.1 · Änderung 35
+
+- Griechisch: κἀν τούτῳ … ἐξαρτύεσθαι
+- Alt: Und dabei das Unsre selbst in Stand zu setzen
+- Neu: Dabei sollten wir das Unsre selbst in Stand setzen
+- Begründung: Nach dem Satzende fehlendes Prädikat ergänzt.
+
+### 87.2 · Änderung 36
+
+- Griechisch: ἀναστήτω ἐς ἐκεῖνο τὸ χωρίον
+- Alt: der stehe auf an jenen Ort
+- Neu: der stehe auf und trete an jenen Ort
+- Begründung: Ortsbewegung grammatisch hergestellt.
+
+### 90.2 · Änderung 37
+
+- Griechisch: ὡς δὲ τοῦ βαρβάρου … οὐκ ἂν ἔχοντος
+- Alt: sondern sich auf den Barbaren berufend
+- Neu: sondern erklärten im Hinblick auf den Barbaren
+- Begründung: Die explizite Erklärung der Gesandten als Satzprädikat gefasst.
+
+### Unsicher, bitte prüfen
+
+Keine.
+
+Editorische Klammer in **85.3**: [τοῖς Λακεδαιμονίοις] nennt lediglich die bereits eindeutigen Adressaten. Gemäß der nachgereichten Präzisierung keine zusätzliche Leseranmerkung.
+### Nachprüfung
+
+Alle 29 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+
+`python3 scripts/check_translation.py --language de --book 1 --start 81 --end 90`: 42/42 Abschnitte, 0 Fehler, 0 Warnungen.
