@@ -11,10 +11,18 @@
 <div class="reader-toolbar" hidden>
 <label for="font-select">Schrift</label>
 <select id="font-select">
-  <option value="serif">Klassische Serifenschrift</option>
-  <option value="sans">Serifenlose Schrift</option>
-  <option value="serif">Klassische Serifenschrift</option>
-  <option value="sans">Serifenlose Schrift</option>
+  <optgroup label="Historisch">
+    <option value="unifrakturmaguntia">UnifrakturMaguntia</option>
+    <option value="pirataone">Pirata One</option>
+    <option value="medievalsharp">MedievalSharp</option>
+    <option value="almendra" selected>Almendra</option>
+  </optgroup>
+  <optgroup label="Gut lesbar">
+    <option value="ebgaramond">EB Garamond</option>
+    <option value="crimsontext">Crimson Text</option>
+    <option value="sourceserif4">Source Serif 4</option>
+    <option value="sourcesans3">Source Sans 3</option>
+  </optgroup>
 </select>
 <button id="theme-toggle" type="button" aria-pressed="false">Dark Mode</button></div>
 

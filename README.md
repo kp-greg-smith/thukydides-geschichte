@@ -66,9 +66,9 @@ Translations are in [`de_translations/`](de_translations/).
 This translation: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 Greek source: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-HTML typography uses browser-provided system fonts.
+HTML typography: eight locally bundled, unmodified fonts under the SIL Open Font License 1.1. See the [font list, licenses, and sources](docs/assets/fonts/README.md). Almendra is the default; historical and reading-oriented alternatives are available.
 
-The HTML reader offers a font selector (Klassische Serifenschrift, Serifenlose Schrift, classic serif, system sans-serif) and a Dark Mode toggle with muted yellow text on black and no glow. It initially follows the system appearance, and remembers your font and color choices when browser storage is available. Both HTML editions use the shared assets in `docs/assets/`; keep these alongside the HTML files for offline reading.
+The HTML reader offers a font selector with eight openly licensed families and a Dark Mode toggle with warm golden-yellow text on black and no glow. It initially follows the system appearance, and remembers your font and color choices when browser storage is available. Both HTML editions use the shared assets in `docs/assets/`; keep these alongside the HTML files for offline reading.
 
 ## Structure
 

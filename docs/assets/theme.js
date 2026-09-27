@@ -2,10 +2,10 @@
   const root = document.documentElement;
   const key = "thukydides-theme";
   const fontKey = "thukydides-font";
-  const fonts = ["serif", "sans", "serif", "sans"];
+  const fonts = ["unifrakturmaguntia", "pirataone", "medievalsharp", "almendra", "ebgaramond", "crimsontext", "sourceserif4", "sourcesans3"];
   let font;
   try { font = localStorage.getItem(fontKey); } catch { /* Use default without storage. */ }
-  if (!fonts.includes(font)) font = "serif";
+  if (!fonts.includes(font)) font = "almendra";
   root.dataset.font = font;
   const preference = window.matchMedia("(prefers-color-scheme: light)");
   let chosen;
@@ -24,7 +24,7 @@
     const fontSelect = document.getElementById("font-select");
     fontSelect.value = font;
     fontSelect.addEventListener("change", () => {
-      font = fonts.includes(fontSelect.value) ? fontSelect.value : "serif";
+      font = fonts.includes(fontSelect.value) ? fontSelect.value : "almendra";
       root.dataset.font = font;
       try { localStorage.setItem(fontKey, font); } catch { /* Selection works without persistence. */ }
     });
