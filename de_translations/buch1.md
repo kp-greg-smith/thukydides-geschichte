@@ -1270,32 +1270,63 @@
 
 ### Kapitel 106
 
-§1 Die Spartaner zogen gegen Athen. Die Thessaler halfen Athen nicht; sie fürchteten Sparta. Athen siegte bei Tanagra; die Spartaner zogen ab.
+§1 Die Besiegten aber zogen sich zurück, und ein nicht geringer Teil von ihnen wurde abgedrängt, vom Weg abkommend, und stürzte in das Grundstück eines Privatmanns, das von einem großen Graben umgeben war, ohne Ausgang.
 
+§2 Und die Athener, es erkennend, sperrten es mit den Hopliten von vorn ab und stellten die Leichtbewaffneten im Kreis herum und erschlugen alle, die hineingegangen waren. Und das war ein großes Leid für die Korinther. Die Menge des Heeres aber zog sich heim.
 ---
 
 ### Kapitel 107
 
-§1 Die Böoter vereinigten sich wieder. Athen unterwarf Böotien und Phokis. Die athenische Macht reichte von Thessalien bis zum Isthmos.
+§1 Um diese Zeiten begannen auch die Athener, die langen Mauern zum Meer zu bauen — die zum Phaleron und die zum Piräus.
 
+§2 Und als die Phoker gegen Doris, die Mutterstadt der Lakedaimonier, zogen — Boion, Kytinion und Erineon — und eine dieser Städte nahmen, halfen die Lakedaimonier den Dorern unter Nikomedes, Sohn des Kleombrotos, für den noch jungen König Pleistoanax, Sohn des Pausanias, führend, mit eintausendfünfhundert eigenen Hopliten.
+
+§3 Zur See wollten die Athener, um den Krisäischen Golf herumfahrend, sie hindern, wenn sie überzusetzen wollten; durch die Geraneia aber schien es ihnen unsicher zu ziehen, weil die Athener Megara und Pegai hielten. Die Geraneia ist nämlich schwer zugänglich und wurde immer von den Athenern bewacht.
+
+§4 Und es schien ihnen richtig, in Böotien bleibend zu prüfen, auf welche Weise sie am sichersten durchkämen. Und einige Männer der Athener führten sie heimlich, in der Hoffnung, die Demokratie zu beenden und die im Bau befindlichen langen Mauern zu hindern.
+
+§5 Und die Athener zogen ihnen mit dem ganzen Volk zu Hilfe und tausend Argivern und den übrigen Bundesgenossen, jeder wie er konnte; insgesamt wurden es vierzehntausend.
+
+§6 Und weil sie glaubten, in Verlegenheit zu sein, wo hindurchzuziehen, zogen sie gegen sie — auch in der Verdächtigung, es gelte die Demokratie zu beenden.
+
+§7 Und tausend thessalische Reiter kamen den Athenern gemäß dem Bündnis zu; diese traten im Werk zu den Lakedaimoniern über.
 ---
 
 ### Kapitel 108
 
-§1 Die langen Mauern Athens wurden vollendet. Die Stadt war nun mit dem Meer verbunden. Niemand konnte sie mehr belagern. Perikles' Politik war vollendet.
+§1 Und als in Tanagra in Böotien die Schlacht geliefert wurde, siegten die Lakedaimonier und die Bundesgenossen, und der Blutzoll war auf beiden Seiten groß.
 
+§2 Und die Lakedaimonier gingen in die Megaris, holzten ab und gingen wieder heim durch die Geraneia und den Isthmos. Die Athener aber zogen am zweiundsechzigsten Tag nach der Schlacht gegen die Böoter unter Myronides.
+
+§3 Und mit der Schlacht bei Oinophytoi die Böoter besiegtend, beherrschten sie das Land Böotien und Phokis, rissen die Mauer von Tanagra nieder und nahmen hundert Geiseln von den opuntischen Lokrern, die reichsten, und vollendeten ihre eigenen langen Mauern.
+
+§4 Und die Aigineten kamen danach mit den Athenern überein, die Mauern niederzureißen und Schiffe zu übergeben und fortan Tribut zu zahlen.
+
+§5 Und die Athener fuhren unter Tolmides, Sohn des Tolmaios, um die Peloponnes und verbrannten das Schiffshaus der Lakedaimonier und nahmen Chalkis, eine Stadt der Korinther, und besiegten die Sikyonier in einer Landungsschlacht.
 ---
 
 ### Kapitel 109
 
-§1 Die Athener sandten Kolonisten aus. Sieger bei den Isthmischen Spielen wagten nicht, als Athener zu siegen. Die Böoter vertrieben die Athener bei Koronea. Der athenische Einfluss auf dem Festland brach zusammen.
+§1 Und die Athener in Ägypten und die Bundesgenossen blieben, und viele Arten von Kämpfen kamen ihnen auf.
 
+§2 Zuerst nämlich beherrschten die Athener Ägypten, und der König sandte nach Sparta Megabazos, einen Perser, mit Geld — damit er, wenn er die Peloponnesier überredete, in Attika einzubrechen, die Athener von Ägypten wegführe.
+
+§3 Als ihm das nicht gelang und das Geld anders verbraucht wurde, wurde Megabazos mit dem übrigen Geld zurück nach Asien geschickt; und er sandte Megabysos, Sohn des Zopyros, einen Perser, mit einem großen Heer.
+
+§4 Der kam zu Lande, besiegte die Ägypter und Bundesgenossen in der Schlacht und trieb die Griechen aus Memphis und schloss sie schließlich auf der Insel Prosopitis ein und belagerte sie ein Jahr und sechs Monate, bis er den Kanal austrocknete, das Wasser woanders hinführte und die Schiffe auf das Trockene brachte und so die Insel zu Lande machte.
 ---
 
 ### Kapitel 110
 
-§1 Die Athener eroberten Kypros. Kimon starb. Die Flotte kehrte heim. Der Friede mit Persien folgte bald. Die Perser zogen sich aus dem Ägäischen Meer zurück.
+§1 So gingen die Sachen der Griechen zugrunde, sechs Jahre kämpfend; und wenige von vielen wanderten durch Libyen nach Kyrene und wurden gerettet, die meisten gingen zugrunde.
 
+§2 Ägypten aber wurde wieder unter den König gebracht — außer Amyrtaios, dem König in den Sümpfen; denn diesen konnten sie wegen der Größe des Sumpfes nicht nehmen, und zugleich sind die Sumpfbewohner die kriegstüchtigsten der Ägypter.
+
+§3 Inaros aber, der Lybierkönig, der alles um Ägypten getan hatte, wurde durch Verrat gefangen und gekreuzigt.
+
+§4 Und aus Athen und dem übrigen Bund fuhren fünfzig Trieren als Nachschub nach Ägypten, die nichts von dem Geschehenen wussten, am Mendesischen Vorgebirge anlandend; und sie wurden von Land her mit Fußvolk und zur See von der phönikischen Flotte angegriffen, und die meisten Schiffe gingen zugrunde; die wenigen entkamen wieder.
+
+§5 So endete die große Unternehmung der Athener und der Bundesgenossen nach Ägypten.
 ---
 
 ### Kapitel 111
