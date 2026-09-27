@@ -74,6 +74,14 @@ Zweitprüfung: work/uk/review/batch03.md. Meldungen: 24 in 19 Abschnitten (2 Blo
 Entscheidungen wie pipeline-einheitlich: 1.23.6 (найправдивіший привід), τιμωρία = відплата, 1.25.4/1.26.5 Anakoluthon-Typografie.
 Alle Meldungen angenommen.
 
+### Kap. 31–40 (Batch 04) — 45 Abschnitte
+Zweitprüfung: work/uk/review/batch04.md. Meldungen: 19 in 28 Abschnitten (3 Blocker, 16 Minor).
+- Blocker 1.33.3: φόβῳ τῷ ὑμετέρῳ = Lakonen ziehen aus Angst VOR den Athenern in den Krieg («страх перед вами») — Richtung war invertiert.
+- Blocker 1.36.2: Dativus commodi — von dort (Unteritalien/Sizilien) kommt eine Flotte ZUM NUTZEN der Peloponnesier; der geographische Zusammenhang wiederhergestellt.
+- Blocker 1.37.5: ἀληπτότεροι = «недосяжніші» (ἀ-ληπτος, „unfassbar“); die Vergleichsrichtung war invertiert.
+- Ausgewählte Minor-Fixes: 1.31.1 (μισθῷ πείθοντες = «наймаючи за платню»), 1.32.2/1.32.3 («прохання», «невигідною»), 1.32.5, 1.33.1/1.33.2, 1.33.3 (δυοῖν φθάσαι ἁμάρτωσιν), 1.34.3, 1.35.3 (δεινόν = «ганебно»), 1.35.5 (εἰ δύνασθε), 1.36.1 («завчасу» entfernt), 1.37.5 (δεχομένοις τὰ δίκαια crux mit Vermerk), 1.38.4 (ἐκπρεπῶς mit Vermerk), 1.38.6 (τιμωρία = «відплата»), 1.39.2 (δίκη = «показний суд»), 1.40.2 (εἰ σωφρονοῦσι als Bedingung).
+- Eine Erhebung erwies sich als gegenstandslos (1.37.5 ἀρετή war bereits einheitlich «чеснота»): 18 angenommen, 1 gegenstandslos.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
@@ -81,12 +89,18 @@ Alle Meldungen angenommen.
 - 1.9.4/1.10.4 — wie EN (gemeinsame Entscheidungen, sinngemäß mit Anmerkung).
 - 1.18.1 — gestörte Überlieferung, sinngemäß mit Anmerkung.
 - 1.25.4→1.26.1, 1.26.5→1.27.1 — Anakoluthon-Typografie wie in der deutschen Referenz.
+- 1.31.3 τὸ αὐτῶν — auf die athenische Flotte bezogen, Alternative dokumentiert.
+- 1.32.2 μετὰ τῆς ξυμμαχίας τῆς αἰτήσεως — crux, gewählte Satzteilung dokumentiert.
+- 1.36.3 τῷδ᾿ ἂν μὴ προέσθαι — auf «не відпускати нас» festgelegt, Alternativen dokumentiert.
+- 1.37.3 ἀνάγκῃ καταίροντας δέχεσθαι — ungrammatisch; nach evidentem Sinn.
+- 1.37.5 δεχομένοις τὰ δίκαια δεικνύναι — zwei mögliche Bezüge; adverbiale Lesart gewählt, crux dokumentiert.
+- 1.38.4 ἐκπρεπῶς μὴ καὶ διαφερόντως — spätere Lesart als Vermerk dokumentiert, Text belassen.
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 109 in den Kapiteln 1–30 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 109 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 68 Fundstellen (4 Blocker, 64 Minor).
+- Übersetzte Abschnitte: 154 in den Kapiteln 1–40 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 154 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 87 Fundstellen (7 Blocker, 80 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 1.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
 - Nicht veröffentlicht, obwohl work in progress: Kapitel 51–60: Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 61–146 noch nicht begonnen.
