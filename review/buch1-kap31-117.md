@@ -1885,3 +1885,201 @@ Prüfliste: 101.1, 101.2, 101.3, 102.1, 102.2, 102.3, 102.4, 103.1, 103.2, 103.3
 Alle 20 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 101 --end 110`: 42/42 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Kapitel 111–117
+
+Geprüft: **26 Abschnitte**; geändert: **17 Abschnitte**.
+
+Prüfliste: 111.1, 111.2, 111.3, 112.1, 112.2, 112.3, 112.4, 112.5, 113.1, 113.2, 113.3, 113.4, 114.1, 114.2, 114.3, 115.1, 115.2, 115.3, 115.4, 115.5, 116.1, 116.2, 116.3, 117.1, 117.2, 117.3.
+
+### 111.1 · Änderung 1
+
+- Griechisch: Ὀρέστης ὁ Ἐχεκρατίδου υἱὸς τοῦ Θεσσαλῶν βασιλέως φεύγων
+- Alt: Aus Thessalien aber überredete Orestes, Sohn des Echekratides, König der Thessaler, fliehend die Athener
+- Neu: Der aus Thessalien verbannte Orestes, Sohn des Thessalerkönigs Echekratides, überredete die Athener
+- Begründung: Echekratides ist der als König bezeichnete Vater; Verbannung statt unverbundener Flucht.
+
+### 111.1 · Änderung 2
+
+- Griechisch: ὅσα μὴ προϊόντες πολὺ ἐκ τῶν ὅπλων
+- Alt: sie beherrschten das Land, soweit sie nicht mit den Waffen weit vorgingen
+- Neu: sie beherrschten das Land nur so weit, wie sie sich nicht allzu weit vom Lager entfernen mussten
+- Begründung: ἐκ τῶν ὅπλων bezeichnet hier den Ausgangspunkt der Truppenbewegung, nicht mitgeführte Waffen.
+
+### 111.2 · Änderung 3
+
+- Griechisch: Περικλέους … στρατηγοῦντος
+- Alt: unter Perikles, Sohn des Xanthippos, führend
+- Neu: unter der Führung des Perikles, Sohn des Xanthippos
+- Begründung: Die Athener werden geführt; fehlerhaftes aktives Partizip berichtigt.
+
+### 111.3 · Änderung 4
+
+- Griechisch: διαπλεύσαντες πέραν τῆς Ἀκαρνανίας ἐς Οἰνιάδας
+- Alt: fuhren hinüber an Akarnanien vorbei nach Oiniadai und zogen dorthin und belagerten
+- Neu: fuhren hinüber nach Oiniadai in Akarnanien, zogen gegen die Stadt und belagerten sie
+- Begründung: Oiniadai liegt in Akarnanien; falsches Vorbeifahren und fehlendes Belagerungsobjekt berichtigt.
+
+### 112.2 · Änderung 5
+
+- Griechisch: Κίμωνος στρατηγοῦντος
+- Alt: unter Kimon führend
+- Neu: unter Kimons Führung
+- Begründung: Fehlerhafte Zuordnung des führenden Subjekts.
+
+### 112.4 · Änderung 6
+
+- Griechisch: αἱ ἐξ Αἰγύπτου νῆες πάλιν [αἱ] ἐλθοῦσαι μετ’ αὐτῶν
+- Alt: zogen sie heim, und die Schiffe aus Ägypten kamen mit ihnen wieder
+- Neu: zogen sie heim, zusammen mit den aus Ägypten zurückgekehrten Schiffen
+- Begründung: Die Schiffe aus Ägypten stoßen vor der Heimkehr wieder zu ihnen. Der getilgte Artikel ist rein syntaktisch; keine Leseranmerkung.
+
+### 112.5 · Änderung 7
+
+- Griechisch: στρατεύσαντες καὶ κρατήσαντες
+- Alt: später aber gewannen es die Athener, nachdem jene abgezogen waren, zurück
+- Neu: später aber zogen die Athener, nachdem jene abgezogen waren, ins Feld und eroberten es
+- Begründung: Ein vorausgegangener athenischer Besitz wird hier nicht behauptet; Feldzug ergänzt.
+
+### 113.1 · Änderung 8
+
+- Griechisch: τῶν φευγόντων … Τολμίδου … στρατηγοῦντος
+- Alt: die geflüchtet waren
+- Neu: die verbannt waren
+- Begründung: Politische Verbannung statt bloßer Flucht.
+
+### 113.1 · Änderung 9
+
+- Griechisch: Τολμίδου … στρατηγοῦντος
+- Alt: unter Tolmides, Sohn des Tolmaios, führend
+- Neu: unter der Führung des Tolmides, Sohn des Tolmaios
+- Begründung: Fehlerhafte Zuordnung des führenden Subjekts.
+
+### 113.2 · Änderung 10
+
+- Griechisch: οἱ ἐκ τῆς Ὀρχομενοῦ φυγάδες Βοιωτῶν
+- Alt: überfielen sie die aus Orchomenos geflüchteten Böoter, zusammen mit den Lokrern und den euböischen Flüchtlingen und allen, die derselben Gesinnung waren
+- Neu: wurden sie von den aus Orchomenos heranrückenden böotischen Verbannten, den mit ihnen verbündeten Lokrern, den euböischen Verbannten und allen Gleichgesinnten überfallen
+- Begründung: Orchomenos ist der Standort der böotischen Verbannten, nicht der Ort ihrer Vertreibung; Angreifer und Angegriffene eindeutig gemacht.
+
+### 113.4 · Änderung 11
+
+- Griechisch: οἱ φεύγοντες Βοιωτῶν … καὶ οἱ ἄλλοι πάντες
+- Alt: Und die geflüchteten Böoter kehrten zurück, und alle wurden wieder autonom
+- Neu: Und die verbannten Böoter kehrten zurück, und sie wie alle anderen wurden wieder autonom
+- Begründung: Rückkehr der Verbannten und ausdrücklichen Einschluss aller anderen erhalten.
+
+### 114.2 · Änderung 12
+
+- Griechisch: Πλειστοάνακτος … ἡγουμένου
+- Alt: unter Pleistoanax, Sohn des Pausanias, König der Lakedaimonier, führend
+- Neu: unter der Führung des Pleistoanax, Sohn des Pausanias, König der Lakedaimonier
+- Begründung: Fehlerhafte Zuordnung des führenden Subjekts.
+
+### 114.3 · Änderung 13
+
+- Griechisch: Περικλέους στρατηγοῦντος
+- Alt: unter Perikles führend
+- Neu: unter Perikles’ Führung
+- Begründung: Fehlerhafte Zuordnung des führenden Subjekts.
+
+### 114.3 · Änderung 14
+
+- Griechisch: Ἑστιαιᾶς … ἐξοικίσαντες
+- Alt: Hestiaia aber vertrieben sie
+- Neu: die Hestiaier aber vertrieben sie
+- Begründung: Vertrieben werden die Bewohner, nicht der Ort.
+
+### 115.4 · Änderung 15
+
+- Griechisch: οὐχ ὑπέμειναν
+- Alt: die es nicht aushielt
+- Neu: die es nicht aushielten
+- Begründung: Numerusfehler berichtigt.
+
+### 115.4 · Änderung 16
+
+- Griechisch: ἐς ἑπτακοσίους
+- Alt: — siebenhundert —
+- Neu: — etwa siebenhundert —
+- Begründung: Näherungsangabe der Truppenstärke.
+
+### 115.5 · Änderung 17
+
+- Griechisch: τῷ δήμῳ ἐπανέστησαν καὶ ἐκράτησαν τῶν πλείστων
+- Alt: standen sie gegen die Demokratie auf und beherrschten das meiste
+- Neu: standen sie gegen die Demokratie auf und brachten die meisten ihrer Gegner in ihre Gewalt
+- Begründung: τῶν πλείστων bezieht sich auf Personen, nicht auf einen unbestimmten Sachbestand.
+
+### 115.5 · Änderung 18
+
+- Griechisch: τοὺς ὁμήρους … ἐκ Λήμνου τοὺς αὑτῶν
+- Alt: die Geiseln aus Lemnon entführend
+- Neu: ihre eigenen Geiseln aus Lemnos entführend
+- Begründung: Falschen Ortsnamen berichtigt und αὑτῶν ergänzt.
+
+### 116.1 · Änderung 19
+
+- Griechisch: Περικλέους δεκάτου αὐτοῦ στρατηγοῦντος
+- Alt: wenn Perikles zum zehnten Mal Strategos war [Anm.: δεκάτου αὐτοῦ — »zum zehnten Mal«; die Wendung ist auch als »als einer von zehn Strategen« gedeutet worden.]
+- Neu: unter Perikles als einem von zehn Feldherren
+- Begründung: δεκάτου αὐτοῦ bezeichnet die Gesamtzahl der Feldherren einschließlich Perikles, keine zehnte Amtszeit; irreführende Anmerkung entfernt.
+
+### 116.1 · Änderung 20
+
+- Griechisch: ἀπὸ Μιλήτου
+- Alt: von Miletus
+- Neu: von Milet
+- Begründung: Ortsname an die deutsche Namensform der übrigen Abschnitte angepasst.
+
+### 116.3 · Änderung 21
+
+- Griechisch: πέντε ναυσὶ Στησαγόρας καὶ ἄλλοι ἐπὶ τὰς Φοινίσσας
+- Alt: Denn auch aus Samos waren fünf Schiffe unter Stesagoras und andere gegen die Phöniker gefahren.
+- Neu: Denn auch Stesagoras und andere waren mit fünf Schiffen von Samos zu den phönikischen Schiffen gefahren.
+- Begründung: Die weiteren Beteiligten sind Personen; Ziel ist die verbündete phönikische Flotte, kein Angriff auf sie.
+
+### 117.1 · Änderung 22
+
+- Griechisch: τῆς θαλάσσης τῆς καθ’ ἑαυτοὺς … περὶ … καὶ ἐσεκομίσαντο καὶ ἐξεκομίσαντο
+- Alt: sie beherrschten das Meer ihrerseits vierzehn Tage lang und fuhren ein und aus, was sie wollten
+- Neu: sie beherrschten das Meer vor ihrer Küste etwa vierzehn Tage lang und führten ein und aus, was sie wollten
+- Begründung: Räumlicher Bezug, Näherungsangabe und Warentransporte statt bloßer Schiffsbewegung.
+
+### 117.3 · Änderung 23
+
+- Griechisch: χρήματα τὰ ἀναλωθέντα ταξάμενοι … ἀποδοῦναι
+- Alt: und das verausgabte Geld festsetzend, in Raten zurückzuzahlen
+- Neu: und sich verpflichtend, die verausgabten Mittel in Raten zurückzuzahlen
+- Begründung: Zahlungsverpflichtung statt Festsetzen des Geldes; Glossarentsprechung.
+
+### 117.3 · Änderung 24
+
+- Griechisch: ξυνέβησαν … ὑπήκοοι εἶναι
+- Alt: Und auch die Byzantier ergaben sich, wie vorher untertan zu sein
+- Neu: Und auch die Byzantier kamen überein, wie vorher untertan zu sein
+- Begründung: Grammatisch fehlerhafte Verbindung von Ergebung und Infinitiv berichtigt.
+
+### 111.3 · Änderung 25
+
+- Griechisch: οὐ μέντοι εἷλόν γε
+- Alt: sie nahmen es aber nicht
+- Neu: sie nahmen sie aber nicht
+- Begründung: Pronomen an das ausdrücklich genannte Bezugswort Stadt angepasst.
+
+### 115.4 · Änderung 26
+
+- Griechisch: ξυνθέμενοι … ξυμμαχίαν
+- Alt: verständigten sich mit den Mächtigsten in der Stadt und mit Pissuthnes
+- Neu: verbündeten sich mit den Mächtigsten in der Stadt und mit Pissuthnes
+- Begründung: Das ausdrücklich genannte Bündnis war zur bloßen Verständigung abgeschwächt.
+
+### Unsicher, bitte prüfen
+
+Keine.
+
+### Nachprüfung
+
+Alle 17 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+
+`python3 scripts/check_translation.py --language de --book 1 --start 111 --end 117`: 26/26 Abschnitte, 0 Fehler, 0 Warnungen.
