@@ -1,9 +1,10 @@
 :root {
+  --reader-font: Georgia, serif, Georgia, "DejaVu Serif", serif;
   color-scheme: dark;
   --paper: #000;
-  --ink: #e5c878;
+  --ink: #c9b765;
   --line: #66532c;
-  --glow: 0 0 9px rgb(229 190 96 / 18%);
+  --glow: none;
 }
 :root[data-theme="light"] {
   color-scheme: light;
@@ -21,12 +22,15 @@
     --glow: none;
   }
 }
+:root[data-font="sans"] { --reader-font: serif, Georgia, "DejaVu Serif", serif; }
+:root[data-font="serif"] { --reader-font: Georgia, "DejaVu Serif", serif; }
+:root[data-font="sans"] { --reader-font: system-ui, sans-serif; }
 html { background: var(--paper); color: var(--ink); }
 body {
   max-width: 38em;
   margin: 2rem auto;
   padding: 0 1.25rem;
-  font-family: serif, Georgia, "DejaVu Serif", serif;
+  font-family: var(--reader-font);
   font-size: 1.35rem;
   font-weight: 400;
   font-synthesis: none;
@@ -47,9 +51,9 @@ nav { padding: .8em; border: 1px solid var(--line); }
 nav a { display: inline-block; margin-right: 1em; }
 table { border-collapse: collapse; width: 100%; margin: 1em 0; }
 td, th { padding: .4em; border-bottom: 1px solid var(--line); text-align: left; }
-.reader-toolbar { display: flex; justify-content: flex-end; gap: .6em; align-items: center; }
+.reader-toolbar { display: flex; flex-wrap: wrap; font-family: system-ui, sans-serif; font-size: 1rem; justify-content: flex-end; gap: .6em; align-items: center; }
 .reader-toolbar[hidden] { display: none; }
-button {
+button, select {
   font: inherit;
   font-weight: 400;
   color: var(--ink);
@@ -59,7 +63,7 @@ button {
   padding: .25em .8em;
   cursor: pointer;
 }
-button:focus-visible, a:focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; }
+button:focus-visible, select:focus-visible, a:focus-visible { outline: 2px solid var(--ink); outline-offset: 4px; }
 ::selection { background: var(--ink); color: var(--paper); text-shadow: none; }
 @media (max-width: 540px) {
   body { font-size: 1.15rem; padding: 0 1rem; }

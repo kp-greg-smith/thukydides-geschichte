@@ -68,7 +68,7 @@ Greek source: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 HTML typography uses browser-provided system fonts.
 
-The HTML reader offers a Dark Mode toggle, initially follows the system appearance, and remembers your choice when browser storage is available. Both HTML editions use the shared assets in `docs/assets/`; keep these alongside the HTML files for offline reading.
+The HTML reader offers a font selector (Klassische Serifenschrift, Serifenlose Schrift, classic serif, system sans-serif) and a Dark Mode toggle with muted yellow text on black and no glow. It initially follows the system appearance, and remembers your font and color choices when browser storage is available. Both HTML editions use the shared assets in `docs/assets/`; keep these alongside the HTML files for offline reading.
 
 ## Structure
 
