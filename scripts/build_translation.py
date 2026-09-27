@@ -105,7 +105,7 @@ def parse_fragments(lang_dir):
         buf = []
         for raw in path.read_text().splitlines():
             line = raw.strip()
-            if line.startswith('!!'):            # coordinator flag, not part of text
+            if line.lstrip('`').startswith('!!'):   # coordinator flag (allow stray markdown backticks), not part of text
                 continue
             m2 = re.fullmatch(r'# 1\.(\d+)', line)
             if m2:
