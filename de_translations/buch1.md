@@ -1478,20 +1478,55 @@
 
 ### Kapitel 126
 
-§1 In Athen rief Perikles die Flotte zusammen und schickte sie aus, die peloponnesische Küste zu verwüsten. Niemand solle sagen können, dass Athen untätig geblieben sei, während Attika brannte.
+§1 Um diese Zeit wurden Gesandtschaften gegen die Athener geschickt, Beschwerden führend, damit für sie der größte Grund zum Krieg sei, falls sie nicht gehorchten.
 
+§2 Und zuerst sandten die Lakedaimonier Gesandte und befahlen den Athenern, den Frevel der Göttin zu vertreiben. Der Frevel war folgender:
+
+§3 Kylon, ein Athener, Olympiasieger der alten Zeit, edel und mächtig, hatte die Tochter des Theagenes aus Megara geheiratet, eines Mannes, der damals als Tyrann über Megara herrschte.
+
+§4 Als Kylon in Delphi das Orakel befragte, antwortete ihm der Gott, er solle in der größten Festzeit des Zeus die Akropolis der Athener besetzen.
+
+§5 Und er nahm die Macht des Theagenes und überredete seine Freunde; und als die Olympischen Spiele in der Peloponnes kamen, besetzte er die Akropolis für die Tyrannis — weil er glaubte, die größte Festzeit des Zeus sei es und passe ihm selbst, der Olympiasieger war.
+
+§6 Ob in Attika oder sonstwo die größte Festzeit gefeiert wurde, merkte er nicht mehr, und das Orakel zeigte es nicht (denn auch die Athener haben die Diasia, die Festzeit des Zeus Meilichios, die größte außerhalb der Stadt, in der sie mit dem ganzen Volk viele nicht-heilige, sondern landestypische Opfer bringen) — und es für richtig erkennend, versuchte er das Werk.
+
+§7 Die Athener aber, es merkend, rückten mit dem ganzen Volk aus den Feldern gegen sie und belagerten sie.
+
+§8 Als Zeit verging, von der Belagerung zermürbt, zogen die meisten ab, nachdem sie den neun Archonten die Bewachung und alles selbstherrlich anvertraut hatten, wie sie am besten erkännen; damals führten die neun Archonten das meiste in der Stadt.
+
+§9 Die mit Kylon aber, belagert, lagen schlecht an Mangel an Brot und Wasser.
+
+§10 Kylon also und sein Bruder entflohen; die anderen aber, bedrängt — einige starben auch am Hunger —, setzten sich als Schutzbittende auf den Altar auf der Akropolis.
+
+§11 Und die von den Athenern mit der Wache Betrauten hoben sie auf — als sie sie im Heiligtum sterben sahen — mit dem Versprechen, ihnen nichts Böses zu tun, und führten sie weg und töteten sie; einige, die auf der Passage auf den Altären der hehren Götter saßen, verbrauchten sie dabei. Und von da wurden sie »die Unheiligen« und der Göttin »unheilbringend« genannt.
+
+§12 Also trieben die Athener diese Unheiligen aus; und es trieb auch Kleomenes, der Lakedaimonier, später — als Athener in Bürgerkrieg lagen — die Lebenden aus und hoben die Gebeine der Toten auf und warfen sie hinaus. Später kehrten sie zurück, und ihr Geschlecht ist noch in der Stadt.
 ---
 
 ### Kapitel 127
 
-§1 Die Spartaner verwüsteten Attika gründlich. Bäume wurden gefällt, Felder zerstampft. Die Bauern sahen von den Mauern zu. Keiner durfte kämpfen. Perikles' Befehl war unumstößlich.
+§1 Diesen Frevel nun befahlen die Lakedaimonier den Athenern zu vertreiben — vorgebend, den Göttern zuerst zu Hilfe zu kommen, wissend aber, dass Perikles, Sohn des Xanthippos, mütterlicherseits zu diesem Geschlecht gehörte. Und sie meinten, wenn er vertrieben wäre, würde das Ihre bei den Athenern leichter gehen.
 
+§2 Nicht so viel aber erwarteten sie, dass er dies erleiden würde — als dass die Verleumdung gegen ihn in der Stadt wirken könnte, sodass durch sein Unglück der Krieg entstände.
+
+§3 Denn er war der mächtigste Einzelne, führte die Politik, widersetzte sich allem Lakedaimonischen, ließ nicht nachgeben — sondern trieb die Athener in den Krieg.
 ---
 
 ### Kapitel 128
 
-§1 Perikles wusste, dass eine Landschlacht die Niederlage bedeuten konnte. Er vertraute auf die Mauern und auf die Schiffe. Die Spartaner zogen nach dreißig Tagen ab, das Land verwüstet hinter sich lassend.
+§1 Die Athener aber befahlen ihrerseits den Lakedaimoniern, den Frevel von Tainaron zu vertreiben. Die Lakedaimonier nämlich hoben einmal die Schutzbittenden Heloten vom Heiligtum des Poseidon bei Tainaron auf und führten sie weg und töteten sie; deswegen glaubten sie, dass ihnen der große Erdbeben in Sparta geschah.
 
+§2 Und sie befahlen ihnen, den Frevel der Athena Chalkioikos zu vertreiben. Es geschah so:
+
+§3 Als Pausanias, der Lakedaimonier, zuerst von den Spartanern von der Herrschaft am Hellespont abberufen und gerichtet worden war, wurde er freigesprochen; aber er wurde nicht wieder öffentlich gesandt, sondern ging privat mit einer Triere ohne Lakedaimonier aus Hermion nach dem Hellespont — dem Wort nach für den griechischen Krieg, in Wahrheit für die eigene Sache.
+
+§4 Er tat zuerst dem König einen Gefallen und machte den Anfang der ganzen Unternehmung:
+
+§5 Denn Byzantion hatte er in der früheren Anwesenheit nach dem Rückzug von Kyrops genommen — es hielten es Meder und einige dem König Nahestehende und Verwandte, die dort gefangen genommen waren —; damals sandte er heimlich diese, die er gefangen hatte, dem König zu, ohne dass die anderen Bundesgenossen es wussten; mit dem Vorwand flohen sie von ihm.
+
+§6 Er tat dies mit Gongylos aus Eretria, dem er Byzantion und die Gefangenen übertragen hatte. Und er sandte einen Brief mit Gongylos; es war hineingeschrieben — wie später gefunden wurde:
+
+§7 »Pausanias, der Führer Spartas, will dir diese gefangengenommenen gefallen senden und macht den Vorschlag — wenn es auch dir scheint —, deine Tochter zu heiraten und dir Sparta und das übrige Griechenland untertan zu machen. Ich glaube fähig zu sein, dies mit dir beratend zu tun. Wenn dir also etwas davon gefällt, sende einen vertrauenswürdigen Mann...«
 ---
 
 ### Kapitel 129
