@@ -145,6 +145,17 @@ Zweitprüfung: work/uk/review/batch10.md. Meldungen: 10 in 10 Abschnitten (1 Blo
 - Übersetzervorschläge verifiziert: διαχείρισις = „каральне придушення“ unterstützt; ἐνεῖδον = „дізнулися“ unterstützt; ἀνθεκτέα = „слід покладатися на море“ funktional unterstützt; ἀντιπέρας sinngemäß unterstützt (Form geglättet).
 Alle 10 Meldungen angenommen (alle mit Text- oder Vermerkseingriff).
 
+### Kap. 101–110 (Batch 11) — 42 Abschnitte
+Zweitprüfung: work/uk/review/batch11.md. Meldungen: 6 in 6 Abschnitten (2 Blocker, 4 Minor).
+- Blocker 1.105.1: das ausgefallene Satzgefüge wiederhergestellt — der Seekampf bei Cecryphalia mit den peloponnesischen Schiffen und der athenische Sieg fehlten im Druck komplett; jetzt «а пізніше афіняни дали морський бій біля Кекрифалі… — і перемогли афіняни»; der zugehörige Vermerk war dreifach falsch (behauptete den Druck des fehlenden Namens; verlegte die Stelle ins „nächste Kapitel“; zitierte eine nicht überlieferte Form Κεκρυφαλέα — 0 Vorkommen) — komplett neu gefasst; zusätzlich der verlangte Галії-Dokumentationsvermerk ergänzt.
+- Blocker 1.107.6: die stille Auflösung der Dreier-Ellipse («афіняни не знають, як пробратися») wider den Erzählgang (die Passagefrage ist lakedaimonisch: 1.107.4/1.107.3/1.108.2) ersetzt durch wiederhergestellte Offenheit — «вирішивши, що виходу пройти далі нема, рушили на них походом» — parallel zum committeten EN, das keine Partei nennt; der Vermerk dokumentiert alle drei Lesungen mit Begründung.
+- Zeitpolitik entschieden: alle historischen Präsentien normalisiert (πέμπει ×2 → «надіслав»; γίγνεται → «відбулася»; ἀφικνοῦνται → «прибули») — EN-kongruent, in-Batch-Einheitlichkeit hergestellt; die «цар»-Ergänzung bleibt korrekt.
+- Minorfixes: 1.102.3-Cluster («з цього ж походу» statt «спільної»; «знову» getilgt; «тоді» getilgt), 1.110.4 (πλέουσαι… ἔσχον → «приплили»), 1.106.1-Vermerkszitat an den Druck angeglichen («в обійстя»), 1.107.3-Zitat um καὶ ταύτῃ vervollständigt, die Konjektur-Behauptung von 1.106.2 abschwächend umformuliert («висловлювалися правлення»), das νεωτεροποιία-Lemma korrigiert.
+- Vermerks-Ergänzungen nach Addendum 12 und EN-Parität: die κέρας-Metapher (1.110.4), αἱ δ' ἐλάσσους, πολλαὶ ἰδέαι πολέμων (1.109.1), ἀνεσταυρώθη mit beiden Alternativen («розп'ятий» / «посаджено на кіл»), der Ἕλληνες-Vermerk gelöst-dokumentierend.
+- Verifiziert sauber: τειχομαχεῖν byte-bestätigt (Tau; die πειχομαχεῖν-Panne kehrte NICHT wieder); «Біла стіна» nahtlos (unsere Quelle druckt ohnehin ohne Klammern — die Klammer-Prämisse meines Prompts wurde zurückgenommen); Zahlenaudit komplett (siebzig, dreihundert, 1500+10000, 62. Tag, zwölf Tage, hundert Geiseln, Jahr und sechs Monate, sechs Jahre, FÜNFZIG Trieren); der Sprungspiegel bei 1.108.2→3 intakt; sämtliche Addendum-Namen auf dem Druck.
+- Methodennotiz: der Prüfer verifizierte vier koordinatoreigene Vorgaben gegen die Paralleltexte und bestätigte die τειχομαχεῖν-Prüfung — keine einzige falsche Variantenbehauptung in diesem Batch.
+Alle 6 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
@@ -163,10 +174,10 @@ Alle 10 Meldungen angenommen (alle mit Text- oder Vermerkseingriff).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 395 in den Kapiteln 1–100 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 395 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 181 Fundstellen (19 Blocker, 162 Minor).
+- Übersetzte Abschnitte: 437 in den Kapiteln 1–110 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 437 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 187 Fundstellen (21 Blocker, 166 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 1.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 101–110: Übersetzung abgeschlossen, Prüfung im Gang; Kapitel 111–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 111–120: Übersetzung im Gang; Kapitel 121–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
