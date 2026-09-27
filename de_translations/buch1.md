@@ -866,43 +866,89 @@
 
 ### Kapitel 72
 
-§1 Die Athener rechtfertigten ihre Herrschaft vor der spartanischen Versammlung. Sie beriefen sich auf die Perserkriege: Athen habe das meiste getan und verdiene Anerkennung, keine Anklage.
+§1 So sprachen die Korinther. Es traf sich, dass eine athenische Gesandtschaft bereits früher wegen anderer Geschäfte in Sparta anwesend war; als sie die Reden vernahm, schien es ihnen richtig, vor die Lakedaimonier zu treten — nicht um uns wegen der Beschuldigungen der Städte zu rechtfertigen, sondern um über das Ganze zu zeigen, dass man nicht schleunigst beraten, sondern in längerer Erwägung prüfen solle. Zugleich wollten sie ihre eigene Stadt zeigen, wie groß deren Macht sei, und den Älteren in Erinnerung rufen, was sie wussten, und den Jüngeren darlegen, was sie nicht kannten — in der Meinung, die Athener zu bewegen, nicht um der Gefahr willen schleunigst und nicht um der Ehre willen gering zu verfahren.
+
+§2 Sie traten also an die Lakedaimonier heran und sagten, auch sie wollten vor deren Menge sprechen, sofern man es nicht verhinderte. Die Lakedaimonier luden sie ein zu kommen, und die Athener traten auf und sprachen Folgendes.
 
 ---
 
 ### Kapitel 73
 
-§1 »Wir Athener haben am Artemision und bei Salamis für Griechenland gekämpft. Drei Dinge trugen bei: die Schiffe, die Klugheit und unser Wagemut. Wir hätten uns den Medern ergeben können; wir taten es nicht.«
+§1 »Unsere Gesandtschaft ist nicht gegen eure Bundesgenossen geschehen, sondern um der Dinge willen, deretwegen die Stadt uns sandte. Als wir aber nicht wenig Geschrei über uns hörten, traten wir vor — nicht um den Beschuldigungen der Städte zu antworten (denn weder vor euch noch vor denen stünden wir als Richter), sondern damit ihr, den Bundesgenossen folgend, nicht leichtfertig über große Dinge beschließt; und zugleich, weil wir über das Ganze, was gegen uns vorgebracht wird, zeigen wollten, dass wir nicht unpassend besitzen, was wir besitzen, und dass unsere Stadt der Rede wert ist.
+
+§2 Was das sehr Alte angeht — wozu es sagen? Es sind eher Hörensagen Zeugen als die eigene Anschauung der Zuhörenden. Das Persische aber und alles, was ihr selbst miterlebt habt, ist es Notwendigkeit zu sagen — auch wenn es denen, die es vorbringen, für immer mehr als Vorwurf dienen wird. Denn wir liefen damals in Gefahr um des Nutzens willen, an dem ihr als Teil der Tat Anteil hattet, des Rufes aber, wenn er etwas nützt, verlustig gingen.
+
+§3 Es wird aber nicht mehr um der Bitte willen gesagt als um des Zeugnisses und der Darlegung willen, gegen was für eine Stadt ihr, wenn ihr nicht gut beratet, den Kampf führen werdet.
+
+§4 Wir sagen: Als einzige gingen wir bei Marathon gegen den Barbaren in die Gefahr; und als der spätere kam — nicht stark genug, zu Lande uns zu wehren —, stiegen wir mit dem ganzen Volk in die Schiffe und kämpften gemeinsam bei Salamis. Das verhinderte, dass er, fahrend gegen die Städte, die Peloponnes brandschatzte; denn ihr wäret nicht fähig gewesen, einander mit vielen Schiffen beizustehen.
+
+§5 Den größten Beweis hat er selbst gegeben: Nachdem er mit den Schiffen besiegt war, zog er sich schleunigst mit dem größeren Teil des Heeres zurück, da seine Macht nicht mehr die gleiche war.«
 
 ---
 
 ### Kapitel 74
 
-§1 »Als die Meder kamen, habt ihr uns im Stich gelassen; ihr zogt hinter der Mauer am Isthmos einen Wall. Wir kämpften allein. Wir wurden belagert und ausgehungert. Wir siegten.«
+§1 »Nachdem dies geschehen war und klargemacht worden war, dass die Angelegenheiten der Griechen auf den Schiffen standen, brachten wir dazu das Nützlichste dreifach dar: die größte Zahl von Schiffen, den einsichtsvollsten Feldherrn und die unbeirrteste Bereitschaft. Schiffe nämlich fast vierhundert — das war nicht weniger als zwei Drittel; Feldherr aber Themistokles, dem die Sache am meisten zu verdanken war, dass in der Enge die Seeschlacht geliefert wurde, was ganz offenbar alles rettete. Ihn habt ihr deswegen vor allen Fremden, die je zu euch kamen, am meisten geehrt.
+
+§2 Bereitschaft aber, die waghalsigste, haben wir gezeigt — wir, denen zu Lande niemand half, als die anderen schon bis auf uns versklavt waren: Wir hielten es für richtig, die Stadt und das Eigene verlassend und verderbend, auch so das Gemeinsame der übrigen Bundesgenossen nicht im Stich zu lassen und nicht, auseinandergegangen, ihnen unbrauchbar zu werden, sondern in die Schiffe steigend Gefahr zu laufen — und nicht zu zürnen, weil ihr uns nicht beigestanden hattet.
+
+§3 So sagen wir, dass wir euch nicht weniger genützt haben als wir genützt worden sind. Ihr nämlich habt — von bewohnten Städten und dem noch zu nutzenden Land ausgehend, weil ihr mehr um euretwillen als um unsertwillen fürchtetet — geholfen; als wir noch gerettet waren, wart ihr nicht zugegen. Wir aber brachen auf von einem Land, das nicht mehr da war, und liefen Gefahr für eines, das in kurzer Hoffnung stand, und retteten euch zum Teil und uns selbst.
+
+§4 Wenn wir aber früher uns dem Meder angeschlossen hätten — wie andere — aus Furcht um das Land, oder später nicht gewagt hätten, in die Schiffe zu steigen, dann hätte es für euch nicht mehr der Mühe bedurft, mit unzureichenden Schiffen Seeschlacht zu liefern; sondern die Dinge wären ihm ruhig vorangegangen, wie er wollte.«
 
 ---
 
 ### Kapitel 75
 
-§1 »Dass wir danach die Herrschaft übernahmen: Ihr zogt euch zurück, die Bundesgenossen trugen sie uns an. Wir haben nichts Ungewöhnliches getan. Wer die Macht hat, herrscht; so ist es immer gewesen. Das ist die menschliche Natur.«
+§1 »Oder sind wir nicht wert — um der damaligen Bereitschaft und Einsicht willen — dass ihr uns wenigstens die Herrschaft, die wir über die Griechen haben, nicht so über alle Maßen missgönnt?
+
+§2 Diese Herrschaft selbst haben wir nicht mit Gewalt genommen, sondern: Ihr wolltet nicht beim Rest des Barbaren bleiben, und die Bundesgenossen kamen zu uns und baten selbst darum, dass wir die Führung übernähmen.
+
+§3 Und durch die Sache selbst wurden wir anfangs gezwungen, sie so weit auszudehnen — am meisten aus Furcht, dann auch um der Ehre willen, zuletzt auch um des Nutzens willen.
+
+§4 Als unsicher erschien es schon den Vielen, die uns zugetan waren, und einige schon abgefallen und umgeschwenkt waren, und ihr uns nicht mehr als gleichgesinnte Freunde, sondern als Verdächtige und Unzufriedene gegenüberstandt, war es nicht mehr sicher, loszulassen; denn die Abfälle gingen ja auf euch.
+
+§5 Allen aber ist es unverwerflich, das Nützliche in den größten Gefahren gut einzusetzen.«
 
 ---
 
 ### Kapitel 76
 
-§1 »Niemand hat je freiwillig auf Macht verzichtet. Auch ihr Spartaner würdet, wenn ihr an unserer Stelle wärt, nicht anders handeln. Man muss die Schwächeren führen. So ist es von alters her geschehen.«
+§1 »Ihr aber, ihr Lakedaimonier, habt die Städte in der Peloponnes auf das euch Nützliche eingerichtet und herrscht über sie. Und wenn ihr damals in der Führung geblieben wärt und euch durchgehend verhasst gemacht hättet wie wir, so wissen wir gut: Ihr wäret den Bundesgenossen nicht weniger lästig geworden und hättet entweder fest herrschen müssen oder selbst in Gefahr geraten.
+
+§2 So haben auch wir nichts Wunderbares getan und nichts gegen die menschliche Weise, wenn wir eine Herrschaft, die angetragen wurde, annahmen und sie nicht wieder losließen — besiegt von den drei stärksten Trieben: Ehre, Furcht und Nutzen. Und wir sind auch nicht die ersten, die solches tun, sondern es war von jeher so eingerichtet, dass der Schwächere vom Stärkeren gebändigt wird; und wir scheinen zugleich der Ehre wert und scheinen es euch, solange ihr das Nützliche dem Rechten voranstellt — was noch niemand, der dazu kam und die Macht hatte, beiseite gesetzt hat, weil er nicht mehr haben wollte.
+
+§3 Lob verdienen aber die, welche — der menschlichen Natur folgend — über andere herrschen, gerechter, als es ihrer vorhandenen Macht entspricht.
+
+§4 Andere glauben wir: Nähmen sie das Unsre in die Hand, würden sie am meisten Maßhalten zeigen. Uns aber ist durch unsere Milde mehr Schande widerfahren als Lob — unverdientermaßen.«
 
 ---
 
 ### Kapitel 77
 
-§1 »Wir verlangen von den Bundesgenossen nicht mehr als andere auch. Wir geben ihnen Gesetze, wir nehmen ihre Abgaben. Dafür schützen wir sie. Ist das Unrecht?«
+§1 »Und weil wir in den Schiedsgerichten mit den Bundesgenossen im Nachteil stehen und nach den gleichen Gesetzen auch bei uns selbst die Urteile sprechen, stehen wir im Ruf der Rechtsverdrehung.
+
+§2 Und niemand von denen, die sonst irgendwo Herrschaft haben — und sie verfahren gegen die Untertanen nicht milder als wir —, wird deswegen gescholten; denn wer Gewalt anwenden kann, braucht keine Gerichte.
+
+§3 Die aber gewohnt sind, mit uns auf gleicher Stufe zu verkehren, und irgendwann durch die Meinung oder durch eine Macht, die mit der Herrschaft einhergeht, benachteiligt werden, sind deswegen nicht dankbar, dass man ihnen das Mehrere nicht entzieht, sondern tragen das Wenigere schwerer, als wenn wir von Anfang an, das Gesetz beiseite setzend, offen das Mehrere nähmen. So würden auch sie selbst nicht widersprechen, dass der Schwächere dem Stärkeren weichen müsse.
+
+§4 Unrecht erleidend nämlich — so scheint es — zürnen die Menschen mehr als Gewalt erleidend; was vom Gleichen kommt, gilt als Übervorteilung, was vom Stärkeren kommt, als Notwendigkeit.
+
+§5 Unter dem Meder ertrugen sie Schwereres als das gegenwärtige; unsere Herrschaft aber scheint hart zu sein — mit Recht: Das Gegenwärtige ist den Untertanen immer lästig.
+
+§6 Ihr aber — wenn ihr uns gestürzt habt und herrscht — würdet vielleicht die Gunst, die ihr aus Furcht vor uns genommen habt, verlieren; wenn ihr dann, wie einst beim Meder in kurzer Zeit Führende, es zeigt, werdet ihr dasselbe erfahren. Denn unverträglich sind die Gesetze bei euch selbst gegenüber den anderen, und keiner von euch, wenn er hinausgeht, hält sich an sie oder an das, was das übrige Griechenland als Gesetz hält.«
 
 ---
 
 ### Kapitel 78
 
-§1 »Wir sind Bundesgenosse, nicht Sklaven. Wenn ein anderer die Herrschaft hätte, würde er nicht milder sein. Wir bitten euch: Lasst ab von euren Forderungen. Überlegt, was für euch das Beste ist und was für ganz Griechenland.«
+§1 »Beratet also langsam — es handelt sich nicht um kleine Dinge —, und gebt euch, fremden Meinungen und Beschuldigungen folgend, nicht eigenen Schmerz hinzu. Und erkennt im Voraus das Unberechenbare des Krieges, wie groß es ist, ehe ihr hineingeratet.
+
+§2 Der sich verlängernde Krieg pflegt meist in Zufälle zu geraten, die beiden Seiten gleich fern sind und deren Ausgang ungewiss in Gefahr steht.
+
+§3 Die Menschen gehen in die Kriege mit Taten vorher los, die sie erst nachher tun sollten, und wenn sie schon Schlechtes erleiden, greifen sie zu Worten.
+
+§4 Wir aber sind in keinem solchen Fehler bisher — weder selbst noch an euch schauend —, und sagen euch: Solange die gute Beratung beiden noch freiwillig möglich ist, löst die Verträge nicht und verletzt die Eide nicht, sondern löst die Streitigkeiten durch Gericht nach dem Vertrag. Wenn nicht, werden wir — die Götter der Eide zu Zeugen nehmend — uns zu wehren versuchen gegen die, die den Krieg beginnen, auf die Weise, die ihr zeigen werdet.«
 
 ---
 
