@@ -112,6 +112,15 @@ Zweitprüfung: work/en/review/batch07.md. Meldungen: 10 in 10 Abschnitten (1 Blo
 - Bestätigt: Kongress-Kapitel regel-6-sauber (Klagen der Verbündeten bleiben deren; Korintherrede läuft ohne Schließung über 1.70 hinaus); alle Zahlen (2 000 + 40; 1 000; 3 000 + Bundesgenossen + 600 Reiter + 70 Schiffe; 200 Reiter; ~60 Stadien; <300 gegen 150; 1 600; 500) korrekt; Namen gemäß siebtem Addendum; alle Draft-Vermerke wahrhaftig, kein falscher Verderbnis-Behauptung.
 Alle 10 Meldungen angenommen (8 mit Texteingriff, 2 als Vermerks-Ergänzung).
 
+### Kap. 71–80 (Batch 08) — 43 Abschnitte
+Zweitprüfung: work/en/review/batch08.md. Meldungen: 11 in 11 Abschnitten (2 Blocker, 9 Minor).
+- Blocker 1.71.2: πόλει ὁμοίῳ = „a city like your own" — der a-fortiori-Vergleich wiederhergestellt; „of this very kind" hatte auf Athen gezeigt und die νῦν δέ-Gegenlogik zerstört; „now" → „as it is".
+- Blocker 1.73.1: Doppel-Inversion der überlieferten Parenthese korrigiert — οὐ negiert παρὰ δικασταῖς, οὔτε…οὔτε = „neither…nor"; Vermerk zur schwierigen Konstruktion ergänzt.
+- Minor-Fixes: 1.71.5 (πρὸς + Gen. = „in the judgement / in the eyes of", nicht „against"), 1.72.1 (μᾶλλον ἄν… ἢ = Wahrscheinlichkeitsurteil), 1.73.2 („of which the witness is hearsay rather than sight"; ἐπ' ὠφελίᾳ = „for the sake of the advantage"), 1.74.1 (Themistocles, athenischer στρατηγός = „general"), 1.75.2 (Agentur: die Verbündeten bitten, dass Athen bestellt werde), 1.76.4 (εἴ τι = gerade Bedingung, kein „whether"), 1.77.2 (διότι-Klausel als Objekt von σκοπεῖ), 1.77.6 (Apodosis ὁμοῖα καὶ νῦν γνώσεσθε als eigene Prognose), 1.80.4 (τούτου = „than in the ships").
+- Vermerksrevisionen: 1.73.2 (falsche „fehlendes Verbum"-Behauptung zurückgenommen — στερισκώμεθα ist überliefert; real: harte Suspension + μὴ-Modus), 1.74.1 ( unbelegte Nebenrechnung „(c. 133)" gestrichen); 1.73.1-Vermerk ergänzt.
+- Bestätigt: alle drei mehrabschnittigen Reden ohne Schluss- und Störmalen (Korintherschluss 1.71, Gesandtenantwort 1.72.2–1.78.4, Archidamus ab 1.79.2 über den Batch-Rand hinaus offen); Schiffszahl-Crux 1.74.1 mit beiden überlieferten Elementen; 〈τριῶν〉-Supplement ohne Notiz; Regel-6-Audit über den Kongress sauber.
+Alle 11 Meldungen angenommen (alle mit Texteingriff; zusätzlich 2 Vermerksrevisionen und 1 Vermerks-Ergänzung).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
@@ -129,10 +138,10 @@ Alle 10 Meldungen angenommen (8 mit Texteingriff, 2 als Vermerks-Ergänzung).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 271 in den Kapiteln 1–70 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 271 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 94 Fundstellen (8 Blocker, 86 Minor).
+- Übersetzte Abschnitte: 314 in den Kapiteln 1–80 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 314 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 105 Fundstellen (10 Blocker, 95 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 71–80: Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 81–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 81–90: Übersetzung im Gang; Kapitel 91–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
