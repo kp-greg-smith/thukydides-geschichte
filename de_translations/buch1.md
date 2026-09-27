@@ -1592,28 +1592,50 @@
 
 ### Kapitel 136
 
-§1 Die Bundesgenossen klagten. Sie sagten, Athen nehme ihnen die Freiheit und gebe ihnen die Knechtschaft. Aber ihre Stimmen verhallten. Der Tribut floss weiter. Die Schiffe liefen aus. Der Piräus summte wie ein Bienenkorb.
+§1 Themistokles aber, es im Voraus merkend, floh aus der Peloponnes nach Kerkyra, deren Wohltäter er war. Da die Kerkyraier aber sagten, sie fürchteten, ihn zu haben — den den Lakedaimoniern und Athenern Verhassten —, ließen sie ihn ans gegenüberliegende Festland setzen.
 
+§2 Und von den beauftragten Männern verfolgt — gemäß der Kunde, wo er hinkomme —, war er gezwungen, an einer unzugänglichen Stelle bei Admetos, dem König der Molosser — der ihm nicht freund war —, Zuflucht zu suchen.
+
+§3 Und er war nicht daheim; und er wurde Schutzbittender der Frau, und sie lehrte ihn, das Kind von ihnen nehmend, sich am Herd niederzulassen.
+
+§4 Und als Admetos nicht viel später heimkam, zeigte jener, wer er sei, und verlangte nicht, dass er — wenn er ihm damals, als die Athener ihn brauchten, etwas entgegengehalten hatte — den Geflüchteten strafe. Denn er würde von ihm, dem weit Schwächeren, jetzt das Schlechte erleiden; heldenhaft aber sei es, von Gleichgesinnten Gleiches zu vergelten.
 ---
 
 ### Kapitel 137
 
-§1 Der Sommer des zweiten Jahres kam. Die Ähren standen golden in Attika. Die Spartaner kamen wieder. Das Horn erklang von den Bergen. Die Bauern flohen. Der Rauch stieg auf. Das Jahr der Tränen lief.
+§1 Der aber, es hörend, hob ihn mit dem eigenen Sohn auf — wie er ihn auch niedergesetzt hatte — und das war das größte Schutzbitten. Und später gab er den kommenden Lakedaimoniern und Athenern, die vieles sagten, nicht heraus, sondern sandte ihn, wie er wollte, ans andere Meer.
 
+§2 Und ein Frachtschiff nehmend, das nach Ionien fuhr, trieb ihn ein Sturm ins athenische Lager, das Naxos belagerte. Und — den Schiffsleuten unbekannt — fürchtend, sagte er dem Reeder, wer er sei und weshalb er fliehe; und wenn er ihn nicht rette, werde er sagen, dass dieser, durch Geld überredet, ihn führe.
+
+§3 Und Themistokles gewann diesen durch Geldversprechen — es kam ihm nämlich später aus Athen von den Freunden und aus Argos, was er zurückgelegt hatte — und ging mit einem der persischen Untergebenen hinauf und sandte Briefe hinauf an König Artaxerxes, Sohn des Xerxes, der soeben König geworden war.
+
+§4 Der Brief zeigte: »Themistokles komme zu dir, der den Griechen am meisten Übles getan hat dem eurigen Haus, solange dein Vater herankam — aus Notwendigkeit wehrte ich mich —, aber weit mehr Gutes: denn als die Rückkehr ihm sicher war, mir aber gefährlich, da verschaffte ich ihm das Heil. Und Wohltat...«
 ---
 
 ### Kapitel 138
 
-§1 Die Seuche kam von Äthiopien, sagten einige, und fuhr auf Schiffen nach dem Piräus. Von den Häfen kroch sie die langen Mauern herauf und fiel in die Stadt ein. Die erste Leiche lag am Markt; man wusste nicht, wer sie war. Am nächsten Tag waren es zehn.
+§1 Der König aber, wie es heißt, bewunderte seine Einsicht und befahl, es so zu tun. Und in der Zeit, die er sich aufhielt, lernte er so viel wie möglich von der persischen Sprache und den Sitten des Landes.
 
-§2 Die Kranken brannten vor Hitze und schlotterten vor Frost. Sie stürzten sich in Zisternen und erstickten. Die Ärzte starben zuerst, die Vögel zuletzt. Kein Tempel half; die Götter hatten die Stadt verlassen.
+§2 Und er wurde nach dem Jahr bei ihm groß, wie keiner der Griechen — wegen der vorherbestehenden Würde und der griechischen Hoffnung, die er ihm unterschob, er werde es unterwerfen; am meisten aber, weil er durch die Erfahrung klug zu scheinen gab.
 
+§3 Denn Themistokles zeigte am sichersten die Kraft der Natur und war vor allen anderen der Bewunderung würdig: Denn durch eigene Einsicht — ohne vorher gelernt zu haben, ohne auch später hinzuzulernen — war er der beste Beurteiler des sofort Notwendigen mit dem kleinsten Rat und des Zukünftigen das meiste...
+
+§4 Und er wurde krank und endete das Leben. Einige sagen auch, er sei freiwillig durch Gift gestorben, weil er es für unmöglich hielt, dem König zu vollenden, was er versprochen hatte.
+
+§5 Ein Grabmal ist von ihm in Magnesia in Asien auf dem Markt; denn dieses Landes herrschte er: Der König gab ihm Magnesia als Brot — es brachte fünfzig Talente im Jahr —, Lampsakos als Wein (es schien damals das weinreichste zu sein), Myus als Beigabe.
+
+§6 Die Gebeine aber, sagen sie, haben die Seinen heimgebracht, auf seinen Befehl, und heimlich in Attika bestattet; denn es war nicht erlaubt, ihn als Verbannten wegen Verrats zu bestatten. So erging es Pausanias, dem Lakedaimonier, und Themistokles, dem Athener — die glänzendsten Griechen ihrer Zeit.
 ---
 
 ### Kapitel 139
 
-§1 Perikles selbst entging der Seuche nicht den Sommer und den Winter. Als er wieder genas, fand er die Stadt verändert. Die einen klagten ihn an, die anderen hielten zu ihm. Er sprach zu ihnen auf der Pnyx.
+§1 Die Lakedaimonier aber trugen bei der ersten Gesandtschaft Solches auf und wurden dagegen beauftragt wegen der Vertreibung der Unheiligen; später aber kamen sie zu den Athenern und forderten, Potidaia zu räumen und Aigina autonom zu lassen — und am meisten von allem am deutlichsten setzten sie vorher das Megarer-Dekret auf.
 
+§2 Die Athener aber gehorchten weder das Übrige noch hoben sie den Beschluss auf — die Megarer beschuldigend, das heilige Land beraubt zu haben und die Zuflucht der abgefallenen Sklaven anzunehmen.
+
+§3 Am Ende aber, als die letzten Gesandten aus Lakedaimon kamen — Rhamphios und Melesippos und Agesandros —, und sagten, nichts anderes als gewöhnlich: »Die Lakedaimonier wollen, dass der Friede sei; es könnte sein, wenn ihr die Griechen autonom lasst«, beriefen die Athener die Volksversammlung ein.
+
+§4 Und es traten viele auf, für beide Meinungen — dass man kämpfen müsse und dass der Beschluss dem Frieden nicht hinderlich sei, sondern niedergerissen werden müsse. Und Perikles, Sohn des Xanthippos, der damals erste der Athener, am stärksten zu reden und zu tun, trat auf und riet Folgendermaßen.
 ---
 
 ### Kapitel 140
