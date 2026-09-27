@@ -81,6 +81,14 @@ Zweitprüfung: work/he/review/batch04.md. Meldungen: 18 Minor (0 Blocker; zudem 
 Offene unsichere Stellen aus dieser Portion: 1.36.1 ἀδεέστερον (überlieferte Lesart behalten, crux dokumentiert); 1.37.1 (Gabelungen entschieden und dokumentiert); 1.37.5 (versehrte Überlieferung, sinngemäß); 1.38.4 (ἐκπρεπῶς-Lesart dokumentiert).
 13 Fundstellen mit Texteingriff umgesetzt; 5 vermerksbezogen bzw. als korrekt bestätigt.
 
+### Kap. 41–50 (Batch 05) — 41 Abschnitte
+Zweitprüfung: work/he/review/batch05.md. Meldungen: 9 in 7 Abschnitten (2 Blocker, 7 Minor).
+- Blocker 1.48.3: die korkyraeischen στρατηγοί gemäß Freigabe als סטרטגוסים (Konsistenz mit 1.45.2 und 1.49.4 hergestellt; Vermerk aktualisiert).
+- Blocker 1.50.1: die im Griechischen nicht vorhandene Zusatzklausel «אלה נטשון לשקיעה» entfernt und das dreifach wiedergegebene Relativ (ἃς καταδύσειαν) auf eine Form gebracht — εἷλκον ἀναδούμενοι = schleppen/abschleppen, τὰ σκάφη = die Schiffsrümpfe der gerade Versenkten; der überlieferte Text ist unversehrt, und die frühere Verderbnis-Behauptung im internen Vermerk wurde korrigiert (kein Hinweis im Lesetext — bestätigt).
+- Minor-Fixes: 1.41.2 (παρὰ τὸ νικᾶν exklusiv: «מלבד הניצחון», nicht final; crux mit zwei dokumentierten Lesarten — die englische Ausgabe folgt der «in respect of»-Lesart), 1.44.2 (Tippfehler להעמית→להעמיד; Schwäche-Bezug auf Korinther und die übrigen Seemächte festgelegt), 1.46.1 («הלאוקדים» per fünftem Addendum; «האנקטורים» genehmigt), 1.48.1 und 1.49.5 (biblisches Wayyiqtol-Präteritum ersetzt: הפליגו / ירדו), 1.49.1 (unverständlicher Crux-Schwanz ersetzt: «ערוכים באופן הקדום, בלתי מיומנים עוד יותר», Vermerk angepasst), 1.44.2 (Partizip-Bezug).
+- Bestätigt u. a.: 1.42.1 Negationsskopus; 1.43.1 wörtliches Echo von 1.40.5; 1.44.1 beide Versammlungen; 1.45.3 Offenheit der Weisung; 1.46.2 πέμπτος αὐτός offen; 1.46.4 Topographie exakt; Flottenzahlen 150=10+12+10+27+1+90, 110, 20, 10, 1000; Schlachtverlauf ungeschönt.
+Alle 9 Meldungen angenommen (7 mit Texteingriff, 2 als Vermerkskorrekturen).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
@@ -94,10 +102,10 @@ Offene unsichere Stellen aus dieser Portion: 1.36.1 ἀδεέστερον (über
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 154 in den Kapiteln 1–40 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 154 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 74 Fundstellen (0 Blocker, 74 Minor).
+- Übersetzte Abschnitte: 195 in den Kapiteln 1–50 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 195 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 83 Fundstellen (2 Blocker, 81 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 41–50: Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 51–60: Übersetzung im Gang; Kapitel 61–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 51–60: Übersetzung im Gang; Kapitel 61–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
