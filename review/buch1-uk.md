@@ -156,6 +156,17 @@ Zweitprüfung: work/uk/review/batch11.md. Meldungen: 6 in 6 Abschnitten (2 Block
 - Methodennotiz: der Prüfer verifizierte vier koordinatoreigene Vorgaben gegen die Paralleltexte und bestätigte die τειχομαχεῖν-Prüfung — keine einzige falsche Variantenbehauptung in diesem Batch.
 Alle 6 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
 
+### Kap. 111–120 (Batch 12) — 35 Abschnitte
+Zweitprüfung: work/uk/review/batch12.md. Meldungen: 10 in 10 Abschnitten (4 Blocker, 6 Minor).
+- Blocker 1.114.2: das überlieferte τὸ πλέον wiederhergestellt („більшею частиною далі вже не просуваючись“) — ohne den Begrenzer hätte der Satz die Rückkehr absolut gemacht; dasselbe τὸ πλέον ist im selben Paket bei 1.118.2 korrekt übertragen („переважну частину часу“), der Ausfall war also Vergessen, nicht Prinzip.
+- Blocker 1.116.1: die glatte Konjektur („уже вдесяте“) aus dem Körper entfernt — der überlieferte dunkle Ausdruck bleibt jetzt sichtbar („коли стратегував Перікл — сам „десятий““) mit Regel-4-Lesernotiz nach dem Muster der freigegebenen EN-Fassung; der Vermerk jetzt dokumentierend (Crux + vollzogene Ausführung).
+- Blocker 1.118.2: ᾔρετο auf die aufsteigende Lesart festgelegt („почала зрастати“) — der Erzählgang verlangt sie (die Lakedaimonier greifen ein, WEIL die athenische Macht gewachsen ist), die EN druckt „was clearly on the rise“, die frühere „викорчовуватись“-Linie im Vermerk als gelebte Alternative dokumentiert; τῆς ξυμμαχίας αὐτῶν dem Athener-Besitz zugeführt („до союзу, власного їм“) — vorher las sich der Satz gegen den eigenen Vermerk als lakedaimonischer Bund; der Vermerk komplett neu gefasst; der fällige Doppel-ἀρχή-Vermerk ergänzt (Staats-„панування“ gegen zeitliches „початок“ im selben Absatz).
+- Blocker 1.120.2: drei Argumentationsfehler der korinthischen Bündnisrede behoben — ἐνηλλάγησαν („стикався“ → „зазнав од афінян кривди“: die Unrecht-Lesart trägt den a-fortiori, denn belehrt werden muss, wem Unrecht geschah), τοῖς κάτω die Richtungs-Inversion („боронитимуться од“ → „не оборонятимуть тих, що внизу“: die Binnen-Verbündeten sollen die Küstenleute schützen, nicht sich gegen sie wehren), τὰ κάτω πρόοιντο („подадуться вперед“ → „буде втрачено“: Verlust der unteren Bezirke, nicht freiwilliger Vormarsch); der μὴ ἐν πόρῳ-Vermerk ergänzt (Zitat wörtlich, die schwächere Linie „недалеко від моря“ gelebt dokumentiert, die κάτω-Trennung Menschen/Gebiete verzeichnet).
+- Sechs Pflicht-Vermerke ergänzt: Δελφοῖς-Ethnikon (1.112.5, Cleombrotus-Präzedenz), Прієна (1.115.2 — der Name stand in keinem Addendum; jetzt in alle drei Briefings nachgetragen), περὶ τῇ Ποτειδαίᾳ-Dativ (1.119.1), die Reden-Kontinuität (1.120.1 — das Quellen-Anführungszeichen schließt erst außerhalb des Kapitels; alle ’ in 119–120 sind Elisionsapostrophe, verifiziert), der ἐσεκομίσαντο-Doppel-Augment-Hinweis zur EN-Parität (1.117.1), der ἀλλὰ-Ellipsis-Marker im 1.120.5-Zitat.
+- Minor-Politur: νεωτερίσαι auf den Addendum-Kandidaten „перевертати державний лад“ gestärkt („новації“ klang nach Verbesserung — νεωτερ- ist in Thukydides das Wort für den Staatsstreich); Sprachpaket gereinigt („Від Еллінської ж війни вдержалися“, Prädikats-Kongruenz „Взялися“, „шістнадцятьома з них не скористалися“, „дали ще одну морську битву“, „і зрештою нехай чекають“ für δέ ποτε); meine eigenen beiden Fehler im 1.120.1-Vermerk getilgt — der Token „μονο“ war ein Garble meiner Hand, ersetzt durch die wahre Lemma ἡγεμών.
+- Bestätigt: alle Zahlen wörtlich exakt (sechzig gegen SIEBZIG samische, darunter zwanzig Transportschiffe; vierundvierzig; fünfundzwanzig; der neunte Monat; „щонайбільше п'ятдесяти років“); ὁμοῖα gemessen („однаково“ trägt „в рівній мірі“); das objektlose οὐκ ἐντεθύμηταιobjektlos wie überliefert; die Korintherrede unmarkiert, an den Kongress der Verbündeten gerichtet („мужі союзники“), die Lakedaimonier in der dritten Person, offen am Randende; der ἀπὸ Μιλήτου-Doppelantäzedenz offen; Pissuthnes, Perikles und die milesische Klage regel-6-sauber; der ἡγεμών-Befund beidseits auf dem Slot („провідники“ 1.120.1, militärisches „воєначальника“ 1.114.2).
+Alle 10 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
@@ -174,10 +185,10 @@ Alle 6 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 437 in den Kapiteln 1–110 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 437 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 187 Fundstellen (21 Blocker, 166 Minor).
+- Übersetzte Abschnitte: 472 in den Kapiteln 1–120 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 472 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 197 Fundstellen (25 Blocker, 172 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 1.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 111–120: Übersetzung im Gang; Kapitel 121–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 121–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
