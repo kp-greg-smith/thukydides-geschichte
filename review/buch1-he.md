@@ -74,6 +74,13 @@ Zweitprüfung: work/he/review/batch03.md. Meldungen: 16 (0 Blocker, 15 abschnitt
 - Offen belassen und dokumentiert: 1.29.1 κῆρυξ = כרוז (Kontext sichert die personale Lesart); veraltete interne Vermerke blieben stehen.
 Alle Meldungen entschieden; 15 umgesetzt, die λογογράφοι-Festlegung als nachträgliche Glossarentscheidung dokumentiert.
 
+### Kap. 31–40 (Batch 04) — 45 Abschnitte
+Zweitprüfung: work/he/review/batch04.md. Meldungen: 18 Minor (0 Blocker; zudem 5 vermerksbezogene Einträge, geprüft und bestätigt).
+- Ausgewählte Fixes: 1.31.1 (τὰ κράτιστα ohne Potentialitäts-Zusatz; transitiver Satzbau), 1.32.1 (der Zorn gehört den Adressaten: שלא תתמלאו חימה עליהם), 1.32.4 (איוולת statt des Archaismus איוּת), 1.33.2 (ἐπικαλοῦνται-Konstruktion glattgezogen; δύναμις = כוח vereinheitlicht; κόσμος auf שם טוב festgelegt), 1.33.4 (μᾶλλον ἤ als „mehr als“ statt „und nicht“), 1.34.1 (die Kolonisten als Personen: מתיישביהם), 1.34.3 (Maxime: die Reue gehört dem Wohltäter; Vermerk an die Entscheidung angeglichen), 1.35.3 (ει-Bedingungsgefüge wiederhergestellt, δεινόν im Register des sittlichen Unrechts), 1.35.5 (Imperfekt: שהיו עוד מקודם אויבים לנו), 1.36.1 (Festlegung wie in UK/EN: die Furcht des Mächtigen schreckt die Gegner; ἀδεέστερον crux im Vermerk ergänzt: עז-לב עוד יותר), 1.36.2 (Dativus commodi wie pipeline-einheitlich: בואו של צי משם לעזרת הפלופונסים), 1.36.3 (μάθοιτε ohne Objekt: להיווכח בדבר), 1.37.1 (die Notwendigkeit bei den Sprechern; πολεμοῦται passive Lesart wie EN/UK; beide Gabelungen im Vermerk), 1.37.2 (כακουργία/ἀρετή: מתוך רוע — ולא מתוך מידה טובה; Archaismus רעוּת ersetzt), 1.37.3 (μάλιστα = ביתר שאת), 1.38.4 (ἐκπρεπῶς = Öffentlichkeit, nicht Macht; Vermerk ergänzt), 1.39.3 (αἰτία = האשמה שלנו), 1.40.5 (Kern des Präzedenzsatzes: איש צריך להעניש את בעלי בריתו שלו).
+- Ohne Änderung als korrekt bestätigt: 1.35.4, 1.39.1, 1.40.6 (Vermerke zutreffend); Vermerkskorrekturen: 1.34.3, 1.36.1 (Ergänzung), 1.37.1 (neu), 1.37.5 (an den Text angepasst), 1.38.4 (neu).
+Offene unsichere Stellen aus dieser Portion: 1.36.1 ἀδεέστερον (überlieferte Lesart behalten, crux dokumentiert); 1.37.1 (Gabelungen entschieden und dokumentiert); 1.37.5 (versehrte Überlieferung, sinngemäß); 1.38.4 (ἐκπρεπῶς-Lesart dokumentiert).
+13 Fundstellen mit Texteingriff umgesetzt; 5 vermerksbezogen bzw. als korrekt bestätigt.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
@@ -87,9 +94,9 @@ Alle Meldungen entschieden; 15 umgesetzt, die λογογράφοι-Festlegung al
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 109 in den Kapiteln 1–30 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 109 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 56 Fundstellen (3 Blocker, 53 Minor).
+- Übersetzte Abschnitte: 154 in den Kapiteln 1–40 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 154 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 74 Fundstellen (0 Blocker, 74 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
 - Nicht veröffentlicht, obwohl work in progress: Kapitel 41–50: Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 51–60: Übersetzung im Gang; Kapitel 61–146 noch nicht begonnen.
