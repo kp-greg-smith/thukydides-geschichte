@@ -2,7 +2,7 @@
 
 [English](README.md) · [Deutsch](README_DE.md) · [Українська](README_UK.md) · [עברית](README_HE.md) · [Ἑλληνική](README_GRC.md)
 
-A multilingual HTML reading edition of the Ancient Greek original and direct translations into German, English, Ukrainian, and Hebrew. The goal covers all eight books; the translations are not yet complete. This scope update adds no new translations.
+A multilingual HTML reading edition of the Ancient Greek original and direct translations into German, English, Ukrainian, and Hebrew. The goal covers all eight books. This scope update adds no new translations.
 
 [Open the reading portal](docs/index.html). It lists the current status and links only to editions that exist.
 
@@ -18,20 +18,59 @@ A multilingual HTML reading edition of the Ancient Greek original and direct tra
 
 “Available” describes coverage, not a guarantee that no corrections remain. German Book 1 has an existing revision history, including the section-by-section review of chapters 31–117 recorded on 2026-09-27. This scope update preserves all 580 German sections; it does not claim a new philological review. Translated READMEs describe the project and do not count as translated books.
 
-## Translation policy
-
-Translate faithfully and readably, not word for word, and directly from Ancient Greek. Braun, Hobbes, Crawley, and other translations may only help with understanding; they must not serve as the source text or be copied as the translation.
-
-1. **Consistency by sense.** Use a stable equivalent for each meaning, not a single equivalent for every occurrence of a word. In particular, αἰτία may mean accusation, cause, blame, or responsibility; do not prohibit a causal rendering where the Greek requires it.
-2. **No additions or exaggeration.** Do not introduce explanations, imagery, claims, or emphasis absent from the Greek.
-3. **No softening.** Preserve the force of harsh statements and political vocabulary; for example, German δουλεία remains *Knechtschaft* in that sense.
-4. **Notes for genuine uncertainty.** Add a brief note for textual uncertainty, genuine interpretive questions, or a significant change in a key term’s sense. Notes are not limited to damaged or corrupt text. German notes use `[Anm.: …]`; other languages use an equivalent label.
-5. **Preserve ambiguity.** Where the Greek allows more than one reading, retain that openness where possible rather than silently choosing one. Explain unavoidable choices in a brief note.
-6. **Extra care with speeches and indirect speech.** Preserve the speaker, addressee, argument, reported viewpoint, conditions, negation, modality, and temporal relations. Do not turn reported claims into the narrator’s assertions.
-
 ### Language-specific glossaries
 
-The existing [German glossary](README_DE.md#glossar-der-vorhandenen-deutschen-übersetzung) is documented in the German README. English, Ukrainian, and Hebrew glossaries have not yet been established. Before translating into each language, define consistent equivalents by meaning directly from the Greek; context governs words with multiple senses.
+The existing [German glossary](README_DE.md#glossar-der-vorhandenen-deutschen-übersetzung) is documented in the German README. The English, Ukrainian, and Hebrew glossaries are now established; each is fixed per meaning and binding for its edition:
+
+- [English glossary and conventions](#english-glossary-and-conventions) (this README)
+- [Глосарій та конвенції нових видань](README_UK.md#глосарій-та-конвенції-нових-видань) (Ukrainian)
+- [מילון וכללים למהדורות החדשות](README_HE.md#מילון-וכללים-למהדורות-החדשות) (Hebrew)
+
+### English glossary and conventions
+
+**Conventions (binding for the English edition).** British spelling with Oxford ‑ize (honour, harbour, defence, judgement; organize, recognize). Latinized proper names (Corcyra, Potidaea, Aegina; established exceptions such as Heracles). Editor’s notes inline as `[Note: …]`, reserved for genuine textual or interpretive uncertainty. Multi-section speeches carry no enclosing quotation marks; `“ ”` is used only for short embedded quotations. Numbers are written out. τὰ Μηδικά = the Median war (singular). Derived ethnics follow the base name (Cephallenians, Epidaurians, Troezenians, Lesbians, Phliasians, Eleians, Sicyonians, Ambraciots, Phaeacians, Samians, Taulantians).
+
+**Glossary (fixed equivalent per meaning; context governs where the Greek genuinely differs).**
+
+| Greek | Sense | English |
+|---|---|---|
+| πρόφασις | stated ground of an action (esp. against the deeper cause) | ground; 1.23.6 ἡ ἀληθεστάτη πρόφασις = the truest ground |
+| αἰτία | accusation | accusation |
+| αἰτία | causal factor | cause |
+| αἰτία | blame | blame |
+| αἰτία | responsibility | responsibility |
+| ἔγκλημα | formal legal complaint | complaint |
+| διαφορά | point in dispute | difference |
+| στάσις | internal armed conflict | civil war |
+| δύναμις | power | power |
+| δύναμις | an armed force | force |
+| παρασκευή | military preparations | preparations; concrete fitted-out force: armament |
+| δουλεία | subjection to a master | slavery (never softened) |
+| λόγος / ἔργον | the paired antithesis | word(s) / deed(s); speech, argument, account by sense |
+| χρήματα | financial resources | resources; ready money: money |
+| τεκμήριον | solid ground of inference | proof |
+| σημεῖον | sign, indication | sign |
+| μαρτύριον | witness-bearing evidence | testimony |
+| λῃστεία | robbery by sea | piracy |
+| λῃστεία | robbery by land | brigandage |
+| τὸ μυθῶδες | the fabulous element | the mythical |
+| σπονδαί | armistice treaty | truce |
+| ἐκεχειρία / ἀνοκωχή | formal armistice | armistice |
+| ξύμμαχοι / ξυμμαχία | allies / alliance | allies / alliance |
+| ἐπίκουρος / ἐπικουρία / βοήθεια | military help | help/aid |
+| ἀρχή | rule over others; the Athenian dominion | rule; empire for the developed Athenian system; never softened to “leadership” where subjects are meant |
+| ὑπήκοος | subject | subject |
+| αὐτονομία / αὐτόνομος | autonomy / autonomous | autonomy / autonomous |
+| τυραννίς / τύραννος | tyranny / tyrant | tyranny / tyrant |
+| βάρβαροι | non-Greek peoples | barbarians |
+| ναυτικόν | navy / fleet | fleet |
+| στρατηγός | Athenian commander | general |
+| οἰκιστής | founder of a colony | founder |
+| ἱκέτης / ἱκετεία | suppliant / supplication | suppliant / supplication |
+| τιμωρία | aid owed by a metropolis to a wronged colony | redress (punitive force retained) |
+| ἐπιτήδευμα | settled line of conduct | line of conduct |
+
+**Approved name forms beyond the core list:** Chersonese, Isthmus, Arne, Cadmeis, Ameinocles, Cyrus, Cambyses, Darius, Polycrates, Rhenea, Phocaeans, Massalia, Carthaginians, river Halys, Marathon, Chians, Lesbians, Hippias, Hipparchus, Harmodius, Aristogiton, Pisistratus, Thessalus, Leocorium, Panathenaic procession, Pitane (the Pitanate company), Arcadia/Arcadians, Phoenicians, Tyndareus, Helen, Mycenae, Heraclids, Pelopids, Perseids, Chrysippus, Philoctetes, Argos, peoples of Asia, Olympic games, Hellas; Taulantians, Phalius, Eratocleides, Heraeum, Apollonia, Cephallenia, Pala, Epidaurus, Hermione, Troezen, Thebes, Phlius, Elis, Sicyon, Ambracia, Phaeacians, Aristeus, Pellichus, Callicrates, Callias, Timanor, Timanthes, Archetimus, Eurytimus, Isarchidas, Isarchus, Actium, Apollo, Leukimme, Cyllene, Thesprotis, Samos/Samians, Italy, Sicily.
 
 ## Workflow for future books and languages
 
@@ -54,7 +93,7 @@ python3 scripts/build_original.py
 - `docs/grc/source.xml` and `source.json`: unmodified source and pinned provenance/hash.
 - `docs/de/book1.html`: the authoritative German edition; `docs/buch1.html` redirects old links.
 - `docs/assets/`: shared reader controls and eight locally bundled OFL fonts.
-- `scripts/`: original-text renderer and batch checker; `review/`: existing editorial notes.
+- `scripts/`: original-text renderer, batch checker, and translation assembler (`build_translation.py`); `review/`: editorial notes, including the translation-pipeline record for the new editions.
 - `README.md`: English project documentation; `README_DE.md`, `README_UK.md`, `README_HE.md`, `README_GRC.md`: localized documentation.
 
 There is no Markdown edition of the work and no `de_translations/` directory. Markdown remains in use for documentation and review notes. No build is required to read the HTML: open `docs/index.html` or serve `docs/` with GitHub Pages. The reader offers saved font and light/dark choices; dark mode uses warm yellow on black, light mode muted papyrus. Greek defaults to Source Serif 4; Hebrew editions must use RTL layout and suitable glyph fallbacks.
@@ -67,7 +106,7 @@ The **Original** reproduces the text of the cited modern edition, not an autogra
 
 The exact revision, source URL, SHA-256, and transformation are recorded in [source.json](docs/grc/source.json). The HTML normalizes whitespace and adds headings, section IDs, and navigation; it does not modernize or translate the wording. Preserve the source attribution and [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) for the source and the derived Greek HTML.
 
-The existing German translation is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); document the licensing of future contributions explicitly. Fonts retain their own [SIL OFL 1.1 licenses and copyright notices](docs/assets/fonts/README.md), separate from text licenses. Embedding and redistribution with the project are permitted under those terms.
+The existing German translation is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); document the licensing of future contributions explicitly. The English, Ukrainian, and Hebrew translations produced by the translation pipeline are likewise released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Fonts retain their own [SIL OFL 1.1 licenses and copyright notices](docs/assets/fonts/README.md), separate from text licenses. Embedding and redistribution with the project are permitted under those terms.
 
 ## Book structure
 

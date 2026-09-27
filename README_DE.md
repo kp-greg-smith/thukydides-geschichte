@@ -2,7 +2,7 @@
 
 [English](README.md) · [Deutsch](README_DE.md) · [Українська](README_UK.md) · [עברית](README_HE.md) · [Ἑλληνική](README_GRC.md)
 
-Eine mehrsprachige HTML-Leseausgabe des altgriechischen Originals und direkter Übersetzungen ins Deutsche, Englische, Ukrainische und Hebräische. Das Ziel umfasst alle acht Bücher; die Übersetzungen sind noch nicht vollständig. Diese Erweiterung des Projektumfangs fügt keine neuen Übersetzungen hinzu.
+Eine mehrsprachige HTML-Leseausgabe des altgriechischen Originals und direkter Übersetzungen ins Deutsche, Englische, Ukrainische und Hebräische. Das Ziel umfasst alle acht Bücher. Diese Umstellung fügt keine neuen Übersetzungen hinzu.
 
 [Leseportal öffnen](docs/index.html). Es zeigt den aktuellen Stand und verlinkt nur vorhandene Ausgaben.
 
@@ -14,7 +14,7 @@ Eine mehrsprachige HTML-Leseausgabe des altgriechischen Originals und direkter �
 | Deutsch (`de`) | Übersetzung | [Buch 1](docs/de/book1.html): 146 Kapitel, 580 Abschnitte | Bücher 2–8 nicht begonnen |
 | Englisch (`en`) | Übersetzung | Keine Bücher | Bücher 1–8 geplant |
 | Ukrainisch (`uk`) | Übersetzung | Keine Bücher | Bücher 1–8 geplant |
-| Hebräisch (`he`) | Übersetzung, von rechts nach links | Keine Bücher | Bücher 1–8 geplant |
+| Hebräisch (`he`) | Übersetzung, von rechts nach links | Keine Bücher | Bücher 2–8 geplant |
 
 „Vorhanden“ bezeichnet den Umfang, keine Fehlerfreiheit. Buch 1 hat eine bestehende Überarbeitungsgeschichte, einschließlich der am 27.09.2026 dokumentierten abschnittweisen Prüfung der Kapitel 31–117. Diese Umstellung erhält alle 580 deutschen Abschnitte; sie ist keine erneute philologische Prüfung. Übersetzte READMEs sind Projektdokumentation und zählen nicht als übersetzte Bücher.
 
@@ -76,7 +76,7 @@ python3 scripts/build_original.py
 - `docs/grc/source.xml` und `source.json`: unveränderter Quelltext und genaue Herkunft samt Prüfsumme.
 - `docs/de/book1.html`: maßgebliche deutsche Ausgabe; `docs/buch1.html` leitet alte Links weiter.
 - `docs/assets/`: gemeinsame Gestaltung und acht lokal gespeicherte OFL-Schriften.
-- `scripts/`: Originaltext-Renderer und Prüfskript; `review/`: bestehende redaktionelle Notizen.
+- `scripts/`: Originaltext-Renderer, Prüfskript und Übersetzungszusammensetzer (`build_translation.py`); `review/`: redaktionelle Notizen, darunter die Prozessdokumentation der neuen Übersetzungen.
 - `README.md`: englische Dokumentation; `README_DE.md`, `README_UK.md`, `README_HE.md`, `README_GRC.md`: Sprachfassungen.
 
 Keine Markdown-Ausgabe des Werkes und kein Ordner `de_translations/` mehr. Markdown bleibt für Dokumentation und Prüfnotizen bestehen. Zum Lesen genügt `docs/index.html`; GitHub Pages veröffentlicht `docs/`. Schrift- und Farbauswahl werden gespeichert. Dunkelmodus: warmes Gelb auf Schwarz; heller Modus: gedämpftes Papyrus. Für Griechisch ist Source Serif 4 voreingestellt; Hebräisch benötigt RTL-Layout und passende Ersatzschriften.
@@ -89,7 +89,7 @@ Das **Original** gibt den Text der genannten modernen Edition wieder, kein Autog
 
 Revision, Quell-URL, SHA-256 und Umwandlung stehen in [source.json](docs/grc/source.json). Die HTML-Ausgabe vereinheitlicht Leerraum und ergänzt Überschriften, Abschnittskennungen und Navigation; der Wortlaut wird nicht modernisiert oder übersetzt. Quellenangabe und [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) für Quelle und griechische HTML-Ausgabe erhalten.
 
-Die vorhandene deutsche Übersetzung steht unter [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); die Lizenz künftiger Beiträge ausdrücklich dokumentieren. Die Schriften behalten ihre eigenen [SIL-OFL-1.1-Lizenzen und Copyright-Hinweise](docs/assets/fonts/README.md). Einbettung und Weitergabe mit dem Projekt sind unter diesen Bedingungen erlaubt.
+Die vorhandene deutsche Übersetzung steht unter [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); die Lizenz künftiger Beiträge ausdrücklich dokumentieren. Die im Übersetzungsablauf entstandenen englischen, ukrainischen und hebräischen Übersetzungen stehen ebenfalls unter [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Die Schriften behalten ihre eigenen [SIL-OFL-1.1-Lizenzen und Copyright-Hinweise](docs/assets/fonts/README.md). Einbettung und Weitergabe mit dem Projekt sind unter diesen Bedingungen erlaubt.
 
 ## Aufbau des Werkes
 
