@@ -1331,32 +1331,57 @@
 
 ### Kapitel 111
 
-§1 Nach den Perserkriegen gab es dreißigjährigen Frieden zwischen Athen und Sparta. Beide waren erschöpft und wollten die Teilung der Macht. Aber der Friede hielt nicht, wie es schien.
+§1 Aus Thessalien aber überredete Orestes, Sohn des Echekratides, König der Thessaler, fliehend die Athener, ihn zurückzuführen. Und die Athener nahmen die Böoter und Phoker als Bundesgenossen zu Hilfe und zogen gegen Pharsalos in Thessalien. Und sie beherrschten das Land, soweit sie nicht von den Waffen weg weit vorgingen (die Reiter der Thessaler nämlich hinderten sie, mit den Waffen weiter vorzudringen).
 
+§2 Danach nicht viel später stiegen tausend Athener auf die Schiffe in Pegai — sie hielten selbst Pegai — und fuhren unter Perikles, Sohn des Xanthippos, führend, gegen Sikyon, und landeten und besiegten die herankommenden Sikyonier in der Schlacht.
+
+§3 Und sofort nahmen sie Achaier auf und fuhren hinüber an Akarnanien vorbei nach Oiniadai und zogen dorthin und belagerten; sie nahmen es aber nicht, sondern kehrten heim.
 ---
 
 ### Kapitel 112
 
-§1 Samos fiel von Athen ab. Nach Samos fielen auch Byzantion und andere ab. Perikles belagerte Samos neun Monate. Samos musste sich ergeben und die Flotte ausliefern.
+§1 Später, als drei Jahre vergangen waren, wurden zwischen Peloponnesiern und Athenern fünfjährige Verträge geschlossen.
 
+§2 Und sie hörten auf, griechischen Krieg zu führen, und zogen gegen Kypros mit zweihundert eigenen und bundesgenössischen Schiffen unter Kimon führend.
+
+§3 Und sechzig Schiffe fuhren von ihnen nach Ägypten — auf die Bitte des Amyrtaios, des Königs in den Sümpfen; die übrigen belagerten Kition.
+
+§4 Als Kimon gestorben war und Hungersnot entstanden war, zogen sie von Kition weg; und an Salamis in Kypros vorbeifahrend, lieferten sie den Phöniziern und Kypriern und Kilikiern See- und Landschlacht zugleich; und in beiden siegend, zogen sie heim, und die Schiffe aus Ägypten kamen mit ihnen wieder.
+
+§5 Die Lakedaimonier aber führten danach den sogenannten Heiligen Krieg und gaben, obsiegend, das Heiligtum in Delphi den Delphern; später aber gewannen es die Athener, nachdem jene abgezogen waren, zurück und gaben es den Phokern.
 ---
 
 ### Kapitel 113
 
-§1 So wuchs Athen. Die Athener eroberten die Macht und die Herrschaft. In Sparta wuchs die Furcht. Der wahre Grund keimte.
+§1 Und als Zeit vergangen war, zogen die Athener — gegen die Böoter, die geflüchtet waren und Orchomenos und Chaironeia und einige andere Orte Böotiens hielten — mit tausend eigenen Hopliten und den Bundesgenossen, jeder wie er konnte, gegen diese feindlichen Orte, unter Tolmides, Sohn des Tolmaios, führend. Und Chaironeia nahmen sie ein.
 
+§2 Und als sie nach Koroneia kamen, überfielen sie die aus Orchomenos Geflüchteten Böoter und die Lokrer mit ihnen und Euböer-Geflüchtete und die, welche derselben Meinung waren; und in der Schlacht siegend, vernichteten sie die Athener und nahmen die Lebenden gefangen.
+
+§3 Und die Athener räumten ganz Böotien und schlossen Verträge, worauf sie die Männer zurückerhalten würden.
+
+§4 Und die geflüchteten Böoter kehrten zurück, und alle wurden wieder autonom.
 ---
 
 ### Kapitel 114
 
-§1 Aus Euböa fielen einige Städte ab. Athen unterwarf sie wieder. Aber die Furcht Spartas stieg. Die Zeit des Friedens war bald vorbei.
+§1 Danach nicht viel später fiel Euböa von den Athenern ab. Und als Perikles schon mit dem Heer der Athener hinübergegangen war, wurde ihm gemeldet, dass Megara abgefallen sei und die Peloponnesier im Begriff stünden, in Attika einzubrechen, und die Wachen der Athener von den Megarern vernichtet seien — außer denen, die nach Nisaia entkommen waren.
 
+§2 Und danach fielen die Peloponnesier in Attika ein und verwüsteten Eleusis und Thria, unter Pleistoanax, Sohn des Pausanias, König der Lakedaimonier, führend; und nicht weiter vorgehend, zogen sie heim.
+
+§3 Und die Athener gingen wieder nach Euböa hinüber, unter Perikles führend, und unterwarfen die ganze Insel; das Übrige ordneten sie durch Übereinkunft; Hestiaia aber vertrieben sie und besaßen selbst das Land.
 ---
 
 ### Kapitel 115
 
-§1 So standen die Griechen geteilt: Athen und Sparta, eine Macht zu Lande, die andere zu Wasser. Die einen gegen die anderen. Der Krieg war unvermeidlich.
+§1 Nach dem Rückzug von Euböa schlossen sie nicht viel später mit den Lakedaimoniern und den Bundesgenossen dreißigjährige Verträge, Nisaia und Pegai und Troizen und Achaia zurückgebend — das hatten die Athener von den Peloponnesiern inne.
 
+§2 Im sechsten Jahr entstand zwischen Samiern und Miletensern Krieg um Priene; und die Miletenser, im Krieg unterlegen, kamen zu den Athenern und klagten gegen die Samier. Es betrieben auch aus Samos selbst Privatmänner eine Umwälzung der Verfassung.
+
+§3 Die Athener fuhren also mit vierzig Schiffen nach Samos, setzten die Demokratie ein und nahmen Geiseln der Samier — fünfzig Kinder und ebenso viele Männer — und setzten sie auf Lemnos fest, und ließen eine Wache zurück und zogen heim.
+
+§4 Von den Samiern aber waren einige, die es nicht aushielt: Sie flohen aufs Festland, verständigten sich mit den Mächtigsten in der Stadt und mit Pissuthnes, Sohn des Hystaspes, der damals Sardeis hielt; und Helfer sammelnd — siebenhundert — setzten sie bei Nacht nach Samos über.
+
+§5 Und zuerst standen sie gegen die Demokratie auf und beherrschten das meiste; dann die Geiseln aus Lemnon entführend, fielen sie ab; und die Wachen der Athener und die Amtsträger, die bei ihnen waren, lieferten sie dem Pissuthnes aus; und gegen Milet machten sie sich sofort bereit zu ziehen. Und mit ihnen fielen die meisten Byzantier ab.
 ---
 
 ### Kapitel 116
