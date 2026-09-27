@@ -79,6 +79,13 @@ Zweitprüfung: work/en/review/batch03.md. Meldungen: 15 in 18 Abschnitten (1 Blo
 - Entscheidungen: 1.22.1 ἐχομένῃ adverbial; 1.23.6 πρόφασις/αἰτίαι nach Sinn (truest ground / accusations) mit knapper Anmerkung zur crux; 1.25.4→1.26.1 und 1.26.5→1.27.1 typografischer Satzschluss beim Anakoluthon (wie in der deutschen Referenz), Konnektiv erhalten.
 Alle Meldungen angenommen.
 
+### Kap. 31–40 (Batch 04) — 45 Abschnitte
+Zweitprüfung: work/en/review/batch04.md. Meldungen: 14 in 13 Abschnitten (1 Blocker, 13 Minor).
+- Blocker 1.35.5: τοὺς μεταστάντας = die eigenen Überläufer Korinths („any who desert them“); Umkehrung vor Veröffentlichung korrigiert.
+- Ausgewählte Fixes: 1.32.5 (naval battle; Zusatz „without allies“ entfernt), 1.33.1 (βλάπτω = harming), 1.33.4 (Geben/Empfangen des Bündnisses), 1.34.3 (ἐκ τοῦ εὐθέος = point-blank), 1.35.4 (δύναμις = power; receiving us openly), 1.35.5 (ἀλλοτρίωσις-Vergleich), 1.37.3 (self-sufficing position; βλάπτω = hurt), 1.38.5 (unerfülltes καλὸν εἶξai als Irrealis), 1.38.6 (τιμωρία = redress), 1.39.2 (at difference), 1.39.3 (χρῆν: die Korkyräer als Handelnde), 1.40.5 (κολάζειν = punish).
+Redenzeichen: gemäß Beschluss entfernt; Prüfer bestätigt deren Fehlen im Lauftext.
+Alle Meldungen angenommen.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
@@ -88,12 +95,13 @@ Alle Meldungen angenommen.
 - 1.20.2 — fehlendes Verb der Information ergänzt („learning from their confederates“).
 - 1.24.4 ἀπὸ πολέμου τινός — Anknüpfung an die Zerstörung (Mehrheitslesart), Alternative dokumentiert.
 - 1.25.4→1.26.1, 1.26.5→1.27.1 — Anakoluthon an der Kapitelgrenze; typografischer Satzschluss, Konnektiv erhalten.
+- 1.31.3 τὸ αὐτῶν — auf die athenische Flotte bezogen (übliche Lesart), Alternative dokumentiert.
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 109 in den Kapiteln 1–30 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 109 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 45 Fundstellen (2 Blocker, 43 Minor).
+- Übersetzte Abschnitte: 154 in den Kapiteln 1–40 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 154 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 59 Fundstellen (3 Blocker, 56 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
 - Nicht veröffentlicht, obwohl work in progress: Kapitel 51–60 sind Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 61–146 noch nicht begonnen.
