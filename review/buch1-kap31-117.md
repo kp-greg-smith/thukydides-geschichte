@@ -1680,3 +1680,208 @@ Editorische Klammer in **100.3**: [αἱ Ἐννέα ὁδοί] wiederholt den b
 Alle 24 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 91 --end 100`: 39/39 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Kapitel 101–110
+
+Geprüft: **42 Abschnitte**; geändert: **20 Abschnitte**.
+
+Prüfliste: 101.1, 101.2, 101.3, 102.1, 102.2, 102.3, 102.4, 103.1, 103.2, 103.3, 103.4, 104.1, 104.2, 105.1, 105.2, 105.3, 105.4, 105.5, 105.6, 106.1, 106.2, 107.1, 107.2, 107.3, 107.4, 107.5, 107.6, 107.7, 108.1, 108.2, 108.3, 108.4, 108.5, 109.1, 109.2, 109.3, 109.4, 110.1, 110.2, 110.3, 110.4, 110.5.
+
+### 101.2 · Änderung 1
+
+- Griechisch: ὑπέσχοντο … κρύφα τῶν Ἀθηναίων καὶ ἔμελλον
+- Alt: Die sagten den Athenern gegenüber heimlich zu und waren im Begriff
+- Neu: Die sagten es ohne Wissen der Athener zu und waren im Begriff, einzufallen
+- Begründung: Adressaten sind die Thasier; vor den Athenern wird die Zusage geheim gehalten. Fehlenden Infinitiv ergänzt.
+
+### 101.3 · Änderung 2
+
+- Griechisch: χρήματά … αὐτίκα ταξάμενοι καὶ τὸ λοιπὸν φέρειν
+- Alt: sofort eine bestimmte Summe Geldes festsetzend zu zahlen und das Übrige fortan zu entrichten — und das Festland und das Bergwerk aufgebend
+- Neu: die festgesetzte Summe an Mitteln sofort zu zahlen und künftig weitere Zahlungen zu leisten sowie das Festland und das Bergwerk aufzugeben
+- Begründung: τὸ λοιπὸν ist zeitlich („künftig“), kein Restbetrag; unverbundene Partizipien berichtigt.
+
+### 102.2 · Änderung 3
+
+- Griechisch: τούτου ἐνδεᾶ ἐφαίνετο
+- Alt: erschien ihnen die eigene Sache unzulänglich
+- Neu: zeigte sich, dass den Lakedaimoniern diese Fähigkeit fehlte
+- Begründung: τούτου bezieht sich auf die Fähigkeit zum Mauerkampf.
+
+### 102.4 · Änderung 4
+
+- Griechisch: οὐκ ἐπὶ τῷ βελτίονι λόγῳ … τινος ὑπόπτου
+- Alt: nicht zum Besseren entlassen wurden, sondern weil etwas Verdächtiges aufgekommen war
+- Neu: nicht aus dem freundlicher klingenden angegebenen Grund entlassen wurden, sondern weil Misstrauen aufgekommen war
+- Begründung: Unterschied zwischen offizieller Begründung und tatsächlichem Misstrauen.
+
+### 102.4 · Änderung 5
+
+- Griechisch: πρὸς Θεσσαλοὺς ἅμα ἀμφοτέροις οἱ αὐτοὶ ὅρκοι καὶ ξυμμαχία κατέστη
+- Alt: und verbündeten sich mit deren Feinden, den Argivern, und zugleich mit den Thessalern. Denn mit beiden gingen sie dieselben Eide ein.
+- Neu: und verbündeten sich mit deren Feinden, den Argivern. Zugleich schlossen beide mit den Thessalern dasselbe durch Eide bekräftigte Bündnis.
+- Begründung: ἀμφοτέροις meint Athener und Argiver, die beide mit Thessalien das Bündnis eingehen.
+
+### 103.2 · Änderung 6
+
+- Griechisch: τὸν ἱκέτην τοῦ Διὸς τοῦ Ἰθωμήτα
+- Alt: den Schützling des Zeus Ithomates
+- Neu: den Schutzflehenden des Zeus Ithomates
+- Begründung: ἱκέτης bezeichnet den Schutzsuchenden im Heiligtum, nicht allgemein einen Begünstigten.
+
+### 103.4 · Änderung 7
+
+- Griechisch: αὐτοὺς Κορίνθιοι … πολέμῳ κατεῖχον
+- Alt: weil sie die Korinther mit Krieg über die Grenzen des Landes bedrängten
+- Neu: weil die Korinther sie wegen der Landesgrenzen mit Krieg bedrängten
+- Begründung: Die Korinther bedrängen Megara, nicht umgekehrt.
+
+### 104.1 · Änderung 8
+
+- Griechisch: Λίβυς, βασιλεὺς Λιβύων
+- Alt: Lybier, König der Lybier
+- Neu: Libyer, König der Libyer
+- Begründung: Fehlerhafte deutsche Schreibweise des Volksnamens.
+
+### 104.1 · Änderung 9
+
+- Griechisch: ἀπέστησεν … καὶ … ἐπηγάγετο
+- Alt: los Und
+- Neu: los. Und
+- Begründung: Fehlendes Satzzeichen ergänzt.
+
+### 105.2 · Änderung 10
+
+- Griechisch: ναυμαχία … Ἀθηναίων καὶ Αἰγινητῶν
+- Alt: eine große Seeschlacht Athener und Aigineten
+- Neu: eine große Seeschlacht zwischen Athenern und Aigineten
+- Begründung: Fehlende Präposition ergänzt.
+
+### 105.2 · Änderung 11
+
+- Griechisch: ναῦς ἑβδομήκοντα λαβόντες … ἀπέβησαν καὶ ἐπολιόρκουν … στρατηγοῦντος
+- Alt: und die Athener siegten und gingen mit siebzig eroberten Schiffen ins Land und belagerten, unter Leokrates, Sohn des Stroibos, führend
+- Neu: und die Athener siegten, eroberten siebzig ihrer Schiffe, gingen an Land und belagerten die Stadt unter der Führung des Leokrates, Sohn des Stroibos
+- Begründung: Abfolge von Eroberung, Landung und Belagerung samt Feldherrn grammatisch hergestellt.
+
+### 105.3 · Änderung 12
+
+- Griechisch: τὰ ἄκρα τῆς Γερανείας
+- Alt: die Spitze der Geraneia
+- Neu: die Höhen der Geraneia
+- Begründung: Plural der Gebirgshöhen erhalten.
+
+### 105.5 · Änderung 13
+
+- Griechisch: μάχης … ἰσορρόπου … ἐν τῷ ἔργῳ
+- Alt: Und eine Schlacht von gleichem Gewicht wurde den Korinthern geliefert; sie trennten sich voneinander, und beide glaubten, im Werk nicht unterlegen zu sein.
+- Neu: Nach einer unentschiedenen Schlacht gegen die Korinther trennten sie sich voneinander, und beide glaubten, im Kampf nicht unterlegen zu sein.
+- Begründung: Unverständliche Übertragung von ἰσόρροπος und ἔργον im militärischen Kontext berichtigt.
+
+### 105.6 · Änderung 14
+
+- Griechisch: ὡς νικήσαντες
+- Alt: ein Siegeszeichen als Sieger
+- Neu: ein Siegeszeichen im Glauben, gesiegt zu haben
+- Begründung: Beanspruchter Sieg als Sicht der Korinther erhalten.
+
+### 106.2 · Änderung 15
+
+- Griechisch: κατέλευσαν πάντας
+- Alt: erschlugen alle
+- Neu: steinigten alle
+- Begründung: Die ausdrücklich genannte Tötungsart ergänzt.
+
+### 107.3 · Änderung 16
+
+- Griechisch: διὰ τοῦ Κρισαίου κόλπου … περαιοῦσθαι … περιπλεύσαντες
+- Alt: Zur See aber würden die Athener, um den Krisäischen Golf herumfahrend, sie hindern, falls sie überzusetzen beabsichtigten
+- Neu: Zur See aber würden die Athener mit Schiffen herumsegeln und sie hindern, falls sie durch den Krisäischen Golf überzusetzen beabsichtigten
+- Begründung: Der Golf ist die Überquerungsroute der Peloponnesier, nicht das von den Athenern umsegelte Gebiet.
+
+### 107.4 · Änderung 17
+
+- Griechisch: τὸ δέ τι καὶ ἄνδρες τῶν Ἀθηναίων ἐπῆγον αὐτοὺς κρύφα
+- Alt: Eine Anzahl Männer von den Athenern aber trieb sie insgeheim dazu an
+- Neu: Zum Teil lag dies auch daran, dass einige Athener sie heimlich herbeiriefen
+- Begründung: Weiteren Beweggrund und Herbeirufen statt bloßem Antreiben wiedergegeben.
+
+### 108.3 · Änderung 18
+
+- Griechisch: μάχῃ … νικήσαντες
+- Alt: Und mit der Schlacht bei Oinophytoi die Böoter besiegtend, beherrschten sie
+- Neu: Und nachdem sie die Böoter in der Schlacht bei Oinophytoi besiegt hatten, beherrschten sie
+- Begründung: Fehlerhafte deutsche Partizipbildung beseitigt.
+
+### 109.2 · Änderung 19
+
+- Griechisch: χρήματα ἔχοντα
+- Alt: mit Geld
+- Neu: mit Mitteln
+- Begründung: Glossarentsprechung.
+
+### 109.3 · Änderung 20
+
+- Griechisch: τὰ χρήματα ἄλλως ἀνηλοῦτο
+- Alt: das Geld anders verbraucht wurde
+- Neu: die Mittel vergeblich verbraucht wurden
+- Begründung: ἄλλως bedeutet hier erfolglos, nicht anders.
+
+### 109.3 · Änderung 21
+
+- Griechisch: τὰ λοιπὰ τῶν χρημάτων
+- Alt: mit dem übrigen Geld
+- Neu: mit den übrigen Mitteln
+- Begründung: Glossarentsprechung.
+
+### 109.3 · Änderung 22
+
+- Griechisch: Μεγάβυζον … πέμπει
+- Alt: er sandte Megabysos
+- Neu: der König sandte Megabyzos
+- Begründung: Falschen Namenskonsonanten und unklaren Subjektwechsel berichtigt.
+
+### 110.1 · Änderung 23
+
+- Griechisch: τὰ τῶν Ἑλλήνων πράγματα ἐφθάρη ἓξ ἔτη πολεμήσαντα
+- Alt: So gingen die Sachen der Griechen zugrunde, sechs Jahre kämpfend
+- Neu: So ging das Unternehmen der Griechen nach sechsjährigem Kampf zugrunde
+- Begründung: Die griechischen Unternehmungen sind gemeint; deutsche Partizipialkonstruktion war unverständlich.
+
+### 110.3 · Änderung 24
+
+- Griechisch: ὁ Λιβύων βασιλεύς
+- Alt: der Lybierkönig
+- Neu: der König der Libyer
+- Begründung: Fehlerhafte Schreibweise des Volksnamens.
+
+### 110.3 · Änderung 25
+
+- Griechisch: ἀνεσταυρώθη
+- Alt: gekreuzigt.
+- Neu: gekreuzigt. [Anm.: Das griechische Verb kann auch das Pfählen bezeichnen; die genaue Hinrichtungsart bleibt hier unsicher.]
+- Begründung: Lexikalische Deutungsfrage gekennzeichnet; bestehende mögliche Übersetzung nicht durch eine ebenfalls unsichere ersetzt.
+
+### 110.4 · Änderung 26
+
+- Griechisch: διάδοχοι
+- Alt: als Nachschub
+- Neu: als Ablösung
+- Begründung: διάδοχοι bezeichnet die Ablösung der vorherigen Streitmacht.
+
+### 110.4 · Änderung 27
+
+- Griechisch: αἱ δ’ ἐλάσσους διέφυγον πάλιν
+- Alt: die wenigen entkamen wieder
+- Neu: der kleinere Teil entkam wieder
+- Begründung: Die Angabe ist relativ zur größeren Zahl verlorener Schiffe, nicht absolut „wenige“.
+
+### Unsicher, bitte prüfen
+
+- **110.3:** „ἀνεσταυρώθη“ wird im [Lexicon Thucydideum zur Stelle](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alexicon-thucydideum-337/) mit Kreuzigung verbunden; die [lexikalische Übersicht bei Perseus](https://atlas.perseus.tufts.edu/dictionaries/headword/%E1%BC%80%CE%BD%CE%B1%CF%83%CF%84%CE%B1%CF%85%CF%81%CF%8C%CF%89/) nennt auch Pfählen. „Gekreuzigt“ bleibt mit einer Anmerkung erhalten. Die genaue historische Hinrichtungsart wird nicht entschieden.
+
+### Nachprüfung
+
+Alle 20 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+
+`python3 scripts/check_translation.py --language de --book 1 --start 101 --end 110`: 42/42 Abschnitte, 0 Fehler, 0 Warnungen.
