@@ -668,61 +668,111 @@
 
 ### Kapitel 56
 
-§1 Sthenelaidas, einer der Ephoren, sprach zuletzt, kurz und scharf: »Athen hat Unrecht getan. Den Bundesgenossen muss geholfen werden. Lasst abstimmen!« Die Versammlung entschied nach der Stärke des Zurufs: Der Vertrag sei gebrochen, der Krieg nötig.
+§1 Nach diesen Ereignissen trugen sich sogleich folgende zwischen Athenern und Peloponnesiern zu, die zum Krieg führten.
+
+§2 Da die Korinther daran arbeiteten, sich an ihnen zu rächen, argwöhnten die Athener die Feindschaft der Potidaiaten — diese bewohnen die Landenge von Pallene, sind Kolonisten der Korinther, aber tributpflichtige Bundesgenossen Athens — und befahlen ihnen, die Mauer nach Pallene hin niederzureißen und Geiseln zu stellen, die jährlichen Amtsverweser auszuweisen und künftig diejenigen nicht mehr aufzunehmen, die Korinth Jahr für Jahr schickte. Sie fürchteten nämlich, Potidaia könne — von Perdikkas und den Korinthern überredet — abfallen, ebenso wie die übrigen Bundesgenossen in Thrakien gemeinsam mit ihnen abfallen würden.
 
 ---
 
 ### Kapitel 57
 
-§1 So erklärte Sparta den Vertrag für gebrochen und lud die peloponnesischen Bundesgenossen ein. Die Mehrheit stimmte für den Krieg.
+§1 Diese Vorbereitungen gegen die Potidaiaten trafen die Athener unmittelbar nach der Seeschlacht bei Kerkyra.
+
+§2 Denn die Korinther waren bereits offen feindselig, und Perdikkas, Sohn Alexanders, König der Makedonen, war ihnen zuvor Bundesgenosse und Freund gewesen und war feind geworden.
+
+§3 Feind geworden war er, weil die Athener mit seinem Bruder Philipp und Derdas, die sich gemeinsam gegen ihn wandten, ein Bündnis geschlossen hatten.
+
+§4 Aus Furcht arbeitete er darauf hin, einerseits nach Sparta zu senden, damit Krieg zwischen ihnen und den Peloponnesiern entstehe, und andererseits die Korinther für den Abfall Potidaias zu gewinnen.
+
+§5 Er wandte sich auch mit Worten an die Chalkidier und Bottiaeer in Thrakien, gemeinsam abzufallen; er glaubte nämlich, wenn er diese als Verbündete hätte — ihre Gebiete grenzten an —, den Krieg leichter mit ihnen führen zu können.
+
+§6 Als die Athener dies merkten und den Abfall der Städte vorwegnehmen wollten — es traf sich, dass sie dreißig Schiffe und tausend Hopliten in sein Land sandten, unter dem Befehl des Archestratos, Sohn des Lykomedes, mit zehn (weiteren) Feldherrn [Anm.: Die Zahl der Feldherrn ist textkritisch unsicher.] —, schrieben sie den Befehlshabern der Schiffe vor, von den Potidaiaten Geiseln zu nehmen und die Mauer niederzureißen sowie die Nachbarstädte zu bewachen, damit sie nicht abfielen.
 
 ---
 
 ### Kapitel 58
 
-§1 Beide rüsteten. Die Spartaner fragten in Delphi; der Gott antwortete: »Wenn ihr mit ganzer Macht kämpft, werdet ihr siegen. Ich werde bei euch sein.«
+§1 Die Potidaiaten schickten Gesandte nach Athen, um die Athener womöglich davon abzubringen, gegen sie etwas Neues zu unternehmen; zugleich gingen sie mit den Korinthern nach Sparta und arbeiteten darauf hin, für den Fall, dass es nötig würde, gerüstet zu sein. Da sie aber, obwohl sie sich in Athen lange bemüht hatten, nichts Erreichbares fanden — die Schiffe segelten gegen Makedonien und gegen sie gleichermaßen —, und die Behörden der Lakedaimonier ihnen zusagten, wenn Athen gegen Potidaia ziehe, in Attika einzufallen, da fielen sie zu dieser Zeit ab, gemeinsam mit den Chalkidiern und Bottiaeern, mit gemeinsamem Schwur.
+
+§2 Und Perdikkas überredete die Chalkidier, die Küstenstädte zu verlassen, niederzureißen und sich in Olynthos niederzulassen, diese eine Stadt stark zu machen; denen, die ihre Städte verließen, gab er Land seines eigenen Gebietes, Mygdonia am Bolbe-See, zu nutzen, solange der Krieg gegen Athen dauerte. Und sie rissen ab und siedelten um und rüsteten sich zum Krieg.
 
 ---
 
 ### Kapitel 59
 
-§1 Während der Rüstungen schickten beide Gesandte an den Großkönig und zu den Bundesgenossen. Ganz Griechenland war in Erregung. Der wahre Grund aber: die athenische Macht und die spartanische Furcht davor.
+§1 Die dreißig Schiffe der Athener kamen nach Thrakien und fanden Potidaia und die übrigen Städte abgefallen.
+
+§2 Die Feldherrn glaubten, mit der gegenwärtigen Macht weder gegen Perdikkas noch gegen die gemeinsam abgefallenen Gebiete kämpfen zu können, und wandten sich gegen Makedonien — wohin sie zunächst ohnehin ausgesandt worden waren —; dort angelangt, kämpften sie mit Philipp und den Brüdern des Derdas, die von oben her mit einem Heer eingefallen waren.
 
 ---
 
 ### Kapitel 60
 
-§1 Die Vorgeschichte des Krieges und seine Vorbereitungen sind erzählt. Der Krieg selbst beginnt nun. Die vierzehn Jahre des dreißigjährigen Friedens waren um; im fünfzehnten fiel der Krieg über Griechenland her.
+§1 Während dieser Zeit sandten die Korinther — da Potidaia abgefallen war und die athenischen Schiffe sich bei Makedonien befanden —, in Furcht um den Ort und die Sache als eigene Gefahr ansehend, ihre eigenen Freiwilligen und überredeten durch Sold andere Peloponnesier, im Ganzen tausendsechshundert Hopliten und vierhundert Leichtbewaffnete.
+
+§2 Es befehligte sie Aristeus, Sohn des Adeimantos; aus Freundschaft mit ihm folgten vor allem viele korinthische Soldaten als Freiwillige; er war den Potidaiaten stets zugetan.
+
+§3 Und sie kamen am vierzigsten Tag danach in Thrakien an, nachdem Potidaia abgefallen war.
 
 ---
 
 ### Kapitel 61
 
-§1 Die Potidaiaten verteidigten sich tapfer. Die Athener belagerten sie den Winter hindurch. Aristeus führte Ausfälle durch, konnte die Belagerung aber nicht brechen.
+§1 Die Nachricht von dem Abfall der Städte kam auch den Athenern alsbald zu Ohren; und als sie hörten, dass die Leute unter Aristeus im Anzug waren, sandten sie zweitausend eigene Hopliten und vierzig Schiffe gegen die Abgefallenen und als fünften Feldherrn Kallias, Sohn des Kalliades.
+
+§2 Diese kamen zuerst nach Makedonien und trafen auf die früheren tausend Mann, die eben Therme eingenommen hatten und Pydna belagerten.
+
+§3 Als auch sie sich davor legten, belagerten sie Pydna; dann aber schlossen sie ein Übereinkommen und das notwendige Bündnis mit Perdikkas — da Potidaia und der angekommene Aristeus sie bedrängten — und zogen aus Makedonien ab.
+
+§4 Und nach Beroia gekommen, von dort gegen Strepsa, und den Ort zuerst vergeblich versucht habend, rückten sie zu Land gegen Potidaia — mit dreitausend eigenen Hopliten, von den Bundesgenossen abgesehen, und sechshundert makedonischen Reitern unter Philipp und Pausanias; zur See liefen siebzig Schiffe parallel.
+
+§5 Schrittweise rückend kamen sie am dritten Tag nach Gigonos und schlugen ein Lager.
 
 ---
 
 ### Kapitel 62
 
-§1 Die peloponnesischen Bundesgenossen versammelten sich auf dem Isthmos. Archidamos führte das Heer nach Attika. Athen zog sich hinter die Mauern zurück, wie Perikles geraten hatte.
+§1 Die Potidaiaten und die Peloponnesier unter Aristeus erwarteten die Athener und lagerten auf dem Isthmos vor Olynthos und errichteten einen Markt außerhalb der Stadt.
+
+§2 Zum Befehlshaber des ganzen Fußvolks hatten die Bundesgenossen Aristeus gewählt, der Reiterei Perdikkas — dieser war nämlich sogleich wieder von den Athenern abgefallen und kämpfte mit den Potidaiaten, nachdem er statt seiner Iolaos als Anführer eingesetzt hatte.
+
+§3 Die Meinung des Aristeus war, mit dem eigenen Heerlager auf dem Isthmos die Athener zu bewachen, wenn sie kämen; die Chalkidier und die Bundesgenossen außerhalb des Isthmos und die zweihundert Reiter des Perdikkas aber sollten in Olynthos bleiben und, wenn die Athener gegen sie zögen, ihnen in den Rücken fallend die Feinde von beiden Seiten fassen.
+
+§4 Kallias aber, der athenische Feldherr, und die Mitfeldherrn sandten die makedonischen Reiter und wenige der Bundesgenossen gegen Olynthos, um die von dort her Beistehenden abzuwehren; sie selbst hoben das Lager und rückten gegen Potidaia.
+
+§5 Als sie am Isthmos ankamen und die Gegner sich zur Schlacht rüsteten, stellten auch sie sich auf, und nicht viel später mischten sie sich ineinander.
+
+§6 Und der Flügel des Aristeus selbst und alle um ihn — die Eliten der Korinther und der anderen — wandten die Ihren und setzten in der Verfolgung weit nach; das übrige Heer der Potidaiaten und Peloponnesier aber wurde von den Athenern besiegt und floh in die Mauer.
 
 ---
 
 ### Kapitel 63
 
-§1 Die Athener zogen die Landbevölkerung herein. Alle drängten sich in die Stadt. Schwer fiel es ihnen, ihre Häuser zu verlassen. Die alten Leute jammerten; die Jungen wollten kämpfen.
+§1 Als Aristeus von der Verfolgung zurückkehrte und sah, dass das übrige Heer besiegt war, war er unschlüssig, wohin er sich wenden solle — gegen Olynthos oder nach Potidaia. Es schien ihm richtig, die Seinigen, soweit es ging, mit einem Lauf in engstem Raum nach Potidaia hinein zu werfen; und er kam an der Fahrwassermündung vorbei, indem er sich durch das Meer warf — mit Mühe; einige verlor er, die meisten aber rettete er.
+
+§2 Die von Olynthos — als Helfer den Potidaiaten, es liegt etwa sechzig Stadien entfernt und ist sichtbar — rückten etwas hervor, um zu helfen, als die Schlacht begann und die Zeichen gegeben waren, und die makedonischen Reiter stellten sich ihnen entgegen; als aber der Sieg der Athener schnell kam und die Zeichen niedergelegt waren, zogen sie sich wieder in die Mauer zurück, und die Makedonen zu den Athenern; an Reiterei mangelte es auf keiner Seite.
+
+§3 Nach der Schlacht errichteten die Athener ein Siegeszeichen und gaben die Toten gegen Vertrag den Potidaiaten zurück. Es fielen von den Potidaiaten und den Bundesgenossen wenig weniger als dreihundert, von den Athenern selbst hundertzfünfzig samt dem Feldherrn Kallias.
 
 ---
 
 ### Kapitel 64
 
-§1 Perikles hielt die Athener zurück. Er ließ die Reiterei und die Schiffe gegen die Peloponnes auslaufen. Die peloponnesische Flotte wurde vertrieben.
+§1 Die Mauer am Isthmos befestigten die Athener sogleich und besetzten sie; die nach Pallene hin war unbefestigt. Sie glaubten nämlich nicht stark genug zu sein, am Isthmos zu bewachen und zugleich nach Pallene hinübergehend zu befestigen, aus Furcht, die Potidaiaten und die Bundesgenossen könnten ihnen, wenn sie geteilt wären, im Rücken liegen.
+
+§2 Als die Athener in der Stadt erfuhren, dass Pallene unbefestigt sei, sandten sie später tausendsechshundert eigene Hopliten unter dem Feldherrn Phormion, Sohn des Asopios. Als dieser nach Pallene gekommen war und von Aphytis aufbrach, führte er das Heer in kleinen Schritten heran und verheerte zugleich das Land; da niemand zum Kampf herauskam, befestigte er die Mauer nach Pallene.
+
+§3 Und so wurde Potidaia mit Gewalt von beiden Seiten belagert und zur See von Schiffen, die zugleich vor Anker lagen.
 
 ---
 
 ### Kapitel 65
 
-§1 Potidaia fiel nach zweijähriger Belagerung. Die Bedingungen waren Abzug der Besatzung, die Bürger durften ihre Stadt mit einem Gewand verlassen.
+§1 Als die Stadt befestigt war und Aristeus keine Hoffnung auf Rettung mehr sah — es sei denn, es käme etwas von der Peloponnes oder sonst etwas Ungewöhnliches —, beriet er: Alle außer fünfhundert sollten mit günstigem Wind aussegeln, damit das Getreide länger vorhalte; er selbst wollte bei den Bleibenden sein. Da er aber nicht überzeugte, und weil er für die Draußenstehenden und die Drinnenbleibenden das Beste vorbereiten wollte, fuhr er heimlich an der Wache der Athener vorbei hinaus.
+
+§2 Und bei den Chalkidiern bleibend, kämpfte er im Übrigen mit und überfiel bei der Stadt Sermyle viele und tötete sie; und er arbeitete darauf hin, dass von der Peloponnes irgendein Beistand komme.
+
+§3 Nach der Befestigung Potidaias brandschatzte Phormion mit den tausendsechshundert die chalkidische und bottiaeische Landschaft und nahm auch einige feste Plätze ein.
 
 ---
 
