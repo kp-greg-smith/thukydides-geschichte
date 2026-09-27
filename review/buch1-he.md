@@ -68,18 +68,28 @@ Zweitprüfung: work/he/review/batch02.md. Meldungen: 19 in 13 Abschnitten (2 Blo
 Entscheidungen wie pipeline-einheitlich: 1.18.1 (Kurzanmerkung), τὰ Μηδικά Singular, μεταβολές.
 Alle Meldungen angenommen.
 
+### Kap. 21–30 (Batch 03) — 44 Abschnitte
+Zweitprüfung: work/he/review/batch03.md. Meldungen: 16 (0 Blocker, 15 abschnittsbezogene Minor + 1 Hausvermerk).
+- Ausgewählte Fixes: 1.21.1 (λογογράφοι = מחברי דברי הימים, danach als Glossarfestlegung übernommen), 1.22.4 (ἀρκούντως = יספיק להם לשפוט כמועילים), 1.24.1 (βάρβαροι zu den Taulantiern ergänzt), 1.24.7 (ἱκέται = כמתחננים; Ἥραιον = בהראיון), 1.25.1 (ἐν ἀπόρῳ), 1.25.4 (צייהם), 1.27.2 (ethnische Formen: המגארים, התבנים, הפליאסים, האפידאורים), 1.28.1 (הסיקיונים), 1.28.2 (μαντεῖον = האורקל), 1.28.5 (Täter: Korkyräer), 1.29.2 (איסרכידס בן איסרכוס), 1.29.5 (αὐτοῖς), 1.30.3 (φθείρειν = החריבו בהם), תספרוטיה (Schreibweise festgelegt).
+- Offen belassen und dokumentiert: 1.29.1 κῆρυξ = כרוז (Kontext sichert die personale Lesart); veraltete interne Vermerke blieben stehen.
+Alle Meldungen entschieden; 15 umgesetzt, die λογογράφοι-Festlegung als nachträgliche Glossarentscheidung dokumentiert.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
 - 1.7.1 — Lesartentscheidung dokumentiert.
 - 1.9.4/1.10.4 — wie EN/UK (sinngemäß mit Anmerkung).
 - 1.18.1 — gestörte Überlieferung, sinngemäß mit Anmerkung.
+- 1.22.4 κτῆμα ἐς αὐτίκα ἀκούειν / ἐς αἰεί (Doppel-crux) — als יצירה לתחרות, הנשמעת לרגע / קניין לנצח beglaubigt.
+- 1.25.4→1.26.1, 1.26.5→1.27.1 — Anakoluthon-Typografie wie Referenz.
+- 1.29.1 κῆρυξ = כרוז — offen belassen (Kontext sichert die Person).
+- 1.27.1 ἀξίωσιν/χρείαν — spätes Verhältnis undurchsichtig, dokumentiert.
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 65 in den Kapiteln 1–20 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 65 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 40 Fundstellen (3 Blocker, 37 Minor).
+- Übersetzte Abschnitte: 109 in den Kapiteln 1–30 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 109 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 56 Fundstellen (3 Blocker, 53 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
 - Nicht veröffentlicht, obwohl work in progress: Kapitel 41–50: Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 51–60: Übersetzung im Gang; Kapitel 61–146 noch nicht begonnen.
