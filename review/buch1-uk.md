@@ -111,6 +111,19 @@ Zweitprüfung: work/uk/review/batch07.md. Meldungen: 29 in 24 Abschnitten (4 Blo
 - ch_062-Zwischenfall: keine Spuren in Übersetzung oder Quellbasis (Prüfer verglich alle 45 griechischen Abschnitte erneut mit source.xml — 100 %, «τὴν παρὰ Περδίκκου» einmal wie überliefert).
 Alle 29 Meldungen angenommen (26 mit Texteingriff, 3 reine Vermerks-Fälle; zusätzlich 4 bestehende Vermerke revidiert).
 
+### Kap. 71–80 (Batch 08) — 43 Abschnitte
+Zweitprüfung: work/uk/review/batch08.md. Meldungen: 14 in 14 Abschnitten (4 Blocker, 10 Minor).
+- Blocker 1.71.5: πρὸς + Gen. = «на суді / в очах» — die Einsichtigen sind Richter, nicht die Geschädigten.
+- Blocker 1.74.3: ἐπὶ τῷ + Inf. = Zielkonstruktion «з прицілом утримати рештку» (nicht temporal «як дійшло до поділу решти»); der eigennützige Beweggrund der spartanischen Hilfe wiederhergestellt.
+- Blocker 1.75.4: das ausgefallene überlieferte Satzgefüge «καὶ γὰρ ἂν αἱ ἀποστάσεις πρὸς ὑμᾶς ἐγίγνοντο» am Abschnittsende ergänzt («адже і відпадіння міст відбувалися б тоді у ваш бік») + Vermerk zur ἄν-mit-Imperfekt-Anomalie.
+- Blocker 1.77.6: die Apodosis «ὁμοῖα καὶ νῦν γνώσεσθε» als eigene Prognose gelöst («такі самі ви і нині виявитеся» statt in den Protasis gefaltet), γνώσεσθε nicht mehr als «викажете».
+- Vorab verfügte Prüfungen sauber umgesetzt: 1.71.2 (подібним до вас самих — a-fortiori-Bedingung trat NICHT ein) und 1.73.1 («промови бо — ні наші, ні цих людей — не відбувалися б у вас, як перед суддями»); Quellbasis erneut zeichenweise mit source.xml verprobt (10/10).
+- Minorfixes: 1.71.3 (ohne «у всякому», ohne «помітно»), 1.73.2 («радше в тягар», grammatische Glättung), 1.73.3 (странное «борня» → «з яким же містом випаде вам боротися»), 1.74.1 (idiomatische Gruppierung «трохи менш як чотириста, тобто трохи менш як дві частини»; Lesernotiz präzisiert: «як співвідносяти обидва числа»), 1.76.4 (εἴ τι = «якщо», nicht «чи»), 1.77.3 (Doppelverneinung eindeutig), 1.78.2 («обертається»), 1.80.4 (Vergleichsbasis «ніж у кораблях»).
+- Vermerks-Ergänzungen: 1.75.4 (ἄν + Imperfekt), 1.77.2 (Kasus-Anomalie bei σκοπεῖ), 1.77.3 (παρὰ τὸ μὴ οἴεσθαι χρῆναι); Vermerks-Sync: 1.77.6, 1.71.3.
+- 1.74.1-Lesernotiz: vom Prüfer bestätigt — kurz, faktisch (beide Zahlen stehen überliefert nebeneinander; die antike Kontroverse über die Flottenzahlen ist bezeugt) und nötig; Wortlaut präzisiert.
+- Glossar-Vorschläge geprüft und unterstützt: ξυνθήκη = «умова», ἐπιείκεια = «поблажливість», ἐπιτήδεύματα = «повадки», παράλογος, μοῖρα offen; der εἰκότως-Kontrast 1.76.4/1.77.5 bleibt als dokumentierte Zweilesarigkeit bewusst stehen.
+Alle 14 Meldungen angenommen (12 mit Texteingriff, 2 reine Vermerks-Fälle; dazu 1 Notiz-Präzisierung, 3 Vermerks-Ergänzungen, 2 Vermerks-Syncs).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
@@ -129,10 +142,10 @@ Alle 29 Meldungen angenommen (26 mit Texteingriff, 3 reine Vermerks-Fälle; zus�
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 271 in den Kapiteln 1–70 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 271 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 136 Fundstellen (12 Blocker, 124 Minor).
+- Übersetzte Abschnitte: 314 in den Kapiteln 1–80 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 314 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 150 Fundstellen (16 Blocker, 134 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 1.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 71–80: Übersetzung im Gang; Kapitel 81–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 81–90: Übersetzung im Gang; Kapitel 91–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
