@@ -135,6 +135,16 @@ Zweitprüfung: work/uk/review/batch09.md. Meldungen: 21 in 21 Abschnitten (2 Blo
 - Hinweis: 1.86.3 «з усієї сили» stand bereits normgerecht im Text (die Reviewer-Quote «з усією сили» traf nicht zu) — keine Änderung; als erledigt vermerkt.
 Alle 21 Meldungen angenommen (20 mit Texteingriff; 6 Vermerks-Ergänzungen, 2 Vermerks-Revisionen, 1 als bereits korrekt).
 
+### Kap. 91–100 (Batch 10) — 39 Abschnitte
+Zweitprüfung: work/uk/review/batch10.md. Meldungen: 10 in 10 Abschnitten (1 Blocker, 9 Minor).
+- Blocker 1.92.1: die Richtung der Zuneigung wiederhergestellt — προσφιεῖς ὄντες gehört anakoluthisch zu den AFENIENSU (deren Medien-Eifer erklärt die Zurückhaltung der Lakedaimonier); der Druck hatte Adressat und Basis verkehrt („die Lakedaimonier seien den Athenern die liebsten wegen ihres spartanischen Eifers“); jetzt: „афіняни… були їм наймиліші“ — parallel zur bereits korrekten HE-Fassung; Anakoluthon per Vermerk dokumentiert.
+- Spiegel 1.100.2→3 wiederhergestellt: die erfundene Vollpunkt-Tilgung wie im HE-Fall — Abschnitt endet auf Komma, Fortsetzung mit Konnektor; dokumentierender Vermerk ergänzt (Vergleich: das exakte Spiegel 1.93.3→4).
+- Vermerk-Fehler behoben: 1.96.2 behauptete eine Leseranmerkung, die seit der Elft-Addendum-Regelung nicht mehr existiert (der Übersetzer hatte sie noch getragen; ich selbst hatte sie vor der Prüfung entfernt, dankte aber irreführenderweise in einem Vermerk, der den alten Zustand beschrieb) — jetzt dokumentierend neu gefasst; 1.93.2 abgeschwächt („окремі видавці“ statt „звичайно“ — unser quellenloses Jones-Druck kann stärkere Apparat-Behauptungen nicht tragen); 1.94.2 um die nachträglich verfügte Elft-Addendum-Referenz ergänzt.
+- Weitere Fixes: 1.91.2 (μᾶλλον…ἢ wiederhergestellt statt „так“; zugesetztes „ВСЕ“ getilgt), 1.91.4 (πρεσβεύεσθαι = „посилати послів“, nicht „доручати посольствами“), 1.93.3-Cluster („звідти“ getilgt; „прегарне“ → „гарне“; „з'їзди союзників“ → „з'їзди“), 1.98.4 („спіткало те саме“ → elliptisches „спіткало“ — ξυνέβη bleibt, die Erfindung geht), 1.99.1 („точно й невідступно“ → „точно“; „чимало й інших“ → „бувало й інших“), 1.99.2 (Litotes bereinigt: „не складно“ → positives „легко“), 1.93.4 (δύναμις auf den Glossar-Slot „сила“ ausgerichtet — „надбання могутності“ → „надбання сили“; das mitten-im-Satz-Spiegel bleibt intakt), 1.95.6 („начальником“ → „воєначальником“, der Spartaner-Slot), 1.100.1 („полонили трієри“ → „захопили“ — Schiffe nimmt man nicht gefangen), 1.100.2 (ἀντιπέρας geglättet: „у Фракії, що лежить навпроти“).
+- Sonderprüfungen sauber: die Neun-Wege-Apposition ohne Klammern und Notiz auf dem Druck (der EN-Blocker kehrte NICHT wieder); «Насамперед» öffnet 1.98.1; keine Strafklausel in 1.99.1 (in source.xml verifiziert); die Themistocles-Adresse endet exakt am überlieferten ἔφη; Ἕλληνες-Linie durchgehend; alle Zahlen exakt (два вози — carts, nicht chariots; до половини висоти; 460 Talente; двісті; десять тисяч).
+- Übersetzervorschläge verifiziert: διαχείρισις = „каральне придушення“ unterstützt; ἐνεῖδον = „дізнулися“ unterstützt; ἀνθεκτέα = „слід покладатися на море“ funktional unterstützt; ἀντιπέρας sinngemäß unterstützt (Form geglättet).
+Alle 10 Meldungen angenommen (alle mit Text- oder Vermerkseingriff).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
@@ -153,10 +163,10 @@ Alle 21 Meldungen angenommen (20 mit Texteingriff; 6 Vermerks-Ergänzungen, 2 Ve
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 356 in den Kapiteln 1–90 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 356 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 171 Fundstellen (18 Blocker, 153 Minor).
+- Übersetzte Abschnitte: 395 in den Kapiteln 1–100 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 395 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 181 Fundstellen (19 Blocker, 162 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 1.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 91–100: Übersetzung im Gang; Kapitel 101–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 101–110: Übersetzung abgeschlossen, Prüfung im Gang; Kapitel 111–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
