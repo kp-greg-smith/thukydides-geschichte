@@ -1142,25 +1142,43 @@
 
 ### Kapitel 94
 
-§1 Pausanias, der spartanische Feldherr, führte die Griechen gegen Persien. Er nahm Byzantion. Sein Hochmut und seine persischen Sitten erbitterten die Bundesgenossen. Sie trugen die Führung Athen an.
+§1 Pausanias, Sohn des Kleombrotos, aus Lakedaimon wurde als Feldherr der Griechen mit zwanzig Schiffen von der Peloponnes ausgesandt. Es segelten Athener mit dreißig Schiffen mit und eine Menge der übrigen Bundesgenossen.
+
+§2 Und sie zogen gegen Kypros und verwüsteten das meiste davon; später gegen Byzantion, das die Meder hielten — und sie trieben es in dieser Führerschaft aus der Belagerung.
 
 ---
 
 ### Kapitel 95
 
-§1 Pausanias wurde abberufen und verurteilt, aber nicht wegen Medismos, sondern wegen Gewalttätigkeit. Die Bundesgenossen gingen zu Athen über. Sparta rief ihn zurück und sandte Dorkis; den nahmen die Bundesgenossen nicht an. So ging die Führung an Athen über.
+§1 Als er schon gewalttätig war, wurden die übrigen Griechen erbittert — nicht am wenigsten die Ionier und die soeben vom König Befreiten. Sie gingen zu den Athenern und verlangten, diese sollten ihre Führer werden wegen der Verwandtschaft, und nicht zulassen, dass Pausanias irgendwo Gewalt antue.
+
+§2 Und die Athener nahmen die Worte an und richteten ihre Absicht darauf, nichts zu übersehen, sondern alles so einzurichten, wie es ihnen am besten erscheine.
+
+§3 Währenddessen forderten die Lakedaimonier den Pausanias zurück, untersuchend, was sie erfuhren. Denn vielfaches Unrecht wurde von den ankommenden Griechen gegen ihn angeklagt, und es erschien eher die Nachahmung einer Tyrannis als eine Feldherrschaft.
+
+§4 Es traf sich, dass er berufen wurde und zugleich die Bundesgenossen sich wegen des Hasses gegen ihn zu den Athenern wandten — außer den Truppen von der Peloponnes.
+
+§5 Und er kam nach Lakedaimon und wurde wegen einiger Vergehen privat gerügt; der größten aber wurde er freigesprochen. Es wurde gegen ihn — nicht am wenigsten — Medismos angeklagt, und es schien das deutlichste zu sein.
+
+§6 Und ihn sandten sie nicht mehr als Anführer, sondern Dorkis und einige andere mit ihm, ein Heer habend, nicht groß; diesen erlaubten die Bundesgenossen die Führung nicht mehr.
+
+§7 Und sie erkannten es und gingen weg; und später sandten die Lakedaimonier keine anderen mehr — aus Furcht, die Hinausgehenden könnten schlechter werden, was sie auch beim Pausanias gesehen hatten — und weil sie den Perserkrieg beendigen wollten und die Athener für fähig hielten zu führen und ihnen damals genehm waren.
 
 ---
 
 ### Kapitel 96
 
-§1 Die Athener richteten den Bund ein. Die Bundesgenossen zahlten Tribut in die Bundeskasse nach Delos. Aristeides setzte die Beiträge fest. Zuerst betrug der Tribut 460 Talente.
+§1 Und die Athener übernahmen die Führung auf diese Weise — der Bundesgenossen waren sie willig wegen des Hasses auf Pausanias — und setzten fest, welche Städte Geld für den Krieg gegen den Barbaren und welche Schiffe beisteuern sollten. Vorwand war, sich zu wehren für das Erlittene, indem sie das Land des Königs verwüsteten.
+
+§2 Und den Griechenschatzmeistern wurde damals den Athenern das Amt eingesetzt, die den Tribut empfingen — so wurde die Darbringung des Geldes genannt. Der erste festgesetzte Tribut war vierhundertsechzig Talente. Schatzhaus war ihnen Delos, und die Zusammenkünfte geschahen im Heiligtum.
 
 ---
 
 ### Kapitel 97
 
-§1 So wurde Athen mächtig. Die Bundesgenossen wurden allmählich Untertanen. Sie selbst versäumten den Kriegsdienst und ließen Athen gegen andere für sie kämpfen; lieber zahlten sie Geld. Ihre eigenen Kräfte verfielen, die athenische Macht stieg.
+§1 Und die Athener führten anfangs die noch selbständigen Bundesgenossen, und es wurde durch gemeinsame Zusammenkünfte beraten. Was zwischen diesem Krieg und dem Perserkrieg geschah — gegen den Barbaren und gegen die eigenen abtrünnigen Bundesgenossen und gegen die Peloponnesier, die ihnen jeweils begegneten —, habe ich aufgeschrieben.
+
+§2 Und ich habe es aufgeschrieben und den Exkurs des Berichts deswegen gemacht, weil allen vor mir dieses Gebiet fehlte: Entweder stellten sie das Griechische vor den Perserkriegen zusammen oder die Perserkriege selbst. Der einzige, der es in der attischen Geschichte auch berührte, Hellanikos, behandelte es kurz und in den Zeiten nicht genau. Es enthält zugleich den Beweis der Herrschaft, auf welche Weise den Athenern sie zufiel.
 
 ---
 
