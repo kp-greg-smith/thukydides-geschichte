@@ -142,6 +142,17 @@ Zweitprüfung: work/he/review/batch10.md. Meldungen: 12 Minor in 15 Einträgen (
 - Vermerks-Hausordnung: von den fünf per Elft-Addendum obsoleten Namens-Proposal-Vermerken bleiben die vier bewilligenden als Dokumentation stehen (der Widerspruchsfall 1.96.2-טלנט behoben); die Vorlagen ἀνάγκαι/διαχείρισις/ξύνοδοι/ξυνεστράτευον vom Prüfer am Griechischen verifiziert und unterstützt.
 Alle 12 Meldungen angenommen (11 mit Text- oder Vermerkseingriff; 1 als Spiegel-Dokumentation ergänzt).
 
+### Kap. 101–110 (Batch 11) — 42 Abschnitte
+Zweitprüfung: work/he/review/batch11.md. Meldungen: 14 in 15 Einträgen (1 Blocker, 13 Minor).
+- Blocker 1.101.1 (Vermerksebene): der Vermerk behauptete das Gegenteil unserer Bytes — die Quelle druckt ἐσβαλόντας (Akkusativ, byte-verifiziert; die echten ἐσβαλόντες stehen andernorts, z. B. 1.123.3); der Vermerk stellte den fehlenden Nominativ als „überliefert" und unseren Druck als „Konjektur" dar — nach der Regel „kein zitierter Variante ohne Byte-Beweis" FALSCH; komplett neu gefasst; der Körper war unschuldig. Mein Review-Prompt trug dieselbe Fehlprämisse (vom Übersetzer-Report übernommen) — dokumentiert.
+- 1.108.2→3-Seam: erfundener Punkt über dem überlieferten Komma getilgt (Ende auf Komma wie die twice-bewährten Spiegel 1.93.3→4 und 1.100.2→3) + dokumentierender Vermerk; 1.109.3→4 (überliefertes Hochpunkt) korrekt belassen.
+- Slot-Regression behoben: στρατηγοῦντος an allen fünf Stellen auf den athenischen סטרטגוס-Slot zurückgestellt (batch10-konsistent: 1.98.1/1.100.1); der alte Vermerk, das Γlosear „stehe nicht im Original", war falsch und ist neu gefasst.
+- Λακεδαίμονα-Regression: «שלח לספרטה» → «שלח ללקדמון» (ספרטה bleibt Σπαρτιᾶται vorbehalten).
+- Register/Grammatik: «בבלי» ×2 → «מבלי» (Majoritätsform der Edition; 1.36/1.90 als Schlussdurchgangs-Kandidaten vermerkt); 1.105.3 die Kausativ-Krücke («יגרמו להם») zur schlichten Notwendigkeit («ייאלצו להסתלק»); die überlieferten Parenthesen 1.104.2/1.105.6 von Gedankenstrichen zurück auf ( ) (batch10-Parallele 1.92.1); 1.107.2 die Alters-Klammer auf Pleistoanax umgehängt («פליסטואנקס — שעודנו היה נער — בן המלך פאוסניאס»); 1.110.3 das Umschreibungs-Bauplock («הוצא להורג על צליבה») zum schlichten Verb («נצלב»).
+- Vermerks-Pflege: zwei fehlende Anomalie-Vermerke ergänzt (1.106.2 κατέλευσαν; 1.107.6 τοῦ δήμου καταλύσεως ὑποψίᾳ) + der Seam-Vermerk; vier Vermerks-Rewrites (1.101.1; 1.102.3-νεωτερ — der behauptete Wortstamm existierte im Druck nicht; 1.105-στρατηγοῦντος; 1.107.2-νέου — die „unentschiedene" Anbindung hätte die historisch unmögliche Lesart gedruckt); 1.110.3 benennt jetzt beide lebenden Lesarten; die ὁπλίτης-Liste korrigiert (1.107.5 strichbefreit); das unübliche «(Ἁλιαῖς)» aus dem 1.105.1-Vermerk getilgt.
+- Bestätigt: ALLE Sonderprüfungen bestanden — Halieis im Körper (die EN-Panne fehlt hier), White Wall wie verordnet, historische Präsens einheitlich Präteritum (EN-konsistent, kein Nebeneinander), fünfzig Trieren, כוח חילופין, לשון המנדס, die ἔσχον-Doppellesart vorbildlich dokumentiert; Geheimversprechen an überlieferter Stelle; alle Zahlen (300, 70, 200, 1500+10000, 1000/14000, 62. Tag, ~12 Tage, 100 Geiseln, Jahr½, sechs Jahre, 50); sämtliche Zwölf/Dreizehn-Addendum-Namen auf dem Druck.
+Alle 14 Meldungen angenommen (alle mit Text- oder Vermerkseingriff).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
@@ -155,10 +166,10 @@ Alle 12 Meldungen angenommen (11 mit Text- oder Vermerkseingriff; 1 als Spiegel-
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 395 in den Kapiteln 1–100 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 395 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 139 Fundstellen (7 Blocker, 132 Minor).
+- Übersetzte Abschnitte: 437 in den Kapiteln 1–110 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 437 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 153 Fundstellen (8 Blocker, 145 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 101–110: Übersetzung im Gang; Kapitel 111–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 111–120: Übersetzung im Gang; Kapitel 121–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
