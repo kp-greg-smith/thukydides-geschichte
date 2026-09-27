@@ -12,9 +12,9 @@ A multilingual HTML reading edition of the Ancient Greek original and direct tra
 |---|---|---|---|
 | Ancient Greek (`grc`) | **Original**, not a translation | [Books 1–8](docs/grc/book1.html), imported from the cited edition | Further editorial checks; no new transcription claimed |
 | German (`de`) | Translation | [Book 1](docs/de/book1.html): 146 chapters, 580 sections | Books 2–8 not started |
-| English (`en`) | Translation | None | Books 1–8 planned |
-| Ukrainian (`uk`) | Translation | None | Books 1–8 planned |
-| Hebrew (`he`) | Translation, right-to-left | None | Books 1–8 planned |
+| English (`en`) | Translation | [Book 1](docs/en/book1.html): chapters 1–120 (472 of 580 sections), reviewed | Book 1 ch. 121–146 in progress; books 2–8 planned |
+| Ukrainian (`uk`) | Translation | [Book 1](docs/uk/book1.html): chapters 1–120 (472 of 580 sections), reviewed | Book 1 ch. 121–146 in progress; books 2–8 planned |
+| Hebrew (`he`) | Translation, right-to-left | [Book 1](docs/he/book1.html): chapters 1–120 (472 of 580 sections), reviewed | Book 1 ch. 121–146 in progress; books 2–8 planned |
 
 “Available” describes coverage, not a guarantee that no corrections remain. German Book 1 has an existing revision history, including the section-by-section review of chapters 31–117 recorded on 2026-09-27. This scope update preserves all 580 German sections; it does not claim a new philological review. Translated READMEs describe the project and do not count as translated books.
 

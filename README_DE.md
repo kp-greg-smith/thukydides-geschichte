@@ -12,9 +12,9 @@ Eine mehrsprachige HTML-Leseausgabe des altgriechischen Originals und direkter �
 |---|---|---|---|
 | Altgriechisch (`grc`) | **Original**, keine Übersetzung | [Bücher 1–8](docs/grc/book1.html), aus der angegebenen Edition übernommen | Weitere redaktionelle Prüfung; keine neue Transkription |
 | Deutsch (`de`) | Übersetzung | [Buch 1](docs/de/book1.html): 146 Kapitel, 580 Abschnitte | Bücher 2–8 nicht begonnen |
-| Englisch (`en`) | Übersetzung | Keine Bücher | Bücher 1–8 geplant |
-| Ukrainisch (`uk`) | Übersetzung | Keine Bücher | Bücher 1–8 geplant |
-| Hebräisch (`he`) | Übersetzung, von rechts nach links | Keine Bücher | Bücher 2–8 geplant |
+| Englisch (`en`) | Übersetzung | [Buch 1](docs/en/book1.html): Kapitel 1–120 (472 von 580 Abschnitten), geprüft | Buch 1, Kap. 121–146 in Arbeit; Bücher 2–8 geplant |
+| Ukrainisch (`uk`) | Übersetzung | [Buch 1](docs/uk/book1.html): Kapitel 1–120 (472 von 580 Abschnitten), geprüft | Buch 1, Kap. 121–146 in Arbeit; Bücher 2–8 geplant |
+| Hebräisch (`he`) | Übersetzung, von rechts nach links | [Buch 1](docs/he/book1.html): Kapitel 1–120 (472 von 580 Abschnitten), geprüft | Buch 1, Kap. 121–146 in Arbeit; Bücher 2–8 geplant |
 
 „Vorhanden“ bezeichnet den Umfang, keine Fehlerfreiheit. Buch 1 hat eine bestehende Überarbeitungsgeschichte, einschließlich der am 27.09.2026 dokumentierten abschnittweisen Prüfung der Kapitel 31–117. Diese Umstellung erhält alle 580 deutschen Abschnitte; sie ist keine erneute philologische Prüfung. Übersetzte READMEs sind Projektdokumentation und zählen nicht als übersetzte Bücher.
 
