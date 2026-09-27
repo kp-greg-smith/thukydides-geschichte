@@ -880,3 +880,286 @@ Zur Deutungsfrage 69.2 wurde zusätzlich ein philologischer Kommentar konsultier
 Alle 27 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 61 --end 70`: 45/45 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Kapitel 71–80
+
+Geprüft: **43 Abschnitte**; geändert: **24 Abschnitte**.
+
+Prüfliste: 71.1, 71.2, 71.3, 71.4, 71.5, 71.6, 71.7, 72.1, 72.2, 73.1, 73.2, 73.3, 73.4, 73.5, 74.1, 74.2, 74.3, 74.4, 75.1, 75.2, 75.3, 75.4, 75.5, 76.1, 76.2, 76.3, 76.4, 77.1, 77.2, 77.3, 77.4, 77.5, 77.6, 78.1, 78.2, 78.3, 78.4, 79.1, 79.2, 80.1, 80.2, 80.3, 80.4.
+
+### 71.1 · Änderung 1
+
+- Griechisch: τὴν ἡσυχίαν … ἐπὶ πλεῖστον ἀρκεῖν … τῇ μὲν παρασκευῇ δίκαια πράσσωσι
+- Alt: die Ruhe denen von den Menschen am längsten genügt, die einerseits in der Rüstung Gerechtes tun
+- Neu: die Ruhe den Menschen am längsten erhalten bleibt, die einerseits bei ihrer Rüstung das Gebotene tun
+- Begründung: ἀρκεῖν meint das Andauern des Friedens; unverständliche Verbindung von Rüstung und Recht behutsam gefasst.
+
+### 71.1 · Änderung 2
+
+- Griechisch: ἐπὶ τῷ … τὸ ἴσον νέμετε
+- Alt: vielmehr seid ihr darauf bedacht, das Gleiche zuzuteilen: die anderen nicht zu kränken und euch selbst wehrend nicht verletzt zu werden
+- Neu: vielmehr bemesst ihr das rechte Verhältnis danach, den anderen nicht zu schaden und selbst bei der Abwehr keinen Schaden zu erleiden
+- Begründung: Der Satz beschreibt Spartas Maßstab, keine Verteilung gleicher Anteile.
+
+### 71.3 · Änderung 3
+
+- Griechisch: ἀνάγκη … τὰ ἐπιγιγνόμενα κρατεῖν … τῆς ἐπιτεχνήσεως … κεκαίνωται
+- Alt: Wie bei der Kunst immer das Hinzukommende obsiegt, so sind auch in einer ruhig haltenden Stadt die unbeweglichen Gesetze am besten; denen aber, die zu vielem gezwungen sind, bedarf es vieler Kunst. Deshalb sind die Athener durch ihre Vielgewandtheit erfahrener als ihr.
+- Neu: Wie bei einer Kunst müssen sich aber immer die Neuerungen durchsetzen. Für eine in Ruhe lebende Stadt sind unveränderte Gesetze am besten; wer aber gezwungen ist, sich vielen Aufgaben zu stellen, braucht auch viel Erfindungsgabe. Deshalb haben sich die Verfahrensweisen der Athener durch ihre vielfältige Erfahrung stärker erneuert als die eurigen.
+- Begründung: Notwendigkeit, Gegensatz und Verhältnis zwischen Erfahrung und Erneuerung berichtigt.
+
+### 71.7 · Änderung 4
+
+- Griechisch: τὴν Πελοπόννησον … μὴ ἐλάσσω ἐξηγεῖσθαι
+- Alt: die Peloponnes nicht geringer zu beherrschen
+- Neu: keine geringere Peloponnes zu führen
+- Begründung: ἐλάσσω bestimmt die Peloponnes, nicht die Stärke der Herrschaft.
+
+### 73.1 · Änderung 5
+
+- Griechisch: οὐκ ἐς ἀντιλογίαν … ἐγένετο
+- Alt: Unsere Gesandtschaft ist nicht gegen eure Bundesgenossen geschehen, sondern um der Dinge willen, deretwegen die Stadt uns sandte.
+- Neu: Unsere Gesandtschaft hat nicht den Zweck, euren Bundesgenossen zu widersprechen, sondern betrifft die Dinge, deretwegen die Stadt uns sandte.
+- Begründung: Unverständliche Konstruktion und Zweck des Auftretens hergestellt.
+
+### 73.2 · Änderung 6
+
+- Griechisch: ἀκοαὶ μᾶλλον λόγων μάρτυρες ἢ ὄψις
+- Alt: Es sind eher Hörensagen Zeugen als die eigene Anschauung der Zuhörenden
+- Neu: Für unsere Worte zeugt eher das Hörensagen als die eigene Anschauung der Zuhörenden
+- Begründung: Grammatik und Bezug von λόγων berichtigt.
+
+### 73.2 · Änderung 7
+
+- Griechisch: εἰ καὶ δι’ ὄχλου μᾶλλον ἔσται αἰεὶ προβαλλομένοις
+- Alt: auch wenn es denen, die es immer wieder vorbringen, beim großen Publikum längst verbraucht ist
+- Neu: auch wenn wir euch damit eher lästig fallen, weil wir es immer wieder vorbringen
+- Begründung: δι’ ὄχλου bezeichnet das Lästigfallen, kein großes Publikum oder Verbrauchtheit.
+
+### 73.4 · Änderung 8
+
+- Griechisch: ὅτε τὸ ὕστερον ἦλθεν
+- Alt: als der spätere kam
+- Neu: als er später wiederkam
+- Begründung: τὸ ὕστερον ist adverbial; kein zweiter substantivierter Handelnder.
+
+### 73.5 · Änderung 9
+
+- Griechisch: τεκμήριον … μέγιστον
+- Alt: Den größten Beweis
+- Neu: Das größte Indiz
+- Begründung: Glossarentsprechung.
+
+### 74.1 · Änderung 10
+
+- Griechisch: ἐς τὰς τετρακοσίας
+- Alt: auf das Ganze von beinahe vierhundert gerechnet
+- Neu: auf das Ganze von vierhundert gerechnet
+- Begründung: Das „beinahe“ gehört nur zum folgenden Anteil, nicht zur Gesamtzahl.
+
+### 74.1 · Änderung 11
+
+- Griechisch: αἰτιώτατος
+- Alt: am ehesten Urheber dessen
+- Neu: in höchstem Maße dafür verantwortlich
+- Begründung: Superlativ des ursächlichen Beitrags statt einer unsicheren Zuschreibung.
+
+### 74.1 · Änderung 12
+
+- Griechisch: αἰτιώτατος
+- Alt:  [Anm.: αἰτιώτατος heißt hier »Urheber«, nicht »Vorwurf«.]
+- Neu: (entfernt)
+- Begründung: Wie ausdrücklich gewünscht überflüssige Begriffsanmerkung entfernt.
+
+### 74.2 · Änderung 13
+
+- Griechisch: καὶ πολὺ τολμηροτάτην
+- Alt: Bereitschaft aber, die waghalsigste
+- Neu: Bereitschaft aber, die bei Weitem waghalsigste
+- Begründung: πολύ verstärkt den Superlativ und war ausgelassen.
+
+### 74.3 · Änderung 14
+
+- Griechisch: ἀπό τε οἰκουμένων τῶν πόλεων καὶ ἐπὶ τῷ τὸ λοιπὸν νέμεσθαι
+- Alt: von bewohnten Städten und dem noch zu nutzenden Land ausgehend
+- Neu: von noch bewohnten Städten aus und um sie auch künftig zu bewohnen
+- Begründung: Ausgangsort und Zweck statt zweier Ausgangsorte.
+
+### 74.3 · Änderung 15
+
+- Griechisch: ὅτε … ἦμεν ἔτι σῶοι
+- Alt: als wir noch gerettet waren
+- Neu: als wir noch unversehrt waren
+- Begründung: σῶοι bezeichnet den damaligen unversehrten Zustand, keine schon erfolgte Rettung.
+
+### 75.1 · Änderung 16
+
+- Griechisch: ὦ Λακεδαιμόνιοι … τοῖς Ἕλλησι … ἐπιφθόνως διακεῖσθαι
+- Alt: Oder sind wir nicht wert — um der damaligen Bereitschaft und Einsicht willen — dass ihr uns wenigstens die Herrschaft, die wir über die Griechen haben, nicht so über alle Maßen missgönnt?
+- Neu: Verdienen wir nicht, ihr Lakedaimonier — um der damaligen Bereitschaft und Einsicht willen —, dass die Griechen uns die Herrschaft, die wir haben, nicht so über alle Maßen missgönnen?
+- Begründung: Die Griechen sind die Missgönnenden, nicht das Objekt der Herrschaft; Anrede ergänzt.
+
+### 75.2 · Änderung 17
+
+- Griechisch: παραμεῖναι πρὸς τὰ ὑπόλοιπα τοῦ βαρβάρου
+- Alt: beim Rest des Barbaren bleiben
+- Neu: zum Kampf gegen die verbliebene Macht des Barbaren bleiben
+- Begründung: Gemeint ist die Fortsetzung des Kampfes, kein Aufenthalt beim Gegner.
+
+### 75.4 · Änderung 18
+
+- Griechisch: τοῖς πολλοῖς ἀπηχθημένους
+- Alt: da fast alle über uns erbittert waren
+- Neu: da wir vielen verhasst waren
+- Begründung: Keine beinahe vollständige Gesamtheit im Griechischen.
+
+### 75.4 · Änderung 19
+
+- Griechisch: ὑπόπτων καὶ διαφόρων
+- Alt: als Verdächtige und Missliebige
+- Neu: als Misstrauische und Gegner
+- Begründung: Politisches Misstrauen und Gegnerschaft statt persönlicher Missliebigkeit.
+
+### 76.2 · Änderung 20
+
+- Griechisch: ὑπὸ 〈τριῶν〉 τῶν μεγίστων νικηθέντες
+- Alt: von den drei Größten besiegt
+- Neu: überwältigt von den drei stärksten Beweggründen
+- Begründung: Die substantivierten Motive werden verständlich benannt. Die editorisch ergänzte Zahl zählt lediglich die drei ausdrücklich genannten Motive; gemäß präzisierter Vorgabe keine Leseranmerkung.
+
+### 76.2 · Änderung 21
+
+- Griechisch: ὃν οὐδείς … προθεὶς … ἀπετράπετο
+- Alt: ein Argument, das noch keiner, dem je die Gelegenheit zufiel, sich mit Stärke etwas zu verschaffen, vorgebracht hat, um nicht mehr zu haben
+- Neu: ein Argument, dem noch keiner Vorrang gegeben und sich dadurch vom Gewinn eines Vorteils abhalten lassen hat, wenn ihm die Gelegenheit zufiel, sich mit Stärke etwas zu verschaffen
+- Begründung: Der Satz verneint den Vorrang des Rechts als Handlungsmotiv, nicht dessen bloßes Vorbringen.
+
+### 77.1 · Änderung 22
+
+- Griechisch: ταῖς ξυμβολαίαις … δίκαις
+- Alt: den gemeinsamen Gerichtsverfahren
+- Neu: den vertraglich geregelten Gerichtsverfahren
+- Begründung: ξυμβολαῖος bezeichnet einen Vertragsbezug, nicht bloße Gemeinsamkeit.
+
+### 77.1 · Änderung 23
+
+- Griechisch: ξυμβολαίαις
+- Alt: prozessfreudig zu sein.
+- Neu: prozessfreudig zu sein. [Anm.: Welche Art vertraglicher Regelung diesen Gerichtsverfahren zugrunde liegt, ist umstritten.]
+- Begründung: Echte sachliche Deutungsfrage für Leser gekennzeichnet.
+
+### 77.2 · Änderung 24
+
+- Griechisch: οὐδεὶς σκοπεῖ αὐτῶν … διότι … οὐκ ὀνειδίζεται … ἧσσον … μετρίοις
+- Alt: Und niemand von denen, die sonst irgendwo Herrschaft haben — und sie verfahren gegen die Untertanen nicht milder als wir —, wird deswegen gescholten
+- Neu: Und keiner von ihnen fragt sich, warum man denen, die sonst irgendwo Herrschaft haben und mit ihren Untertanen weniger maßvoll umgehen als wir, diesen Vorwurf nicht macht
+- Begründung: Fehlendes Prädikat σκοπεῖ und Komparativrichtung berichtigt.
+
+### 77.4 · Änderung 25
+
+- Griechisch: ἀπὸ τοῦ κρείσσονος καταναγκάζεσθαι
+- Alt: was vom Stärkeren kommt, als Notwendigkeit
+- Neu: was vom Stärkeren kommt, als Zwang
+- Begründung: Gewaltsamer Zwang statt abstrakter Notwendigkeit.
+
+### 77.6 · Änderung 26
+
+- Griechisch: τὴν εὔνοιαν … διὰ τὸ ἡμέτερον δέος … εἴπερ … ὁμοῖα … γνώσεσθε
+- Alt: Ihr aber — wenn ihr uns gestürzt habt und herrscht — würdet vielleicht die Gunst, die ihr aus Furcht vor uns genommen habt, verlieren; wenn ihr dann, wie einst beim Meder in kurzer Zeit Führende, es zeigt, werdet ihr dasselbe erfahren.
+- Neu: Ihr aber würdet, wenn ihr uns stürztet und selbst herrschtet, vielleicht bald die Gunst verlieren, die euch aus Furcht vor uns entgegengebracht wird — wenn ihr euch auch jetzt von denselben Grundsätzen leiten lasst, die ihr damals während eurer kurzen Führung gegen den Meder gezeigt habt.
+- Begründung: Furcht der anderen statt Furcht Spartas; Bedingung und Verhaltensvergleich wiederhergestellt.
+
+### 78.2 · Änderung 27
+
+- Griechisch: ἐς τύχας … ὧν ἴσον τε ἀπέχομεν … ἐν ἀδήλῳ κινδυνεύεται
+- Alt: Der sich verlängernde Krieg pflegt meist in Zufälle zu geraten, die beiden Seiten gleich fern sind und deren Ausgang ungewiss in Gefahr steht.
+- Neu: Wenn der Krieg sich hinzieht, gerät sein Verlauf meist unter den Einfluss von Zufällen, über die wir beide gleichermaßen keine Macht haben; wir wagen ihn, ohne zu wissen, wie er für die eine oder andere Seite ausgehen wird.
+- Begründung: Unverständliche Wiedergabe der beiderseitigen Unverfügbarkeit des Kriegsverlaufs und des ungewissen Wagnisses berichtigt.
+
+### 78.3 · Änderung 28
+
+- Griechisch: τῶν ἔργων πρότερον ἔχονται
+- Alt: Die Menschen gehen in die Kriege mit Taten vorher los
+- Neu: Wenn die Menschen in den Krieg ziehen, greifen sie zuerst zu Taten
+- Begründung: Fehlerhafte deutsche Satzkonstruktion berichtigt.
+
+### 78.4 · Änderung 29
+
+- Griechisch: οὔτ’ αὐτοὶ οὔθ’ ὑμᾶς ὁρῶντες
+- Alt: Wir aber sind in keinem solchen Fehler bisher — weder selbst noch an euch schauend —, und sagen euch
+- Neu: Wir aber haben bisher selbst keinen solchen Fehler begangen und sehen auch euch noch nicht darin, und sagen euch
+- Begründung: Subjekt und Objekt der Wahrnehmung hergestellt.
+
+### 78.4 · Änderung 30
+
+- Griechisch: τὰ δὲ διάφορα
+- Alt: die Streitigkeiten durch Gericht
+- Neu: die Streitpunkte durch Gericht
+- Begründung: Glossarentsprechung.
+
+### 79.1 · Änderung 31
+
+- Griechisch: μεταστησάμενοι πάντας
+- Alt: zogen sie sich alle zurück
+- Neu: ließen sie alle anderen abtreten
+- Begründung: Die Lakedaimonier entfernen die anderen, nicht sich selbst.
+
+### 80.2 · Änderung 32
+
+- Griechisch: τόνδε … οὐκ ἂν ἐλάχιστον γενόμενον
+- Alt: Das, worüber ihr jetzt beratet, ist nicht das Geringste
+- Neu: Der Krieg, über den ihr jetzt beratet, würde kein geringer werden
+- Begründung: Krieg als Bezugswort und Potentialis erhalten.
+
+### 80.4 · Änderung 33
+
+- Griechisch: τοῖς χρήμασιν
+- Alt: Mit dem Geld aber?
+- Neu: Mit den Mitteln aber?
+- Begründung: Glossarentsprechung.
+
+### 80.4 · Änderung 34
+
+- Griechisch: καὶ οὔτε ἐν κοινῷ ἔχομεν οὔτε ἑτοίμως ἐκ τῶν ἰδίων φέρομεν
+- Alt: wir haben es weder in der gemeinsamen Kasse, noch bringt es einer bereitwillig aus dem eigenen
+- Neu: wir haben sie weder in der gemeinsamen Kasse, noch bringen wir sie bereitwillig aus dem eigenen Vermögen auf
+- Begründung: Numerus an Mittel angepasst und Subjekt wir erhalten.
+
+### 71.1 · Änderung 35
+
+- Griechisch: τῇ μὲν παρασκευῇ δίκαια πράσσωσι
+- Alt: selbst bei der Abwehr keinen Schaden zu erleiden.
+- Neu: selbst bei der Abwehr keinen Schaden zu erleiden. [Anm.: Der Bezug von »das Gebotene« bleibt offen: Gemeint sein kann rechtmäßiges Handeln oder angemessene Rüstung.]
+- Begründung: Die im Protokoll offene Deutungsfrage auch den Lesern kenntlich gemacht.
+
+### 73.4 · Änderung 36
+
+- Griechisch: οὐχ ἱκανοὶ ὄντες κατὰ γῆν ἀμύνεσθαι
+- Alt: nicht stark genug, zu Lande uns zu wehren
+- Neu: da wir nicht stark genug waren, uns zu Lande zu wehren
+- Begründung: Der eingeschobene Nebensatz macht die Athener als Subjekt eindeutig.
+
+### 74.2 · Änderung 37
+
+- Griechisch: ἐκλιπόντες τὴν πόλιν καὶ τὰ οἰκεῖα διαφθείραντες
+- Alt: die Stadt und das Eigene verlassend und verderbend
+- Neu: nachdem wir die Stadt verlassen und das Eigene dem Untergang preisgegeben hatten
+- Begründung: Verschiedene Objekte von Verlassen und Preisgeben erhalten.
+
+### 74.3 · Änderung 38
+
+- Griechisch: ξυνεσώσαμεν ὑμᾶς τε τὸ μέρος καὶ ἡμᾶς αὐτούς
+- Alt: und retteten euch zum Teil und uns selbst
+- Neu: und trugen unseren Teil zur Rettung von euch und von uns selbst bei
+- Begründung: τὸ μέρος bezeichnet Athens Anteil an der gemeinsamen Rettung.
+
+### Unsicher, bitte prüfen
+
+- **71.1:** „τῇ μὲν παρασκευῇ δίκαια πράσσωσι“ ist semantisch gedrängt. „Bei ihrer Rüstung das Gebotene tun“ wahrt den Zusammenhang, ohne die Alternative zwischen rechtmäßigem Handeln und angemessener Rüstung abschließend festzulegen; bitte philologisch prüfen.
+- **77.1:** Der genaue sachliche Bezug der „ξυμβόλαιαι δίκαι“ bleibt offen. „Vertraglich geregelte Gerichtsverfahren“ vermeidet die Festlegung auf eine bestimmte Gerichtsordnung. Die Leseranmerkung nennt die Unsicherheit. Der Vertragsbezug wurde ergänzend anhand des [Kommentars von S. Hornblower zu 1.77.1](https://eclass.uoa.gr/modules/document/file.php/BAAG180/Hornblower%2C%20Commentary%20on%20Thucydides%20I%20%28Books%20I-III%29.pdf) geprüft (Suchauszug; PDF im Browser nicht vollständig abrufbar). Keine Übersetzung übernommen.
+
+### Nachprüfung
+
+Alle 24 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+
+`python3 scripts/check_translation.py --language de --book 1 --start 71 --end 80`: 43/43 Abschnitte, 0 Fehler, 0 Warnungen.
