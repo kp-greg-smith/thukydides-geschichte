@@ -2083,3 +2083,27 @@ Keine.
 Alle 17 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 111 --end 117`: 26/26 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Nachtrag zu Kapitel 41–50: präzisierte Anmerkungsregel
+
+Nach der Nutzerpräzisierung werden Klammeranmerkungen auf sinnverändernde Eingriffe und echte Deutungsfragen begrenzt. Dieser Nachtrag betrifft 2 bereits geprüfte Abschnitte und erweitert die Gesamtzahl der geprüften Abschnitte nicht.
+
+### 48.3
+
+- Griechisch: 〈τῶν〉
+- Alt: [Anm.: Der Herausgeber ergänzt hier im griechischen Text den Artikel tōn (»der«).]
+- Neu: (Anmerkung entfernt; Übersetzung unverändert.)
+- Begründung: Der Artikel ergänzt nur die Syntax und ändert die Aussage über die drei Befehlshaber nicht. Gemäß nachgereichter Präzisierung des Nutzers keine reine Klammeranmerkung.
+
+### 49.6
+
+- Griechisch: [τε]
+- Alt: [Anm.: Der Herausgeber kennzeichnet hier das verbindende Wort te als zu tilgenden Zusatz.]
+- Neu: (Anmerkung entfernt; Übersetzung unverändert.)
+- Begründung: Die Entfernung der doppelten Verknüpfung ändert den dargestellten Schlachtausgang nicht. Gemäß nachgereichter Präzisierung des Nutzers keine reine Klammeranmerkung.
+
+### Nachprüfung
+
+Alle 2 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+
+`python3 scripts/check_translation.py --language de --book 1 --start 41 --end 50`: 41/41 Abschnitte, 0 Fehler, 0 Warnungen.
