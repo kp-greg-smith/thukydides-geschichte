@@ -124,6 +124,17 @@ Zweitprüfung: work/uk/review/batch08.md. Meldungen: 14 in 14 Abschnitten (4 Blo
 - Glossar-Vorschläge geprüft und unterstützt: ξυνθήκη = «умова», ἐπιείκεια = «поблажливість», ἐπιτήδεύματα = «повадки», παράλογος, μοῖρα offen; der εἰκότως-Kontrast 1.76.4/1.77.5 bleibt als dokumentierte Zweilesarigkeit bewusst stehen.
 Alle 14 Meldungen angenommen (12 mit Texteingriff, 2 reine Vermerks-Fälle; dazu 1 Notiz-Präzisierung, 3 Vermerks-Ergänzungen, 2 Vermerks-Syncs).
 
+### Kap. 81–90 (Batch 09) — 42 Abschnitte
+Zweitprüfung: work/uk/review/batch09.md. Meldungen: 21 in 21 Abschnitten (2 Blocker, 19 Minor).
+- Blocker 1.81.3: die Hilfs-Inversion korrigiert — δεήσει [ἡμῖν] τούτοις ναυσὶ βοηθεῖν = «доведеться нам і цим союзникам допомагати кораблями» (nicht „diesen Verbündeten müsste man zu Hilfe kommen“) — Archidamos’ Insel-Argument wiederhergestellt; das ausgefallene καί ergänzt.
+- Blocker 1.90.5: θαυμάζειν zurück unter ἔφη («і що він, мовляв, дивується») — keine freie Erzählung mehr; das ausgefallene μέντοι («втім») ergänzt.
+- Sonderprüfungen: 1.87-Stimmenzahl bestanden (πολλῷ πλείους wie überliefert, keine Betrügerei-Glosse, nichts ausgelassen); 1.83.3 echtes Verderbnis bestätigt (Objekt «про них» statt «про неї» korrigiert); 1.82.2 ἴμεν ohne Vermerk — Vermerk mit beiden Lesarten ergänzt; 1.86.2 die οἱ-Offenheit war STILL zugunsten der ALLIIERTEN aufgelöst — Wahl jetzt dokumentiert (Athener als Alternative); 1.84.3 ἀμαθέστερον geglättet zu «занадто просто» — korrigiert zu «з недолею навчання» und das Vermerks-Resümee korrigiert (es hatte die Glättung als „общепринятый смысл“ ausgegeben); τὸ κοινόν 1.90.5 = «громадські справи».
+- Minorfixes (Auswahl): 1.81.4 (без «самі»), 1.81.5 (δόξομεν = Eindruck der anderen + Vermerk zur καταλύεσθαι-Doppellesung), 1.81.6 (Antezedens «війну» + καί = «аж»: «лишити війну аж нашим дітям»), 1.82.1 («ставитися до них» statt normwidrigem «стояти до них»; Vermerk zur zweiten Öffnungslasche der Archidamus-Rede im Quelltext), 1.82.2 (πεφραγμένοι = «укріплені»; ἢν δοκῇ = «якщо розсудимо за добре»), 1.82.3 (Präsens-Partizip + potentialer Optativ «поступилися б»), 1.82.4 (ἀληπτοτέρους = «недосяжнішими», nicht «некерованішими»), 1.84.2 («не піддаємося потісі»), 1.84.3 («доброрадні» statt unkodifiziertem «добрерадні»), 1.85.2 («а проти того, хто його дає»; βουλεύσεσθε = «порадите»), 1.86.2 («а вони ж таки»), 1.87.4 (σφίσι ergänzt: «кривдять їх самих»), 1.90.1 (τε…καί = «і… і», nicht Alternativen; «чисельності» statt «численности»), 1.90.3 (Kasus + Konstruktion), 1.90.5-κοινόν.
+- Vermerks-Ergänzungen: 1.81.5, 1.82.1 (Quell-Anomalie der Rede-Grenzen), 1.82.2, 1.86.2, 1.87.5 (Anakoluth ohne Hauptverb), 1.89.3 (Zahl-Diskordanz bei τὸ κοινόν); Vermerks-Revisionen: 1.83.3, 1.84.3.
+- Übersetzervorschläge verifiziert: τὰ Εὐβοϊκά = «після здобуття Евбеї» nach dem identischen 1.23.1-Vorbild (bestätigt); ὑπεκτίθημι = «вивезено в безпеку» (mit «звідти» statt «звідусіль»); «спільна справа» 1.90.5 verworfen («громадські справи»), «загал афінян» 1.89.3 bestätigt; ἐξαρτύειν/ἐκπορίζειν-Unterscheidung bestätigt.
+- Hinweis: 1.86.3 «з усієї сили» stand bereits normgerecht im Text (die Reviewer-Quote «з усією сили» traf nicht zu) — keine Änderung; als erledigt vermerkt.
+Alle 21 Meldungen angenommen (20 mit Texteingriff; 6 Vermerks-Ergänzungen, 2 Vermerks-Revisionen, 1 als bereits korrekt).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
@@ -142,10 +153,10 @@ Alle 14 Meldungen angenommen (12 mit Texteingriff, 2 reine Vermerks-Fälle; dazu
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 314 in den Kapiteln 1–80 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 314 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 150 Fundstellen (16 Blocker, 134 Minor).
+- Übersetzte Abschnitte: 356 in den Kapiteln 1–90 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 356 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 171 Fundstellen (18 Blocker, 153 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 1.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 81–90: Übersetzung im Gang; Kapitel 91–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 91–100: Übersetzung im Gang; Kapitel 101–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
