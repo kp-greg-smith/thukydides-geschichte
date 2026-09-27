@@ -14,7 +14,7 @@ A modern German translation of Thucydides' *History of the Peloponnesian War* �
 
 | Book | Chapters | Status |
 |------|----------|--------|
-| 1 | 146 | ⚠️ Kapitel 1–30 korrigiert, 31–146 in Arbeit |
+| 1 | 146 | ✅ Complete (Kapitel 1–146, aus dem Griechischen übersetzt) |
 | 2 | 103 | ⬜ Pending |
 | 3 | 116 | ⬜ Pending |
 | 4 | 135 | ⬜ Pending |
