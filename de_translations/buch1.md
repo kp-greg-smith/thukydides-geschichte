@@ -778,13 +778,21 @@
 
 ### Kapitel 66
 
-§1 Der erste Einfall und die Verwüstung Attikas erregte Athen. Perikles hielt stand. Der Krieg begann ernst.
+§1 Das waren die Beschuldigungen (aitíai), die den Athenern und Peloponnesiern vorher untereinander entstanden waren: den Korinthern, weil sie Potidaia, ihre eigene Kolonie, belagerten, in der Korinther und Peloponnesier eingeschlossen waren; den Athenern gegen die Peloponnesier, weil eine verbündete und tributpflichtige Stadt von ihnen abgefallen sei und weil sie, offen herbeigekommen, mit den Potidaiaten gegen sie kämpften. Der Krieg brach jedoch noch nicht offen aus, sondern es bestand noch Waffenstillstand; denn dies alles trieben die Korinther aus eigenem Antrieb.
 
 ---
 
 ### Kapitel 67
 
-§1 Das erste Kriegsjahr endete. Der Sommer war vorüber. Der Winter brachte neue Beschlüsse.
+§1 Als Potidaia belagert wurde, saßen die Korinther nicht still — es waren eigene Leute eingeschlossen, und zugleich fürchteten sie um den Ort. Sie forderten sogleich die Bundesgenossen nach Sparta und schrien dort angekommen über die Athener, diese hätten die Verträge gebrochen und begingen Unrecht an der Peloponnes.
+
+§2 Auch die Aigineten — nicht offen als Gesandte, weil sie die Athener fürchteten, im Geheimen aber nicht am wenigsten — trieben mit ihnen den Krieg, sagend, sie seien nicht autonom nach den Verträgen.
+
+§3 Die Lakedaimonier luden auch ihrerseits die Bundesgenossen ein, ob noch jemand anderer sagte, von den Athenern Unrecht erlebt zu haben, und beriefen ihre Versammlung ein und forderten die Gewohnheitsgemäßen auf zu reden.
+
+§4 Und andere kamen und erhoben Beschuldigungen, jeder die seinen, insbesondere die Megarer: Sie zeigten vieles andere Ungehörige, am meisten aber, dass sie von den Häfen der athenischen Herrschaft und vom attischen Markt nach den Verträgen ausgeschlossen seien.
+
+§5 Als letzte traten die Korinther auf, und nachdem sie die anderen zuerst die Lakedaimonier hatten aufreizen lassen, sprachen sie Folgendes.
 
 ---
 
