@@ -98,6 +98,17 @@ Zweitprüfung: work/he/review/batch06.md. Meldungen: 10 in 11 Abschnitten (1 Blo
 - Vermerksrevisionen: 1.56.2, 1.57.2 (falsche Prämisse «פרדיקאס»), 1.58.1, 1.59.2 (erledigt).
 Alle 10 Meldungen angenommen (alle mit Texteingriff außer den Vermerksrevisionen).
 
+### Kap. 61–70 (Batch 07) — 45 Abschnitte
+Zweitprüfung: work/he/review/batch07.md. Meldungen: 12 in 12 Abschnitten (2 Blocker, 10 Minor).
+- Blocker 1: Namensschreibung כליאס an allen drei Stellen (1.61.1, 1.62.4, 1.63.3) gemäß siebtem Addendum — abgesetzt vom gleichnamigen קליאס in 1.29.2.
+- Blocker 2 (1.70.2): νεωτεροποιοί = מחדשים (genehmigte Erweiterung) statt freier Umschreibung «בעלי חידושים».
+- Regressive Namensform פרדיקס in 1.61.3/1.62.2/1.62.3 wiederhergestellt (Kap. 56–59 hatten die korrekte Form).
+- Sinn-Fixes: 1.63.1 (ὡς ἐς ἐλάχιστον χωρίον gehört zur Zusammenziehung des Haufens, nicht zum Durchbruchspunkt), 1.65.3 (erfundenes «מבוצרות» getilgt), 1.69.1 (einfaches Prädikat statt Doppelung; εἴπερ καί = «בפרט שהוא גם»), 1.69.2 (βεβουλευμένοι = «ועצתם כבר נעשתה מראש»), 1.69.3 (überliefertes „weniger“ lesbar: «פחות הם בוטחים בעצמם»), 1.69.5 (ἁμαρτήματα = טעויותיהם statt unleserlichem «מעידותיהם»), 1.62.3 (ἐπιτηρεῖν = יפקח עין — «לשמור על» läse sich als „beschützen“), 1.65.2 (biblischem «ובארבו» durch modernes «והטמין מארב» ersetzt).
+- Vermerks-Ergänzung: 1.69.4 (überliefertes gestrandetes τινά + gewählte Lesart); Vermerks-Revisionen: 1.68.3 und 1.69.5 (beide hatten Wiedergaben beschrieben, die so nicht im Text stehen — jetzt textgetreu).
+- Formatbereinigung: acht FLAG-Zeilen des Drafts waren in Backticks gehüllt und wären durch den Build-Filter gefallen — normalisiert; der Filter wurde zusätzlich gehärtet.
+- Bestätigt: alle Zahlen wie überliefert in Worten; πέμπτον αὐτὸν στρατηγόν offen; מלחמת מדי; כיתור-Reihe; יציאה לים; מזח; תוכחה/האשמה-Kontrast; עונש; ἧσσον θαρσοῦσι ohne Konjektur; [τεῖχος] nahtlos; alle siebten-Addendum-Namen; Korintherrede typografisch offen bis 1.70.9 in 1.71 hinein; Regel 6 voll gewahrt.
+Alle 12 Meldungen angenommen (11 mit Texteingriff; 1 als Vermerks-Ergänzung; 2 Vermerks-Revisionen).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
@@ -111,10 +122,10 @@ Alle 10 Meldungen angenommen (alle mit Texteingriff außer den Vermerksrevisione
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 226 in den Kapiteln 1–60 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 226 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 92 Fundstellen (3 Blocker, 89 Minor).
+- Übersetzte Abschnitte: 271 in den Kapiteln 1–70 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 271 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 104 Fundstellen (5 Blocker, 99 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 61–70: Übersetzung abgeschlossen, Zweitprüfung im Gang; Kapitel 71–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 71–80: Übersetzung im Gang; Kapitel 81–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
