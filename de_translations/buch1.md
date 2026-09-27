@@ -1640,18 +1640,32 @@
 
 ### Kapitel 140
 
-§1 So stand Perikles auf und sprach zum Volk. Was er sagte, schallte über die Versammlung und verging. Der Krieg aber ging weiter.
+§1 »Der Meinung bleibe ich immer bei derselben, ihr Athener: Den Peloponnesiern nicht nachzugeben — obwohl ich weiß, dass die Menschen nicht mit demselben Zorn zum Kampf zu überzeugen sind und es im Werk anders ausführen, sondern nach den Widrigkeiten und Umständen sich wandeln. Ich sehe auch jetzt, dass mir das Gleiche und Ähnliche zu raten ist; und die, welche euch nicht folgen, will ich zu rechtfertigen suchen vor dem, was gemeinsam beschlossen wurde, wenn ihr nur...
 
-§2 Die Mauern hielten. Die Schiffe fuhren. Die Toten wurden begraben. Die Lebenden warteten. Und die Sonne ging auf wie gestern und gestern und ging unter wie morgen und morgen. Der Krieg hatte erst begonnen.
+§2 Die Lakedaimonier waren früher schon offen gegen euch im Anschlag, und jetzt nicht am wenigsten. Es steht nämlich im Vertrag: Die Streitigkeiten durch Gericht zu geben und zu empfangen, und jeder solle behalten, was er hat. Sie aber haben weder Gericht verlangt noch nehmen sie es an, wenn wir es geben; vielmehr wollen sie mit Krieg statt mit Worten die Beschwerden beheben — und befehlend schon, nicht mehr beschuldigend, kommen sie herbei.
 
+§3 Potidaia nämlich zu räumen befehlen sie, und Aigina autonom zu lassen, und das Megarer-Dekret aufzuheben; und die letzten Gesandten hier, kommend, fordern vorher, die Griechen autonom zu lassen.
+
+§4 Keiner von euch aber soll meinen, man werde um des Kleinen willen kämpfen, wenn wir das Megarer-Dekret nicht aufheben — das sie am meisten vorschieben, als würde, wenn es aufgehoben würde, der Krieg nicht entstehen. Und in euch selbst soll nicht die Beschuldigung zurückbleiben, dass ihr um eines Kleinen willen Krieg geführt habt.
+
+§5 Denn dieses Kleine enthält die ganze Probe und Feststellung eurer Gesinnung. Wenn ihr nachgebt, wird sogleich etwas Größeres befohlen werden — weil man glaubt, ihr habt auch dieses aus Furcht gehorcht. Euch widersetzend aber, werdet ihr ihnen deutlich machen, dass man euch auf gleicher Stufe, nicht als Untergebene, gegenübertreten muss.
 ---
 
 ### Kapitel 141
 
-§1 Die Peloponnesier rüsteten zum zweiten Einfall nach Attika. Ihre Flöten spielten die alte Weise. Ihre Speere blitzten im Frühlicht. Die Athener standen auf den Mauern und schwiegen. Archidamos führte das Heer in Eilmärschen. Die Langsamkeit der Spartaner war verflogen; die Furcht vor Athen trieb sie voran.
+§1 Darum bedenkt von Grund auf: Entweder nachzugeben, bevor etwas beschädigt ist, oder — wenn wir kämpfen, wie es mir besser scheint — gleichermaßen bei großem und kleinem Vorwand nicht nachgebend und nicht aus Furchd haltend, was wir haben. Denn die gleiche Versklavung vermag die größte und die kleinste Rechtfertigung, von den gleichen Voraussetzungen aus, gegen die anderen geboten werdend, vor Gericht.
 
-§2 Perikles schickte die Reiterei aus, aber keine Hopliten. Die Felder Attikas brannten zum zweiten Mal. Die Bauern waren diesmal stiller. Sie hatten keine Tränen mehr. Sie hatten nur noch die Mauern und die Schiffe und die Gewissheit, dass von nun an jeder Sommer die gleiche Glut bringen würde. Sie warteten auf den Winter wie auf einen Freund.
+§2 Was den Krieg und die beiden Seiten vorhandenen Mittel betrifft, dass wir nicht schwächer sein werden, werdet ihr erkennen, wenn ihr es im Einzelnen hört.
 
+§3 Die Peloponnesier nämlich sind Selbstversorger und haben weder privat noch gemeinschaftlich Geld; dann sind sie ungeübt in langen und überseeischen Kriegen, weil sie wegen der Armut untereinander nur kurze Zeit gegeneinander losziehen können.
+
+§4 Und solche können weder Schiffe bemannen noch oft Landheere aussenden — abwesend vom eigenen und von den eigenen Mitteln aufwendend, und zudem vom Meer ausgeschlossen.
+
+§5 Der Reichtum trägt die Kriege mehr als die gewaltsamen Einfälle. Und die Selbstversorger sind eher bereit, mit Körpern als mit Geld zu kämpfen: Das Sichere habend, dass sie aus den Gefahren obsiegen werden; das Geld aber ist nicht sicher, nicht vorher zu verausgaben — zumal wider Erwarten, wie es wahrscheinlich ist, sich der Krieg verlängert.
+
+§6 In einer Schlacht gegen alle Griechen zusammen sind die Peloponnesier und ihre Bundesgenossen stark zu behaupten; Krieg aber gegen eine gleiche Gegenrüstung zu führen, sind sie unfähig — wenn sie nicht einen einzigen Rat habend, sofort etwas schnelleres vollenden, alle mit gleichem Stimmrecht und nicht stammgleich, jeder das Seine betreibend. Denn so pflegt nichts Vollendetes zu entstehen.
+
+§7 Die einen wollen nämlich am meisten jemanden strafen, die anderen am wenigsten das Eigene verderben. Und selten zusammenkommend, betreiben sie in einem kleinen Teil der Zeit etwas vom Gemeinsamen, das meiste aber die eigenen Angelegenheiten; und jeder meint, es schade nicht durch seine eigene Nachlässigkeit — wenn irgendein anderer auch für ihn vorausschauend sei. So entgeht unbemerkt von allen in einem jeden dasselbe...
 ---
 
 ### Kapitel 142
