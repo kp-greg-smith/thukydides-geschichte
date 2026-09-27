@@ -67,18 +67,26 @@ Zweitprüfung: work/uk/review/batch02.md. Meldungen: 24 (0 Blocker, 24 Minor).
 - Namen: Амінокл, Кір/Камбіз/Дарій, Полікрат, Ренея, фокейці, Массалія, карфагеняни, річка Галис, хіосці/лесбосці — in die Listen übernommen.
 Alle Meldungen angenommen.
 
+### Kap. 21–30 (Batch 03) — 44 Abschnitte
+Zweitprüfung: work/uk/review/batch03.md. Meldungen: 24 in 19 Abschnitten (2 Blocker, 22 Minor).
+- Blocker 1.29.3 (Actium: verbindlicher Locativ „у Актії“, Ankerplatz vor dem Heiligtum) und 1.29.4 (Rechenexempel: achtzig Schiffe, vierzig vor Epwdamnos belagernd).
+- Ausgewählte Fixes: 1.21.1, 1.23.3 (σεισμοί), 1.24.1 (βάρβαροι), 1.24.2 (Фалій син Ератоклеїда), 1.24.5, 1.25.1, 1.25.4 (Rechtschreibung «епairόμενοс/довідавшись»-Normen; κλέος perifrase), 1.26.3, 1.27.1, 1.27.2 (ethnische Formen), 1.28.1, 1.28.3 (ὠφέλія), 1.28.5, 1.29.2 (Арістей син Пелліха), 1.29.5, 1.30.4.
+Entscheidungen wie pipeline-einheitlich: 1.23.6 (найправдивіший привід), τιμωρία = відплата, 1.25.4/1.26.5 Anakoluthon-Typografie.
+Alle Meldungen angenommen.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
 - 1.7.1 ἀνῳκισμένοι — Lesartentscheidung mit Dokumentation.
 - 1.9.4/1.10.4 — wie EN (gemeinsame Entscheidungen, sinngemäß mit Anmerkung).
 - 1.18.1 — gestörte Überlieferung, sinngemäß mit Anmerkung.
+- 1.25.4→1.26.1, 1.26.5→1.27.1 — Anakoluthon-Typografie wie in der deutschen Referenz.
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 65 in den Kapiteln 1–20 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 65 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 44 Fundstellen (2 Blocker, 42 Minor).
+- Übersetzte Abschnitte: 109 in den Kapiteln 1–30 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 109 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 68 Fundstellen (4 Blocker, 64 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 1.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
 - Nicht veröffentlicht, obwohl work in progress: Kapitel 51–60: Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 61–146 noch nicht begonnen.
