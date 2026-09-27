@@ -798,25 +798,69 @@
 
 ### Kapitel 68
 
-§1 Die Korinther klagten erneut. Sie warfen Sparta Unentschlossenheit vor. Ein attischer Gesandter widersprach: Athen habe nichts Unrechtes getan.
+§1 »Dass wir euch, ihr Lakedaimonier, das Misstrauen gegen eure eigene Verfassung und euren Umgang mit den anderen lehren müssen, wenn wir etwas sagen — daran seid ihr selbst schuld: Ihr habt Besonnenheit, aber mehr Unerfahrenheit in den Dingen nach außen gebraucht.
+
+§2 Oft nämlich, wenn wir im Voraus ankündigten, was wir von den Athenern zu leiden haben würden, habt ihr das jeweils Gelehrte nicht geprüft, sondern habt die Redenden eher verdächtigt, dass sie aus eigenem Nutzen reden. Und deshalb habt ihr nicht, bevor ihr leidet, sondern erst, als es zum Werk gekommen war, diese Bundesgenossen herbeigerufen — bei denen es uns nicht am wenigsten zusteht zu reden, da wir die größten Beschwerden führen: von den Athenern misshandelt, von euch aber vernachlässigt zu werden.
+
+§3 Und wenn sie als unsichtbar Ferne die Griechen unrecht behandelten, bedürfte es einer Belehrung der Unwissenden. Jetzt aber — wozu langer Rede? Ihr seht die Versklavten und die, die ihnen nachstellen — nicht am wenigsten unsere eigenen Bundesgenossen — und von langer Hand vorbereitet, ob sie einmal Krieg führen werden.
+
+§4 Sie würden nämlich nicht Kerkyra mit Gewalt gegen uns festhalten und Potidaia belagern — das eine der wichtigste Ort gegen die Städte in Thrakien, das andere aber hätte den Peloponnesiern die größte Flotte verschafft.«
 
 ---
 
 ### Kapitel 69
 
-§1 Die Rede der Korinther auf der Bundesversammlung in Sparta im zweiten Jahr der Rüstungen. Sie sprachen: »Noch immer zaudert ihr, Spartaner, während Athen wächst. Ihr schlaft. Aufwachen müsst ihr!«
+§1 »Und daran seid ihr schuld: zuerst, weil ihr sie die Stadt nach den Perserkriegen habt befestigen lassen, und später die langen Mauern errichten ließet; und immerfort beraubt ihr nicht nur die von ihnen Versklavten der Freiheit, sondern auch eure eigenen Bundesgenossen. Denn nicht der Versklavende handelt wahrer, sondern der, der es verhindern könnte und dabei zusieht — auch wenn er den Ruf der Tüchtigkeit trägt, Griechenland die Freiheit verschafft zu haben.
+
+§2 Mit Mühe sind wir jetzt zusammengekommen, und nicht einmal jetzt offen. Es wäre nötig gewesen, nicht mehr zu prüfen, ob wir Unrecht leiden, sondern wie wir uns wehren. Denn die Handelnden mit gefasstem Entschluss kommen über die, die noch nicht einmal beschlossen haben.
+
+§3 Und wir wissen, auf welchem Weg die Athener sind und dass sie allmählich gegen die anderen vorgehen. Da sie glauben, dass es euch entgeht, sind sie weniger kühn; wenn sie euch aber als Wissende, die gleichgültig zusehen, erkennen, werden sie umso härter losgehen.
+
+§4 Ihr aber sitzt still, ihr Lakedaimonier, als einzige Griechen — nicht mit irgendeiner Kraft, sondern mit eurem Zögern euch wehrend; und als einzige beseitigt ihr das Wachsen der Feinde nicht im Anfang, sondern erst, wenn es verdoppelt ist.
+
+§5 Und dabei hieß es doch, ihr wäret die sichersten — was die Rede mehr behauptete als die Tat bewies. Den Meder wissen wir selbst, wie er vom Ende der Erde eher gegen die Peloponnes kam, als dass euer würdiges Entgegentreten da war; jetzt aber seht ihr die Athener — nicht fern, wie jenen, sondern nahe — und zusehen zu; und statt selbst zu kommen und euch zu wehren, wollt ihr lieber abwarten, bis sie kommen, und gegen viel Stärkere kämpfend unterliegen, obwohl ihr wisst, dass der Barbar selbst an vielem zu Fall kam und dass wir gegen die Athener schon oft mehr durch ihre Fehler als durch eure Abwehr die Oberhand hatten.
+
+§6 Und niemand von euch soll meinen, dies werde mehr aus Feindschaft als aus Beschwerde gesagt. Beschwerde ist die Sache der Freunde, wenn sie gefehlt haben; Anklage die der Feinde, wenn sie Unrecht taten.«
 
 ---
 
 ### Kapitel 70
 
-§1 Die Korinther setzten ihren Vergleich fort: »Die Athener geben nie auf. Kaum haben sie etwas erreicht, schon sinnen sie auf Neues. Ihr, habt ihr etwas erreicht, ruht euch aus. Sie wagen über ihre Kraft; ihr zaudert vor der Notwendigkeit.«
+§1 »Und zugleich — wenn auch sonst jemand anderer für wert hielte, anderen Tadel zu machen, erst recht über große, feststehende Unterschiede, über die ihr euch uns nicht bewusst zu sein scheint und nie überlegt habt, was für einer die Athener euch gegenüber sind und wie verschieden der Kampf zwischen euch sein wird:
+
+§2 Sie sind nämlich Neuerer und schnell im Ersinnen und im Ausführen dessen, was sie erkannt haben; ihr aber seid darauf bedacht, das Vorhandene zu bewahren, nichts Neues zu ersinnen und nicht einmal das Notwendige zur Ausführung zu bringen.
+
+§3 Ferner: Sie sind kühn über ihre Kraft hinaus und waghalsig über ihre Einsicht hinaus und in den Gefahren hoffnungsvoll; das Eurige aber ist: weniger habend als die Kraft zu handeln, in der Einsicht nicht einmal dem Sicheren zu vertrauen und nie zu glauben, dass ihr den Gefahren entrinnen werdet.
+
+§4 Und sie sind unbeirrt gegen euer Zögern und Abwesende gegen die Allergegenwärtigsten; sie glauben nämlich, durch die Abwesenheit etwas zu gewinnen, ihr aber könntet durch das Hinzukommen auch das Bereite verderben.
+
+§5 Im Sieg über die Feinde gehen sie am weitesten hinaus, und im Unterliegen weichen sie am wenigsten zurück.
+
+§6 Ferner gebrauchen sie die Körper als die Fremdesten für die Stadt, die Einsicht aber als die Eigenste, um etwas für sie zu tun.
+
+§7 Und was sie ersonnen haben und nicht ausführen, halten sie für den Verlust des Eigenen; was sie aber im Angriff erwerben, gilt ihnen wenig gegen das, was noch kommen wird. Und wenn sie in einem Versuch fehlgehen, füllen sie mit anderen Hoffnungen die Lücke; denn sie allein haben das, was sie ersinnen, ebenso in der Hand, weil sie das, was sie erkannt haben, schleunigst unternehmen.
+
+§8 Und das alles tun sie mit Mühen und Gefahren ihr ganzes Leben lang und genießen am wenigsten vom Vorhandenen, weil sie immerzu erwerben — und halten keinen Feiertag für etwas anderes, als das Notwendige zu tun, und die untätige Ruhe für nicht weniger unangenehm als die mühevolle Geschäftigkeit.
+
+§9 So dass einer, wenn er sie zusammenfassen wollte, richtig sagte, sie seien darauf angelegt, selbst keine Ruhe zu haben und auch den anderen Menschen keine zu lassen.«
 
 ---
 
 ### Kapitel 71
 
-§1 »Nicht die Reden der Bundesgenossen zählen, sondern die Taten. Wenn ihr zögert, verliert ihr nicht nur Athen, sondern ganz Griechenland. Eure Langsamkeit kostet die Freiheit.«
+§1 »Einer solchen gegenüberstehenden Stadt, ihr Lakedaimonier, wollt ihr euch mit Zögern widersetzen und glaubt, die Ruhe genüge denen am meisten, die mit der Rüstung das Rechte tun, in der Gesinnung aber, wenn sie Unrecht erleiden, offensichtlich nicht darüber hinwegkommen — vielmehr seid ihr darauf bedacht, die anderen nicht zu kränken und euch selbst wehrend nicht verletzt zu werden.
+
+§2 Kaum würdet ihr das erreichen, wenn ihr in einer Stadt wie dieser wohntet; jetzt aber ist es, wie wir eben dargelegt haben: Euer Verhalten ihnen gegenüber ist altväterisch.
+
+§3 Wie bei der Kunst immer das Hinzukommende obsiegt, so sind auch in einer ruhig haltenden Stadt die unbeweglichen Gesetze am besten; denen aber, die zu vielem gezwungen sind, bedarf es vieler Kunst. Deshalb sind die Athener durch ihre Vielgewandtheit erfahrener als ihr.
+
+§4 Bis hierher sei eure Langsamkeit begrenzt. Jetzt aber helft den Potidaiaten und den anderen, wie ihr es zugesagt habt, und brecht schleunigst in Attika ein, damit ihr nicht Freunde und Verwandte den bittersten Feinden preisgebt und uns, die übrigen, in der Verzagung einem anderen Bündnis zutreibt.
+
+§5 Wir würden nicht unrecht tun — weder gegen die Götter, bei denen wir geschworen haben, noch gegen die Menschen, die es merken. Denn die Verträge lösen nicht die, die anderen ohne den Eid beistehen, sondern die, die denen nicht helfen, mit denen sie geschworen haben.
+
+§6 Wenn ihr aber bereit seid, bleiben wir; denn wir würden nicht fromm handeln, wenn wir wechselten, und würden keine vertrauteren anderen finden.
+
+§7 Beratet darüber gut und bemüht euch, die Peloponnes nicht geringer zu beherrschen, als die Väter sie euch übergeben haben.«
 
 ---
 
