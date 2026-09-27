@@ -1567,20 +1567,27 @@
 
 ### Kapitel 133
 
-§1 Die Athener dehnten ihre Herrschaft aus. Sie einzutreiben und zu halten war schwerer als sie zu erwerben. Die Bundesgenossen murrten über die Tribute und die Besatzungen. Athen umgab sich mit Mauern, Sparta mit Furcht.
-
+§1 Damals also glaubten die Ephoren mehr, als einer von den Männern des Pausanias die Briefe zeigte; sie wollten aber noch es mit eigenen Ohren hören. Ein Mann ging — von ihnen vorbereitet — als Schutzbittender nach Tainaron und schlug eine doppelte Hütte mit einer Scheidewand auf, in der er einige der Ephoren verbarg; und als Pausanias zu ihm kam, um den Schutzbittenden zu besuchen, tadelte er dessen Verrat und legte die weiteren Schritte dar, ohne etwas von der bevorstehenden Ergreifung zu ahnen.
 ---
 
 ### Kapitel 134
 
-§1 In Athen fragte man, wie lange noch. Perikles antwortete: Solange wir siegen. Die Weisheit des Feldherrn war der Mut der Stadt, das Meer der Waffenplatz, der Piräus die Festung und das Silber die Ader, aus der das Blut des Krieges floss.
+§1 Und es hörend, gingen die Ephoren zunächst weg; in der Stadt aber machten sie die Ergreifung sicher. Es wird erzählt: Als er auf dem Weg ergriffen werden sollte, und er das Antlitz eines der Ephoren herankommen sah, erkannte er, weshalb er kam; ein anderer aber, mit einem heimlichen Wink Wohlwollen gegen das Heiligtum der Chalkioikos andeutend, hielt ihn ab, ins Heiligtum zu fliehen.
 
+§2 Und sie zögerten im Augenblick in der Verfolgung; danach aber nahmen sie das Dach der Wohnung ab und hielten ihn im Inneren beobachtend, und als sie ihn ergriffen, bauten sie innen zu; und sich davorsetzend, trieben sie ihn mit Hunger aus der Belagerung.
+
+§3 Und als er im Gemach im Begriff war zu verscheiden, merkten sie es und führten ihn aus dem Heiligtum noch atmend heraus; und hinausgeführt starb er sofort.
+
+§4 Und sie waren im Begriff, ihn in den Kaiadas zu werfen — wohin die Verbrecher; dann aber schien es richtig, ihn irgendwo nahe zu begraben. Der Gott in Delphi aber befahl später den Lakedaimoniern, das Grab dorthin zu versetzen, wo er gestorben war — und es liegt jetzt in der Vorhalle, wie Stelen-Inschriften zeigen; und weil das Getane ihnen Frevel war, galt es später als den Göttern zürnend.
 ---
 
 ### Kapitel 135
 
-§1 Als die Perser geschlagen waren und die Inseln untertan, wuchs den Athenern der Mut. Sie gründeten Kolonien in Thrakien, am Strymon und am Hellespont. Kein Schiff des Meeres fuhr ohne ihren Schutz, keiner ihrer Feinde ohne ihre Furcht.
+§1 Die Athener aber — auch der Gott hatte den Frevel verurteilt — befahlen ihrerseits den Lakedaimoniern, ihn zu vertreiben.
 
+§2 Und wegen des Medismos des Pausanias schickten die Lakedaimonier Gesandte zu den Athenern und klagten auch den Themistokles an — wie sie aus den Beweisen gegen Pausanias fanden —; und sie verlangten, ihn mit der gleichen Strafe zu treffen.
+
+§3 Die Athener aber, überzeugt — er war nämlich durch das Scherbengericht verbannt und lebte in Argos, ging auch im übrigen Peloponnes umher —, sandten mit den bereitwilligen Lakedaimoniern Männer, die gemeinsam verfolgen sollten, mit dem Befehl, ihn zu greifen, wo sie ihn träfen.
 ---
 
 ### Kapitel 136
