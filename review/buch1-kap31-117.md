@@ -2110,7 +2110,7 @@ Alle 2 geänderten Abschnitte nochmals vollständig gegen das Griechische gelese
 
 ## Nachtrag zu Kapitel 51–60: präzisierte Anmerkungsregel
 
-Nach der Nutzerpräzisierung werden Klammeranmerkungen auf sinnverändernde Eingriffe und echte Deutungsfragen begrenzt. Dieser Nachtrag betrifft 1 bereits geprüfte Abschnitte und erweitert die Gesamtzahl der geprüften Abschnitte nicht.
+Nach der Nutzerpräzisierung werden Klammeranmerkungen auf sinnverändernde Eingriffe und echte Deutungsfragen begrenzt. Dieser Nachtrag betrifft 1 bereits geprüften Abschnitt und erweitert die Gesamtzahl der geprüften Abschnitte nicht.
 
 ### 58.1
 
@@ -2121,7 +2121,7 @@ Nach der Nutzerpräzisierung werden Klammeranmerkungen auf sinnverändernde Eing
 
 ### Nachprüfung
 
-Alle 1 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+Den 1 geänderten Abschnitt nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 51 --end 60`: 31/31 Abschnitte, 0 Fehler, 0 Warnungen.
 
@@ -2148,3 +2148,37 @@ Nach der Nutzerpräzisierung werden Klammeranmerkungen auf sinnverändernde Eing
 Alle 2 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 61 --end 70`: 45/45 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Abschlussstand
+
+Alle **354 Abschnitte** in Buch 1, Kapitel 31–117 wurden Satz für Satz gegen den griechischen Text geprüft. Im Endstand unterscheiden sich **199 Abschnitte** von der Ausgangsfassung. Mehrere Änderungen innerhalb desselben Abschnitts zählen dabei einmal.
+
+| Kapitel | Geprüfte Abschnitte | Im Endstand geändert |
+| --- | ---: | ---: |
+| 31–40 | 45 | 28 |
+| 41–50 | 41 | 17 |
+| 51–60 | 31 | 13 |
+| 61–70 | 45 | 27 |
+| 71–80 | 43 | 24 |
+| 81–90 | 42 | 29 |
+| 91–100 | 39 | 24 |
+| 101–110 | 42 | 20 |
+| 111–117 | 26 | 17 |
+| **Gesamt** | **354** | **199** |
+
+Die Zahlen bei den ursprünglichen Portionen dokumentieren deren damaligen Stand. Durch die nachträgliche Entfernung rein syntaktischer Klammeranmerkungen entsprechen 48.3 und 49.6 wieder vollständig der Ausgangsfassung; deshalb sinkt die endgültige Zahl geänderter Abschnitte in Kapitel 41–50 von 19 auf 17. Die weiteren Anmerkungsentfernungen betreffen Abschnitte mit verbleibenden Korrekturen.
+
+Die neun Portionen wurden jeweils separat committed. Die Präzisierung der Anmerkungsregel wurde in drei weiteren, ebenfalls auf höchstens zehn Kapitel begrenzten Commits umgesetzt. Alle neun Strukturprüfungen sowie die drei erneuten Prüfungen nach den Anmerkungsentfernungen ergaben jeweils **0 Fehler und 0 Warnungen**. Der abschließende Vergleich mit der Ausgangsfassung bestätigt unveränderte Abschnitts-IDs, deren Reihenfolge, die HTML-Struktur und sämtliche Übersetzungstexte außerhalb von Kapitel 31–117. Diese Prüfungen belegen die strukturelle Unversehrtheit, nicht die Fehlerfreiheit der Übersetzung.
+
+Die ausdrücklich genannten Fehler in 32.5, 55.2, 90.3 und 99.1 sind korrigiert. Die Anmerkung zu *aitiṓtatos* in 74.1 ist entfernt. Die sinnrelevante editorische Kennzeichnung in 90.3 bleibt für Leser erläutert.
+
+### Unsicher, bitte prüfen — Gesamtübersicht
+
+- **51.4:** †Ἀνδοκίδης ὁ Λεωγόρου† — Name und Vatersname sind im griechischen Text als unsicher markiert; mit vorhandener Anmerkung beibehalten.
+- **57.6:** †δέκα† — Die Zahl von zehn weiteren Feldherren ist textkritisch unsicher; mit vorhandener Anmerkung beibehalten.
+- **69.2:** ἐπὶ φανεροῖς — Bezug auf eine klare Sachlage oder auf ein klares Beratungsziel; „auf klarer Grundlage“ mit Leseranmerkung.
+- **71.1:** τῇ μὲν παρασκευῇ δίκαια πράσσωσι — Verhältnis zwischen rechtmäßigem Handeln und angemessener Rüstung; „bei ihrer Rüstung das Gebotene tun“ mit Leseranmerkung.
+- **77.1:** ξυμβόλαιαι δίκαι — Die genaue Vertrags- und Gerichtsordnung bleibt offen; „vertraglich geregelte Gerichtsverfahren“ mit Leseranmerkung.
+- **110.3:** ἀνεσταυρώθη — Die genaue Hinrichtungsart, Kreuzigung oder Pfählung, bleibt offen; „gekreuzigt“ mit Leseranmerkung.
+
+Ausführlichere Erläuterungen und gegebenenfalls konsultierte philologische Quellen stehen bei den jeweiligen Portionen oben.
