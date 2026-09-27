@@ -2107,3 +2107,20 @@ Nach der Nutzerpräzisierung werden Klammeranmerkungen auf sinnverändernde Eing
 Alle 2 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 41 --end 50`: 41/41 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Nachtrag zu Kapitel 51–60: präzisierte Anmerkungsregel
+
+Nach der Nutzerpräzisierung werden Klammeranmerkungen auf sinnverändernde Eingriffe und echte Deutungsfragen begrenzt. Dieser Nachtrag betrifft 1 bereits geprüfte Abschnitte und erweitert die Gesamtzahl der geprüften Abschnitte nicht.
+
+### 58.1
+
+- Griechisch: [ἔπρασσον]
+- Alt: [Anm.: Der Herausgeber kennzeichnet éprasson (»sie bemühten sich«) als zu tilgenden Zusatz.]
+- Neu: (Anmerkung entfernt; Übersetzung unverändert.)
+- Begründung: Die syntaktisch überschüssige Verbform ändert den im Satz bereits ausgedrückten Zweck der Gesandtschaft nicht. Gemäß nachgereichter Präzisierung des Nutzers keine reine Klammeranmerkung.
+
+### Nachprüfung
+
+Alle 1 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+
+`python3 scripts/check_translation.py --language de --book 1 --start 51 --end 60`: 31/31 Abschnitte, 0 Fehler, 0 Warnungen.
