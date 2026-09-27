@@ -138,6 +138,15 @@ Zweitprüfung: work/en/review/batch10.md. Meldungen: 6 in 6 Abschnitten (1 Block
 - Bestätigt: Themistocles-Adresse bleibt bis 1.91.7 durchgehend indirekt (ἔφη geehrt, kein enclosing mark, keine Promotion); 1.99.1 enthält keine Strafklausel (in source.xml verifiziert) und importiert keine; die Amts-Regelungen 1.93.3/1.96.2 sauber; die spartanischen στρατηγός-Stellen = „commander“; alle zehnten-Addendum-Namen auf dem Druck; Zahlen (20, 30 Schiffe; drei Häfen; 460 Talente; 200; zehntausend) korrekt; Naxos als „first allied city enslaved contrary to the established order“ ungeschönt.
 Alle 6 Meldungen angenommen (alle mit Texteingriff; dazu 2 Vermerks-Ergänzungen, 2 Vermerks-Revisionen).
 
+### Kap. 101–110 (Batch 11) — 42 Abschnitte
+Zweitprüfung: work/en/review/batch11.md. Meldungen: 7 in 7 Abschnitten (2 Blocker, 5 Minor).
+- Blocker 1.105.1: der Druck trug noch die überlieferte Latinisierung „Halias“, obwohl das zwölfte Addendum Halieis längst verfügt hatte (der Vermerk dokumentierte korrekt Ἁλιᾶς, stellte aber die bereits entschiedene Frage erneut offen) — jetzt „at Halieis“, der Vermerk nach der Addendums-Anordnung neu gefasst.
+- Blocker 1.102.2 (Vermerksebene): die Behauptung, die Quelle überliefere πειχομαχεῖν, war FALSCH — byte-stufig gegen source.xml verifiziert: überliefert ist das gewöhnliche τειχομαχεῖν (τ = U+03C4; kein Apparat trägt eine Variante); Vermerk zurückgenommen — der Review-Prompt des Koordinators trug dieselbe Fehlprämisse, die der Prüfer gegen die griechischen Dateien korrigiert hat (dokumentiert).
+- Minorfixes: 1.102.2-Rider (ἐφαίνετο = „seemed to be wanting“, kein „proved“), 1.102.4 (ἀμφοτέροις = „with both alike“, nicht „on behalf of both“), 1.101.2 („the Helots“ zweimal kapitalisiert gemäß Kernliste), 1.109.3 (historisches Präsens nach Koordinatorentscheid zum Präteritum normalisiert — Konsistenz mit den fünf anderen Präsens-Historica der Batch und dem „sent“ von 1.109.2), 1.110.4 (Adjudikation: die Addendumsform „the Mendesian mouth“ gesetzt; der Vermerk dokumentiert weiterhin das überlieferte κέας = „horn“).
+- Vermerkspflege: Cleombrotus (1.107.2) als fehlender seltener Königsname nachgetragen und in allen drei Briefings nachgezogen (EN Cleombrotus / UK Клеомброт / HE קלאומברוטוס); der βίᾳ-Vermerk entsichert (beide lebenden Implikationen benannt); die zweiundzwanzig addendum-gelösten Namensvermerke bleiben als historische Dokumentation stehen.
+- Bestätigt: alle Zahlen exakt (dreihundert, siebzig, zweihundert, tausendfünfhundert+zehntausend, tausend/vierzehntausend, der zweiundsechzigste Tag, ungefähr zwölf Tage, hundert Geiseln, ein Jahr und sechs Monate, sechs Jahre, fünfzig Trieren); die Sonderprüfungen bestanden (crucified/impaled-Wahl dokumentiert; διάδοχοι = „in relief“; die 1.107.6-Ellipse exakt bewahrt; Αἰθαιῆς wie überliefert; λόγος = „ground“ ohne in-batch πρόφανσις-Kollision — die buchlange Überlappung gemeldet); Regel 6 vollkommen (die spartanische Geheimzusage bleibt des Erzählers Enthüllung an überlieferter Stelle; nichts befördert).
+Alle 7 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
@@ -155,10 +164,10 @@ Alle 6 Meldungen angenommen (alle mit Texteingriff; dazu 2 Vermerks-Ergänzungen
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 395 in den Kapiteln 1–100 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 395 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 118 Fundstellen (11 Blocker, 107 Minor).
+- Übersetzte Abschnitte: 437 in den Kapiteln 1–110 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 437 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 125 Fundstellen (13 Blocker, 112 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 101–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 111–120: Übersetzung im Gang; Kapitel 121–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
