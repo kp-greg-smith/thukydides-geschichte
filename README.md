@@ -29,28 +29,9 @@ Translate faithfully and readably, not word for word, and directly from Ancient 
 5. **Preserve ambiguity.** Where the Greek allows more than one reading, retain that openness where possible rather than silently choosing one. Explain unavoidable choices in a brief note.
 6. **Extra care with speeches and indirect speech.** Preserve the speaker, addressee, argument, reported viewpoint, conditions, negation, modality, and temporal relations. Do not turn reported claims into the narrator’s assertions.
 
-### Glossary for the existing German translation
+### Language-specific glossaries
 
-These are German equivalents, not prescribed English, Ukrainian, or Hebrew renderings. Establish a separate sense-based glossary before translating each new language. Entries describe the relevant senses in this work; context governs polysemous words.
-
-| Greek | German rendering by sense |
-|---|---|
-| πρόφασις (próphasis) | Grund; 1.23.6: ἀληθεστάτη: wahrster Grund |
-| αἰτία (aitía) | Vorwurf / Anschuldigung; kausal: Ursache / Schuld / Verantwortung |
-| ἔγκλημα (énklēma) | Beschuldigung |
-| στάσις (stásis) | Bürgerkrieg |
-| δύναμις (dýnamis) | Macht |
-| παρασκευή (paraskeuḗ) | Rüstung |
-| δουλεία (douleía) | Knechtschaft |
-| λόγος / ἔργον (lógos / érgon) | Wort / Tat |
-| χρήματα (chrḗmata) | Mittel |
-| τεκμήριον (tekmḗrion) | Indiz |
-| σημεῖον (sēmeîon) | Anzeichen |
-| μαρτύριον (martýrion) | Zeugnis |
-| λῃστεία (lēisteía) | Räuberei |
-| τὸ μυθῶδες (tò mythōdes) | das Mythische |
-| σπονδαί (spondaí) | Vertrag |
-| διαφοραί (diaphoraí) | Streitpunkte |
+The existing [German glossary](README_DE.md#glossar-der-vorhandenen-deutschen-übersetzung) is documented in the German README. English, Ukrainian, and Hebrew glossaries have not yet been established. Before translating into each language, define consistent equivalents by meaning directly from the Greek; context governs words with multiple senses.
 
 ## Workflow for future books and languages
 
