@@ -460,3 +460,146 @@ Keine.
 Alle 19 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 41 --end 50`: 41/41 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Kapitel 51–60
+
+Geprüft: **31 Abschnitte**; geändert: **13 Abschnitte**.
+
+Prüfliste: 51.1, 51.2, 51.3, 51.4, 51.5, 52.1, 52.2, 52.3, 53.1, 53.2, 53.3, 53.4, 54.1, 54.2, 55.1, 55.2, 56.1, 56.2, 57.1, 57.2, 57.3, 57.4, 57.5, 57.6, 58.1, 58.2, 59.1, 59.2, 60.1, 60.2, 60.3.
+
+### 51.2 · Änderung 1
+
+- Griechisch: ἐπέπλεον γὰρ μᾶλλον ἐκ τοῦ ἀφανοῦς
+- Alt: es war schon mehr in der Dunkelheit
+- Neu: die Schiffe näherten sich aus einer für sie weniger einsehbaren Richtung
+- Begründung: Sichtbehinderung durch die Anfahrtsrichtung statt vorgezogener Nacht.
+
+### 52.2 · Änderung 2
+
+- Griechisch: μετεώρους ἡσύχαζον … ἄρχειν ἑκόντες … ἀκραιφνεῖς … ἐπισκευὴν οὐκ οὖσαν
+- Alt: Die Korinther aber hoben die Schiffe vom Land, stellten sich in Reih und Glied auf und blieben still; sie hatten nicht die Absicht, den Kampf zu beginnen — vielmehr aus freien Stücken —, da sie viele plötzliche Schwierigkeiten vor sich sahen: neue Schiffe aus Athen, und ihnen selbst viel Unglücksfälle zugestoßen waren — die Bewachung der Gefangenen, die sie an Bord hielten, und die fehlende Ausbesserung der Schiffe an einem menschenleeren Ort.
+- Neu: Die Korinther aber brachten die Schiffe vom Land ins Wasser, stellten sich in Reih und Glied auf und blieben auf offener See still; sie hatten nicht die Absicht, von sich aus die Seeschlacht zu beginnen, da sie sahen, dass unversehrte Schiffe aus Athen hinzugekommen waren und sie selbst vor vielen Schwierigkeiten standen: der Bewachung der Gefangenen, die sie an Bord hielten, und der fehlenden Möglichkeit, die Schiffe an einem menschenleeren Ort auszubessern.
+- Begründung: Unverständliche Konstruktion, verstellter Bezug von ἑκόντες, ausgelassener Zustand der athenischen Schiffe und unbelegtes „plötzlich“ berichtigt.
+
+### 53.2 · Änderung 3
+
+- Griechisch: ἡμᾶς τούσδε πρώτους λαβόντες χρήσασθε ὡς πολεμίοις
+- Alt: dann nehmt uns diese Männer zuerst als Feinde gefangen
+- Neu: dann ergreift zuerst uns hier und behandelt uns als Feinde
+- Begründung: Demonstrativ und zwei Handlungen statt ungrammatischer Verbindung.
+
+### 54.1 · Änderung 4
+
+- Griechisch: τὰ κατὰ σφᾶς ἐξενεχθέντα … ὃς γενόμενος τῆς νυκτός … πανταχῇ
+- Alt: die Wracks und die Toten der Ihren, die in der Nacht von Strömung und Wind zerstreut worden waren
+- Neu: die Wracks und Toten, die von der Strömung und dem Wind zu ihnen hingetrieben worden waren; der Wind war in der Nacht aufgekommen und hatte sie überallhin zerstreut
+- Begründung: κατὰ σφᾶς ist räumlich; Nacht und Zerstreuung gehören zum aufgekommenen Wind.
+
+### 54.1 · Änderung 5
+
+- Griechisch: ὡς νενικηκότες
+- Alt: als die Sieger
+- Neu: im Glauben, gesiegt zu haben
+- Begründung: Die beanspruchte Siegesposition bleibt als Sicht der Kerkyraier erkennbar.
+
+### 54.2 · Änderung 6
+
+- Griechisch: τριάκοντα ναῦς μάλιστα
+- Alt: höchstens dreißig Schiffe
+- Neu: ungefähr dreißig Schiffe
+- Begründung: μάλιστα ist bei dieser Zahl eine Näherungsangabe.
+
+### 54.2 · Änderung 7
+
+- Griechisch: τὰ κατὰ σφᾶς αὐτοὺς ναυάγια καὶ νεκρούς
+- Alt: ihre eigenen Wracks und Toten bargen
+- Neu: die bei ihnen liegenden Wracks und Toten bargen
+- Begründung: Räumlichen Bezug erhalten; kein Besitzpronomen im Griechischen.
+
+### 55.1 · Änderung 8
+
+- Griechisch: ἐτύγχανον … οἱ πλείους πρῶτοι ὄντες
+- Alt: die meisten von ihnen waren zufällig die an Einfluss ersten Männer der Stadt
+- Neu: die meisten von ihnen gehörten zu den einflussreichsten Männern der Stadt
+- Begründung: τυγχάνειν mit Partizip stellt hier den tatsächlichen Umstand fest, keinen Zufall.
+
+### 55.2 · Änderung 9
+
+- Griechisch: περιγίγνεται τῷ πολέμῳ τῶν Κορινθίων … ἀνεχώρησαν ἐξ αὐτῆς
+- Alt: So wurde Kerkyra durch den Krieg mit Korinth besiegt, und die athenischen Schiffe fuhren heim
+- Neu: So überstand Kerkyra den Krieg mit Korinth, und die athenischen Schiffe zogen von dort ab
+- Begründung: Bekannte Sinnumkehr von περιγίγνεται behoben; Abzugsort erhalten.
+
+### 55.2 · Änderung 10
+
+- Griechisch: αἰτία … πρώτη … τοῖς Κορινθίοις ἐς τοὺς Ἀθηναίους … σφίσιν … ἐναυμάχουν
+- Alt: Das aber wurde für die Korinther die erste Ursache des Krieges gegen die Athener: dass die Athener, obwohl zwischen ihnen und den Korinthern Vertrag bestand, mit den Kerkyraiern Seeschlacht kämpften. [Anm.: αἰτία heißt hier »Ursache«, nicht »Vorwurf«.]
+- Neu: Darin lag der erste zum Krieg führende Vorwurf der Korinther gegen die Athener: dass die Athener, obwohl zwischen ihnen und den Korinthern Vertrag bestand, an der Seite der Kerkyraier gegen sie Seeschlacht kämpften. [Anm.: Griechisch aitía bezeichnet hier den Vorwurf, der den Kriegsanlass bildet.]
+- Begründung: Adressierten Vorwurf und das zuvor fehlende Kampfziel σφίσιν wiedergegeben; Anmerkung für Leser formuliert.
+
+### 56.1 · Änderung 11
+
+- Griechisch: τάδε … διάφορα ἐς τὸ πολεμεῖν
+- Alt: trugen sich sogleich folgende zwischen Athenern und Peloponnesiern zu, die zum Krieg führten
+- Neu: entstanden sogleich folgende Streitpunkte zwischen Athenern und Peloponnesiern, die zum Krieg führten
+- Begründung: Fehlendes Substantiv nach Glossar ergänzt.
+
+### 56.2 · Änderung 12
+
+- Griechisch: Ποτειδεάτας … ἐκέλευον
+- Alt: und befahlen ihnen, die Mauer
+- Neu: die Mauer
+- Begründung: Doppeltes Prädikat nach dem Einschub beseitigt.
+
+### 56.2 · Änderung 13
+
+- Griechisch: τοὺς … ἄλλους … ξυναποστήσωσι ξυμμάχους
+- Alt: ebenso wie die übrigen Bundesgenossen in Thrakien gemeinsam mit ihnen abfallen würden
+- Neu: und die übrigen Bundesgenossen in Thrakien zum gemeinsamen Abfall bewegen
+- Begründung: Kausatives ξυναποστήσωσι: Potidaia würde andere zum Abfall bringen.
+
+### 57.4 · Änderung 14
+
+- Griechisch: ἔπρασσεν … πέμπων … καὶ … προσεποιεῖτο
+- Alt: Aus Furcht arbeitete er darauf hin, einerseits nach Sparta zu senden, damit Krieg zwischen ihnen und den Peloponnesiern entstehe, und andererseits die Korinther für den Abfall Potidaias zu gewinnen.
+- Neu: Aus Furcht sandte er nach Sparta und wirkte darauf hin, dass Krieg zwischen den Athenern und den Peloponnesiern entstehe; außerdem suchte er die Korinther für den Abfall Potidaias zu gewinnen.
+- Begründung: Das Senden ist bereits Handlung, nicht erst Absicht; Bezug von αὐτοῖς klargestellt.
+
+### 57.6 · Änderung 15
+
+- Griechisch: προκαταλαμβάνειν … τὰς ἀποστάσεις
+- Alt: den Abfall der Städte vorwegnehmen wollten
+- Neu: dem Abfall der Städte zuvorkommen wollten
+- Begründung: Gemeint ist das Verhindern, nicht das eigene Vorwegnehmen eines Abfalls.
+
+### 58.1 · Änderung 16
+
+- Griechisch: τιμωρίαν … οὐδὲν ηὕροντο ἐπιτήδειον
+- Alt: Vergeltung bereitstünde. Da sie aber, obwohl sie sich in Athen lange bemüht hatten, nichts Erreichbares fanden
+- Neu: Hilfe bereitstünde. Da sie aber, obwohl sie sich in Athen lange bemüht hatten, nichts Günstiges erreichten
+- Begründung: τιμωρία bedeutet hier Beistand; das Ergebnis der Verhandlungen wird bezeichnet.
+
+### 58.1 · Änderung 17
+
+- Griechisch: [ἔπρασσον]
+- Alt: mit gemeinsamem Schwur.
+- Neu: mit gemeinsamem Schwur. [Anm.: Der Herausgeber kennzeichnet éprasson (»sie bemühten sich«) als zu tilgenden Zusatz.]
+- Begründung: Editorische Tilgungsmarkierung gemäß Regel 4 erläutert.
+
+### 59.2 · Änderung 18
+
+- Griechisch: ἀδύνατα … πρός τε Περδίκκαν … καὶ τὰ ξυναφεστῶτα χωρία
+- Alt: mit der gegenwärtigen Macht weder gegen Perdikkas noch gegen die gemeinsam abgefallenen Gebiete kämpfen zu können
+- Neu: mit der gegenwärtigen Macht nicht zugleich gegen Perdikkas und gegen die gemeinsam abgefallenen Gebiete kämpfen zu können
+- Begründung: Sie halten den gleichzeitigen Krieg gegen beide für unmöglich, nicht jeden einzelnen.
+
+### Unsicher, bitte prüfen
+
+- **51.4:** Die Quelle markiert „Ἀνδοκίδης ὁ Λεωγόρου“ mit Cruces. Name und Vatersname bleiben mit der vorhandenen Anmerkung erhalten; keine Konjektur vorgenommen.
+- **57.6:** Die Quelle markiert „δέκα“ mit Cruces. Die Zahl der weiteren Feldherren bleibt als textkritisch unsicher gekennzeichnet; keine Ersatzanzahl erschlossen.
+
+### Nachprüfung
+
+Alle 13 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+
+`python3 scripts/check_translation.py --language de --book 1 --start 51 --end 60`: 31/31 Abschnitte, 0 Fehler, 0 Warnungen.
