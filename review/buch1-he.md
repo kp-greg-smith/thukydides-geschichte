@@ -89,6 +89,15 @@ Zweitprüfung: work/he/review/batch05.md. Meldungen: 9 in 7 Abschnitten (2 Block
 - Bestätigt u. a.: 1.42.1 Negationsskopus; 1.43.1 wörtliches Echo von 1.40.5; 1.44.1 beide Versammlungen; 1.45.3 Offenheit der Weisung; 1.46.2 πέμπτος αὐτός offen; 1.46.4 Topographie exakt; Flottenzahlen 150=10+12+10+27+1+90, 110, 20, 10, 1000; Schlachtverlauf ungeschönt.
 Alle 9 Meldungen angenommen (7 mit Texteingriff, 2 als Vermerkskorrekturen).
 
+### Kap. 51–60 (Batch 06) — 31 Abschnitte
+Zweitprüfung: work/he/review/batch06.md. Meldungen: 10 in 11 Abschnitten (1 Blocker, 8 Minor + 1 Vokabular-Entscheid).
+- Blocker 1.58.1: τιμωρία im Metropole-Kolonie-Kontext = «כדי שיהיה להם סעד מוכן» wiederhergestellt — vorgeschriebener Slot mit Hilfe-Komponente und externer Bereitstellung durch Sparta (EN „redress", UK «відплата»); die Ersatzwurzel היפרע verlor beide.
+- Wurzelentscheid: τιμωρέομαι/τιμωρία allgemein = להעניש (1.53.2, 1.56.2; deckungsgleich EN „punish"/UK «карати»), Metropole-Kolonie = סעד (1.58.1); Lexikon-Vorschlag היפרע nicht übernommen; Zusatzimagination «למצוא דרכים» (1.56.2) getilgt.
+- Weitere Minor-Fixes: 1.53.1 (Worterklärungs-Notiz entfernt — Regel 4), feindliches ἐπί+akk. = על wiederhergestellt (1.53.2, 1.53.4; 1.57.6; 1.58.1; 1.59.2 — die Pointe der Waffenstillstandskontroverse), 1.55.1 («היושבת על» statt «החולשת על»; «ואירע» statt wayyiqtol «ויצא»), 1.55.2 (αἰτία-Interstate-Slot ההאשמה als Echo zu 1.23.5–6), 1.57.2 (ἐπεπολέμωτο passivisch: «הותקף על ידיהם» — Athen als Aggressor), 1.60.1 («מקרבם» statt «von ihren Söhnen» suggerierendem «מבניהם»).
+- Bestätigt: Kurzreden 1.53 in Anführungszeichen und stenographisch; Zwanzig/Dreißig-Widerspruch wie überliefert; †Ἀνδοκίδης†/†zehn† wie überliefert; [ἔπρασσον] ohne Notiz; ἐπιδημιουργοί-Transliteration mit Selbsterklärung im Folgevers; ἀναχωρήσαντες-Offenheit; περιγίγνεται neutral; ἄνωθεν; Litotes 1.60.2; alle Zahlen; Regel-6-Sweep sauber; nichts gemildert.
+- Vermerksrevisionen: 1.56.2, 1.57.2 (falsche Prämisse «פרדיקאס»), 1.58.1, 1.59.2 (erledigt).
+Alle 10 Meldungen angenommen (alle mit Texteingriff außer den Vermerksrevisionen).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
@@ -102,10 +111,10 @@ Alle 9 Meldungen angenommen (7 mit Texteingriff, 2 als Vermerkskorrekturen).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 195 in den Kapiteln 1–50 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 195 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 83 Fundstellen (2 Blocker, 81 Minor).
+- Übersetzte Abschnitte: 226 in den Kapiteln 1–60 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 226 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 92 Fundstellen (3 Blocker, 89 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 51–60: Übersetzung im Gang; Kapitel 61–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 61–70: Übersetzung abgeschlossen, Zweitprüfung im Gang; Kapitel 71–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
