@@ -82,6 +82,13 @@ Zweitprüfung: work/uk/review/batch04.md. Meldungen: 19 in 28 Abschnitten (3 Blo
 - Ausgewählte Minor-Fixes: 1.31.1 (μισθῷ πείθοντες = «наймаючи за платню»), 1.32.2/1.32.3 («прохання», «невигідною»), 1.32.5, 1.33.1/1.33.2, 1.33.3 (δυοῖν φθάσαι ἁμάρτωσιν), 1.34.3, 1.35.3 (δεινόν = «ганебно»), 1.35.5 (εἰ δύνασθε), 1.36.1 («завчасу» entfernt), 1.37.5 (δεχομένοις τὰ δίκαια crux mit Vermerk), 1.38.4 (ἐκπρεπῶς mit Vermerk), 1.38.6 (τιμωρία = «відплата»), 1.39.2 (δίκη = «показний суд»), 1.40.2 (εἰ σωφρονοῦσι als Bedingung).
 - Eine Erhebung erwies sich als gegenstandslos (1.37.5 ἀρετή war bereits einheitlich «чеснота»): 18 angenommen, 1 gegenstandslos.
 
+### Kap. 41–50 (Batch 05) — 41 Abschnitte
+Zweitprüfung: work/uk/review/batch05.md. Meldungen: 7 in 7 Abschnitten (1 Blocker, 6 Minor).
+- Blocker 1.44.2: ἀσθενεστέροις οὖσιν — die Schwäche gehört den Korinthern und den anderen Flottenbesitzern; die verdoppelte Partizip-Wiedergabe mit hängendem «уже послабленими» wurde korrigiert.
+- Minor: 1.42.2 (ἐν ᾧ = «рішенням», nicht Person), 1.45.3 (ein ἀποβαίνειν für beide Alternativen: «висадитися на Керкірі чи на якійсь із володінь»), 1.46.4 (genehmigte Namensformen «Ефира», «річка Ахерон», «річка Тіяміс» angewandt), 1.49.2 (Zusatz «зіткнення впритул» entfernt), 1.49.5 («все» entfernt), Orthograph Vereinheitlichung «уже» → «вже» ausgabenweit (Kap. 1–50).
+Offene unsichere Stellen aus dieser Portion: 1.46.2 πέμπτος αὐτός (dunkel, wörtlich belassen); 1.49.2 τῇ μὲν τέχνῃ οὐχ ὁμοίως (überlieferte Doppeldeutigkeit bewahrt); 1.50.5 Paian-Sänger wie im Griechischen unbenannt gelassen.
+Alle Meldungen angenommen.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
@@ -95,12 +102,14 @@ Zweitprüfung: work/uk/review/batch04.md. Meldungen: 19 in 28 Abschnitten (3 Blo
 - 1.37.3 ἀνάγκῃ καταίροντας δέχεσθαι — ungrammatisch; nach evidentem Sinn.
 - 1.37.5 δεχομένοις τὰ δίκαια δεικνύναι — zwei mögliche Bezüge; adverbiale Lesart gewählt, crux dokumentiert.
 - 1.38.4 ἐκπρεπῶς μὴ καὶ διαφερόντως — spätere Lesart als Vermerk dokumentiert, Text belassen.
+- 1.46.2 πέμπτος αὐτός — dunkel, wörtlich belassen.
+- 1.49.2 τῇ μὲν τέχνῃ οὐχ ὁμοίως — Doppeldeutigkeit bewahrt.
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 154 in den Kapiteln 1–40 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 154 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 87 Fundstellen (7 Blocker, 80 Minor).
+- Übersetzte Abschnitte: 195 in den Kapiteln 1–50 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 195 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 94 Fundstellen (8 Blocker, 86 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 1.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
 - Nicht veröffentlicht, obwohl work in progress: Kapitel 51–60: Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 61–146 noch nicht begonnen.
