@@ -121,6 +121,17 @@ Zweitprüfung: work/he/review/batch08.md. Meldungen: 12 in 12 Abschnitten (4 Blo
 - Bestätigt: alle Reden ohne Klammer und ohne Bruch; Archidamus am Batch-Rand offen in 1.81; Regel 6 überall; σπονδαί = הסכם/הסכמים mit ξυνθήκη = אמנה getrennt; ἀρχή = שלטון achtmal ungemildert; δουλεύω ungemildert; alle Zahlen in Worten; die Glossarvorschläge (התחכמות/קנאה/חובבי משפטים) am Griechischen verifiziert und vertretbar.
 Alle 12 Meldungen angenommen (10 mit Texteingriff, 2 reine Vermerks-Fälle; dazu 2 Vermerks-Revisionen).
 
+### Kap. 81–90 (Batch 09) — 42 Abschnitte
+Zweitprüfung: work/he/review/batch09.md. Meldungen: 11 in 10 Einträgen (2 Blocker, 9 Minor).
+- Blocker 1.86.2: die Rache-Konstruktion zielt wieder auf die Täter («ולא נאחר את הנקמה בעושי העוול בהם») — zuvor wies «בהם» auf die verbündeten Opfer; zugleich wurde die falsche Offenheitsbehauptung des Vermerks (Subjekt und Futur sind im Druck festgelegt) in eine dokumentierte Wahl umgeschrieben.
+- Blocker 1.84.3: die Schwelle von σωφρονέστερον ἢ ὥστε ἀνηκουστεῖν wiederhergestellt — Disziplin «גדול מכדי למרוד בהם» (zu groß zum Ungehorsam), nicht «עולה על כדי» (mehr als genug zum Aufstand); der zentrale Erziehungs-Satz war invertiert; der Vermerk zitiert jetzt den reparierten Text.
+- Harmonisierung der ἀδικ-Stellen (1.86.1–1.87.4): sechs Vorkommen der Wurzel עושק auf die editionsweit festgelegte עוול-Linie gebracht (vgl. 1.67.2, 1.77.4, 1.79.2, 1.85.2) — darunter der Redeschluss «על עושי העוול» statt «על העושקים» (= die Unterdrückten), der die Marschrichtung verkehrt hätte.
+- Namensregression behoben: Λακεδαίμονα zweimal als לקדמון wiederhergestellt (1.90.3, 1.90.5); ספרטה bleibt Σπάρτη vorbehalten. Der eigene 1.87.2-Vermerk korrigiert: fünf σπονδ-Vorkommen (nicht sechs) und «מניין הקולות» statt des Tippfehlers.
+- Weitere Fixes: 1.84.1 (Hauptklausel ist überliefert intakt — die echte Anomalie ist ἀπαράσκευοι, jetzt vermerkt; direkte Anrede statt gnomischer 3. Person), 1.82.2-Vermerk ergänzt (ἴμεν), 1.83.3 (Zusatz «ראשית» getilgt; Vermerk um die αἰτία=מחלוקת-Kontextualisierung ergänzt), 1.90.2 (μᾶλλον und εἱστήκει wiederhergestellt — «חומות ההיקף העומדות כבר»; ἐχυροῦ-Vermerk), 1.90.3 (πρὸς ἑαυτῷ-Vermerk; «במהירות האפשרית»), 1.90.1-Vermerk (Partizipial-Paar), Kleinkram: 1.82.3 (ἤδη), 1.82.5 (נחתוך), 1.84.4 (ἀσφαλῶς), 1.87.1 (αὐτός), 1.87.2 (ἑαυτούς als «לכל אחד… בגלוי»), 1.89.2 («ולקח עמו»; ὑπεξέθεντο = הוצאו), 1.89.3 (רובם ohne Übertreibung), 1.90.5 (בקרוב ohne ממש).
+- Bestätigt: σπονδ- = הסכם an allen fünf Vorkommen (die Vorab-Fixes des Koordinators hielten der Prüfung stand); Stimmenzählung wie überliefert, keine importierte Glosse; Themistocles’ θαυμάζειν bleibt unter ἔφη; Archidamus schließt am griechischen Marker (1.85.2/1.85.3); Sthenelaidas unmarkiert; alle Neun-Addendum-Namen auf dem Druck; מלך פרס-Disentangling dokumentiert; καταπροδιδόναι/τὸ κοινόν/μελέται-Vorschläge verifiziert und unterstützt.
+- Buchhaltungskorrektur: kumulierter Abschnittszähler Batch 08 von 357 auf 314 berichtigt (271+43 — Rechenfehler des Koordinators im Emitter; UK/EN geprüft und fehlerfrei).
+Alle 11 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
@@ -134,10 +145,10 @@ Alle 12 Meldungen angenommen (10 mit Texteingriff, 2 reine Vermerks-Fälle; dazu
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 357 in den Kapiteln 1–80 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 357 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 116 Fundstellen (9 Blocker, 107 Minor).
+- Übersetzte Abschnitte: 356 in den Kapiteln 1–90 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 356 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 127 Fundstellen (7 Blocker, 120 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 81–90: Übersetzung abgeschlossen, Zweitprüfung im Gang; Kapitel 91–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 91–100: Übersetzung im Gang; Kapitel 101–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
