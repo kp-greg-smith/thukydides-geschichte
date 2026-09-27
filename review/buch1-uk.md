@@ -99,6 +99,18 @@ Zweitprüfung: work/uk/review/batch06.md. Meldungen: 13 in 11 Abschnitten (0 Blo
 - Bestätigt: Kurzreden 1.53 in « » und so stenographisch knapp wie das Griechische; τιμωρία allgemein = «карати», metropolis-colony = «відплата»; alle Zahlen korrekt (20; 30×3; ~70/≥1000; ~30; 800+250; 1000; †10† wie überliefert; 1600+400; vierzigster Tag); «вже»-Hausstandard; «Сіботи» (Plural) einheitlich mit 1.47/1.50.
 Alle 13 Meldungen angenommen (12 mit Texteingriff, 1 als Vermerksergänzung).
 
+### Kap. 61–70 (Batch 07) — 45 Abschnitte
+Zweitprüfung: work/uk/review/batch07.md. Meldungen: 29 in 24 Abschnitten (4 Blocker, 25 Minor).
+- Blocker 1.63.1: διὰ τῆς θαλάσσης = «через саме море» — der Weg des Aristeus führte durchs Meer, nicht «берегом моря» über Land.
+- Blocker 1.69.3: περιορᾶν = «дивитеся і нічого не втручаєтесь» — der Kontrast „wissen und nicht handeln" wiederhergestellt.
+- Blocker 1.69.4: das ausgefallene καταλύοντες im zweiten Glied ergänzt («а руйнуєте, лише коли воно подвоїться»).
+- Blocker 1.69.5: doppelte Inversion korrigiert — περιγεγενημένους = «брали ми гору», ἁμαρτήμασιν αὐτῶν = die Verfehlungen der Athener.
+- Namens-/Glossarfixes: «Фермою» (1.61.2), «ринок» statt «торг» (1.62.1, 1.67.4), «серміляни» (1.65.2), «довгі стіни» (1.69.1), ἔκπλους = «вихід у море» (1.65.1).
+- Weitere Minor-Fixes: 1.62.3 (καί koordinierend, nicht appositiv; «затиснути ворогів посеред них самих»), 1.62.6 (τρέπειν = «звернуло до втечі»), 1.65.2 (Richtung ἐς Πελοπόννησον), 1.66.1 («воїни» getilgt), 1.67.5 (Wortstellung), 1.68.1 (Genitiv τὸ πιστόν = «Надійність»), 1.68.2 (ohne Einfügung «на з'їзді»), 1.68.4 («для фракійських справ»), 1.69.1 (ἀξίωσιν φέρειν ohne «мовби»), 1.69.4 (τινά = «нікого не обороняючи»), 1.69.5 (ἐς τύχας = «покладаючись хіба що на випадок»; πολλῷ = «значно»; τινάς πού = «декого»; περιορᾶτε vereinheitlicht; Tippfehler «гіршого—»), 1.70.1 (eigenes Recht statt Konditional), 1.70.2 (ἐπιγνῶναι μηδέν = «розпізнають»; «усе, що вирішать»), 1.70.6 (ohne «владно»), 1.70.7 (ὁμοίως = «одні лише мають стільки, скільки задумують»; Doppelung «неначе втратили» getilgt), 1.70.8 (Nominativ nach «ніж»).
+- Vermerks-Ergänzungen: 1.63.1 ὁποτέρωσε, 1.68.3 Kasus-Crux τοῖς ἐπιβουλεύοντας, 1.69.2 Kasus-Anomalie οὐ μέλλοντες, 1.69.4 τινά + Anakoluthon, 1.70.2, 1.70.3, 1.70.7 (τυχεῖν/πράξαντες); Revisionen: 1.61.3 (falsche Verderbnisbehauptung entfernt — der einzige Nachweis des ch_062-Zwischenfalls, Vorlage selbst intakt), 1.65.2, 1.67.4, 1.69.5 №2 (athenische Attribution).
+- ch_062-Zwischenfall: keine Spuren in Übersetzung oder Quellbasis (Prüfer verglich alle 45 griechischen Abschnitte erneut mit source.xml — 100 %, «τὴν παρὰ Περδίκκου» einmal wie überliefert).
+Alle 29 Meldungen angenommen (26 mit Texteingriff, 3 reine Vermerks-Fälle; zusätzlich 4 bestehende Vermerke revidiert).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
@@ -117,10 +129,10 @@ Alle 13 Meldungen angenommen (12 mit Texteingriff, 1 als Vermerksergänzung).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 226 in den Kapiteln 1–60 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 226 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 107 Fundstellen (8 Blocker, 99 Minor).
+- Übersetzte Abschnitte: 271 in den Kapiteln 1–70 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 271 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 136 Fundstellen (12 Blocker, 124 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 1.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 61–70: Übersetzung im Gang; Kapitel 71–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 71–80: Übersetzung im Gang; Kapitel 81–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
