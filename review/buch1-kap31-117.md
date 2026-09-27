@@ -1439,3 +1439,244 @@ Editorische Klammer in **85.3**: [τοῖς Λακεδαιμονίοις] nennt 
 Alle 29 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 81 --end 90`: 42/42 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Kapitel 91–100
+
+Geprüft: **39 Abschnitte**; geändert: **24 Abschnitte**.
+
+Prüfliste: 91.1, 91.2, 91.3, 91.4, 91.5, 91.6, 91.7, 92.1, 93.1, 93.2, 93.3, 93.4, 93.5, 93.6, 93.7, 93.8, 94.1, 94.2, 95.1, 95.2, 95.3, 95.4, 95.5, 95.6, 95.7, 96.1, 96.2, 97.1, 97.2, 98.1, 98.2, 98.3, 98.4, 99.1, 99.2, 99.3, 100.1, 100.2, 100.3.
+
+### 91.1 · Änderung 1
+
+- Griechisch: τῶν δὲ ἄλλων ἀφικνουμένων καὶ σαφῶς κατηγορούντων
+- Alt: die anderen Gesandten ankamen und klar anklagten
+- Neu: andere ankamen und eindeutig berichteten
+- Begründung: Die Ankommenden werden nicht als Gesandte bezeichnet; sie berichten vom Baufortschritt.
+
+### 91.1 · Änderung 2
+
+- Griechisch: οὐκ εἶχον ὅπως χρὴ ἀπιστῆσαι
+- Alt: wussten sie nicht, wie sie es verleugnen sollten
+- Neu: wussten sie nicht, wie sie dem den Glauben verweigern sollten
+- Begründung: ἀπιστεῖν ist Nichtglauben, kein Verleugnen bekannten Wissens.
+
+### 91.2 · Änderung 3
+
+- Griechisch: μὴ λόγοις μᾶλλον παράγεσθαι ἢ πέμψαι
+- Alt: sich nicht eher durch Worte verführen zu lassen, als ihre eigenen Männer zu senden
+- Neu: sich nicht durch Worte verführen zu lassen, sondern lieber eigene Männer zu senden
+- Begründung: Alternative statt zeitlicher Abfolge.
+
+### 91.3 · Änderung 4
+
+- Griechisch: πρὶν ἂν αὐτοὶ πάλιν κομισθῶσιν … τὸ τεῖχος
+- Alt: bis sie selbst zurückgekehrt seien
+- Neu: bis er selbst und seine Mitgesandten zurückgekehrt seien
+- Begründung: Der Bezug von αὐτοί auf die athenischen Gesandten wird eindeutig.
+
+### 91.3 · Änderung 5
+
+- Griechisch: ἔχειν ἱκανῶς τὸ τεῖχος
+- Alt: das Wallwerk sei ausreichend
+- Neu: die Mauer sei ausreichend hoch
+- Begründung: Die für die Verteidigung nötige Mauerhöhe aus 90.3 ist der Bezug.
+
+### 91.5 · Änderung 6
+
+- Griechisch: ὅτε ἐδόκει ἐκλιπεῖν ἄμεινον εἶναι καὶ ἐς τὰς ναῦς ἐσβῆναι
+- Alt: Denn als die Stadt aufgegeben werden sollte, hätten sie, ohne jene, das erkannt und sich in die Schiffe gewagt
+- Neu: Denn als es besser schien, die Stadt aufzugeben und in die Schiffe zu steigen, hätten sie dies ohne jene beschlossen und gewagt
+- Begründung: Bewertung als besserer Weg und autonome Entscheidung, nicht externe Notwendigkeit.
+
+### 91.7 · Änderung 7
+
+- Griechisch: ὁμοῖόν τι ἢ ἴσον ἐς τὸ κοινὸν βουλεύεσθαι
+- Alt: Gleiches und Gleiches im Gemeinsamen zu beraten
+- Neu: als Ebenbürtige und Gleichberechtigte über das gemeinsame Interesse zu beraten
+- Begründung: Unverständliche wörtliche Doppelung berichtigt.
+
+### 92.1 · Änderung 8
+
+- Griechisch: οὐδὲ … ἐπὶ κωλύμῃ, ἀλλὰ γνώμης παραινέσει δῆθεν τῷ κοινῷ
+- Alt: denn sie waren ja nicht gekommen zu verhindern, sondern, wie es schien, der Gemeinde zu raten
+- Neu: denn sie waren nach eigener Darstellung nicht gekommen, um den Bau zu verhindern, sondern um im gemeinsamen Interesse einen Rat zu geben
+- Begründung: δῆθεν kennzeichnet einen vorgeschobenen Anspruch; τῷ κοινῷ meint das gemeinsame Interesse.
+
+### 93.2 · Änderung 9
+
+- Griechisch: οὐ ξυνειργασμένων ἔστιν ᾗ
+- Alt: nicht ineinander gearbeitet
+- Neu: stellenweise nicht passend ineinander gearbeitet
+- Begründung: Die ausdrückliche Einschränkung ἔστιν ᾗ ergänzt.
+
+### 93.2 · Änderung 10
+
+- Griechisch: μείζων … ὁ περίβολος … τῆς πόλεως … πάντα ὁμοίως κινοῦντες
+- Alt: Der Mauerring wurde überall weiter ausgezogen als die Stadt, und deshalb trieben sie alles mit gleichem Eifer an
+- Neu: Der Mauerring der Stadt wurde überall weiter hinausgeführt, und deshalb griffen sie in ihrer Eile unterschiedslos auf alles zurück
+- Begründung: τῆς πόλεως gehört zum Mauerring, nicht zum Vergleich; Nutzung allen Baumaterials statt allgemeinen Antreibens.
+
+### 93.3 · Änderung 11
+
+- Griechisch: ὑπῆρκτο … ἐπὶ τῆς ἐκείνου ἀρχῆς ἧς κατ’ ἐνιαυτόν
+- Alt: dies war schon vorher auf seine jährliche Archontenschaft hin geschehen
+- Neu: damit hatte man schon zuvor in dem Jahr begonnen, in dem er Archon der Athener war
+- Begründung: Beginn der Arbeiten und einjährige Amtszeit statt bereits vollzogenem Bau.
+
+### 93.3 · Änderung 12
+
+- Griechisch: τό τε χωρίον καλὸν εἶναι … αὐτοὺς ναυτικοὺς γεγενημένους μέγα προφέρειν
+- Alt: der Ort sei schön, mit drei natürlich angelegten Häfen, und wenn die Bürger Seefahrer würden, sei es für den Machtgewinn ein großer Vorteil
+- Neu: der Ort sei gut geeignet, mit drei natürlichen Häfen, und ihre Entwicklung zu einem Seevolk trage zum Machtgewinn viel bei
+- Begründung: Strategische Eignung des Ortes und Vorteil der Seemacht statt Schönheit und bloß möglicher Seefahrt.
+
+### 93.4 · Änderung 13
+
+- Griechisch: τῆς … θαλάσσης … ἀνθεκτέα … τὴν ἀρχὴν … ξυγκατεσκεύαζεν
+- Alt: Der See gegenüber wagte er als erster auszusprechen, dass man sich ihr zuwenden müsse; und er legte den Anfang sogleich.
+- Neu: Er wagte als erster auszusprechen, dass man sich auf die See stützen müsse; und er bereitete damit sogleich auch die Herrschaft vor.
+- Begründung: ἀρχή bezeichnet die Herrschaft; Zusammenhang zwischen Flotte und Machtaufbau hergestellt.
+
+### 93.5 · Änderung 14
+
+- Griechisch: ἐντομῇ ἐγγώνιοι
+- Alt: im Gehriss winklig
+- Neu: rechtwinklig behauen
+- Begründung: Unverständlichen Ausdruck für die Form der Quader berichtigt.
+
+### 95.2 · Änderung 15
+
+- Griechisch: ὡς οὐ περιοψόμενοι τἆλλά τε καταστησόμενοι
+- Alt: nichts zu übersehen, sondern alles so einzurichten
+- Neu: nicht tatenlos zuzusehen und das Übrige so einzurichten
+- Begründung: Aktives Eingreifen statt bloßer Aufmerksamkeit; koordinierter Anschluss erhalten.
+
+### 95.3 · Änderung 16
+
+- Griechisch: μετεπέμποντο … ἀνακρινοῦντες ὧν πέρι ἐπυνθάνοντο
+- Alt: forderten die Lakedaimonier den Pausanias zurück, untersuchend, was sie erfuhren
+- Neu: forderten die Lakedaimonier den Pausanias zurück, um ihn über das Gehörte zu verhören
+- Begründung: Zweck der Rückberufung statt unverbundener gleichzeitiger Tätigkeit.
+
+### 95.5 · Änderung 17
+
+- Griechisch: τὰ δὲ μέγιστα ἀπολύεται μὴ ἀδικεῖν … μηδισμός … σαφέστατον
+- Alt: der größt[en Anklagen] aber wurde er freigesprochen. Es wurde gegen ihn — nicht am wenigsten — Medismos angeklagt, und es schien das deutlichste zu sein.
+- Neu: von den schwersten Anklagen aber wurde er freigesprochen. Besonders wurde ihm vorgeworfen, es mit den Medern zu halten, und dieser Vorwurf schien am deutlichsten begründet.
+- Begründung: Beschädigten deutschen Wortlaut und unverständlichen Abschluss berichtigt; Inhalt des Vorwurfs ausgedrückt.
+
+### 95.7 · Änderung 18
+
+- Griechisch: ἀπαλλαξείοντες … τοῦ Μηδικοῦ πολέμου … σφίσιν … ἐπιτηδείους
+- Alt: weil sie den Perserkrieg beendigen wollten und die Athener für fähig hielten zu führen und ihnen damals genehm waren
+- Neu: weil sie sich aus dem Perserkrieg zurückziehen wollten und die Athener für fähig zur Führung und damals für ihre Freunde hielten
+- Begründung: Eigener Rückzug statt Beendigung des gesamten Krieges; grammatischer Bezug zur Einschätzung der Athener hergestellt.
+
+### 96.1 · Änderung 19
+
+- Griechisch: χρήματα … ἀμύνεσθαι ὧν ἔπαθον
+- Alt: welche Städte Geld
+- Neu: welche Städte Mittel
+- Begründung: Glossarentsprechung.
+
+### 96.1 · Änderung 20
+
+- Griechisch: ἀμύνεσθαι ὧν ἔπαθον
+- Alt: sich zu wehren für das Erlittene
+- Neu: Vergeltung für das Erlittene zu üben
+- Begründung: Rückblickende Vergeltung, nicht aktuelle Abwehr.
+
+### 96.2 · Änderung 21
+
+- Griechisch: τῶν χρημάτων ἡ φορά
+- Alt: das Erbringen des Geldes
+- Neu: das Beisteuern der Mittel
+- Begründung: Glossarentsprechung.
+
+### 97.1 · Änderung 22
+
+- Griechisch: ἡγούμενοι … τοσάδε ἐπῆλθον πολέμῳ τε καὶ διαχειρίσει πραγμάτων
+- Alt: Und die Athener führten anfangs die noch selbständigen Bundesgenossen, und es wurde durch gemeinsame Zusammenkünfte beraten. Was zwischen diesem Krieg und dem Perserkrieg an Kriegen und an der Erledigung von Angelegenheiten geschah — gegen den Barbaren, gegen die eigenen abtrünnigen Bundesgenossen und gegen die Peloponnesier, denen sie jeweils gerade begegneten —, habe ich aufgeschrieben.
+- Neu: Unter der Führung der Athener waren die Bundesgenossen anfangs noch selbständig und berieten in gemeinsamen Zusammenkünften. Zwischen diesem Krieg und dem Perserkrieg unternahmen die Athener durch Krieg und politische Maßnahmen Folgendes — gegen den Barbaren, gegen die eigenen abtrünnigen Bundesgenossen und gegen die Peloponnesier, denen sie jeweils gerade begegneten.
+- Begründung: ἐπῆλθον bezeichnet die Unternehmungen der Athener; der Erzähler tritt erst im nächsten Abschnitt mit ἔγραψα hervor.
+
+### 97.2 · Änderung 23
+
+- Griechisch: τῆς ἀρχῆς ἀπόδειξιν … ἐν οἵῳ τρόπῳ κατέστη
+- Alt: Es enthält zugleich den Beweis der Herrschaft, auf welche Weise den Athenern sie zufiel.
+- Neu: Die Darstellung zeigt zugleich, auf welche Weise die Herrschaft der Athener entstand.
+- Begründung: Unverständliche Konstruktion berichtigt; Entstehung der Herrschaft statt Beweis ihres Vorhandenseins.
+
+### 98.3 · Änderung 24
+
+- Griechisch: χρόνῳ ξυνέβησαν καθ’ ὁμολογίαν
+- Alt: und mit der Zeit unterwarfen sie sich nach Übereinkunft
+- Neu: und nach einiger Zeit schlossen beide Seiten ein Abkommen
+- Begründung: Beide Parteien verständigen sich; falschen oder unklaren Unterwerfungssatz vermieden.
+
+### 98.4 · Änderung 25
+
+- Griechisch: Ναξίοις … ἐπολέμησαν
+- Alt: Den danach abgefallenen Naxiern führten sie Krieg
+- Neu: Gegen die danach abgefallenen Naxier führten sie Krieg
+- Begründung: Fehlerhafte deutsche Rektion berichtigt.
+
+### 99.1 · Änderung 26
+
+- Griechisch: αἰτίαι
+- Alt: [Anm.: αἰτία heißt hier »Ursache«, nicht »Vorwurf«.]
+- Neu: [Anm.: Griechisch aitía, hier im Sinn von »Ursache«.]
+- Begründung: Leserbezogene Begriffsanmerkung.
+
+### 99.1 · Änderung 27
+
+- Griechisch: αἱ τῶν φόρων καὶ νεῶν ἔκδειαι
+- Alt: die Tribute und die Schiffsaushebungen
+- Neu: die Rückstände bei den Tributen und bei der Stellung von Schiffen
+- Begründung: Bekannten Ausfall von ἔκδειαι behoben: Die Rückstände lösen die Konflikte aus.
+
+### 99.1 · Änderung 28
+
+- Griechisch: ἀκριβῶς ἔπρασσον … οὐκ εἰωθόσιν οὐδὲ βουλομένοις ταλαιπωρεῖν … τὰς ἀνάγκας
+- Alt: Denn die Athener verfuhren genau und waren lästig, den Ungeübten und Unwilligen die Notwendigkeiten aufdrängend.
+- Neu: Denn die Athener trieben die Leistungen streng ein und waren lästig, weil sie denen Zwang auferlegten, die weder gewohnt noch bereit waren, solche Mühen auf sich zu nehmen.
+- Begründung: Einfordern der Leistungen, Zwang und ausgelassene Mühen statt abstrakter Genauigkeit und Notwendigkeit.
+
+### 99.2 · Änderung 29
+
+- Griechisch: οὔτε ξυνεστράτευον ἀπὸ τοῦ ἴσου
+- Alt: die Bundesgenossen zogen auch nicht mehr von Gleichen gemeinsam zu Feld
+- Neu: sie zogen auch nicht mehr auf gleichem Fuß mit den Bundesgenossen zu Feld
+- Begründung: Die Athener bleiben Satzsubjekt; unverständliche Gleichheitskonstruktion berichtigt.
+
+### 99.3 · Änderung 30
+
+- Griechisch: χρήματα ἐτάξαντο ἀντὶ τῶν νεῶν τὸ ἱκνούμενον ἀνάλωμα φέρειν
+- Alt: bestimmten die meisten, um nicht von Hause wegzugehen, an Stelle der Schiffe Geld, das die aufkommenden Kosten trage
+- Neu: verpflichteten sich die meisten, um nicht von Hause wegzugehen, statt Schiffe zu stellen Mittel in Höhe der entsprechenden Kosten beizusteuern
+- Begründung: Die Bundesgenossen übernehmen entsprechende Zahlungen; Geld trägt nicht selbst Kosten.
+
+### 100.1 · Änderung 31
+
+- Griechisch: ἐς διακοσίας
+- Alt: zerstörten alle zusammen zweihundert
+- Neu: zerstörten insgesamt etwa zweihundert
+- Begründung: Näherungsangabe der Schiffszahl erhalten.
+
+### 91.2 · Änderung 32
+
+- Griechisch: ἄνδρας οἵτινες χρηστοὶ καὶ πιστῶς ἀναγγελοῦσι
+- Alt: eigene Männer zu senden, die gut und zuverlässig berichten würden
+- Neu: bewährte eigene Männer zu senden, die zuverlässig berichten würden
+- Begründung: χρηστοί bestimmt die Männer, nicht die Art des Berichtens.
+
+### Unsicher, bitte prüfen
+
+Keine.
+
+Editorische Klammer in **100.3**: [αἱ Ἐννέα ὁδοί] wiederholt den bereits genannten Ortsnamen. Gemäß der präzisierten Vorgabe keine Leseranmerkung. Die deutsche Zusammenfassung des griechischen Satzes über 93.3–93.4 hinweg bleibt erhalten; keine Abschnitts-ID verschoben.
+### Nachprüfung
+
+Alle 24 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+
+`python3 scripts/check_translation.py --language de --book 1 --start 91 --end 100`: 39/39 Abschnitte, 0 Fehler, 0 Warnungen.
