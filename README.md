@@ -23,7 +23,7 @@ A modern German translation of Thucydides' *History of the Peloponnesian War* �
 | 7 | 87 | ⬜ Pending |
 | 8 | 109 | ⬜ Pending |
 
-> **Revision Buch 1 (2026-09-27):** Kapitel 118–146 vollständig aus dem Griechischen ergänzt (zehn abgebrochene Abschnitte, fehlende Sätze, Sinnfehler in 133.1, 134.1, 137.4, 140.1); Sinnfehler in 76.2 korrigiert; Schlüsselbegriffe im ganzen Buch vereinheitlicht (αἰτία = Vorwurf, ἔγκλημα = Beschuldigung, πρόφασις = Grund).
+> **Revision Buch 1 (2026-09-27):** Gesamtdurchgang abgeschlossen. (1) Kapitel 118–146 aus dem Griechischen ergänzt und korrigiert (zehn abgebrochene Abschnitte, Sinnfehler in 133.1, 134.1, 137.4, 140.1; 76.2), Schlüsselbegriffe vereinheitlicht. (2) αἰτία nach *Bedeutung* geregelt: Vorwurf bei Anschuldigung, Ursache/Schuld/Verantwortung bei kausalem Sinn (35.4, 39.3, 55.2, 69.1, 74.1, 83.3, 99.1 — mit kurzen [Anm.]-Angaben). (3) **Kapitel 31–117 abschnittweise gegen den griechischen OCT-Text verifiziert** (580 Paragrafen lückenlos geprüft): rund 120 Stellen berichtigt — fehlende Satzschlüsse (u. a. 32.5, 33.2–3, 36.1, 69.5, 82.1, 107.2–3, 111.1, 113.1, 114.1), Sinnumkehrungen (u. a. 31.3, 40.3, 40.6, 63.2, 66.1, 73.1, 76.4, 99.2, 104.2), erfundene Wörter und Zahlen (u. a. 40.5, 49.1, 70.7, 105.3, 107.5–7, 115.5, 116.1).
 
 ## Source text
 
@@ -40,10 +40,10 @@ This translation follows five strict rules, applied consistently:
 
 | Rule | |
 |------|-----|
-| **1. Consistent key terms** | Greek political vocabulary has a fixed German equivalent throughout |
+| **1. Consistent key terms** | A fixed German equivalent per *sense*: where a term has distinct senses (e.g. αἰτία accusation vs. cause), each sense gets its own fixed rendering; the few sense-shifts carry a brief `[Anm.: …]` |
 | **2. Nothing added, nothing exaggerated** | No embellishments absent from the Greek |
 | **3. No softening** | δουλεία is always *Knechtschaft*, never watered down |
-| **4. Notes only for genuine doubts** | `[Anm.: …]` only where the manuscript is corrupt |
+| **4. Notes only for genuine doubts** | `[Anm.: …]` only where the manuscript is corrupt, or where a key term shifts sense |
 | **5. Preserving ambiguities** | Where the Greek is ambiguous, the ambiguity is preserved |
 
 ### Key term glossary
@@ -51,7 +51,7 @@ This translation follows five strict rules, applied consistently:
 | Greek | German | Never translated as |
 |-------|--------|---------------------|
 | πρόφασις (*prophasis*) | Grund (nur in 1.23.6, mit *alēthestátē*: wahrster Grund) | Ursache, Anlass, Motiv |
-| αἰτία (*aitia*) | Vorwurf | Ursache, Grund, Beschwerde, Beschuldigung |
+| αἰτία (*aitia*) | Vorwurf (Anschuldigung); kausal: Ursache / Schuld / Verantwortung (mit kurzer [Anm.]) | Beschwerde, Beschuldigung; »Vorwurf« nie in kausaler Bedeutung |
 | ἔγκλημα (*enklēma*) | Beschuldigung | Beschwerde, Vorwurf |
 | στάσις (*stasis*) | Bürgerkrieg | Aufruhr, Zwietracht |
 | δύναμις (*dynamis*) | Macht | Stärke, Kraft |
