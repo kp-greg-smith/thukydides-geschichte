@@ -121,6 +121,15 @@ Zweitprüfung: work/en/review/batch08.md. Meldungen: 11 in 11 Abschnitten (2 Blo
 - Bestätigt: alle drei mehrabschnittigen Reden ohne Schluss- und Störmalen (Korintherschluss 1.71, Gesandtenantwort 1.72.2–1.78.4, Archidamus ab 1.79.2 über den Batch-Rand hinaus offen); Schiffszahl-Crux 1.74.1 mit beiden überlieferten Elementen; 〈τριῶν〉-Supplement ohne Notiz; Regel-6-Audit über den Kongress sauber.
 Alle 11 Meldungen angenommen (alle mit Texteingriff; zusätzlich 2 Vermerksrevisionen und 1 Vermerks-Ergänzung).
 
+### Kap. 81–90 (Batch 09) — 42 Abschnitte
+Zweitprüfung: work/en/review/batch09.md. Meldungen: 7 in 7 Abschnitten (0 Blocker, 7 Minor).
+- Minorfixes: 1.81.1 („march in, time after time“ — kein Garden-Path „march in time”), 1.84.3 (ἀμαθέστερον = „want of learning”, nicht edel klingendes „artlessness”; „parcelled”), 1.86.2 („for their part” getilgt — die οἱ-Disambiguierung ist im Vermerk bezeugt), 1.90.2 („what they truly desired … the suspicion attaching to their design”), 1.90.5 (Themistocles’ vorgetäuschtes Staunen zurück unter ἔφη — Regel 6).
+- Vermerks-Pflege: 1.82.2 ergänzt (ἴμεν — überliefert anomal, zwei Lesarten dokumentiert); 1.84.1 revidiert (παύσαισθε ist eindeutig 2. Pl. — die „Numerus-Mehrdeutigkeit”-Behauptung war falsch, zurückgenommen); 1.86.2 revidiert (die Wahl der Athener als οἱ dokumentiert statt fälschlich behaupteter Offenheit — Regel 5); 1.83.3-Paraphrase an die gedruckte Konstruktion angeglichen (das Verderbnis-Urteil selbst bestätigt: TRUE); 1.85.3 und 1.89.2 als durch das neunte Addendum erledigt markiert.
+- Abstimmungspassage 1.87: Sondercheck bestätigt — die Überlieferung enthält KEINE unehrliche Auszählung; nichts importiert, nichts unterschlagen; die antike Cheating-Glosse bleibt zu Recht außen vor (Regel 2).
+- 1.84.3-Lesernotiz: vom Prüfer bestätigt und BEIBEHALTEN — deklariert die Störung, löst nichts, glättet nichts.
+- Bestätigt: Extraktion 42/42 identisch mit source.xml; Namen per neuntem Addendum (Sthenelaidas einmal, bei der Vorstellung; Leotychides mit ω; Mycale zweimal; Sestus); alle Zahlen; Redenmarken (Archidamus ohne Klammer, wo das Griechische es zeigt; Sthenelaidas unmarkiert; die Kurzinstruktion 1.87.2 in „ ”); Regel 6 sauber (einziger Rutsch 1.90.5 behoben).
+Alle 7 Meldungen angenommen (6 mit Texteingriff, 1 als reine Vermerks-Ergänzung; zusätzlich 4 Vermerks-Revisionen und 2 Erledigungs-Markierungen).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
@@ -138,10 +147,10 @@ Alle 11 Meldungen angenommen (alle mit Texteingriff; zusätzlich 2 Vermerksrevis
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 314 in den Kapiteln 1–80 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 314 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 105 Fundstellen (10 Blocker, 95 Minor).
+- Übersetzte Abschnitte: 356 in den Kapiteln 1–90 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 356 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 112 Fundstellen (10 Blocker, 102 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 81–90: Übersetzung im Gang; Kapitel 91–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 91–100: Übersetzung im Gang; Kapitel 101–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
