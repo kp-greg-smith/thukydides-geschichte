@@ -14,7 +14,7 @@ A modern German translation of Thucydides' *History of the Peloponnesian War* �
 
 | Book | Chapters | Status |
 |------|----------|--------|
-| 1 | 146 | ✅ Complete (Kapitel 1–146) |
+| 1 | 146 | ⚠️ Kapitel 1–30 korrigiert, 31–146 in Arbeit |
 | 2 | 103 | ⬜ Pending |
 | 3 | 116 | ⬜ Pending |
 | 4 | 135 | ⬜ Pending |
@@ -56,14 +56,7 @@ This translation follows five strict rules, applied consistently:
 | δουλεία (*douleia*) | Knechtschaft | Abhängigkeit |
 | λόγος / ἔργον | Wort und Tat | Rede und Handlung |
 
-## Generating
-
-```bash
-python3 generate.py buch1    # Book 1 only
-python3 generate.py all      # All books (when complete)
-```
-
-Output lands in `output/buch1.md` and `output/buch1.html`.
+Translations are in [`de_translations/`](de_translations/).  No build step required.
 
 ## License
 
