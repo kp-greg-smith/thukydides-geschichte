@@ -109,6 +109,18 @@ Zweitprüfung: work/he/review/batch07.md. Meldungen: 12 in 12 Abschnitten (2 Blo
 - Bestätigt: alle Zahlen wie überliefert in Worten; πέμπτον αὐτὸν στρατηγόν offen; מלחמת מדי; כיתור-Reihe; יציאה לים; מזח; תוכחה/האשמה-Kontrast; עונש; ἧσσον θαρσοῦσι ohne Konjektur; [τεῖχος] nahtlos; alle siebten-Addendum-Namen; Korintherrede typografisch offen bis 1.70.9 in 1.71 hinein; Regel 6 voll gewahrt.
 Alle 12 Meldungen angenommen (11 mit Texteingriff; 1 als Vermerks-Ergänzung; 2 Vermerks-Revisionen).
 
+### Kap. 71–80 (Batch 08) — 43 Abschnitte
+Zweitprüfung: work/he/review/batch08.md. Meldungen: 12 in 12 Abschnitten (4 Blocker, 8 Minor).
+- Blocker 1.73.2: στερισκώμεθα ist deklarativer Indikativ («נשלל מאיתנו») — der imperativische Weg an Sparta („אל תיתנו…“) war eine Satzmodus- und Adressatenumkehr; der Zusatz «הזכות» für τοῦ λόγου durch שכר הדברים ersetzt; die echten Knoten (Suspension τοῦ λόγου μὴ παντός, μή-Modus) bleiben sedimentiert.
+- Blocker 1.73.4: πρὸς ναῦς πολλὰς adversativ — „מול אוניות רבות“, nicht instrumental („באוניות רבות“); das ἂν-Potential des ἀδυνάτων ἂν ὄντων wiederhergestellt.
+- Blocker 1.74.1: Themistocles als athenischer στρατηγός = סטרטגוס (Slot-Verletzung behoben); die Schiffszahl-Crux selbst war korrekt offen gehalten — der Vermerk dokumentiert jetzt die Alternativ-Lesarten (zwei Drittel des Gesamtfleet / doppelter Anteil) und die Entscheidung: die gedruckte Apposition bleibt.
+- Blocker 1.77.6: die ausgefallene Apodosis ὁμοῖα καὶ νῦν γνώσεσθε als eigene Prognose ergänzt («דומים תחוו גם עתה»).
+- Vorab-Prüfungen bestanden: 1.71.2 (kein Athen-Bezug — ὁμοίᾳ unangheftet wie überliefert), 1.73.1 (Richternegation exakt, keine Doppelinversion), 1.74.1-Crux (beide Elemente nebeneinander), 1.74.3 (Flag ehrlich), 1.76.2 〈τριῶν〉 nahtlos.
+- Minorfixes: δῠ́ναμις an zwei Stellen auf den Glossar-Slot כוח ausgerichtet (editionweiter עוצמה/כוח-Split als offener Harmonisierungspunkt für den Schlussdurchgang vermerkt: 1.15/1.33/1.36), τεκμήριον μέγιστον = «ראיה הגדולה ביותר», 1.76.2 (Doppelverneinung unter einem οὐδείς), 1.76.4 (εἴ τι-Vorbehalt wiederhergestellt), 1.77.2 («פועל בכוח הזרוע» statt opakem «כופה את ידו»), 1.79.2 (Einstieg «ונגש אליהם»; σώφρων = «שקול ומאוזן»), 1.80.3 (falscher Distanz-Anker «מהם» → «מאיתנו»).
+- Vermerks-Ergänzungen: 1.74.4 (περὶ τῇ χώρᾳ Dativ-Anomalie), 1.74.1 (Alternativ-Konstruktionen + Entscheidung).
+- Bestätigt: alle Reden ohne Klammer und ohne Bruch; Archidamus am Batch-Rand offen in 1.81; Regel 6 überall; σπονδαί = הסכם/הסכמים mit ξυνθήκη = אמנה getrennt; ἀρχή = שלטון achtmal ungemildert; δουλεύω ungemildert; alle Zahlen in Worten; die Glossarvorschläge (התחכמות/קנאה/חובבי משפטים) am Griechischen verifiziert und vertretbar.
+Alle 12 Meldungen angenommen (10 mit Texteingriff, 2 reine Vermerks-Fälle; dazu 2 Vermerks-Revisionen).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
@@ -122,10 +134,10 @@ Alle 12 Meldungen angenommen (11 mit Texteingriff; 1 als Vermerks-Ergänzung; 2 
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 271 in den Kapiteln 1–70 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 271 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 104 Fundstellen (5 Blocker, 99 Minor).
+- Übersetzte Abschnitte: 357 in den Kapiteln 1–80 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 357 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 116 Fundstellen (9 Blocker, 107 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 71–80: Übersetzung im Gang; Kapitel 81–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 81–90: Übersetzung abgeschlossen, Zweitprüfung im Gang; Kapitel 91–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
