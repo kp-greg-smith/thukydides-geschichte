@@ -603,3 +603,280 @@ Prüfliste: 51.1, 51.2, 51.3, 51.4, 51.5, 52.1, 52.2, 52.3, 53.1, 53.2, 53.3, 53
 Alle 13 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 51 --end 60`: 31/31 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Kapitel 61–70
+
+Geprüft: **45 Abschnitte**; geändert: **27 Abschnitte**.
+
+Prüfliste: 61.1, 61.2, 61.3, 61.4, 61.5, 62.1, 62.2, 62.3, 62.4, 62.5, 62.6, 63.1, 63.2, 63.3, 64.1, 64.2, 64.3, 65.1, 65.2, 65.3, 66.1, 67.1, 67.2, 67.3, 67.4, 67.5, 68.1, 68.2, 68.3, 68.4, 69.1, 69.2, 69.3, 69.4, 69.5, 69.6, 70.1, 70.2, 70.3, 70.4, 70.5, 70.6, 70.7, 70.8, 70.9.
+
+### 61.1 · Änderung 1
+
+- Griechisch: πέμπτον αὐτὸν στρατηγόν
+- Alt: als fünften Feldherrn Kallias, Sohn des Kalliades
+- Neu: Kallias, Sohn des Kalliades, als einen von fünf Feldherren
+- Begründung: Idiomatische Gesamtzahl statt Rangfolge.
+
+### 61.4 · Änderung 2
+
+- Griechisch: πειράσαντες … οὐχ ἑλόντες … χωρὶς … πολλοῖς
+- Alt: Und nach Beroia gekommen, von dort gegen Strepsa, und den Ort zuerst vergeblich versucht habend, rückten sie zu Land gegen Potidaia — mit dreitausend eigenen Hopliten, von den Bundesgenossen abgesehen
+- Neu: Nachdem sie nach Beroia und von dort gegen Strepsa gezogen waren und zunächst den Ort angegriffen, aber nicht eingenommen hatten, rückten sie zu Land gegen Potidaia — mit dreitausend eigenen Hopliten, neben zahlreichen Bundesgenossen
+- Begründung: Unverständlichen Angriffsausdruck und fehlendes πολλοῖς berichtigt.
+
+### 62.1 · Änderung 3
+
+- Griechisch: πρὸς Ὀλύνθου ἐν τῷ ἰσθμῷ
+- Alt: auf dem Isthmos vor Olynthos
+- Neu: auf der Olynthos zugewandten Seite der Landenge
+- Begründung: Das Lager liegt bei Potidaia, nicht vor Olynthos.
+
+### 62.2 · Änderung 4
+
+- Griechisch: Ἰόλαον ἀνθ’ αὑτοῦ καταστήσας ἄρχοντα
+- Alt: statt seiner Iolaos als Anführer
+- Neu: Iolaos als seinen Stellvertreter
+- Begründung: ἄρχοντα bezeichnet hier die Vertretung des Herrschers, nicht einen zusätzlichen Heerführer.
+
+### 62.6 · Änderung 5
+
+- Griechisch: ἐς τὸ τεῖχος κατέφυγεν
+- Alt: floh in die Mauer
+- Neu: floh hinter die Mauer
+- Begründung: Räumlichen Ausdruck berichtigt.
+
+### 63.1 · Änderung 6
+
+- Griechisch: ὁποτέρωσε διακινδυνεύσῃ … ξυναγαγόντι … δρόμῳ βιάσασθαι
+- Alt: war er unschlüssig, wohin er sich wenden solle — gegen Olynthos oder nach Potidaia. Es schien ihm richtig, die Seinigen, soweit es ging, mit einem Lauf in engstem Raum nach Potidaia hinein zu werfen
+- Neu: war er unschlüssig, welchen gefährlichen Weg er wagen solle — nach Olynthos oder nach Potidaia. Es schien ihm richtig, die Seinigen auf möglichst engem Raum zu sammeln und im Laufschritt nach Potidaia durchzubrechen
+- Begründung: Gefahr beider Wege, Sammeln der Truppen und gewaltsamer Durchbruch wiedergegeben.
+
+### 63.2 · Änderung 7
+
+- Griechisch: οἱ … βοηθοί … ἐς τὸ τεῖχος … ἱππῆς δ’ οὐδετέροις παρεγένοντο
+- Alt: Die von Olynthos — als Helfer den Potidaiaten, es liegt etwa sechzig Stadien entfernt und ist sichtbar —
+- Neu: Die Helfer der Potidaiaten in Olynthos — es liegt etwa sechzig Stadien entfernt und ist sichtbar —
+- Begründung: Unverständlichen Satzanfang grammatisch hergestellt.
+
+### 63.2 · Änderung 8
+
+- Griechisch: ἐς τὸ τεῖχος … ἱππῆς δ’ οὐδετέροις παρεγένοντο
+- Alt: in die Mauer zurück, und die Makedonen zu den Athenern; an Reiterei aber war auf keiner Seite welche zugegen
+- Neu: hinter die Mauer zurück, und die Makedonen zu den Athenern; Reiter nahmen auf keiner Seite an der Schlacht teil
+- Begründung: Der Schluss bezieht sich auf die Schlacht, nicht auf das Vorhandensein von Reiterei im Feldzug.
+
+### 63.3 · Änderung 9
+
+- Griechisch: πεντήκοντα καὶ ἑκατόν
+- Alt: hundertzfünfzig
+- Neu: hundertfünfzig
+- Begründung: Schreibfehler in der Zahl.
+
+### 64.1 · Änderung 10
+
+- Griechisch: ἀποτειχίσαντες … ἀτείχιστον … τειχίζειν; [τεῖχος]
+- Alt: Die Mauer am Isthmos befestigten die Athener sogleich und besetzten sie; die nach Pallene hin war unbefestigt. Sie glaubten nämlich nicht stark genug zu sein, am Isthmos zu bewachen und zugleich nach Pallene hinübergehend zu befestigen, aus Furcht, die Potidaiaten und die Bundesgenossen könnten sie, wenn sie geteilt wären, überfallen.
+- Neu: Die Seite am Isthmos sperrten die Athener sogleich mit einer Belagerungsmauer ab und bewachten sie; die nach Pallene hin war noch nicht durch eine solche Mauer eingeschlossen. Sie glaubten nämlich nicht stark genug zu sein, am Isthmos Wache zu halten und zugleich nach Pallene hinüberzugehen und dort eine Belagerungsmauer zu bauen, aus Furcht, die Potidaiaten und die Bundesgenossen könnten sie, wenn sie geteilt wären, überfallen. [Anm.: Der Herausgeber kennzeichnet teîchos (»Mauer«) nach »die Seite am Isthmos« als zu tilgenden Zusatz.]
+- Begründung: Belagerungsmauer der Angreifer statt Befestigung der Stadt; Herausgeberklammer erklärt.
+
+### 64.2 · Änderung 11
+
+- Griechisch: τὴν Παλλήνην ἀτείχιστον οὖσαν
+- Alt: dass Pallene unbefestigt sei
+- Neu: dass die Seite nach Pallene hin noch nicht durch eine Belagerungsmauer eingeschlossen sei
+- Begründung: Gleiche Unterscheidung zwischen Belagerung und Stadtbefestigung.
+
+### 64.2 · Änderung 12
+
+- Griechisch: προσήγαγε τῇ Ποτειδαίᾳ τὸν στρατόν
+- Alt: führte er das Heer in kleinen Schritten heran
+- Neu: führte er das Heer in kleinen Schritten an Potidaia heran
+- Begründung: Das ausdrückliche Ziel des Vormarsches ergänzt.
+
+### 64.2 · Änderung 13
+
+- Griechisch: ἀπετείχισε τὸ ἐκ τῆς Παλλήνης [τεῖχος]
+- Alt: befestigte er die Mauer nach Pallene.
+- Neu: schloss er die Seite nach Pallene hin mit einer Belagerungsmauer ab. [Anm.: Der Herausgeber kennzeichnet das Wort teîchos (»Mauer«) am Satzende als zu tilgenden Zusatz.]
+- Begründung: Sinnumkehr bei der Einschließung behoben und Herausgeberklammer erläutert.
+
+### 65.1 · Änderung 14
+
+- Griechisch: ἀποτειχισθείσης αὐτῆς
+- Alt: Als die Stadt befestigt war
+- Neu: Als die Stadt durch Belagerungsmauern eingeschlossen war
+- Begründung: Einschließung statt Befestigung.
+
+### 65.1 · Änderung 15
+
+- Griechisch: βουλόμενος τὰ ἐπὶ τούτοις παρασκευάζειν καὶ ὅπως τὰ ἔξωθεν ἕξει ὡς ἄριστα
+- Alt: weil er für die Draußenstehenden und die Drinnenbleibenden das Beste vorbereiten wollte
+- Neu: weil er die weiteren Maßnahmen vorbereiten und die Lage außerhalb der Stadt möglichst günstig gestalten wollte
+- Begründung: τὰ ἔξωθεν meint die äußeren Angelegenheiten, keine Personengruppen.
+
+### 65.3 · Änderung 16
+
+- Griechisch: μετὰ … τὴν ἀποτείχισιν
+- Alt: Nach der Befestigung Potidaias
+- Neu: Nach der Einschließung Potidaias durch Belagerungsmauern
+- Begründung: Einschließung statt Befestigung.
+
+### 66.1 · Änderung 17
+
+- Griechisch: τοῖς μὲν Κορινθίοις ὅτι … ἐπολιόρκουν
+- Alt: den Korinthern, weil sie Potidaia, ihre eigene Kolonie, belagerten
+- Neu: den Korinthern, weil die Athener Potidaia, die korinthische Kolonie, belagerten
+- Begründung: Subjekt und Koloniezugehörigkeit ausdrücklich und korrekt zugewiesen.
+
+### 67.3 · Änderung 18
+
+- Griechisch: προσπαρακαλέσαντες … τε καὶ … τὸν εἰωθότα
+- Alt: Die Lakedaimonier luden auch ihrerseits die Bundesgenossen ein, ob noch jemand anderer sagte, von den Athenern Unrecht erlebt zu haben, und beriefen ihre Versammlung ein und luden, wie gewohnt, zum Reden ein.
+- Neu: Die Lakedaimonier luden auch ihrerseits die Bundesgenossen und jeden anderen ein, der sagte, von den Athenern Unrecht erlitten zu haben; sie beriefen ihre übliche Versammlung ein und forderten sie zum Reden auf.
+- Begründung: Koordinierte Einladung grammatisch berichtigt; „üblich“ gehört zur Versammlung.
+
+### 67.4 · Änderung 19
+
+- Griechisch: ἕτερα οὐκ ὀλίγα διάφορα
+- Alt: auch sonst nicht wenig Streitfälle
+- Neu: auch sonst nicht wenige Streitpunkte
+- Begründung: Numerus und Glossarentsprechung berichtigt.
+
+### 68.1 · Änderung 20
+
+- Griechisch: ἀμαθίᾳ δὲ πλέονι πρὸς τὰ ἔξω πράγματα χρῆσθε
+- Alt: mehr Unerfahrenheit aber gebraucht ihr gegenüber den Dingen nach außen
+- Neu: in auswärtigen Angelegenheiten seid ihr jedoch umso unwissender
+- Begründung: Unverständliche Lehnkonstruktion beseitigt.
+
+### 68.2 · Änderung 21
+
+- Griechisch: ἕνεκα τῶν αὑτοῖς ἰδίᾳ διαφόρων
+- Alt: aus eigenem Nutzen reden
+- Neu: wegen ihrer eigenen Streitpunkte reden
+- Begründung: διάφορα bezeichnet Streitpunkte, keinen Nutzen.
+
+### 68.2 · Änderung 22
+
+- Griechisch: οὐ πρὶν πάσχειν … ἐν τῷ ἔργῳ ἐσμέν
+- Alt: nicht, bevor ihr leidet, sondern erst, als es zum Werk gekommen war
+- Neu: nicht, bevor wir Schaden erlitten, sondern erst jetzt, da wir mitten im Geschehen stehen
+- Begründung: Sprecherbezug, Zeitverhältnis und Bedeutung von ἔργον im Kontext hergestellt.
+
+### 68.3 · Änderung 23
+
+- Griechisch: ἀφανεῖς … ἠδίκουν … τοῖς δὲ ἐπιβουλεύοντας αὐτούς … εἴ … πολεμήσονται
+- Alt: Und wenn sie als unsichtbar Ferne die Griechen unrecht behandelten, bedürfte es einer Belehrung der Unwissenden. Jetzt aber — wozu langer Rede? Ihr seht die Versklavten und die, die ihnen nachstellen — nicht am wenigsten unsere eigenen Bundesgenossen — und von langer Hand vorbereitet, ob sie einmal Krieg führen werden.
+- Neu: Und wenn sie im Verborgenen die Griechen unrecht behandelten, bedürftet ihr als Unwissende weiterer Belehrung. Jetzt aber — wozu langer Rede? Ihr seht, dass die einen versklavt sind und dass die Athener den anderen nachstellen — nicht am wenigsten unseren eigenen Bundesgenossen — und sich seit Langem für den Fall gerüstet haben, dass sie einmal Krieg führen müssen.
+- Begründung: Rollen von Angreifern und Bedrohten, Rüstungssubjekt und Bedingung wiederhergestellt.
+
+### 68.4 · Änderung 24
+
+- Griechisch: Κέρκυράν … ὑπολαβόντες βίᾳ ἡμῶν … ὧν τὸ μὲν … ἡ δέ
+- Alt: Sie würden nämlich nicht Kerkyra mit Gewalt gegen uns festhalten und Potidaia belagern — das eine der wichtigste Ort gegen die Städte in Thrakien, das andere aber hätte den Peloponnesiern die größte Flotte verschafft.
+- Neu: Sie würden nämlich nicht Kerkyra gegen unseren Willen aufgenommen haben und festhalten und Potidaia belagern — Potidaia ist der günstigste Ort für Unternehmungen gegen die Städte in Thrakien, Kerkyra aber hätte den Peloponnesiern die größte Flotte verschafft.
+- Begründung: Bezug auf beide Orte und Bedeutung von βίᾳ ἡμῶν berichtigt.
+
+### 69.1 · Änderung 25
+
+- Griechisch: αἴτιοι
+- Alt: [Anm.: αἴτιοι heißt hier: verantwortlich, schuld, nicht »Vorwurf«.]
+- Neu: [Anm.: Griechisch aítioi, hier im Sinn von »schuld«.]
+- Begründung: Anmerkung an Leser gerichtet.
+
+### 69.1 · Änderung 26
+
+- Griechisch: ἀληθέστερον αὐτὸ δρᾷ … ὡς ἐλευθερῶν
+- Alt: Denn nicht der Versklavende handelt wahrer, sondern der, der es verhindern könnte und dabei zusieht — zumal, wenn er dabei auch den Anspruch der Tüchtigkeit erhebt, als hätte er Hellas die Freiheit verschafft.
+- Neu: Denn im wahreren Sinne versklavt nicht derjenige, der die Knechtschaft auferlegt, sondern der, der es verhindern könnte und dabei zusieht — zumal, wenn er den Ruhm der Tüchtigkeit als Befreier von Hellas beansprucht.
+- Begründung: αὐτό bezieht sich auf das Versklaven; die Befreiung wird als beanspruchte Rolle dargestellt.
+
+### 69.2 · Änderung 27
+
+- Griechisch: οὐδὲ νῦν ἐπὶ φανεροῖς
+- Alt: und nicht einmal jetzt offen.
+- Neu: und selbst jetzt noch nicht auf klarer Grundlage. [Anm.: Ob mit der »klaren Grundlage« die Sachlage oder das Ziel der Beratung gemeint ist, bleibt offen.]
+- Begründung: Keine geheime Zusammenkunft gemeint; Deutungsoffenheit erläutert.
+
+### 69.2 · Änderung 28
+
+- Griechisch: ἤδη καὶ οὐ μέλλοντες ἐπέρχονται
+- Alt: kommen über die, die noch nicht einmal beschlossen haben
+- Neu: greifen die, die noch keinen Entschluss gefasst haben, schon jetzt an und warten nicht erst ab
+- Begründung: Ausdrücklichen Gegensatz des bereits erfolgenden und künftigen Angriffs ergänzt.
+
+### 69.4 · Änderung 29
+
+- Griechisch: οὐ τῇ δυνάμει τινά
+- Alt: nicht mit irgendeiner Macht, sondern mit eurem Zögern euch wehrend
+- Neu: euch gegen einen Gegner nicht mit eurer Macht, sondern mit eurem Zögern wehrend
+- Begründung: τινά ist das Objekt von ἀμυνόμενοι, kein Attribut zu δύναμις.
+
+### 69.5 · Änderung 30
+
+- Griechisch: ἀσφαλεῖς … αὐτὸν περὶ αὑτῷ τὰ πλείω σφαλέντα
+- Alt: ihr wäret die sichersten
+- Neu: auf euch sei Verlass
+- Begründung: Kein Superlativ im Griechischen; Aussage über Verlässlichkeit.
+
+### 69.5 · Änderung 31
+
+- Griechisch: αὐτὸν περὶ αὑτῷ τὰ πλείω σφαλέντα
+- Alt: der Barbar selbst an vielem zu Fall kam
+- Neu: der Barbar zum größten Teil durch eigenes Verschulden zu Fall kam
+- Begründung: Reflexiven Bezug und Grad der Selbstverschuldung ergänzt.
+
+### 70.1 · Änderung 32
+
+- Griechisch: πρὸς οἵους … καὶ ὅσον ὑμῶν καὶ ὡς πᾶν διαφέροντας
+- Alt: was für Athener euch gegenüberstehen, wie weit ihr hinter ihnen zurücksteht und wie völlig verschieden der Kampf zwischen euch sein wird
+- Neu: was für Athener euch im Kampf gegenüberstehen werden und wie sehr und in jeder Hinsicht sie sich von euch unterscheiden
+- Begründung: Die Verschiedenheit betrifft die Gegner, nicht die Art des Kampfes; keine pauschale Unterlegenheit im Wortlaut.
+
+### 70.4 · Änderung 33
+
+- Griechisch: ἄοκνοι … ἀποδημηταὶ πρὸς ἐνδημοτάτους … τῷ ἐπελθεῖν
+- Alt: Und sie sind unbeirrt gegen euer Zögern und Abwesende gegen die Allergegenwärtigsten; sie glauben nämlich, durch die Abwesenheit etwas zu gewinnen, ihr aber könntet durch das Hinzukommen auch das Bereite verderben.
+- Neu: Und sie sind unermüdlich gegenüber euch Zauderern und unternehmungslustig in der Fremde gegenüber euch, die ihr am liebsten zu Hause bleibt; sie glauben nämlich, durch die Fahrt in die Fremde etwas zu gewinnen, ihr aber glaubt, durch einen Feldzug auch das Vorhandene gefährden zu können.
+- Begründung: Auswärtige Unternehmungen und Daheimbleiben statt abstrakter Abwesenheit/Gegenwart; beide Auffassungen als solche wiedergegeben.
+
+### 70.6 · Änderung 34
+
+- Griechisch: σώμασιν ἀλλοτριωτάτοις … γνώμῃ οἰκειοτάτῃ
+- Alt: Ferner gebrauchen sie die Körper als die Fremdesten für die Stadt, die Einsicht aber als die Eigenste, um etwas für sie zu tun.
+- Neu: Ferner setzen sie ihre Körper für die Stadt ein, als gehörten sie ihnen am wenigsten, ihre Einsicht aber als ihr Eigenstes, um etwas für sie zu tun.
+- Begründung: Unverständlichen Gegensatz grammatisch und semantisch hergestellt.
+
+### 70.8 · Änderung 35
+
+- Griechisch: ξυμφοράν … ἡγεῖσθαι
+- Alt: und die untätige Ruhe für nicht weniger ein Unglück zu halten als die mühevolle Geschäftigkeit
+- Neu: und die untätige Ruhe für nicht weniger ein Unglück als die mühevolle Geschäftigkeit
+- Begründung: Überzähligen Infinitiv nach finitem „halten“ entfernt.
+
+### 65.1 · Änderung 36
+
+- Griechisch: ξυνεβούλευε
+- Alt: beriet er:
+- Neu: riet er:
+- Begründung: Ohne Objekt ist hier das Verb „raten“ erforderlich.
+
+### 69.5 · Änderung 37
+
+- Griechisch: τὸν … Μῆδον … ἴσμεν … ἀξίως προαπαντῆσαι
+- Alt: Den Meder wissen wir selbst, wie er vom Ende der Erde eher gegen die Peloponnes kam, als dass euer würdiges Entgegentreten da war
+- Neu: Vom Meder wissen wir selbst, dass er vom Ende der Erde früher gegen die Peloponnes kam, als von eurer Seite eine angemessene Abwehr bereitstand
+- Begründung: Unverständliche deutsche Konstruktion des Wissens und der Abwehr berichtigt.
+
+### Unsicher, bitte prüfen
+
+- **69.2:** „ἐπὶ φανεροῖς“ lässt den Bezug auf Sachlage oder Beratungsziel offen. Die Übersetzung „auf klarer Grundlage“ hält beides offen; eine Leseranmerkung nennt die Deutungsfrage.
+
+
+Zur Deutungsfrage 69.2 wurde zusätzlich ein philologischer Kommentar konsultiert: [C. D. Morris, Kommentar zu 1.120, Rückverweis auf 1.69](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0097%3Abook%3D1%3Achapter%3D120), der die Stelle auf das Beratungsziel bezieht. Keine Übersetzung übernommen.
+### Nachprüfung
+
+Alle 27 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+
+`python3 scripts/check_translation.py --language de --book 1 --start 61 --end 70`: 45/45 Abschnitte, 0 Fehler, 0 Warnungen.
