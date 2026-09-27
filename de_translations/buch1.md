@@ -1068,37 +1068,75 @@
 
 ### Kapitel 88
 
-§1 Die Spartaner erklärten den Vertrag für gebrochen und den Krieg für nötig. Die Bundesgenossen stimmten zu. Der Krieg begann.
+§1 Die Lakedaimonier stimmten dafür, dass die Verträge gebrochen seien und Krieg geführt werden müsse — nicht so sehr, weil sie den Worten der Bundesgenossen folgten, als vielmehr, weil sie die Athener fürchteten, diese könnten noch größer werden, da sie sahen, dass das meiste Griechenland ihnen schon untertan war.
 
 ---
 
 ### Kapitel 89
 
-§1 Die Athener befestigten ihre Stadt nach den Perserkriegen. Themistokles täuschte die Spartaner, die die Befestigung Athens verhindern wollten. Er reiste selbst nach Sparta und hielt die Verhandlungen hin, während die Athener die Mauern bauten.
+§1 Auf folgende Weise nämlich gelangten die Athener zu der Stellung, in der sie groß wurden.
+
+§2 Nachdem die Meder, zu See und zu Lande von den Griechen besiegt, aus Europa abgezogen waren und die von ihnen, die mit den Schiffen nach Mykale geflüchtet waren, umgekommen waren, zog Leotychidas, der König der Lakedaimonier, der bei Mykale die Griechen führte, mit den Bundesgenossen von der Peloponnes nach Hause zurück; die Athener aber und die schon abgefallenen Bundesgenossen aus Ionien und dem Hellespont blieben und belagerten Sestos, das die Meder hielten. Überwinternd nahmen sie es, als die Barbaren es verlassen hatten; danach segelten sie aus dem Hellespont weg nach Hause.
+
+§3 Das athenische Volk aber, nachdem die Barbaren aus dem Land gewichen waren, holte alsbald von überallher her, wo sie Kinder und Frauen und das übrige Gerät untergebracht hatten, und bereitete sich vor, die Stadt und die Mauern wieder aufzubauen; denn von der Mauer stand nur wenig, und von den Häusern waren die meisten gefallen, wenige blieben, in denen die Mächtigen der Perser gewohnt hatten.
 
 ---
 
 ### Kapitel 90
 
-§1 Als die Spartaner von der Mauer hörten, schickten sie Gesandte. Themistokles wiegte sie in Sicherheit: Die Mauer sei noch nicht fertig; man solle eigene Gesandte nach Athen senden und sich selbst überzeugen. Die spartanischen Gesandten wurden in Athen festgehalten, die Mauer fertig gestellt.
+§1 Die Lakedaimonier aber, das Kommende ahnend, kamen als Gesandtschaft — teils weil sie lieber gesehen hätten, dass weder jene noch irgendein anderer Mauern hätte, teils am meisten, weil die Bundesgenossen sie aufreizten, die Menge ihrer Flotte fürchtend — die es vorher nicht gegeben hatte — und die Verwegenheit, die sich im Perserkrieg gezeigt hatte.
+
+§2 Sie verlangten, sie sollten nicht befestigen, sondern auch die Mauern der anderen außerhalb der Peloponnes gemeinsam mit ihnen abreißen — das Begehrende und Verdächtige ihrer Meinung nicht gegen die Athener zeigend, sondern sich auf den Barbaren berufend: Wenn dieser wiederum käme, hätte er von nirgendwo her einen festen Ausgangspunkt, wie jetzt von Theben; die Peloponnes sei für alle ausreichender Rückzugspunkt und Ausgangsbasis.
+
+§3 Die Athener aber, auf Themistokles' Rat, antworteten den Lakedaimoniern, sie würden Gesandte über das Gesagte zu ihnen schicken, und entließen sie alsbald. Themistokles selbst befahl, ihn schleunigst nach Sparta zu senden; die anderen Gesandten aber, die er sich mitwählte, sollte man nicht sofort mitschicken, sondern zurückhalten, bis das Wallen so hoch sei, dass es zur Abwehr mit der nötigsten Höhe reiche. Die ganze Stadt solle befestigen — alle, auch Frauen und Kinder —, und keiner solle schonen, weder privates noch öffentliches Heiligtum noch Haus, sondern alles dazu verwenden.
+
+§4 Und als er dies gelehrt und das Übrige zugesagt hatte, dass er selbst es dort ausrichten würde, reiste er ab.
+
+§5 Und nach Sparta gekommen trat er zu den Behörden nicht, sondern trieb sich herum und fand Ausreden. Und wenn einer von den Amtsträgern fragte, warum er nicht zur Gemeinde komme, sagte er, die Mitgesandten säumen noch — irgendeine Verhinderung habe sie zurückgehalten; sie würden aber bald erwartet, und er wundere sich, dass sie noch nicht da seien.
 
 ---
 
 ### Kapitel 91
 
-§1 Themistokles kehrte zurück und erklärte: Athen brauche Mauern zu seinem Schutz. Sparta habe nichts Übles zu fürchten. Eine unbefestigte Stadt könne nicht frei sein. Die Spartaner nahmen es hin, da sie Athen damals noch brauchten.
+§1 Jene hörten auf ihn: Themistokles glaubten sie aus Freundschaft; als aber die Mitgesandten ankamen und klar anklagten, dass befestigt werde und das Werk schon Höhe gewinne, wussten sie nicht, wie sie es verleugnen sollten.
+
+§2 Als er das erfuhr, riet er ihnen, sich nicht eher durch Worte verführen zu lassen, als ihre eigenen Männer zu senden, die gut und zuverlässig berichten würden, nachdem sie hingeschaut hätten.
+
+§3 Sie sandten also; und Themistokles sandte den Athenern heimlich die Botschaft, sie sollten die Gesandten möglichst unauffällig festhalten und nicht loslassen, bis sie selbst zurückgekehrt seien — denn es kamen schon die Mitgesandten zu ihm: Habronichos, Sohn des Lysikles, und Aristeides, Sohn des Lysimachos, meldend, das Wallwerk sei ausreichend. Er fürchtete nämlich, die Lakedaimonier könnten, wenn sie es deutlich hörten, sie nicht mehr gehen lassen.
+
+§4 Und die Athener hielten die Gesandten, wie aufgetragen, fest; und Themistokles trat nun offen zu den Lakedaimoniern und sagte: Die Stadt sei jetzt so befestigt, dass sie genüge, die Einwohner zu schützen. Wenn aber die Lakedaimonier oder die Bundesgenossen etwas zu verhandeln hätten, sollten sie von nun an zu ihnen kommen — als zu solchen, die das Ihrige und das Gemeinsame mit Einsicht entscheiden.
+
+§5 Denn als die Stadt aufgegeben werden sollte, hätten sie, ohne jene, das erkannt und sich in die Schiffe gewagt; und in allem, was wiederum mit ihnen beraten werde, würden sie an Einsicht keinem nachstehen.
+
+§6 Es scheine ihnen also auch jetzt besser, dass ihre eigene Stadt Mauern habe; und das sei den Bürgern einzeln und allen Bundesgenossen gemeinsam nützlicher.
+
+§7 Denn ohne gleichwertige Rüstung sei es nicht möglich, Gleiches und Gleiches im Gemeinsamen zu beraten. Entweder müssten also alle unmauert Bundesgenossen sein — oder es sei auch richtig, dass man das Gleiche tue.
 
 ---
 
 ### Kapitel 92
 
-§1 Themistokles vollendete die Mauern Athens und den Piräus. Er machte Athen zur Seemacht. Der Piräus wurde befestigt, die drei Häfen ausgebaut; die Mauern zum Meer verbunden. Athen war gerüstet.
+§1 Die Lakedaimonier, als sie es hörten, zeigten den Athenern keinen offenen Zorn — denn sie waren ja nicht gekommen zu verhindern, sondern, wie es schien, der Gemeinde zu raten; und zugleich waren ihnen die Athener damals wegen der gegen den Meder gezeigten Bereitschaft geneigt. Das Gewollte aber verfehlend, wurden sie unmerklich verstimmt. Und die Gesandten beider Seiten gingen ungetadelt heim.
 
 ---
 
 ### Kapitel 93
 
-§1 Die Mauern waren von zweierlei Steinen: großen Quadern und gebrannten Ziegeln. Reste sind heute noch sichtbar. Themistokles sorgte dafür, dass keiner mehr ohne Mauern lebe, der zur See fahren wolle.
+§1 Auf diese Weise befestigten die Athener die Stadt in kurzer Zeit.
+
+§2 Und die Bauweise zeigt noch jetzt, dass sie mit Eile geschah: Die Fundamente liegen aus allerlei Steinen, nicht ineinander gearbeitet, sondern wie jeweils einer herantrug; viele Stelen von Grabmälern und behauene Steine sind eingefügt. Der Mauerring wurde überall weiter ausgezogen als die Stadt, und deshalb trieben sie alles mit gleichem Eifer an.
+
+§3 Und Themistokles überredete, auch das Übrige des Piräus zu bebauen — dies war schon vorher auf seine jährliche Archontenschaft hin geschehen —, da er glaubte, der Ort sei schön, mit drei natürlich angelegten Häfen, und wenn die Bürger Seefahrer würden, sei es für den Machtgewinn ein großer Vorteil.
+
+§4 Der See gegenüber wagte er als erster auszusprechen, dass man sich ihr zuwenden müsse; und er legte den Anfang sogleich.
+
+§5 Und auf seinen Rat wurde die Dicke der Mauer gebaut, die noch jetzt um den Piräus sichtbar ist: Zwei einander entgegenkommende Wagen führten die Steine heran. Innen war weder Kies noch Lehm, sondern große Steine ineinander gearbeitet und im Gehriss winklig, von außen mit Eisen aneinander und mit Blei verbunden. Die Höhe aber wurde zu etwa der Hälfte dessen vollendet, was er beabsichtigte.
+
+§6 Denn mit Größe und Dicke wollte er die Nachstellungen der Feinde fernhalten; wenige Menschen und die untüchtigsten sollten genügen, die Wache zu halten; die anderen sollten in die Schiffe steigen.
+
+§7 Auf die Schiffe war er am meisten bedacht, da er — wie mir scheint — sah, dass die Heeresfahrt des Königs zur See leichter wäre als die zu Lande. Und den Piräus hielt er für nützlicher als die obere Stadt und riet den Athenern oft: Wenn sie jemals zu Lande bedrängt würden, sollten sie hinabsteigen und mit den Schiffen sich gegen alle stellen.
+
+§8 So wurden die Athener befestigt und das Übrige rüsteten sie sogleich nach dem Abzug der Meder.
 
 ---
 
