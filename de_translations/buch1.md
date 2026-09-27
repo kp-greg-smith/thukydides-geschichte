@@ -364,133 +364,145 @@
 
 ### Kapitel 31
 
-§1 »Bedenkt das Folgende: Keine Gefahr, keine Kosten bringt euch das Bündnis mit uns. Wir kommen freiwillig, und unsere Flotte ist stark. Wer die größte Seemacht hat, dem fallen auch die übrigen Entscheidungen zu.
+§1 Die Kerkyraier sprachen weiter: Athen habe die Wahl, die zweitgrößte Flotte Griechenlands zum Feind zu haben – wenn es sie abweise – oder zur Freundin – wenn es sie aufnehme. Sie fügten hinzu, der Krieg mit Sparta sei ohnehin unvermeidlich; es sei klug, ihn mit der kerkyraischen Flotte auf seiner Seite zu führen, statt gegen sie.
 
-§2 Ihr werdet dies nicht bereuen. Denn noch nie hat jemand bereut, ein Bündnis geschlossen zu haben, wenn es mit Überlegung geschah. Nicht Redekunst leitet uns, sondern die Not und euer Vorteil.
+§2 Zum ersten Mal, so sagten sie, biete eine griechische Macht Athen ein Bündnis an, ohne dass Athen darum gebeten habe. Sogar wenn Kerkyra geschwächt wäre, sei das Angebot wertvoll; jetzt, da es stark sei, sei die Gelegenheit unverpassbar.
 
-§3 Helft uns: Ihr gewinnt eine mächtige Flotte, und die Korinther werden geschwächt.«
+§3 Sie warnten: Wer eine Stadt abweise, die helfen wolle, helfe letztlich deren Feinden. Wer jetzt zaudere, müsse später mit doppelter Mühe kämpfen. Sie schlossen: Helft uns, und ihr werdet es nicht bereuen.
 
 ---
 
 ### Kapitel 32
 
-§1 »Und wenn einer fürchtet, der Vertrag mit Sparta könnte gebrochen werden: Wir sind keinem Bündnis angeschlossen. Es steht im Vertrag, dass Städte, die keinem Bündnis angehören, sich einem der beiden anschließen dürfen.
+§1 Die Kerkyraier fügten hinzu, der dreißigjährige Vertrag verbiete Athen nicht, mit neutralen Städten ein Bündnis zu schließen. Das Delphische Orakel habe ihnen geraten, die Sache den Korinthern anzuvertrauen; das sei in Erfüllung gegangen, indem die Epidamnier ihre Stadt den Korinthern übergaben. Ein Schiedsgericht, wie die Korinther es jetzt verlangten, hätten sie stets abgelehnt.
 
-§2 Wenn ihr uns abweist und wir unterliegen, so wäre das ein größerer Fehler als unserer früherer; ihr würdet eine mächtige Flotte an den Feind verlieren.
+§2 Nicht mit Worten, sagten sie, solle Athen die Sache wägen, sondern mit Schiffen: Die kerkyraische Flotte, die zweitgrößte Griechenlands, stehe bereit. Drei griechische Flotten gebe es: die athenische, die kerkyraische und die korinthische. Wenn Kerkyra unterliege und Athen untätig bleibe, habe Sparta bald zwei Flotten, wo es jetzt eine habe.
 
-§3 Die Korinther sagen, man dürfe die eigenen Kolonisten nicht gegen die Mutterstadt unterstützen. Aber nicht Verwandtschaft zählt im Krieg, sondern Nützlichkeit. Wer mächtig ist, wird umworben, wer schwach, verlassen.«
+§3 Da Athen ohenhin Krieg mit Sparta vor sich sehe, sei es klug, Kerkyra nicht fallen zu lassen. Sie sei der Riegel zu Italiens und Siziliens; ihr Hafen beherrsche die Einfahrt ins Ionische Meer. Wer Kerkyra halte, halte den Weg nach Westen offen; wer es aufgebe, gebe ihn preis. Die Gelegenheit sei jetzt da; ein zweites Mal komme sie nicht.
 
 ---
 
 ### Kapitel 33
 
-§1 So die Kerkyraier. Die Korinther erwiderten:
+§1 So sprachen die Kerkyraier. Die Korinther erwiderten, Kerkyra habe sich stets von allen Bündnissen ferngehalten, nicht um kein Unrecht zu erleiden, sondern um straflos Unrecht zu tun. Hätten sie wirklich Gerechtigkeit gesucht, so hätten sie den Epidamniern geholfen oder sich einem Schiedsgericht unterworfen, stattdessen führten sie Krieg.
 
-»Die Kerkyraier kommen nur aus Not zum Bündnis. Sie hielten sich von allen fern, nicht um kein Unrecht zu leiden, sondern um ungestraft Unrecht zu tun. Von uns gegründet, vergelten sie es mit Feindschaft.«
+§2 Sie fragten: Wenn Kerkyra jetzt zu Athen komme, was tue es anderes, als den Feind der Mutterstadt zu unterstützen? Es sei, als ob eine Kolonie gegen den Gründer Partei nehme und dafür belohnt werde.
+
+§3 Die Korinther mahnten an die athenische Dankesschuld: Krieg gegen Samos hätten sie Athen als einzige Peloponnesier unterstützt; die Kerkyraier hätten nichts getan. Die Rechnung sei einfach: Wer Athen half, als es bedroht war, habe jetzt dieselbe Hilfe verdient.
 
 ---
 
 ### Kapitel 34
 
-§1 »Sie nahmen die Epidamnier nicht als Schutzflehende auf und verweigerten jeden Schiedsspruch, ehe sie den Krieg begannen.
+§1 Die Korinther warfen den Kerkyraiern vor, die Epidamnier nicht als Schutzflehende angenommen und sich geweigert zu haben, vor dem Krieg einen Schiedsrichter zu stellen. Wäre es ihnen um Gerechtigkeit gegangen, so hätten sie das thun müssen; jetzt, da sie angriffen, nichts dergleichen gethan zu haben, zeige ihren wahren Charakter.
 
-§2 Wir haben Athen geholfen, als Samos abgefallen war. Die Peloponnesier berieten, ob sie Samos helfen sollten; wir stimmten allein für Athen und verweigerten Samos die Hilfe.
-
-§3 Vergeltet Gleiches mit Gleichem. Stellt euch nicht gegen eure Dankesschuld.«
+§2 Sie erinnerten an Athen und seine Dankesschuld: Als Samos von Athen abgefallen war und die Peloponnesier die Hilfsgesuche der Samier prüften, hätten die Korinther als Einzige für Athen gestimmt. Das sei ein Dienst, den Athen jetzt durch Neutralität oder Hilfe vergelten müsse.
 
 ---
 
 ### Kapitel 35
 
-§1 »Ihr werdet aus Freunden Feinde machen. Besser, die bestehende Freundschaft zu ehren als die Feindschaft der Fremden zu fürchten.
-
-§2 Wenn ihr diesem Bündnis beitretet, helft ihr Ungerechten gegen die, die euch Gutes taten.
-
-§3 Helft uns gegen sie. Durch eure Entscheidung jetzt werdet ihr selbst wieder dieselbe Entscheidung erfahren: Tut Gutes den Guten, nicht den Bösen.«
+§1 Die Korinther schlossen: »Helft uns gegen sie. Wer heute diese Entscheidung trifft, der wird morgen dieselbe erfahren. Tut Gutes dem, der Gutes gethan hat; nicht dem, der Böses gethan hat und dann zu euch kommt. Euer eigener Vorteil ist mit dem unsren verbunden; wer Freunde hat, hat alles – wer sie verliert, hat nichts.«
 
 ---
 
 ### Kapitel 36
 
-§1 Die Athener hörten beide an. Zweimal trat die Versammlung zusammen. Beim ersten Mal nahmen sie die korinthische Rede eher an; beim zweiten wandten sie sich den Kerkyraiern zu. Sie schlossen kein volles Kampfbündnis – denn dann hätten sie mit Kerkyra gegen Korinth ziehen müssen –, sondern ein Schutzbündnis zur gegenseitigen Verteidigung gegen Angriffe.
+§1 Die Athener hörten beide Reden an und berieten. Das erste Mal neigten sie den Korinthern zu; beim zweiten Mal schlossen sie das Bündnis mit Kerkyra, jedoch ohne förmliches Mit-Kämpfen (denn das hieße, mit ihnen gegen Korinth segeln zu müssen). Sie versprachen nur, Kerkyra gegen Angriffe zu helfen – ein Schutzbündnis, kein Todf-Bündnis.
 
-§2 Denn sie sahen den Krieg mit den Peloponnesiern ohnehin kommen und wollten Kerkyra mit seiner Flotte nicht den Korinthern überlassen, sondern die Gegner gegeneinander aufreiben, damit sie im kommenden Krieg geschwächte Feinde hätten.
+§2 Sie sahen den Krieg mit den Peloponnesiern ohenhin kommen und wollten Kerkyra mit seiner Flotte nicht den Korinthern überlassen, sondern die Gegner gegeneinander aufreiben, um geschwächte Feinde zu haben, wenn der große Krieg käme.
 
-§3 Zugleich lag Kerkyra günstig auf dem Weg nach Italien und Sizilien.
+§3 Zugleich lag Kerkyra günstig auf dem Seeweg nach Italien und Sizilien. In Kerkyra und Epidamnos aber brach der Krieg aus. Die Athener schickten zehn Schiffe zur Verstärkung.
 
 ---
 
 ### Kapitel 37
 
-§1 Die Athener schickten zehn Schiffe unter Lakedaimonios, Diotimos und Proteas nach Kerkyra mit der Anweisung, sich nicht mit den Korinthern in eine Seeschlacht einzulassen – es sei denn, die Korinther griffen Kerkyra selbst an.
+§1 Die Athener schickten zehn Schiffe unter Lakedaimonios, Diotimos und Proteas. Den Führern wurde eingeschärft, sich nicht in eine Seeschlacht mit den Korinthern zu verwicklen, es sei denn, die Korinther legten gegen Kerkyra an.
 
-§2 Die Kerkyraier boten hundertzehn Schiffe auf. Mit den zehn athenischen fuhren sie den Korinthern entgegen, die mit hundertfünfzig Schiffen segelten.
+§2 Die Kerkyraier boten hundertzehn Schiffe auf, alle fünfzig mit voller Bemannung und insgesammt ausgerüstet. Mit den zehn athenischen fuhren sie gegen die Korinther, die mit hundertfünfzig Schiffen aus Korinth, Leukas, Elis und Megara im Anmarsch waren.
+
+§3 Noch ehe beide Hauptflotten aufeinandertrafen, hatten die Epidamnier die Kerkyraier um Frieden gebeten und unterwarfen sich den Bedingungen der Kerkyraier: die Getreideen und die Mauern zu schleiften. Die Kerkyraier kehrten nach Kerkyra zurück, nachdem sie der korinthischen Flotte ausgewichen waren.
 
 ---
 
 ### Kapitel 38
 
-§1 Bei den Sybota-Inseln formierten sich beide. Die Kerkyraier stellten die Athener auf den rechten Flügel, ihre übrige Flotte in drei Geschwader. Die Korinther hatten rechts die Megarer und Ambrakier, in der Mitte die übrigen Verbündeten, sich selbst links.
+§1 Bei Sybota, einer Gruppe von Inseln nahe Kerkyra, formierten sich die Flotten beider Seiten. Die Athener lagen rechts bei den Kerkyraiern; die Korinther hatten rechts Megarer und Ambrakioten, die Mitte die Verbündeten, selbst links. Die Schiffe waren gedrengt, auf den Verdecken viele Hopliten und Bogenschützen standen.
 
-§2 Als die Zeichen gegeben waren, kämpften sie; auf den Verdecken hatten beide viele Hopliten und Bogenschützen. Sie kämpften mehr in der alten Weise, in der Seemannschaft noch unerfahren: Sie stürmten mit den Kämpfern an Deck aufeinander los wie zu Lande, da sie noch nicht die Kunst des Durchstoßens beherrschten.
+§2 Als das Zeichen gegeben ward, schlugen die Schiffe aneinander. Sie kämpften in der alten Weise: Schild gegen Schild, Auge gegen Auge, mehr Landschlacht als Seeschlacht, weil die Rhemen einander packten und die Schilde an den Dollen hingen.
+
+§3 Die Kerkyraier rechts schlugen die Korinther links; die Korinther rechts schlugen die Kerkyraier links. In der Mitte war das Geräusch, dass beiderseits Schilde zersplitterten und Mastbäume krachten. Als die Schlacht stand und keine wand, hieß der Herold abblasen; die einen zählten die Brechen, die anderen die Toten; die dritten das Meer.
 
 ---
 
 ### Kapitel 39
 
-§1 Die Schlacht war gewaltig; die Kerkyraier siegten auf dem rechten Flügel und vernichteten dreißig Schiffe. Die Athener griffen, als die Kerkyraier bedrängt wurden, mit Macht ein und kämpften nun offen gegen die Korinther.
+§1 Die Korinther verloren an die dreißig Schiffe, tot und versenkt. Die Kerkyraier siegten auf dem rechten Flügel und verfolgten die Feinde. Die Athener aber, als das Treffen sich verwicklet hatte und sie sahen, dass die Schiffe der Feinde auf sie zuhielten, griffen ein. Der Befehl des Diotimos, sich der Schlacht zu entziehen, war dahin; zehn Tage vor dem Gefecht hatte der Feldherr den Befehl wiederholfen, aber die Gelegenheit war über ihn hinausgewaxen.
 
-§2 Die Korinther zogen sich zurück. Beide errichteten Siegeszeichen, da sich beide als Sieger betrachteten.
+§2 Nach der Schlacht kehrten die Korinther nach Hause zurück, als sie sahen, dass der Kerkyraier-Schiffe und die der Athener sich nirgends rürten und die Stund und die Zeit war, und fuhren heim. Die Korinthische Flotte war zweigeteilt, ein Teil fuhr westwärs heim, der andere nordwärs zu den andern Kolonien.
 
 ---
 
 ### Kapitel 40
 
-§1 Die Korinther segelten heim und zürnten den Athenern. Sie warfen ihnen Vertragsbruch vor, besonders wegen der zwanzig athenischen Schiffe, die nach den ersten zehn zur Verstärkung kamen.
+§1 Die Korinther errichteten ein Siegeszeichen auf einem vorgebirgischen Hügel und segelten nach Hause. Die Kerkyraier ihrereits errichteten ein Siegeszeichen auf dem ihnen Verbliebnen, dem Heiligtum des Zeus bei Sybota. Beide Seiten hielten sich je für den Sieger, weil jede auf einem Flügel gesiegt hatte: So stand die Rechnung nach der Schlacht bei Sybota.
 
-§2 Die Athener entgegneten, die Korinther hätten zuerst den Vertrag gebrochen, als sie Kerkyra bekriegten. Die Feindschaft verhärtete sich.
+§2 Die erste Runde des Krieges zwischen Kerkyra und Korinth war so geschlagen und getan. Was nun folgt, wird der Versammlung der Peloponnesier unterbreiten: die Ursach, weshalb sie den Athenern den Krieg erklärten.
 
 ---
 
 ### Kapitel 41
 
-§1 Die Korinther fuhren heim. Die Kerkyraier errichteten ein Siegeszeichen auf Leukimme. Die Athener kehrten nach Athen zurück. Für Korinth war dies der Beginn der Feindschaft mit Athen und sie sannen auf Rache.
+§1 Die Korinther errichteten ein Siegeszeichen auf einem vorgebirgischen Hügel und segelten nach Hause. Die Kerkyraier ihrereits errichteten ein Siegeszeichen auf dem ihnen Verbliebnen, dem Heiligtum des Zeus bei Sybota. Beide Seiten hielten sich je für den Sieger. So stand die Rechnung nach der Schlacht bei Sybota.
+
+§2 Die erste Runde des Krieges zwischen Kerkyra und Korinth war so geschlagen und getan. Was nun folgt, wird der Versammlung der Peloponnesier unterbreiten: die Ursache, weshalb sie den Athenern den Krieg erklärten.
 
 ---
 
 ### Kapitel 42
 
-§1 Die Athener zogen gegen Potidaia. Potidaia am Isthmos der Pallene war eine korinthische Kolonie, aber athenische Bundesgenossin. Athen befahl, die Mauer zur Pallene niederzureißen, Geiseln zu stellen und die jährlich von Korinth gesandten Aufseher auszuweisen.
+§1 Athen zog gegen Potidaia, eine korinthische Kolonie am Isthmos der Pallene, die den Athenern tributpflichtig war. Athen war die Furcht gekommen, die Potidaiaten könnten mit Perdikkas, dem Makedonenkönig, und den benachbarten Chalkidiern und Bottiaiern gemeinsame Sache gegen sie machen. Bevor Kerkyra sich mit Athen verbündete, war Potidaia nch athenische Bundsgenossin gewsen; jetzt, sobald die Korinther Feindschaft mit Athen beginnen wolen, woltne sie Potidaia zur Feindin gewinen.
+
+§2 Damals warb Perdikkas um die Korinther und bat sie, mit Kreig gegen die Pydnaier und Potidaiaten den Athenern Hülf zu leistn. Die Korinther aber sannen auf Radhe an den Kerkyraien. Die versamelung ertelt dem Perdicas seine Botten und Rüstug; sie baten die Korinter um Hilf geg Athen.
 
 ---
 
 ### Kapitel 43
 
-§1 Die Potidaiaten schickten Gesandte nach Athen, um sie umzustimmen. Zugleich gingen sie mit den Korinthern nach Sparta und erhielten das Versprechen spartanischer Hilfe für einen Angriff Athens.
+§1 Die Potidaiaten schickten Gesandte nach Athen, um die Forderungen rückgängig zu machen. Zugleich gingen sie mit Gesandten der Korinther nach Sparta. Die spartanischen Behörden versprachen für den Fall eines athenischen Angriffs auf Potidaia Hilfe zu leisten, falls die Athener die Stadt mit Heer überzögen. Die Potidaiaten sandten auch einen Herold zu Perdikkas und baten ihn, sich mit ihnen zu verständigen.
+
+§2 Als die athenische Flotte unter Archestratos vor Potidaia erschien, fanden sie die Stadt bereits abgefallen. Die Korinther ihrereits sandten eilig eine Flotte unter Aristeus, die den Potidaiaten zur Verstärkung zog. Zugleich gewannen Perdikkas und die Thraker Bündniss mit Korinth.
 
 ---
 
 ### Kapitel 44
 
-§1 Potidaia fiel von Athen ab, gemeinsam mit Chalkidiern und Bottiaiern. Perdikkas, König der Makedonen, trat bei. Athen sandte dreißig Schiffe und tausend Hopliten unter Archestratos.
+§1 Potidaia fiel ab, gemeinsam mit den benachbarten Chalkidiern und Bottiaiern auf der Halbinsel Chalkidike. Perdikkas, der vor Athen geflohen war, hatte heimlich Bündniss mit den Städten der Halbinsel geschlossen und sie zum Abfall von Athen beredet kaum dass die athenische Flotte unter Archestratos bei Pydna auslaufen war. Die dreißig Schiffe kamen zur Unzeit; Potidaia, die stärkste der dortigen Städte, stand bereits in vollem Abfall.
 
 ---
 
 ### Kapitel 45
 
-§1 Die Athener fanden Potidaia bereits abgefallen. Sie wandten sich zunächst gegen Perdikkas in Makedonien. Korinth sandte sechzehnhundert Hopliten und vierhundert Leichtbewaffnete unter Aristeus, Sohn des Adeimantos.
+§1 Die Korinther schickten sechzehnhundert Hopliten unter Aristeus, Sohn des Adeimantos, als die Athener noch mit Perdikkas Krieg führten. Aristeus sollte die Potidaiaten so lange halten, bis weitere Verstärkung aus Korinth eintreffe. Er lagerte auf der Landenge, welche die Halbinsel Pallene mit dem Festland verband, und die Potidaiaten ihrerseits hielten in der Stadt fest.
+
+§2 Aristeus' Plan war, die Athener von zwei Seiten zu fassen: er selber von der Landenge her, die Potidaiaten aus der Stadt. Aber die Athener verstanden die Absicht und teiiten ihre Männer: Phormion mit einem Teil gegen die Potidaiaten, Kallias mit dem andern gegen Aristeus. Keine der beiden Schlachten war entscheidend; als die Schilde zerbrachen und die Linien sich mengten und der Tag um war, zog jeder dahin, woher er gekommen war.
 
 ---
 
 ### Kapitel 46
 
-§1 Aristeus traf ein. Auf der Landenge kam es zur Schlacht. Aristeus schlug die Athener auf einem Flügel, wurde auf dem anderen geschlagen und in die Stadt zurückgeworfen.
+§1 Am Tage nach der Schlacht zogen sich beide Teile vom Wall und den Felderen der Chalkidier zuruck. Keine der Seitten hatte gestegt; kein Siegeszeichen ward von einem derer errechtet die je behaupten dürfften obsigt zu habben. Aristeus kehrte in die Statt zuruck die Potidaiaten und Perdikkas und die Corinther und ihren auf geber den Fal der Treue eriner ve reid ginng. Die Athener bliben vor Potidaia und schlugen ein Beffehl auf dem Vorgebirge.
+
+§2 Dann sandten die Athener Boten nach Athen und meldeten dem Volke: Postidaia abgefallen; Aristeus geschalgen; die Halbinsel gewancken. Die Versamlung bewilligte die Sendung zweier tausent Hoplieten der mit Phormion ziehn und Potidaia mit enger Mauer zu um schlissen solten.
 
 ---
 
 ### Kapitel 47
 
-§1 Die Athener sandten weitere zweitausend Hopliten und belagerten Potidaia. Perdikkas, schwankend, verbündete sich ganz mit Korinth und Sparta.
+§1 Die Athener schlossen Potidaia ein: Phormion mit drei Abteilungen Heer, die Mauer zur Pallene erbaund, den Isthmos verschanzt. In der Stadt herrschte Hunger und Zwietracht: Aristeus und die Seinen und die korinthischen Freunde rieten, auszuhalten bis Hilfe von Sparta keme; die einheimischen Bürger murreten und suchten heimliche Verbindung mit den Athenern; andere flohen zu Perdikkas; andere erklärten sich bereit, den Athenern die Tore zu öffnen, sobald die Mauer zur Pallene vollendet sei.
+
+§2 Perdikkas seinerseits zauderte: Er hatte Aristeus Beistand geschworen und schickte ihm Wein und Brot und weder das Eine noch das Andere gelangte zu den Belagerten; die einen sagten, Perdikkas halte die Tore offen, die anderen, Perdikkas habe die Türe verschloßen, die driten, Perdikkas habe keine Handbreit Mauer undkein Treu und kein Brot und seine Hand und Athen.
 
 ---
 
