@@ -86,6 +86,16 @@ Zweitprüfung: work/en/review/batch04.md. Meldungen: 14 in 13 Abschnitten (1 Blo
 Redenzeichen: gemäß Beschluss entfernt; Prüfer bestätigt deren Fehlen im Lauftext.
 Alle Meldungen angenommen.
 
+### Kap. 41–50 (Batch 05) — 41 Abschnitte
+Zweitprüfung: work/en/review/batch05.md. Meldungen: 17 (3 Blocker, 14 Minor).
+- Blocker 1.42.1: Negationsskopus des μὴ νομίσῃ über den ganzen kontrastierenden Komplex hergestellt („only justice … and that …“).
+- Blocker 1.42.4: straggler schließendes Redezeichen entfernt (die Rede läuft bis 1.43.4).
+- Blocker 1.43.1: αὐτὸν τινὰ als Subjekt („each is to punish the allies that are its own“); das Echo von 1.40.5 (Abstimmung in Sparta beim Samischen Aufstand) wiedererkennbar, Vermerk umgeschrieben.
+- Ausgewählte Fixes: 1.41.1 (Ἕλληνες = Greeks; βλάπτω = hurt), 1.41.2 (παρὰ τὸ νικᾶν = in respect of victory), 1.42.2/1.42.4 (ἐπαρθέντας = elated; „already existing suspicion“), 1.43.3 (βίᾳ ἡμῶν = in despite of us), 1.45.2 (στρατηγοί = generals), 1.47.1 (encamped), 1.47.2 (Satzanfang), 1.48.3 (Attic ships), 1.49.1 (Partizip zu den Flotten), 1.49.2 (überlieferte Offenheit bewahrt), 1.49.7 (pressed harder; set to the work in earnest), 1.50.2 (Greeks), 1.50.4 (appaosition), 1.50.5 (Paian von den Korinthern).
+- Externes Audit vom 27.09.: 1.50.1 neu gefasst — εἷλκον ἀναδούμενοι = „take in tow and haul off“, σκάφη = die Schiffsrümpfe der gerade versenkten Schiffe; der überlieferte Text ist unverdächtig, die zuvor aufgenommene editorische Anmerkung zum „corrupt text“ war unbegründet und wurde entfernt.
+Offene unsichere Stellen aus dieser Portion: 1.46.2 πέμπτος αὐτός (dunkel, wörtlich belassen); 1.49.2 τῇ μὲν τέχνῃ οὐχ ὁμοίως (Doppeldeutigkeit bleibt stehen); 1.44.1 τῇ ἀλλήλων βοηθεῖν (harter Dativ, ergänzter Vergleich als Konstruktionshilfe markiert); 1.45.3 zweites Ziel des ἀποβαίνειν (beide Lesarten nahezu gleichweit, Offenheit bewahrt).
+Alle Meldungen angenommen.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
@@ -96,12 +106,16 @@ Alle Meldungen angenommen.
 - 1.24.4 ἀπὸ πολέμου τινός — Anknüpfung an die Zerstörung (Mehrheitslesart), Alternative dokumentiert.
 - 1.25.4→1.26.1, 1.26.5→1.27.1 — Anakoluthon an der Kapitelgrenze; typografischer Satzschluss, Konnektiv erhalten.
 - 1.31.3 τὸ αὐτῶν — auf die athenische Flotte bezogen (übliche Lesart), Alternative dokumentiert.
+- 1.42.2 Klammerkonstruktion läuft über die Abschnittsgrenze nach 1.42.3 — satzgetreu abgebildet.
+- 1.44.1 τῇ ἀλλήλων βοηθεῖν — harter Dativ; ergänzter Vergleich ausdrücklich als Konstruktionshilfe markiert.
+- 1.46.2 πέμπτος αὐτός — überliefert dunkel, wörtlich („himself the fifth“) belassen; Deutung offen.
+- 1.49.2 τῇ μὲν τέχνῃ οὐχ ὁμοίως — überliefert doppeldeutig; Offenheit bewahrt („in point of skill not the same“).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 154 in den Kapiteln 1–40 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 154 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 59 Fundstellen (3 Blocker, 56 Minor).
+- Übersetzte Abschnitte: 195 in den Kapiteln 1–50 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 195 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 76 Fundstellen (6 Blocker, 70 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
 - Nicht veröffentlicht, obwohl work in progress: Kapitel 51–60 sind Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 61–146 noch nicht begonnen.
