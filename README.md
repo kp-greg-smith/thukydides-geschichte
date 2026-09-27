@@ -56,7 +56,7 @@ This translation follows five strict rules, applied consistently:
 | δουλεία (*douleia*) | Knechtschaft | Abhängigkeit |
 | λόγος / ἔργον | Wort und Tat | Rede und Handlung |
 
-Translations are in [`de_translations/`](de_translations/).  No build step required.
+Translations are in [`de_translations/`](de_translations/).
 
 ## License
 

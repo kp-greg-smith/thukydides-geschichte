@@ -364,193 +364,305 @@
 
 ### Kapitel 31
 
-§1 Die Kerkyraier sprachen weiter: Athen habe die Wahl, die zweitgrößte Flotte Griechenlands zum Feind zu haben – wenn es sie abweise – oder zur Freundin – wenn es sie aufnehme. Sie fügten hinzu, der Krieg mit Sparta sei ohnehin unvermeidlich; es sei klug, ihn mit der kerkyraischen Flotte auf seiner Seite zu führen, statt gegen sie.
+§1 Das ganze Jahr nach der Seeschlacht und das folgende hindurch bauten die Korinther, in Zorn über den Krieg mit den Kerkyraiern, Schiffe und rüsteten eine möglichst große Flotte, indem sie Ruderer aus der Peloponnes selbst und aus dem übrigen Griechenland zusammenholten und mit Sold gewannen.
 
-§2 Zum ersten Mal, so sagten sie, biete eine griechische Macht Athen ein Bündnis an, ohne dass Athen darum gebeten habe. Sogar wenn Kerkyra geschwächt wäre, sei das Angebot wertvoll; jetzt, da es stark sei, sei die Gelegenheit unverpassbar.
+§2 Die Kerkyraier, die von ihrer Rüstung erfuhren, gerieten in Furcht — sie waren ja mit keinem der Griechen im Vertrag und hatten sich weder in die Verträge der Athener noch in die der Lakedaimonier eingeschrieben —; da beschlossen sie, nach Athen zu gehen und Bundesgenossen der Athener zu werden und zu versuchen, von ihnen irgendeinen Beistand zu finden.
 
-§3 Sie warnten: Wer eine Stadt abweise, die helfen wolle, helfe letztlich deren Feinden. Wer jetzt zaudere, müsse später mit doppelter Mühe kämpfen. Sie schlossen: Helft uns, und ihr werdet es nicht bereuen.
+§3 Die Korinther aber, als sie das erfuhren, kamen ihrerseits auch nach Athen als Gesandte, damit nicht mit der Flotte der Kerkyraier auch noch die ihre als Hindernis hinzukomme und sie den Krieg nicht führen könnten, wie sie wollten.
+
+§4 Als die Volksversammlung zustande gekommen war, traten beide zur Rede gegeneinander an, und die Kerkyraier sprachen Folgendes.
 
 ---
 
 ### Kapitel 32
 
-§1 Die Kerkyraier fügten hinzu, der dreißigjährige Vertrag verbiete Athen nicht, mit neutralen Städten ein Bündnis zu schließen. Das Delphische Orakel habe ihnen geraten, die Sache den Korinthern anzuvertrauen; das sei in Erfüllung gegangen, indem die Epidamnier ihre Stadt den Korinthern übergaben. Ein Schiedsgericht, wie die Korinther es jetzt verlangten, hätten sie stets abgelehnt.
+§1 »Es ist billig, ihr Athener, dass die, welche weder eine große Wohltat schulden noch durch ein Bündnis verbunden sind und zu anderen um Hilfe kommen — wie wir jetzt —, zuerst darlegen, dass sie am meisten nützen; wenn nicht, dass sie zumindest nicht schaden; und dann, dass sie den Dank sicher behalten werden. Wenn sie davon nichts Deutliches zustande bringen, sollen sie sich nicht zürnen, wenn sie abgewiesen werden.
 
-§2 Nicht mit Worten, sagten sie, solle Athen die Sache wägen, sondern mit Schiffen: Die kerkyraische Flotte, die zweitgrößte Griechenlands, stehe bereit. Drei griechische Flotten gebe es: die athenische, die kerkyraische und die korinthische. Wenn Kerkyra unterliege und Athen untätig bleibe, habe Sparta bald zwei Flotten, wo es jetzt eine habe.
+§2 Wir Kerkyraier haben uns, weil wir glauben, dass das Bündnis, um das wir bitten, euch sicheren Nutzen bringen wird, an euch gewandt.
 
-§3 Da Athen ohenhin Krieg mit Sparta vor sich sehe, sei es klug, Kerkyra nicht fallen zu lassen. Sie sei der Riegel zu Italiens und Siziliens; ihr Hafen beherrsche die Einfahrt ins Ionische Meer. Wer Kerkyra halte, halte den Weg nach Westen offen; wer es aufgebe, gebe ihn preis. Die Gelegenheit sei jetzt da; ein zweites Mal komme sie nicht.
+§3 Es hat sich dieselbe Haltung als euch gegenüber unnütz und uns im gegenwärtigen Augenblick schädlich erwiesen.
+
+§4 Wir sind nämlich früher als einzige freiwillig Bundesgenossen von niemandem geworden und sind jetzt die ersten, die andere um ein Bündnis bitten; und zugleich stehen wir im gegenwärtigen Krieg gegen Korinth allein. Was vorher als unsere Besonnenheit galt — mit fremder Bundesmeinung nicht mitzugefährden —, das erscheint jetzt als Torheit und Schwäche.
+
+§5 Die Seeschlacht, die stattgefunden hat, wiesen wir die Korinther allein ab. Als sie aber mit größerer Rüstung von der Peloponnes und dem übrigen Griechenland gegen uns ansetzten und wir unfähig sahen, mit der eigenen Macht allein zu obsiegen, und zugleich die große Gefahr bestand, dass wir unterlägen, da bestand Notwendigkeit, bei euch und jedem anderen Beistand zu suchen —«
 
 ---
 
 ### Kapitel 33
 
-§1 So sprachen die Kerkyraier. Die Korinther erwiderten, Kerkyra habe sich stets von allen Bündnissen ferngehalten, nicht um kein Unrecht zu erleiden, sondern um straflos Unrecht zu tun. Hätten sie wirklich Gerechtigkeit gesucht, so hätten sie den Epidamniern geholfen oder sich einem Schiedsgericht unterworfen, stattdessen führten sie Krieg.
+§1 »Lasst ihr euch überzeugen, so wird euch das Glück in vieler Hinsicht unserer Bedürftigkeit hold sein: erstens, weil ihr solchen beisteht, die Unrecht erleiden, und nicht solchen, die anderen schaden; dann, weil ihr die aufnehmt, die in der größten Gefahr stehen, und den Dank mit dem bleibendsten Zeugnis niederlegen werdet. Eine Flotte besitzen wir — nach der eurigen — die größte.
 
-§2 Sie fragten: Wenn Kerkyra jetzt zu Athen komme, was tue es anderes, als den Feind der Mutterstadt zu unterstützen? Es sei, als ob eine Kolonie gegen den Gründer Partei nehme und dafür belohnt werde.
+§2 Und bedenkt: Welches Gelingen ist seltener, welches für die Feinde verdrießlicher, als wenn die Macht, die ihr für vieles Geld und durch Gunst gewonnen hättet, wenn sie euch zukäme, jetzt ungerufen da ist — ohne Gefahr und ohne Kosten — und sich selbst darbietet; und dabei der Menge den Ruhm bringt, denen ihr beisteht den Dank, euch selbst aber Nutzen und Stärke zugleich?
 
-§3 Die Korinther mahnten an die athenische Dankesschuld: Krieg gegen Samos hätten sie Athen als einzige Peloponnesier unterstützt; die Kerkyraier hätten nichts getan. Die Rechnung sei einfach: Wer Athen half, als es bedroht war, habe jetzt dieselbe Hilfe verdient.
+§3 Den Krieg aber, durch den wir euch nützlich sein könnten — meint vielleicht einer von euch, er werde nicht kommen —, der verfehlt die richtige Einsicht und merkt nicht, dass die Lakedaimonier aus Furcht vor euch den Krieg beginnen werden und die Korinther, die bei ihnen die Macht haben und euch feind sind, uns jetzt vorwegnehmen, um mit dem eurigen Unterfangen das gemeinsame zu verhindern.
+
+§4 Es müsste vielmehr unser Werk sein, vorzukommen — von denen, die das Bündnis geben, und von euch, die es annehmen —, und ihnen eher vorher nachzustellen, als uns zu verteidigen.«
 
 ---
 
 ### Kapitel 34
 
-§1 Die Korinther warfen den Kerkyraiern vor, die Epidamnier nicht als Schutzflehende angenommen und sich geweigert zu haben, vor dem Krieg einen Schiedsrichter zu stellen. Wäre es ihnen um Gerechtigkeit gegangen, so hätten sie das thun müssen; jetzt, da sie angriffen, nichts dergleichen gethan zu haben, zeige ihren wahren Charakter.
+§1 »Werden sie aber sagen, es sei nicht recht, ihre eigene Kolonie aufzunehmen, dann wisset: Jede Kolonie ehrt die Mutterstadt, solange es ihr wohl ergeht; wird ihr aber Unrecht getan, so entfremdet sie sich. Denn die Kolonisten werden nicht ausgesandt, um Knechte zu sein, sondern um den Zurückgebliebenen gleich zu stehen.
 
-§2 Sie erinnerten an Athen und seine Dankesschuld: Als Samos von Athen abgefallen war und die Peloponnesier die Hilfsgesuche der Samier prüften, hätten die Korinther als Einzige für Athen gestimmt. Das sei ein Dienst, den Athen jetzt durch Neutralität oder Hilfe vergelten müsse.
+§2 Dass diese uns aber Unrecht getan haben, ist offenkundig: Zum Rechtsentscheid um Epidamnos herausgefordert, wollten sie die Streitfrage lieber mit Krieg als auf gleichem Weg verfolgen.
+
+§3 Und dies sei euch ein Beweis dessen, was sie gegen uns, ihre Verwandten, tun — damit ihr euch nicht durch List von ihnen verführen lasst und ihnen nicht geradeheraus zu Hilfe kommt, wenn sie euch in der Not anrufen. Denn wer am wenigsten Ursache hat, den Gegnern eine Wohltat zu bereuen, der wäre am sichersten.«
 
 ---
 
 ### Kapitel 35
 
-§1 Die Korinther schlossen: »Helft uns gegen sie. Wer heute diese Entscheidung trifft, der wird morgen dieselbe erfahren. Tut Gutes dem, der Gutes gethan hat; nicht dem, der Böses gethan hat und dann zu euch kommt. Euer eigener Vorteil ist mit dem unsren verbunden; wer Freunde hat, hat alles – wer sie verliert, hat nichts.«
+§1 Ihr werdet auch die Verträge der Lakedaimonier nicht auflösen, wenn ihr uns aufnehmt, die wir Bundesgenossen von keinem der beiden sind.
+
+§2 Es steht nämlich in ihnen geschrieben: Wenn eine griechische Stadt nirgends als Bundesgenossin steht, darf sie zu der Seite gehen, die ihr genehm ist.
+
+§3 Es wäre seltsam, wenn jene [die Korinther] die Schiffe von den Verbündeten [Spartas] voll machen dürfen – und auch von dem übrigen Griechenland, nicht am wenigsten von euren Untertanen –, uns aber von dem vorliegenden Bündnis und von jedem sonstigen Nutzen abhalten, und dann würden sie es als Unrecht ausgeben, wenn ihr euch zu dem bekennt, was wir erbitten.
+
+§4 Wir aber hätten einen weit größeren Vorwurf, wenn wir euch nicht überzeugen könnten: Ihr habt uns, die wir in Gefahr sind und nicht Feinde, abgewiesen; jene aber werdet ihr nicht einmal daran hindern, obwohl sie Feinde sind und gegen euch ziehen, sondern ihr werdet zusehen, wie sie von eurer Herrschaft Kraft gewinnen. Es wäre nicht recht, ihnen die Söldner aus eurem Gebiet zu verbieten oder uns den Nutzen zu senden, soweit ihr euch überzeugen lasst; am meisten aber, ihnen offen zu helfen.
+
+§5 Vieles aber, wie wir am Anfang andeuteten, weisen wir als nützlich nach, und das Größte ist dies: dass dieselben uns Feinde waren – was der deutlichste Beweis ist – und dass sie nicht schwach sind, sondern imstande, denen zu schaden, die überlaufen; und wenn das Bündnis ein Seebündnis und kein Landbündnis ist, ist der Verlust nicht derselbe. Am besten wäre: wenn ihr könnt, sonst niemanden Schiffe besitzen lassen; wenn nicht, den Stärksten zum Freund haben.
 
 ---
 
 ### Kapitel 36
 
-§1 Die Athener hörten beide Reden an und berieten. Das erste Mal neigten sie den Korinthern zu; beim zweiten Mal schlossen sie das Bündnis mit Kerkyra, jedoch ohne förmliches Mit-Kämpfen (denn das hieße, mit ihnen gegen Korinth segeln zu müssen). Sie versprachen nur, Kerkyra gegen Angriffe zu helfen – ein Schutzbündnis, kein Todf-Bündnis.
+§1 »Und wer meint, dieses sei zwar als nützlich dargelegt, fürchtet aber, durch die Überzeugung die Verträge zu lösen — der bedenke: Wer aus Furcht vor der Stärke der Gegner diese umso mehr fürchtet, wird umso furchtsamer werden; wer aber zuversichtlich darauf baut, dass die Feinde, weil sie ihn nicht aufgenommen haben, in ihrer Schwäche den starken Feinden gegenüberstehen, wird umso kühner handeln. Und zugleich berät er jetzt nicht so sehr über Kerkyra als über Athen selbst und sorgt nicht am besten für die Stadt, wenn er an das Zukünftige denkt.
 
-§2 Sie sahen den Krieg mit den Peloponnesiern ohenhin kommen und wollten Kerkyra mit seiner Flotte nicht den Korinthern überlassen, sondern die Gegner gegeneinander aufreiben, um geschwächte Feinde zu haben, wenn der große Krieg käme.
+§2 Die Insel liegt nämlich günstig auf der Durchfahrt nach Italien und Sizilien, sodass ihr weder von dorther den Peloponnesiern erlaubt, eine Flotte heranzuführen, noch von hier dorthin eine zur Unterstützung senden könnt; und für das Übrige ist sie am zuträglichsten.
 
-§3 Zugleich lag Kerkyra günstig auf dem Seeweg nach Italien und Sizilien. In Kerkyra und Epidamnos aber brach der Krieg aus. Die Athener schickten zehn Schiffe zur Verstärkung.
+§3 Und mit der geringsten Rechnung würdet ihr im Ganzen wie im Einzelnen erkennen, dass ihr uns nicht preisgeben dürft: Es gibt unter den Griechen drei Flotten, die der Rede wert sind — die eurige, die unsrige und die der Korinther. Lasst ihr zu, dass die zwei letzten in eins fallen, und die Korinther nehmen uns vorweg, dann müsst ihr gegen Kerkyraier und Peloponnesier zugleich Seeschlacht kämpfen; nehmt ihr uns aber auf, dann habt ihr mit unseren Schiffen in der Überzahl die Euern gegen sie zu kämpfen.«
+
+§4 So sprachen die Kerkyraier. Die Korinther aber nach ihnen Folgendes.
 
 ---
 
 ### Kapitel 37
 
-§1 Die Athener schickten zehn Schiffe unter Lakedaimonios, Diotimos und Proteas. Den Führern wurde eingeschärft, sich nicht in eine Seeschlacht mit den Korinthern zu verwicklen, es sei denn, die Korinther legten gegen Kerkyra an.
+§1 Es ist nur recht, dass ihr — da diese Kerkyraier nicht nur gekommen sind, um ihre Rede vortragen zu lassen, sondern weil wir Unrecht erleiden und sie ohne Grund bekriegt werden — zuerst auch uns über beides anhört und dann erst die Entscheidung trefft, damit ihr sicherer abschätzen könnt, was wir beanspruchen, und die Not dieser Leute nicht unüberlegt abweist.
 
-§2 Die Kerkyraier boten hundertzehn Schiffe auf, alle fünfzig mit voller Bemannung und insgesammt ausgerüstet. Mit den zehn athenischen fuhren sie gegen die Korinther, die mit hundertfünfzig Schiffen aus Korinth, Leukas, Elis und Megara im Anmarsch waren.
+§2 Sie sagen, sie hätten aus Besonnenheit noch nie ein Bündnis angenommen. Vielmehr haben sie es auf Übeltaten statt auf Tüchtigkeit angelegt: Sie wollten für ihre Übeltaten weder einen Bundesgenossen noch einen Zeugen haben, noch riefen sie irgendwen zur Scham an.
 
-§3 Noch ehe beide Hauptflotten aufeinandertrafen, hatten die Epidamnier die Kerkyraier um Frieden gebeten und unterwarfen sich den Bedingungen der Kerkyraier: die Getreideen und die Mauern zu schleiften. Die Kerkyraier kehrten nach Kerkyra zurück, nachdem sie der korinthischen Flotte ausgewichen waren.
+§3 Und ihre Stadt bietet ihnen, da sie eine völlig autarke Lage hat, die Gelegenheit, über die zu richten, denen sie schaden, statt nach Verträgen zu richten: Sie nehmen am meisten von den anderen Notleidende auf, weil sie am wenigsten selbst zu den anderen fahren.
+
+§4 Und diese gutklingende Vertragslosigkeit ist nicht eingerichtet, damit sie mit anderen nicht gemeinsam Unrecht tun, sondern damit sie allein Unrecht tun: Gewalt üben, wo sie überlegen sind, mehr behalten, wo sie unentdeckt bleiben, und wo sie irgend etwas hinzugewinnen, sich nicht schämen.
+
+§5 Wären sie aber, wie sie sagen, brave Männer, dann müsste — je unerreichbarer sie den anderen wären — sich ihnen umso offensichtlicher die Gelegenheit bieten, ihre Tüchtigkeit zu erweisen und das Rechte anzunehmen.
 
 ---
 
 ### Kapitel 38
 
-§1 Bei Sybota, einer Gruppe von Inseln nahe Kerkyra, formierten sich die Flotten beider Seiten. Die Athener lagen rechts bei den Kerkyraiern; die Korinther hatten rechts Megarer und Ambrakioten, die Mitte die Verbündeten, selbst links. Die Schiffe waren gedrengt, auf den Verdecken viele Hopliten und Bogenschützen standen.
+§1 Aber weder gegen die anderen noch gegen uns sind sie so. Als Kolonisten stehen sie uns dauernd fern und führen jetzt Krieg gegen uns, und zwar sagen sie, sie seien nicht deshalb ausgesandt worden, um schlecht behandelt zu werden.
 
-§2 Als das Zeichen gegeben ward, schlugen die Schiffe aneinander. Sie kämpften in der alten Weise: Schild gegen Schild, Auge gegen Auge, mehr Landschlacht als Seeschlacht, weil die Rhemen einander packten und die Schilde an den Dollen hingen.
+§2 Wir aber sagen: Auch wir haben sie nicht als Kolonie angelegt, um von ihnen misshandelt zu werden, sondern um Anführer zu sein und im rechten Maß Bewunderung zu finden.
 
-§3 Die Kerkyraier rechts schlugen die Korinther links; die Korinther rechts schlugen die Kerkyraier links. In der Mitte war das Geräusch, dass beiderseits Schilde zersplitterten und Mastbäume krachten. Als die Schlacht stand und keine wand, hieß der Herold abblasen; die einen zählten die Brechen, die anderen die Toten; die dritten das Meer.
+§3 Jedenfalls ehren uns die anderen Kolonien, und am meisten werden wir von den eigenen Kolonisten geliebt.
+
+§4 Es ist ja offenkundig: Wenn wir den meisten gefallen, kann es nicht recht sein, dass wir allein diesen missfallen. Auch ziehen wir nicht eindrucksvoll zu Felde, ohne dass wir auffällig im Unrecht behandelt würden.
+
+§5 Schön wäre es gewesen, dass diese — auch wenn wir im Unrecht wären — unserem Zorn nachgeben; uns aber wäre es schändlich, mit Gewalt die Mäßigkeit dieser Leute zu bezwingen.
+
+§6 Aus Übermut und durch die Macht ihres Reichtums haben sie vieles andere gegen uns verschuldet. Auch Epidamnos, das das unsere ist, behandeln sie nicht, als wäre es unseres; als wir zur Bestrafung kamen, nahmen sie es mit Gewalt in Besitz.
 
 ---
 
 ### Kapitel 39
 
-§1 Die Korinther verloren an die dreißig Schiffe, tot und versenkt. Die Kerkyraier siegten auf dem rechten Flügel und verfolgten die Feinde. Die Athener aber, als das Treffen sich verwicklet hatte und sie sahen, dass die Schiffe der Feinde auf sie zuhielten, griffen ein. Der Befehl des Diotimos, sich der Schlacht zu entziehen, war dahin; zehn Tage vor dem Gefecht hatte der Feldherr den Befehl wiederholfen, aber die Gelegenheit war über ihn hinausgewaxen.
+§1 Sie sagen, sie hätten zuerst durch einen Rechtsentscheid entschieden werden wollen. Der aber steht dem nicht an, der im Vorteil ist und aus der Sicherheit heraus herausfordert — als müsse er die Rede führen —; sondern dem, der für Gleices die Taten ebenso wie die Worte ansetzt, ehe er um den Sieg kämpft.
 
-§2 Nach der Schlacht kehrten die Korinther nach Hause zurück, als sie sahen, dass der Kerkyraier-Schiffe und die der Athener sich nirgends rürten und die Stund und die Zeit war, und fuhren heim. Die Korinthische Flotte war zweigeteilt, ein Teil fuhr westwärs heim, der andere nordwärs zu den andern Kolonien.
+§2 Diese aber boten das Rechtsmittel erst an, als sie meinten, wir würden nicht darauf eingehen — nicht bevor sie den Ort belagerten. Und jetzt kommen sie nicht nur her, weil sie selbst dort gefehlt haben, sondern verlangen von euch, nicht Bundesgenossen zu sein, sondern gemeinsam Unrecht zu tun, und als uns Zwietrachtige uns aufzunehmen.
+
+§3 Sie sollten, als sie am sichersten waren, damals herantreten — nicht erst jetzt, wo wir im Unrecht sind und sie in Gefahr; und nicht erst dann, wenn ihr von ihrer Macht damals keinen Nutzen hattet, jetzt aber den Schaden teilen werdet. Wer von alters her die Macht geteilt hat, soll auch das Ergebnis gemeinsam haben.
 
 ---
 
 ### Kapitel 40
 
-§1 Die Korinther errichteten ein Siegeszeichen auf einem vorgebirgischen Hügel und segelten nach Hause. Die Kerkyraier ihrereits errichteten ein Siegeszeichen auf dem ihnen Verbliebnen, dem Heiligtum des Zeus bei Sybota. Beide Seiten hielten sich je für den Sieger, weil jede auf einem Flügel gesiegt hatte: So stand die Rechnung nach der Schlacht bei Sybota.
+§1 Dass wir also mit zutreffenden Beschuldigungen kommen und diese gewalttätig und habgierig sind, ist dargelegt. Wie ihr sie aber nicht mit Recht aufnehmen dürft, müsst ihr bedenken.
 
-§2 Die erste Runde des Krieges zwischen Kerkyra und Korinth war so geschlagen und getan. Was nun folgt, wird der Versammlung der Peloponnesier unterbreiten: die Ursach, weshalb sie den Athenern den Krieg erklärten.
+§2 Wenn in den Verträgen bestimmt ist, dass jede der beitragsfreien Städte dorthin gehen darf, wohin sie will, dann gilt die Bestimmung nicht denen, die zum Schaden anderer in den Bund eintreten, sondern dem, der — ohne sich eines anderen zu berauben — der Sicherheit bedarf, und dem, der nicht denen, die ihn aufnehmen, wenn sie besonnen sind, Krieg statt Frieden machen wird. Letzteres widerfährt jetzt euch, wenn ihr nicht auf uns hört.
+
+§3 Denn ihr würdet nicht nur diesen Helfer sein, sondern uns an Stelle von Vertragspartnern Feinde: Denn notwendig müsst ihr, wenn ihr mit ihnen zieht, auch ohne uns diese abwehren.
+
+§4 Und dabei wäre es am gerechtesten, wenn ihr beiden fernbleibt; wenn nicht, dann das Gegenteil: gegen diese mit uns zu ziehen — Korinth gegenüber seid ihr vertraglich verbunden, Kerkyra gegenüber aber waret ihr nie einmal durch Waffenstillstand verbunden —, und das Gesetz nicht so aufzustellen, dass man die Überläufer der anderen aufnimmt.
+
+§5 Denn auch als die Samier abfielen, haben wir nicht gegen euch gestimmt — die anderen Peloponnesier stimmten dafür, ob man ihnen helfen solle; wir aber traten offen dagegen auf, die zugehörigen Bundesgenossen zu bestrafen.
+
+§6 Wenn ihr aber die, welche Unrecht tun, aufnehmt und bestraft, wird sich zeigen, dass auch das Unrecht der Eurigen nicht weniger gegen euch steht; und ihr werdet das Gesetz mehr gegen euch selbst richten als gegen uns.
 
 ---
 
 ### Kapitel 41
 
-§1 Die Korinther errichteten ein Siegeszeichen auf einem vorgebirgischen Hügel und segelten nach Hause. Die Kerkyraier ihrereits errichteten ein Siegeszeichen auf dem ihnen Verbliebnen, dem Heiligtum des Zeus bei Sybota. Beide Seiten hielten sich je für den Sieger. So stand die Rechnung nach der Schlacht bei Sybota.
+§1 Das sind unsere Rechtsansprüche an euch nach den Gesetzen der Griechen. Zur Ermahnung und zur Forderung nach Dank aber gilt: Da wir weder Feinde sind, sodass wir schaden, noch Freunde, sodass wir uns einmischen dürften, müssen wir im gegenwärtigen Fall das Gegengeschenk erhalten.
 
-§2 Die erste Runde des Krieges zwischen Kerkyra und Korinth war so geschlagen und getan. Was nun folgt, wird der Versammlung der Peloponnesier unterbreiten: die Ursache, weshalb sie den Athenern den Krieg erklärten.
+§2 Als euch nämlich einst zur Zeit der Perserkriege im Krieg gegen die Aigineten die langen Schiffe fehlten, habt ihr von den Korinthern zwanzig Schiffe erhalten. Und diese Wohltat — und die an den Samiern, dass durch uns die Peloponnesier ihnen nicht halfen — brachte euch die Oberherrschaft über die Aigineten und die Bestrafung der Samier. Und bei solchen Gelegenheiten pflegen die Menschen, wenn sie gegen die eigenen Feinde ziehen, ganz und gar nichts zu achten, um zu siegen.
+
+§3 Denn als Freund gilt ihnen, wer hilft, auch wenn er vorher Feind war; als Feind, wer Widerstand leistet, auch wenn er bisher Freund war. Was ihnen eigentlich zusteht, stellen sie um des unmittelbaren Vorteils willen zurück.
 
 ---
 
 ### Kapitel 42
 
-§1 Athen zog gegen Potidaia, eine korinthische Kolonie am Isthmos der Pallene, die den Athenern tributpflichtig war. Athen war die Furcht gekommen, die Potidaiaten könnten mit Perdikkas, dem Makedonenkönig, und den benachbarten Chalkidiern und Bottiaiern gemeinsame Sache gegen sie machen. Bevor Kerkyra sich mit Athen verbündete, war Potidaia nch athenische Bundsgenossin gewsen; jetzt, sobald die Korinther Feindschaft mit Athen beginnen wolen, woltne sie Potidaia zur Feindin gewinen.
+§1 Wenn ihr das bedenkt — und ein Jüngerer lerne es von einem Älteren —, so möge er verlangen, dass ihr denen beisteht, die euch gleichgesinnt sind. Und er soll nicht meinen: Das Gerechte werde zwar gesagt, das Nützliche aber, wenn es zum Krieg kommt, sei etwas anderes.
 
-§2 Damals warb Perdikkas um die Korinther und bat sie, mit Kreig gegen die Pydnaier und Potidaiaten den Athenern Hülf zu leistn. Die Korinther aber sannen auf Radhe an den Kerkyraien. Die versamelung ertelt dem Perdicas seine Botten und Rüstug; sie baten die Korinter um Hilf geg Athen.
+§2 Denn das Nützliche folgt am ehesten dem, wobei man am wenigsten fehlt. Und der kommende Krieg, mit dem euch die Kerkyraier einzuschüchtern suchen, liegt noch im Verborgenen. Es lohnt sich nicht, sich durch den offenen, schon bestehenden und nicht aufhörenden Groll gegen die Korinther einen noch nicht vorhandenen zu verschaffen. Vielmehr wäre es besonnener, den schon bestehenden — der wegen der Megarer noch in der Schwebe liegt — zu beheben. (Denn die letzte Wohltat, wenn sie zur rechten Zeit kommt,
+
+§3 kann, auch wenn sie geringer ist, eine größere Beschuldigung aufheben.)
+
+§4 Und lasst euch auch deshalb nicht von dem großen See-Bündnis verlocken. Das Nicht-Unrecht-Tun gegen die Gleichgesinnten ist eine stärkere Macht, als durch augenfällige Gefahren das meiste für sich zu bringen.
 
 ---
 
 ### Kapitel 43
 
-§1 Die Potidaiaten schickten Gesandte nach Athen, um die Forderungen rückgängig zu machen. Zugleich gingen sie mit Gesandten der Korinther nach Sparta. Die spartanischen Behörden versprachen für den Fall eines athenischen Angriffs auf Potidaia Hilfe zu leisten, falls die Athener die Stadt mit Heer überzögen. Die Potidaiaten sandten auch einen Herold zu Perdikkas und baten ihn, sich mit ihnen zu verständigen.
+§1 Wir aber sind in die Lage geraten, die wir in Sparta selbst voraussagten, man müsse die eigenen Bundesgenossen bestrafen können; jetzt fordern wir von euch dasselbe zurück. Und nicht soll durch unsere Abstimmung der Nutzen, durch die eurige uns der Schaden zustehen.
 
-§2 Als die athenische Flotte unter Archestratos vor Potidaia erschien, fanden sie die Stadt bereits abgefallen. Die Korinther ihrereits sandten eilig eine Flotte unter Aristeus, die den Potidaiaten zur Verstärkung zog. Zugleich gewannen Perdikkas und die Thraker Bündniss mit Korinth.
+§2 Gebt das Gleiche zurück, und erkennt: Dies ist die Gelegenheit, in der der Hilfreiche am meisten Freund ist und der Widerstehende Feind.
+
+§3 Und diese Kerkyraier nehmt nicht gegen unseren Willen als Bundesgenossen auf, und wehrt nicht denen, die Unrecht tun.
+
+§4 Wenn ihr dieses tut, werdet ihr das tun, was sich gehört, und das Beste für euch selbst beschließen.
 
 ---
 
 ### Kapitel 44
 
-§1 Potidaia fiel ab, gemeinsam mit den benachbarten Chalkidiern und Bottiaiern auf der Halbinsel Chalkidike. Perdikkas, der vor Athen geflohen war, hatte heimlich Bündniss mit den Städten der Halbinsel geschlossen und sie zum Abfall von Athen beredet kaum dass die athenische Flotte unter Archestratos bei Pydna auslaufen war. Die dreißig Schiffe kamen zur Unzeit; Potidaia, die stärkste der dortigen Städte, stand bereits in vollem Abfall.
+§1 So sprachen die Korinther. Die Athener aber hörten beide an; es kamen zwei Volksversammlungen zusammen. In der ersten nahmen sie die Worte der Korinther nicht weniger auf; in der zweiten aber änderten sie ihre Meinung. Sie machten mit den Kerkyraiern kein Bündnis, das dieselben Feinde und Freunde haben sollte — denn wenn die Kerkyraier verlangten, mit ihnen gegen Korinth zu segeln, wäre der Vertrag mit den Peloponnesiern gelöst worden —; sondern ein Schutzbündnis trafen sie: einander zu helfen, falls jemand gegen Kerkyra oder Athen oder deren Bundesgenossen zieht.
+
+§2 Der Krieg mit den Peloponnesiern schien ihnen nämlich auch so zu kommen. Sie wollten Kerkyra mit einer so großen Flotte nicht den Korinthern überlassen, sondern die beiden möglichst aufeinanderprallen lassen, damit sie — wenn es zum Krieg käme — mit geschwächten Gegnern zu tun hätten, mit Korinth und den anderen, die Schiffe besitzen.
+
+§3 Zugleich schien ihnen die Insel günstig auf der Durchfahrt nach Italien und Sizilien zu liegen.
 
 ---
 
 ### Kapitel 45
 
-§1 Die Korinther schickten sechzehnhundert Hopliten unter Aristeus, Sohn des Adeimantos, als die Athener noch mit Perdikkas Krieg führten. Aristeus sollte die Potidaiaten so lange halten, bis weitere Verstärkung aus Korinth eintreffe. Er lagerte auf der Landenge, welche die Halbinsel Pallene mit dem Festland verband, und die Potidaiaten ihrerseits hielten in der Stadt fest.
+§1 Mit dieser Meinung nahmen die Athener die Kerkyraier auf; und als die Korinther abgereist waren, sandten sie ihnen nicht viel später zehn Schiffe als Hilfe.
 
-§2 Aristeus' Plan war, die Athener von zwei Seiten zu fassen: er selber von der Landenge her, die Potidaiaten aus der Stadt. Aber die Athener verstanden die Absicht und teiiten ihre Männer: Phormion mit einem Teil gegen die Potidaiaten, Kallias mit dem andern gegen Aristeus. Keine der beiden Schlachten war entscheidend; als die Schilde zerbrachen und die Linien sich mengten und der Tag um war, zog jeder dahin, woher er gekommen war.
+§2 Es befehligten sie Lakedaimonios, Sohn des Kimon, und Diotimos, Sohn des Strobichos, und Proteas, Sohn des Epikles.
+
+§3 Sie sagten ihnen voraus, sie sollten den Korinthern keine Seeschlacht liefern, wenn diese nicht gegen Kerkyra segelten und im Begriff wären zu landen oder eines der zugehörigen Gebiete anzugreifen; so sollten sie sie nach Kräften hindern. Dies sagten sie voraus, damit die Verträge nicht gelöst würden.
 
 ---
 
 ### Kapitel 46
 
-§1 Am Tage nach der Schlacht zogen sich beide Teile vom Wall und den Felderen der Chalkidier zuruck. Keine der Seitten hatte gestegt; kein Siegeszeichen ward von einem derer errechtet die je behaupten dürfften obsigt zu habben. Aristeus kehrte in die Statt zuruck die Potidaiaten und Perdikkas und die Corinther und ihren auf geber den Fal der Treue eriner ve reid ginng. Die Athener bliben vor Potidaia und schlugen ein Beffehl auf dem Vorgebirge.
+§1 Die Schiffe kamen nach Kerkyra; die Korinther aber segelten, als ihre Rüstung bereit war, mit hundertundfünfzig Schiffen gegen Kerkyra. Es waren darunter zehn der Eleer, zwölf der Megarer, zehn der Leukadier, siebenundzwanzig der Ambrakioten und eins der Anaktorier; neunzig aber waren eigene korinthische.
 
-§2 Dann sandten die Athener Boten nach Athen und meldeten dem Volke: Postidaia abgefallen; Aristeus geschalgen; die Halbinsel gewancken. Die Versamlung bewilligte die Sendung zweier tausent Hoplieten der mit Phormion ziehn und Potidaia mit enger Mauer zu um schlissen solten.
+§2 Befehlshaber waren nach den Städten verschiedene; der korinthische Befehlshaber war Xenokleides, Sohn des Euthykles.
+
+§3 Als sie von Leukas aus segelnd der Küste Kerkyras nahe kamen, landeten sie in Cheimerion im Gebiet der Thesproter.
+
+§4 Es gibt dort einen Hafen, und eine Stadt liegt darüber landeinwärts, im Elaitis der Thesprotis: Ephyra. Der Acherusische See mündet dort ins Meer; durch die Thesprotis fließt der Fluss Acheron und mündet in ihn — daher hat er auch den Namen. Es fließt auch der Thyamis, der die Thesprotis und Kestrine scheidet; zwischen diesen Flüssen ragt das Vorgebirge heraus, an dem Cheimerion liegt.
+
+§5 Die Korinther ankerten also dort an der Küste und schlugen ein Lager.
 
 ---
 
 ### Kapitel 47
 
-§1 Die Athener schlossen Potidaia ein: Phormion mit drei Abteilungen Heer, die Mauer zur Pallene erbaund, den Isthmos verschanzt. In der Stadt herrschte Hunger und Zwietracht: Aristeus und die Seinen und die korinthischen Freunde rieten, auszuhalten bis Hilfe von Sparta keme; die einheimischen Bürger murreten und suchten heimliche Verbindung mit den Athenern; andere flohen zu Perdikkas; andere erklärten sich bereit, den Athenern die Tore zu öffnen, sobald die Mauer zur Pallene vollendet sei.
+§1 Die Kerkyraier, als sie die Korinther herannahen sahen, bemannten hundertundzehn Schiffe, unter denen Mikiades, Aisimides und Eurybatos das Kommando hatten, und lagerten sich auf einer der Inseln, die Sybota heißen; die zehn athenischen Schiffe waren auch da.
 
-§2 Perdikkas seinerseits zauderte: Er hatte Aristeus Beistand geschworen und schickte ihm Wein und Brot und weder das Eine noch das Andere gelangte zu den Belagerten; die einen sagten, Perdikkas halte die Tore offen, die anderen, Perdikkas habe die Türe verschloßen, die driten, Perdikkas habe keine Handbreit Mauer undkein Treu und kein Brot und seine Hand und Athen.
+§2 Auf Leukimme, dem Vorgebirge, stand ihr Fußvolk und tausend zapynthische Hopliten, die ihnen zu Hilfe gekommen waren.
+
+§3 Die Korinther hatten auf dem Festland viele Barbaren als Bundesgenossen; denn die Festlandbewohner dort waren ihnen stets freund.
 
 ---
 
 ### Kapitel 48
 
-§1 Die Korinther, die fürchteten, Potidaia könne fallen, drängten in Sparta zum Handeln. Sie luden die Bundesgenossen nach Sparta ein; die Lakedaimonier beriefen eine Versammlung.
+§1 Als die Korinther bereit waren, nahmen sie Verpflegung für drei Tage an Bord und stachen bei Nacht von Cheimerion aus in See, um die Seeschlacht zu suchen.
+
+§2 Und bei anbrechendem Tag sahen sie die Schiffe der Kerkyraier in Fahrt und auf sie zusegelnd.
+
+§3 Als sie einander sahen, stellten sie sich gegeneinander auf. Auf dem rechten Flügel der Kerkyraier standen die athenischen Schiffe; die übrigen hielten sie selbst, indem sie ihre Schiffe in drei Abteilungen teilten, deren jede einer der drei Befehlshaber führte.
+
+§4 So stellten sich die Kerkyraier auf. Die Korinther aber: das rechte Flügel hielten die megarischen und die ambrakiotischen Schiffe, in der Mitte die übrigen Bundesgenossen, jeder wie es sich traf; den linken Flügel hielten sie selbst mit den besten Schiffen, den Athenern und dem rechten Flügel der Kerkyraier gegenüber.
 
 ---
 
 ### Kapitel 49
 
-§1 Die Korinther sprachen: »Athener und Spartaner, ihr seid ungleich: Die Athener unternehmen, ihr zögert. Sie sind rasch, ihr langsam. Sie wagen, ihr bewahrt. Wer die Herrschaft hat, muss wachen; wer zögert, verliert.«
+§1 Als sie aufeinandergetroffen waren und auf beiden Seiten die Zeichen gegeben waren, lieferten sie sich die Seeschlacht, beide mit vielen Hopliten auf den Verdecken und vielen Bogenschützen und Schleuderern, noch in der alten Weise, mehr kunstlos ausgerüstet.
+
+§2 Und die Seeschlacht war heftig, in der Kunst nicht gleich, sondern mehr einer Landschlacht ähnlich.
+
+§3 Denn wenn sie einander angriffen, konnten sie sich wegen der Menge und des Gedränges der Schiffe nicht leicht voneinander lösen; vielmehr setzten sie ihr Vertrauen mehr auf die Hopliten auf dem Verdeck, die, während die Schiffe still lagen, im Stehen kämpften. Durchbruchsfahrten gab es nicht, sondern sie kämpften mehr mit Muteskraft und Stärke als mit Kunst.
+
+§4 Überall herrschte großer Lärm und Verwirrung in der Schlacht; die athenischen Schiffe aber, die den Kerkyraiern beistanden, wo sie bedrängt wurden, flößten den Gegnern Furcht ein, gingen aber nicht in den eigentlichen Kampf ein, weil die Befehlshaber die Weisung der Athener fürchteten.
+
+§5 Am meisten wurde der rechte Flügel der Korinther bedrängt: Denn die Kerkyraier wandten zwanzig Schiffe dieser Seite, verfolgten die Fliehenden zerstreut bis ans Land, segelten bis zum Lager der Feinde, gingen an Land, verbrannten die leeren Zelte und plünderten die Habe.
+
+§6 Hier also wurden die Korinther und ihre Bundesgenossen besiegt, und die Kerkyraier behaupteten das Feld; wo aber die Korinther selbst standen, am linken Flügel, siegten sie weithin, da von den zwanzig Schiffen der Kerkyraier wegen der kleineren Anzahl nach der Verfolgung keine zugegen waren.
+
+§7 Die Athener aber, als sie sahen, dass die Kerkyraier stärker bedrängt wurden, halfen jetzt ohne Vorwand: Zuerst hielten sie sich zurück, um niemanden anzugreifen; als aber die Flucht sich deutlich zeigte und die Korinther nachsetzten, da erst griffen alle in das Werk ein, und es wurde nicht mehr unterschieden, sondern es kam so weit, dass Korinther und Athener einander unmittelbar angriffen.
 
 ---
 
 ### Kapitel 50
 
-§1 Einige athenische Gesandte, zufällig wegen anderer Geschäfte in Sparta, baten, vor der Versammlung sprechen zu dürfen. Man ließ sie zu.
+§1 Als die Flucht begann, zogen die Korinther die Boote nicht herauf, um die gesunkenen Schiffe zu bergen, sondern wandten sich gegen die Leute, um sie zu töten — sie fuhren eher hindurch, als sie gefangen zu nehmen; auch ihre eigenen Freunde, weil sie nicht merkten, dass die auf dem rechten Flügel besiegt waren, töteten sie, ohne sie zu erkennen.
+
+§2 Da viele Schiffe beider Seiten sich auf weitem Meer befanden, als sie sich ineinander mischten, war die Entscheidung nicht leicht, wer überwunden hatte oder unterlegen war. Es war dies die größte Seeschlacht, die bis dahin Griechen gegen Griechen in der Zahl der Schiffe geliefert haben.
+
+§3 Als die Korinther die Kerkyraier bis ans Land verfolgt hatten, wandten sie sich den Wracks und ihren eigenen Toten zu; die meisten brachten sie nach Sybota ans Ufer, wo ihnen das Landheer der Barbaren Beistand geleistet hatte — Sybota ist ein menschenleerer Hafen der Thesprotis. Danach fuhren sie wieder versammelt gegen die Kerkyraier.
+
+§4 Diese aber — die seetüchtigen Schiffe und die übrigen zusammen mit den athenischen Schiffen — segelten ihnen entgegen, weil sie fürchteten, die Feinde könnten in ihr Land einfallen.
+
+§5 Es war schon spät, und der Paian war ihnen zum Angriff gesungen; die Korinther aber wandten sich plötzlich zur Umkehr, als sie zwanzig athenische Schiffe herankommen sahen — die Athen später als die zehn Helfer gesandt hatte, aus Furcht, es könnte — was dann geschah — die Kerkyraier unterliegen und die zehn eigenen Schiffe zu wenige zur Abwehr sein.
 
 ---
 
 ### Kapitel 51
 
-§1 Die Athener sprachen: »Wir haben die Herrschaft nicht geraubt, sondern angetragen bekommen. Wir haben für Griechenland das meiste getan; keiner soll uns das wegnehmen wollen. Herrschaft zu haben ist nicht ungerecht: Jeder strebt nach dem Vorteil; auch ihr handelt so, Spartaner.«
+§1 Als die Korinther diese sahen und argwöhnten, es seien mehr Schiffe aus Athen gekommen, als sie sahen, zogen sie sich zurück.
+
+§2 Die Kerkyraier sahen sie nicht — es war schon mehr in der Dunkelheit — und wunderten sich, dass die Korinther zurückruderten, bevor einige, die es sahen, meldeten, dass Schiffe herankämen. Da zogen auch sie sich zurück; es wurde schon Nacht, und die Korinther brachen den Kampf ab.
+
+§3 So wurde die Trennung voneinander, und die Seeschlacht endete in der Nacht.
+
+§4 Den Kerkyraiern, die auf Leukimme lagerten, kamen jene zwanzig Schiffe aus Athen — unter Glaukon, Sohn des Leagros, und Andokides, Sohn des Leogoros [Anm.: Dieser Name ist textkritisch unsicher.] — von den Toten und Wracks, die sie heranbrachten, und sie fuhren bald, nachdem sie gesehen worden waren, ins Lager.
+
+§5 Die Kerkyraier — es war Nacht — fürchteten, es seien Feinde; dann aber erkannten sie sie, und die Schiffe legten sich vor Anker.
 
 ---
 
 ### Kapitel 52
 
-§1 »In den Perserkriegen haben wir am meisten geleistet: Marathon, Salamis, Plataiai. Nach dem Rückzug Spartas übernahmen wir die Führung. Wir haben nichts Unmenschliches getan.«
+§1 Am nächsten Tag fuhren die dreißig athenischen Schiffe und die seetüchtigen der Kerkyraier zum Hafen bei Sybota, wo die Korinther ankerten, weil sie wissen wollten, ob diese die Seeschlacht liefern würden.
+
+§2 Die Korinther aber hoben die Schiffe vom Land, stellten sich in Reih und Glied auf und blieben still; sie hatten nicht die Absicht, den Kampf zu beginnen — vielmehr aus freien Stücken —, da sie viele plötzliche Schwierigkeiten vor sich sahen: neue Schiffe aus Athen, und ihnen selbst viel Unglücksfälle zugestoßen waren — die Bewachung der Gefangenen, die sie an Bord hielten, und die fehlende Ausbesserung der Schiffe an einem menschenleeren Ort.
+
+§3 Vielmehr spähten sie nach dem Weg nach Hause, woher sie gebracht würden, weil sie fürchteten, die Athener könnten die Verträge für gelöst halten, weil sie handgemein geworden waren, und sie nicht absegeln lassen.
 
 ---
 
 ### Kapitel 53
 
-§1 »Wir unterwarfen die Bundesgenossen nicht mit Gewalt; sie selbst kamen zu uns. Wer die Herrschaft antrug, muss ihren Schutz annehmen. Die Schwächeren müssen sich fügen; das ist Naturgesetz.«
+§1 Es schien den Korinthern richtig, Männer ohne Heroldsstab in einem Boot den Athenern entgegenzuschicken und eine Probe zu machen. Sie sandten sie hin und ließen ihnen sagen:
+
+§2 »Ihr tut unrecht, Athener, dass ihr Krieg beginnt und die Verträge löst. Uns nämlich, die wir unsere Feinde bestrafen, stellt ihr euch mit Waffen entgegen. Wenn ihr uns hindern wollt, gegen Kerkyra oder sonstwohin zu segeln, und die Verträge löst, dann nehmt uns diese Männer zuerst als Feinde gefangen.«
+
+§3 So sprachen die Korinther. Das Heerlager der Kerkyraier aber schrie, sobald es es hörte, sogleich, sie zu greifen und zu töten; die Athener aber antworteten so:
+
+§4 »Wir beginnen keinen Krieg, Peloponnesier, und wir lösen nicht die Verträge; sondern diesen Kerkyraiern, unseren Verbündeten, sind wir zu Hilfe gekommen. Wenn ihr nun anderswohin segeln wollt, hindern wir euch nicht; wenn ihr aber gegen Kerkyra oder eines seiner Gebiete segeln wollt, werden wir es nach Kräften verhindern.«
 
 ---
 
 ### Kapitel 54
 
-§1 Die Athener erinnerten an ihre Taten und schlossen: »Prüft, Spartaner, ob ihr wirklich Krieg wollt. Überlegt langsam; die Entscheidung ist groß.«
+§1 Als die Athener so geantwortet hatten, rüsteten die Korinther zur Heimfahrt und errichteten ein Siegeszeichen auf dem Festland bei Sybota. Die Kerkyraier aber bargen die Wracks und die Toten der Ihren, die in der Nacht von Strömung und Wind zerstreut worden waren; auch sie errichteten ein Siegeszeichen auf der Insel Sybota, als die Sieger.
+
+§2 Mit solcher Begründung maß jede Seite sich den Sieg bei: Die Korinther, weil sie bis zur Nacht in der Seeschlacht gesiegt hatten, sodass sie die meisten Wracks und Toten bargen, nicht weniger als tausend Gefangene hatten und ungefähr siebzig Schiffe versenkt hatten, errichteten ein Siegeszeichen; die Kerkyraier, weil sie dreißig Schiffe versenkt hatten und, als die Athener kamen, ihre eigenen Wracks und Toten bargen — und weil die Korinther am Vortag zurückgerudert waren, als sie die athenischen Schiffe sahen, und, als die Athener dann kamen, ihnen von Sybota aus nicht entgegensegelten — errichteten auch sie ein Siegeszeichen.
 
 ---
 
 ### Kapitel 55
 
-§1 Nach den Athenern sprach Archidamos, König der Lakedaimonier: »Wir sind nicht gerüstet. Verhandeln und rüsten wir zuerst! Überstürzt nichts. Athen ist mächtig zur See; wir brauchen Zeit und Geld.«
+§1 So maß jede Seite sich den Sieg bei. Die Korinther segelten heim und nahmen unterwegs Anaktorion, das an der Mündung des ambrakischen Golfs liegt, mit List — es war beiden gemeinsam —; sie setzten korinthische Ansiedler hinein und zogen heim. Achtundert der Kerkyraier, die Sklaven waren, verkauften sie, zweihundertfünfzig aber banden sie und hielten sie in großer Ehre, damit diese, falls sie heimkehrten, ihnen Kerkyra verschafften — diese waren zufällig die Mächtigsten der Stadt.
+
+§2 So wurde Kerkyra durch den Krieg mit Korinth besiegt, und die athenischen Schiffe fuhren heim. Das aber war für die Korinther der erste Grund zum Krieg gegen die Athener: dass sie, obwohl sie mit Athen im Vertrag standen, mit den Kerkyraiern Seeschlacht gekämpft hatten.
 
 ---
 
