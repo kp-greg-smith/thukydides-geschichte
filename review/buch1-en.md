@@ -147,6 +147,15 @@ Zweitprüfung: work/en/review/batch11.md. Meldungen: 7 in 7 Abschnitten (2 Block
 - Bestätigt: alle Zahlen exakt (dreihundert, siebzig, zweihundert, tausendfünfhundert+zehntausend, tausend/vierzehntausend, der zweiundsechzigste Tag, ungefähr zwölf Tage, hundert Geiseln, ein Jahr und sechs Monate, sechs Jahre, fünfzig Trieren); die Sonderprüfungen bestanden (crucified/impaled-Wahl dokumentiert; διάδοχοι = „in relief“; die 1.107.6-Ellipse exakt bewahrt; Αἰθαιῆς wie überliefert; λόγος = „ground“ ohne in-batch πρόφανσις-Kollision — die buchlange Überlappung gemeldet); Regel 6 vollkommen (die spartanische Geheimzusage bleibt des Erzählers Enthüllung an überlieferter Stelle; nichts befördert).
 Alle 7 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
 
+### Kap. 111–120 (Batch 12) — 35 Abschnitte
+Zweitprüfung: work/en/review/batch12.md. Meldungen: 6 in 6 Abschnitten (0 Blocker, 6 Minor).
+- ἡγεμών-Adjudikation (1.120.1): die „leaders“-Wiedergabe BESTÄTIGT — Bündnis-Präzedenz-Sinn (ἐξ ἴσου νέμοντας τὰ κοινὰ προσκοπεῖν), das commander-Slot bliebe militärisch falsch; die Regelung ins Dreisprachen-Glossar eingetragen (EN/UK/HE), die 1.114.2-Stelle bleibt korrekt „commander“.
+- Minorfixes: 1.114.2 (das ausgefallene τὸ πλέον wieder da: „for the most part advancing no farther“), 1.118.2 („their own alliance“ für τῆς ξυμμαχίας αὐτῶν; der fällige ἀρχή-Zeitsinn-Vermerk ergänzt), 1.120.2 (μὴ ἐν πόρῳ nach der starken Lesart „away from the sea“ — a-fortiori-Rhetorik; beide Konstrualen im Vermerk; πρόοιντο = „should be lost“ statt Eigendefektion; Vermerks-Inventar an den Druck angeglichen), 1.120.4 (Scheinobjekt „to it“ getilgt — die Objekt-Offenheit absolut wie überliefert), 1.120.5 (ὁμοῖα = „in equal measure“ wieder da — der Gnomos nicht mehr überdehnt), 1.112.5 (Δελφοῖς-Namensvermerk nachgetragen — Cleombrotus-Präzedenz).
+- Vermerks-Pflege: 1.116.1-δεκάτου-Regelung angehängt (Datum bleibt gedruckt mit der BESTANDENEN Regel-4-Notiz; keine Konjektur); 1.114.2 um τὸ πλέον und die Appositiv-Offenheit (Pausanias/Pleistoanax) symmetrisch erweitert.
+- Zahlen-Audit komplett: Tragia = SIEBZIG (kein „sechzig“), alle drei Vierzige athenisch, zwanzig samische Transportschiffe, das ἀπὸ Μιλήτου-Doppelantezedens ehrlich offen, der neunte Monat exakt; die vorsichtig getippten Prüffiguren des Koordinators wurden widerlegt und verworfen.
+- Bestätigt: alle 27 Vermerks-Griechisch-Zitate byte-exakt (kein πειχομαχεῖν-Fall); das Salamis-Homonym ohne Notiz wie verordnet; die Oeniadae-Crux beidseitig offen; die Korintherrede ab 1.120 ihre, unmarkiert, offen über die Batch-Grenze; Regel 6 überall (Milesier-Klage, Pissuthnes als Erzählerbericht, Pericles viermal attestiert).
+Alle 6 Meldungen angenommen (alle mit Text- oder Vermerkseingriff).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
@@ -164,10 +173,10 @@ Alle 7 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 437 in den Kapiteln 1–110 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 437 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 125 Fundstellen (13 Blocker, 112 Minor).
+- Übersetzte Abschnitte: 472 in den Kapiteln 1–120 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 472 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 131 Fundstellen (13 Blocker, 118 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 111–120: Übersetzung im Gang; Kapitel 121–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 121–130: Übersetzung im Gang; Kapitel 131–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
