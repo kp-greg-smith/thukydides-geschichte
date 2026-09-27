@@ -4,7 +4,7 @@
 
 ### Übersetzungsgrundsätze
 
-1. **Einheitliche Schlüsselbegriffe** im ganzen Werk: πρόφασις (wahrer Grund), αἰτία (Vorwurf), στάσις (Bürgerkrieg), δύναμις (Macht), παρασκευή (Rüstung), δουλεία (Knechtschaft), λόγος/ἔργον (Wort und Tat).
+1. **Einheitliche Schlüsselbegriffe** im ganzen Werk: πρόφασις (Grund; nur in 1.23.6 mit ἀληθεστάτη: wahrster Grund), αἰτία (Vorwurf), ἔγκλημα (Beschuldigung), στάσις (Bürgerkrieg), δύναμις (Macht), παρασκευή (Rüstung), δουλεία (Knechtschaft), λόγος/ἔργον (Wort und Tat).
 2. **Nichts hinzugefügt, nichts gesteigert.** Jede Ausschmückung, jede Redewendung, die nicht im Griechischen steht, entfällt.
 3. **Nicht abschwächen.** Wo Thukydides hart formuliert, bleibt es hart (δουλεία = Knechtschaft).
 4. **Anmerkungen nur bei echten Zweifeln.** [Anm.: …] markiert textkritisch unsichere Stellen.
@@ -302,7 +302,7 @@
 
 ### Kapitel 26
 
-§1 Weil die Korinther also über all dies Beschwerden hatten, schickten sie die Hilfe gern nach Epidamnos: Sie forderten jeden, der wollte, auf, als Siedler mitzugehen, und schickten Besatzungstruppen aus Ambrakioten, Leukadiern und eigenen Leuten.
+§1 Weil die Korinther also über all dies Beschuldigungen hatten, schickten sie die Hilfe gern nach Epidamnos: Sie forderten jeden, der wollte, auf, als Siedler mitzugehen, und schickten Besatzungstruppen aus Ambrakioten, Leukadiern und eigenen Leuten.
 
 §2 Diese zogen zu Lande nach Apollonia, einer Kolonie der Korinther, aus Furcht, die Kerkyraier könnten sie hindern, wenn sie übers Meer setzten.
 
@@ -404,7 +404,7 @@
 
 §1 »Werden sie aber sagen, es sei nicht recht, ihre eigene Kolonie aufzunehmen, dann wisset: Jede Kolonie ehrt die Mutterstadt, solange es ihr wohl ergeht; wird ihr aber Unrecht getan, so entfremdet sie sich. Denn die Kolonisten werden nicht ausgesandt, um Knechte zu sein, sondern um den Zurückgebliebenen gleich zu stehen.
 
-§2 Dass diese uns aber Unrecht getan haben, ist offenkundig: Zum Rechtsentscheid um Epidamnos herausgefordert, wollten sie die Streitfrage lieber mit Krieg als auf gleichem Weg verfolgen.
+§2 Dass diese uns aber Unrecht getan haben, ist offenkundig: Zum Rechtsentscheid um Epidamnos herausgefordert, wollten sie die Beschuldigungen lieber mit Krieg als auf gleichem Wege verfolgen.
 
 §3 Und dies sei euch ein Beweis dessen, was sie gegen uns, ihre Verwandten, tun — damit ihr euch nicht durch List von ihnen verführen lasst und ihnen nicht geradeheraus zu Hilfe kommt, wenn sie euch in der Not anrufen. Denn wer am wenigsten Ursache hat, den Gegnern eine Wohltat zu bereuen, der wäre am sichersten.«
 
@@ -472,7 +472,7 @@
 
 §2 Diese aber boten das Rechtsmittel erst an, als sie meinten, wir würden nicht darauf eingehen — nicht bevor sie den Ort belagerten. Und jetzt kommen sie nicht nur her, weil sie selbst dort gefehlt haben, sondern verlangen von euch, nicht Bundesgenossen zu sein, sondern gemeinsam Unrecht zu tun, und als uns Zwietrachtige uns aufzunehmen.
 
-§3 Sie sollten, als sie am sichersten waren, damals herantreten — nicht erst jetzt, wo wir im Unrecht sind und sie in Gefahr; und nicht erst dann, wenn ihr von ihrer Macht damals keinen Nutzen hattet, jetzt aber den Schaden teilen werdet. Wer von alters her die Macht geteilt hat, soll auch das Ergebnis gemeinsam haben.
+§3 Sie sollten, als sie am sichersten waren, damals herantreten — nicht erst jetzt, wo wir im Unrecht sind und sie in Gefahr; und nicht erst dann, wenn ihr — damals ohne Anteil an ihrer Macht und ihrem Nutzen — jetzt den Nutzen teilen und, obwohl ihr an den Verfehlungen unbeteiligt seid, gleichermaßen den Vorwurf von uns tragen werdet; sondern wer von alters her die Macht geteilt hat, soll auch das Ergebnis gemeinsam haben.
 
 ---
 
@@ -662,7 +662,7 @@
 
 §1 So maß jede Seite sich den Sieg bei. Die Korinther segelten heim und nahmen unterwegs Anaktorion, das an der Mündung des ambrakischen Golfs liegt, mit List — es war beiden gemeinsam —; sie setzten korinthische Ansiedler hinein und zogen heim. Achtundert der Kerkyraier, die Sklaven waren, verkauften sie, zweihundertfünfzig aber banden sie und hielten sie in großer Ehre, damit diese, falls sie heimkehrten, ihnen Kerkyra verschafften — diese waren zufällig die Mächtigsten der Stadt.
 
-§2 So wurde Kerkyra durch den Krieg mit Korinth besiegt, und die athenischen Schiffe fuhren heim. Das aber war für die Korinther der erste Grund zum Krieg gegen die Athener: dass sie, obwohl sie mit Athen im Vertrag standen, mit den Kerkyraiern Seeschlacht gekämpft hatten.
+§2 So wurde Kerkyra durch den Krieg mit Korinth besiegt, und die athenischen Schiffe fuhren heim. Das aber wurde für die Korinther der erste Vorwurf zum Krieg gegen die Athener: dass sie, obwohl sie mit Athen im Vertrag standen, mit den Kerkyraiern Seeschlacht gekämpft hatten.
 
 ---
 
@@ -778,7 +778,7 @@
 
 ### Kapitel 66
 
-§1 Das waren die Beschuldigungen (aitíai), die den Athenern und Peloponnesiern vorher untereinander entstanden waren: den Korinthern, weil sie Potidaia, ihre eigene Kolonie, belagerten, in der Korinther und Peloponnesier eingeschlossen waren; den Athenern gegen die Peloponnesier, weil eine verbündete und tributpflichtige Stadt von ihnen abgefallen sei und weil sie, offen herbeigekommen, mit den Potidaiaten gegen sie kämpften. Der Krieg brach jedoch noch nicht offen aus, sondern es bestand noch Waffenstillstand; denn dies alles trieben die Korinther aus eigenem Antrieb.
+§1 Das waren die Vorwürfe (aitíai), die den Athenern und Peloponnesiern vorher untereinander entstanden waren: den Korinthern, weil sie Potidaia, ihre eigene Kolonie, belagerten, in der Korinther und Peloponnesier eingeschlossen waren; den Athenern gegen die Peloponnesier, weil eine verbündete und tributpflichtige Stadt von ihnen abgefallen sei und weil sie, offen herbeigekommen, mit den Potidaiaten gegen sie kämpften. Der Krieg brach jedoch noch nicht offen aus, sondern es bestand noch Waffenstillstand; denn dies alles trieben die Korinther aus eigenem Antrieb.
 
 ---
 
@@ -800,7 +800,7 @@
 
 §1 »Dass wir euch, ihr Lakedaimonier, das Misstrauen gegen eure eigene Verfassung und euren Umgang mit den anderen lehren müssen, wenn wir etwas sagen — daran seid ihr selbst schuld: Ihr habt Besonnenheit, aber mehr Unerfahrenheit in den Dingen nach außen gebraucht.
 
-§2 Oft nämlich, wenn wir im Voraus ankündigten, was wir von den Athenern zu leiden haben würden, habt ihr das jeweils Gelehrte nicht geprüft, sondern habt die Redenden eher verdächtigt, dass sie aus eigenem Nutzen reden. Und deshalb habt ihr nicht, bevor ihr leidet, sondern erst, als es zum Werk gekommen war, diese Bundesgenossen herbeigerufen — bei denen es uns nicht am wenigsten zusteht zu reden, da wir die größten Beschwerden führen: von den Athenern misshandelt, von euch aber vernachlässigt zu werden.
+§2 Oft nämlich, wenn wir im Voraus ankündigten, was wir von den Athenern zu leiden haben würden, habt ihr das jeweils Gelehrte nicht geprüft, sondern habt die Redenden eher verdächtigt, dass sie aus eigenem Nutzen reden. Und deshalb habt ihr nicht, bevor ihr leidet, sondern erst, als es zum Werk gekommen war, diese Bundesgenossen herbeigerufen — bei denen es uns nicht am wenigsten zusteht zu reden, da wir die größten Beschuldigungen haben: von den Athenern misshandelt, von euch aber vernachlässigt zu werden.
 
 §3 Und wenn sie als unsichtbar Ferne die Griechen unrecht behandelten, bedürfte es einer Belehrung der Unwissenden. Jetzt aber — wozu langer Rede? Ihr seht die Versklavten und die, die ihnen nachstellen — nicht am wenigsten unsere eigenen Bundesgenossen — und von langer Hand vorbereitet, ob sie einmal Krieg führen werden.
 
@@ -820,7 +820,7 @@
 
 §5 Und dabei hieß es doch, ihr wäret die sichersten — was die Rede mehr behauptete als die Tat bewies. Den Meder wissen wir selbst, wie er vom Ende der Erde eher gegen die Peloponnes kam, als dass euer würdiges Entgegentreten da war; jetzt aber seht ihr die Athener — nicht fern, wie jenen, sondern nahe — und zusehen zu; und statt selbst zu kommen und euch zu wehren, wollt ihr lieber abwarten, bis sie kommen, und gegen viel Stärkere kämpfend unterliegen, obwohl ihr wisst, dass der Barbar selbst an vielem zu Fall kam und dass wir gegen die Athener schon oft mehr durch ihre Fehler als durch eure Abwehr die Oberhand hatten.
 
-§6 Und niemand von euch soll meinen, dies werde mehr aus Feindschaft als aus Beschwerde gesagt. Beschwerde ist die Sache der Freunde, wenn sie gefehlt haben; Anklage die der Feinde, wenn sie Unrecht taten.«
+§6 Und niemand von euch soll meinen, dies werde mehr aus Feindschaft als aus Vorwurf gesagt. Vorwurf nämlich ist Sache von Freunden, wenn sie fehlen; Anklage Sache von Feinden, wenn sie Unrecht taten.«
 
 ---
 
@@ -916,7 +916,7 @@
 
 §1 »Ihr aber, ihr Lakedaimonier, habt die Städte in der Peloponnes auf das euch Nützliche eingerichtet und herrscht über sie. Und wenn ihr damals in der Führung geblieben wärt und euch durchgehend verhasst gemacht hättet wie wir, so wissen wir gut: Ihr wäret den Bundesgenossen nicht weniger lästig geworden und hättet entweder fest herrschen müssen oder selbst in Gefahr geraten.
 
-§2 So haben auch wir nichts Wunderbares getan und nichts gegen die menschliche Weise, wenn wir eine Herrschaft, die angetragen wurde, annahmen und sie nicht wieder losließen — besiegt von den drei stärksten Trieben: Ehre, Furcht und Nutzen. Und wir sind auch nicht die ersten, die solches tun, sondern es war von jeher so eingerichtet, dass der Schwächere vom Stärkeren gebändigt wird; und wir scheinen zugleich der Ehre wert und scheinen es euch, solange ihr das Nützliche dem Rechten voranstellt — was noch niemand, der dazu kam und die Macht hatte, beiseite gesetzt hat, weil er nicht mehr haben wollte.
+§2 So haben auch wir nichts Wunderbares getan und nichts gegen die menschliche Weise, wenn wir eine Herrschaft, die uns gegeben wurde, annahmen und sie nicht aufgaben, von den drei Größten besiegt: Ehre, Furcht und Nutzen. Auch sind wir nicht die Ersten, die solches unternahmen; vielmehr stand es von jeher fest, dass der Schwächere vom Stärkeren niedergehalten wird. Und wir hielten uns zugleich für würdig und schienen es auch euch — bis zu dem Punkt, wo ihr jetzt, eure Vorteile rechnend, das Argument des Rechts gebraucht; ein Argument, das noch keiner, der durch Zufall Macht erlangte und sich vornahm, etwas zu erwerben, ausgeschlagen hat, um nicht mehr zu haben.
 
 §3 Lob verdienen aber die, welche — der menschlichen Natur folgend — über andere herrschen, gerechter, als es ihrer vorhandenen Macht entspricht.
 
@@ -990,7 +990,7 @@
 
 ### Kapitel 82
 
-§1 »Nicht aber empfehle ich, unempfindlich zuzusehen, wie unsere Bundesgenossen geschädigt und Nachstellungen gegen uns geplant werden — sondern: die Waffe jetzt noch nicht zu ergreifen, sondern Gesandte zu schicken und Beschwerde zu führen; den Krieg weder allzu deutlich zeigend noch als ob wir alles dulden würden. Und dabei das Unsre für sie auszurüsten — durch Herbeiführung von Bundesgenossen, griechischen wie barbarischen —, woher immer wir eine Kraft an Schiffen oder Geld aufnehmen werden. Denn unverwerflich ist es, wenn die — wie wir — von den Athenern Bedrohten nicht nur Griechen, sondern auch Barbaren heranziehen.
+§1 »Nicht aber empfehle ich, unempfindlich zuzusehen, wie unsere Bundesgenossen geschädigt und Nachstellungen gegen uns geplant werden — sondern: die Waffe jetzt noch nicht zu ergreifen, sondern Gesandte zu schicken und Vorwürfe zu erheben; den Krieg weder allzu deutlich zeigend noch als ob wir alles dulden würden. Und dabei das Unsre für sie auszurüsten — durch Herbeiführung von Bundesgenossen, griechischen wie barbarischen —, woher immer wir eine Kraft an Schiffen oder Geld aufnehmen werden. Denn unverwerflich ist es, wenn die — wie wir — von den Athenern Bedrohten nicht nur Griechen, sondern auch Barbaren heranziehen.
 
 §2 Gehorchen sie uns, wenn wir Gesandte schicken, ist das das Beste. Wenn nicht, werden wir — wenn zwei oder drei Jahre vergangen sind, wenn es richtig scheint — besser gerüstet gegen sie losziehen.
 
@@ -998,9 +998,9 @@
 
 §4 Ihr sollt nämlich ihr Land nicht anders ansehen denn als ein Pfand — umso mehr, als es am besten bewacht ist: Sein soll man schonen, so weit es geht, und sie nicht, indem man sie bis zum Äußersten treibt, unzugänglicher machen.
 
-§5 Wenn wir nämlich — unvorbereitet wegen der Beschwerden der Bundesgenossen — schleunigst ihr Land verwüsten, dann seht zu, dass wir der Peloponnes nicht Schimpflicheres und Schwereres antun.
+§5 Wenn wir nämlich — unvorbereitet, von den Beschuldigungen der Bundesgenossen gedrängt — schleunigst ihr Land verwüsten, dann seht zu, dass wir der Peloponnes nicht Schimpflicheres und Schwereres antun.
 
-§6 Beschwerden nämlich können sowohl Städte als auch Einzelne beilegen; den Krieg aber, den man insgesamt unternommen hat um des Eigenen willen — und es steht nicht zu, zu wissen, wie er ausgehen wird —, den ist es nicht leicht, ehrenvoll einzustellen.«
+§6 Beschuldigungen nämlich können sowohl Städte als auch Einzelne beilegen; den Krieg aber, den man insgesamt unternommen hat um des Eigenen willen — und es steht nicht zu, zu wissen, wie er ausgehen wird —, den ist es nicht leicht, ehrenvoll einzustellen.«
 
 ---
 
@@ -1010,7 +1010,7 @@
 
 §2 Denn auch jene haben nicht weniger Bundesgenossen, die Geld beisteuern; und der Krieg entscheidet sich nicht am meisten durch die Waffen, sondern durch die Aufwendungen, durch die die Waffen nützen — zumal für Festlandbewohner gegen Seebewohner.
 
-§3 Wir wollen also zuerst die Mittel beschaffen und uns nicht durch die Worte der Bundesgenossen vorher aufreiben. Wir werden — wer immer am Ausgang die meiste Schuld tragen wird, beiden gegenüber — auch im Stillen am meisten über sie voraussehen.«
+§3 Wir wollen also zuerst die Mittel beschaffen und uns nicht durch die Worte der Bundesgenossen vorher emporheben lassen; wir aber — die wir vom Ausgang nach beiden Seiten den größeren Teil des Vorwurfs tragen werden — wollen in Ruhe etwas davon im Voraus bedenken.«
 
 ---
 
@@ -1196,7 +1196,7 @@
 
 ### Kapitel 99
 
-§1 Und andere Ursachen der Abfälle waren da; die größten aber waren die Tribute und die Schiffsaushebungen und das Fernbleiben vom Feldzug, wenn es einem widerfuhr. Denn die Athener verfuhren genau und waren lästig, den Ungeübten und Unwilligen die Notwendigkeiten aufdrängend.
+§1 Und andere Vorwürfe gab es für die Abfälle; die größten aber waren die Tribute und die Schiffsaushebungen und das Fernbleiben vom Feldzug, wenn es bei einem vorkam. Denn die Athener verfuhren genau und waren lästig, den Ungeübten und Unwilligen die Notwendigkeiten aufdrängend.
 
 §2 Und aus anderen Gründen herrschten die Athener nicht mehr gleich angenehm; und den Bundesgenossen, die nicht mehr von gleicher Stufe mitzogen, war es leicht, sich zum Abfall treiben zu lassen.
 
@@ -1233,6 +1233,7 @@
 §3 Und aus dieser Unternehmung wurde der erste offene Streit zwischen Lakedaimoniern und Athenern. Die Lakedaimonier nämlich, als der Ort mit Gewalt nicht genommen wurde, fürchteten die Verwegenheit der Athener und ihren Neuerungsgeist — und hielten sie zugleich für Fremdstämmige —, dass sie, wenn sie blieben, von den Ithome-Leuten überredet, Neuerungen unternehmen würden. Sie entließen also die Athener als einzige der Bundesgenossen, den Verdacht verbergend.
 
 §4 Die Athener aber erkannten, dass sie nicht zum Besseren entlassen wurden, sondern weil etwas Verdächtiges aufgekommen war. Und es schwer nehmend und es nicht für würdig haltend, dies von den Lakedaimoniern zu erleiden, lösten sie, sobald sie zurückgekehrt waren, das gegen den Meder geschlossene Bündnis mit ihnen und verbündeten sich mit deren Feinden, den Argivern, und zugleich mit den Thessalern. Denn mit beiden gingen sie dieselben Eide ein.
+
 ---
 
 ### Kapitel 103
@@ -1244,6 +1245,7 @@
 §3 Und sie zogen aus, Männer, Kinder und Frauen; und die Athener nahmen sie auf — schon den Hass gegen die Lakedaimonier hegend — und siedelten sie in Naupaktos an, das sie soeben den ozolischen Lokrern abgenommen hatten.
 
 §4 Und die Megarer traten den Athenern ins Bündnis bei, von den Lakedaimoniern abfallend, weil sie die Korinther mit Krieg über die Grenzen des Landes bedrängten. Und die Athener nahmen Megara und Pegai ein und bauten den Megarern die langen Mauern von der Stadt nach Nisaia und bewachten sie selbst. Und den Korinthern begann von da an der heftigste Hass gegen die Athener zuerst.
+
 ---
 
 ### Kapitel 104
@@ -1251,6 +1253,7 @@
 §1 Inaros aber, Sohn des Psammetichos, Lybier, König der Lybier an der Grenze Ägyptens, brach aus Mareia, der Stadt oberhalb von Pharos, ab: den größten Teil Ägyptens vom König Artaxerxes. Und als er selbst Herrscher geworden war, rief er die Athener herbei.
 
 §2 Die — es trug sich, dass sie mit zweihundert eigenen und bundesgenössischen Schiffen gegen Kypros zogen — kamen, Kypros verlassend, und fuhren von See in den Nil hinauf; und den Fluss beherrschend, kämpften sie gegen Memphis, zwei Drittel der Stadt, gegen das dritte Teil, das Weiße Mauer heißt. Darin saßen die Perser und Meder, die geflüchtet waren, und die Ägypter, die nicht abgefallen waren.
+
 ---
 
 ### Kapitel 105
@@ -1266,6 +1269,7 @@
 §5 Und eine Schlacht von gleichem Gewicht wurde den Korinthern geliefert; sie trennten sich voneinander, und beide glaubten, im Werk nicht unterlegen zu sein.
 
 §6 Und die Athener — sie waren doch eher überlegen — errichteten, als die Korinther abgezogen waren, ein Siegeszeichen. Die Korinther aber, von den Älteren in der Stadt gescholten, rüsteten sich und errichteten, nach etwa zwölf Tagen kommend, auch ihrerseits ein Siegeszeichen als Sieger. Und die Athener, aus Megara ausrückend, zerstörten denen, die das Zeichen errichteten, die Arbeit.
+
 ---
 
 ### Kapitel 106
@@ -1273,6 +1277,7 @@
 §1 Die Besiegten aber zogen sich zurück, und ein nicht geringer Teil von ihnen wurde abgedrängt, vom Weg abkommend, und stürzte in das Grundstück eines Privatmanns, das von einem großen Graben umgeben war, ohne Ausgang.
 
 §2 Und die Athener, es erkennend, sperrten es mit den Hopliten von vorn ab und stellten die Leichtbewaffneten im Kreis herum und erschlugen alle, die hineingegangen waren. Und das war ein großes Leid für die Korinther. Die Menge des Heeres aber zog sich heim.
+
 ---
 
 ### Kapitel 107
@@ -1290,6 +1295,7 @@
 §6 Und weil sie glaubten, in Verlegenheit zu sein, wo hindurchzuziehen, zogen sie gegen sie — auch in der Verdächtigung, es gelte die Demokratie zu beenden.
 
 §7 Und tausend thessalische Reiter kamen den Athenern gemäß dem Bündnis zu; diese traten im Werk zu den Lakedaimoniern über.
+
 ---
 
 ### Kapitel 108
@@ -1303,6 +1309,7 @@
 §4 Und die Aigineten kamen danach mit den Athenern überein, die Mauern niederzureißen und Schiffe zu übergeben und fortan Tribut zu zahlen.
 
 §5 Und die Athener fuhren unter Tolmides, Sohn des Tolmaios, um die Peloponnes und verbrannten das Schiffshaus der Lakedaimonier und nahmen Chalkis, eine Stadt der Korinther, und besiegten die Sikyonier in einer Landungsschlacht.
+
 ---
 
 ### Kapitel 109
@@ -1314,6 +1321,7 @@
 §3 Als ihm das nicht gelang und das Geld anders verbraucht wurde, wurde Megabazos mit dem übrigen Geld zurück nach Asien geschickt; und er sandte Megabysos, Sohn des Zopyros, einen Perser, mit einem großen Heer.
 
 §4 Der kam zu Lande, besiegte die Ägypter und Bundesgenossen in der Schlacht und trieb die Griechen aus Memphis und schloss sie schließlich auf der Insel Prosopitis ein und belagerte sie ein Jahr und sechs Monate, bis er den Kanal austrocknete, das Wasser woanders hinführte und die Schiffe auf das Trockene brachte und so die Insel zu Lande machte.
+
 ---
 
 ### Kapitel 110
@@ -1327,6 +1335,7 @@
 §4 Und aus Athen und dem übrigen Bund fuhren fünfzig Trieren als Nachschub nach Ägypten, die nichts von dem Geschehenen wussten, am Mendesischen Vorgebirge anlandend; und sie wurden von Land her mit Fußvolk und zur See von der phönikischen Flotte angegriffen, und die meisten Schiffe gingen zugrunde; die wenigen entkamen wieder.
 
 §5 So endete die große Unternehmung der Athener und der Bundesgenossen nach Ägypten.
+
 ---
 
 ### Kapitel 111
@@ -1336,6 +1345,7 @@
 §2 Danach nicht viel später stiegen tausend Athener auf die Schiffe in Pegai — sie hielten selbst Pegai — und fuhren unter Perikles, Sohn des Xanthippos, führend, gegen Sikyon, und landeten und besiegten die herankommenden Sikyonier in der Schlacht.
 
 §3 Und sofort nahmen sie Achaier auf und fuhren hinüber an Akarnanien vorbei nach Oiniadai und zogen dorthin und belagerten; sie nahmen es aber nicht, sondern kehrten heim.
+
 ---
 
 ### Kapitel 112
@@ -1349,6 +1359,7 @@
 §4 Als Kimon gestorben war und Hungersnot entstanden war, zogen sie von Kition weg; und an Salamis in Kypros vorbeifahrend, lieferten sie den Phöniziern und Kypriern und Kilikiern See- und Landschlacht zugleich; und in beiden siegend, zogen sie heim, und die Schiffe aus Ägypten kamen mit ihnen wieder.
 
 §5 Die Lakedaimonier aber führten danach den sogenannten Heiligen Krieg und gaben, obsiegend, das Heiligtum in Delphi den Delphern; später aber gewannen es die Athener, nachdem jene abgezogen waren, zurück und gaben es den Phokern.
+
 ---
 
 ### Kapitel 113
@@ -1360,6 +1371,7 @@
 §3 Und die Athener räumten ganz Böotien und schlossen Verträge, worauf sie die Männer zurückerhalten würden.
 
 §4 Und die geflüchteten Böoter kehrten zurück, und alle wurden wieder autonom.
+
 ---
 
 ### Kapitel 114
@@ -1369,6 +1381,7 @@
 §2 Und danach fielen die Peloponnesier in Attika ein und verwüsteten Eleusis und Thria, unter Pleistoanax, Sohn des Pausanias, König der Lakedaimonier, führend; und nicht weiter vorgehend, zogen sie heim.
 
 §3 Und die Athener gingen wieder nach Euböa hinüber, unter Perikles führend, und unterwarfen die ganze Insel; das Übrige ordneten sie durch Übereinkunft; Hestiaia aber vertrieben sie und besaßen selbst das Land.
+
 ---
 
 ### Kapitel 115
@@ -1382,6 +1395,7 @@
 §4 Von den Samiern aber waren einige, die es nicht aushielt: Sie flohen aufs Festland, verständigten sich mit den Mächtigsten in der Stadt und mit Pissuthnes, Sohn des Hystaspes, der damals Sardeis hielt; und Helfer sammelnd — siebenhundert — setzten sie bei Nacht nach Samos über.
 
 §5 Und zuerst standen sie gegen die Demokratie auf und beherrschten das meiste; dann die Geiseln aus Lemnon entführend, fielen sie ab; und die Wachen der Athener und die Amtsträger, die bei ihnen waren, lieferten sie dem Pissuthnes aus; und gegen Milet machten sie sich sofort bereit zu ziehen. Und mit ihnen fielen die meisten Byzantier ab.
+
 ---
 
 ### Kapitel 116
@@ -1391,6 +1405,7 @@
 §2 Später halfen ihnen aus Athen vierzig Schiffe und aus Chios und Lesbos fünfundzwanzig; und landend und zu Lande obsiegend, belagerten sie die Stadt mit drei Mauern und zugleich von See.
 
 §3 Und Perikles nahm sechzig Schiffe von den blockierenden und fuhr schleunigst gegen Kaunos und Karion — es war gemeldet worden, dass phönikische Schiffe gegen sie fuhren. Denn auch aus Samos waren fünf Schiffe unter Stesagoras und andere gegen die Phöniker gefahren.
+
 ---
 
 ### Kapitel 117
@@ -1400,33 +1415,37 @@
 §2 Als aber Perikles mit den Schiffen zurückkam, wurden sie eingeschlossen. Und später halfen aus Athen vierzig Schiffe unter Thukydides und Hagnon und Phormion, zwanzig unter Tlepolemos und Antikles; aus Chios und Lesbos dreißig.
 
 §3 Und eine kleine Seeschlacht lieferten die Samier; unfähig zu widerstehen, wurden sie im neunten Monat aus der Belagerung vertrieben und ergaben sich nach Übereinkunft: die Mauer niederreißend, Geiseln gebend, Schiffe übergebend und das verausgabte Geld festsetzend, in Raten zurückzuzahlen. Und auch die Byzantier ergaben sich, wie vorher untertan zu sein.
+
 ---
 
 ### Kapitel 118
 
 §1 Nach diesen Dingen — es geschah nicht viele Jahre später — das oben Genannte: die kerkyraischen und die potidäischen Händel und was als Grund des jetzigen Krieges feststand.
 
-§2 Und dies alles, was die Griechen gegeneinander und gegen den Barbaren taten, geschah in ungefähr fünfzig Jahren zwischen dem Rückzug des Xerxes und dem Anfang dieses Krieges. In diesen richteten die Athener die Herrschaft fester ein und gingen selbst auf die große Macht zu; die Lakedaimonier aber, es erkennend, hinderten nicht — außer für kurze Zeit —, und blieben die meiste Zeit still, weil sie auch vorzeiten nicht... [Anm.: Der griechische Text dieser Begründung ist lückenhaft überliefert.]
+§2 Und dies alles, was die Griechen gegeneinander und gegen den Barbaren taten, geschah in ungefähr fünfzig Jahren zwischen dem Rückzug des Xerxes und dem Anfang dieses Krieges. In dieser Zeit richteten die Athener die Herrschaft fester ein und gingen selbst auf große Macht voran; die Lakedaimonier aber merkten es und hinderten sie nicht — außer für kurze Zeit — und verhielten sich den größten Teil der Zeit still, da sie auch vorher nicht schnell waren, in Kriege zu gehen, wenn sie nicht gezwungen wurden, und zum Teil auch durch eigene Kriege gehindert waren — bis die Macht der Athener offenkundig emporwuchs und sie deren Bundesgenossenschaft antastete. Da hielten sie es nicht länger für erträglich, sondern es schien ihnen, mit allem Eifer angreifen und die Macht niederreißen zu müssen, wenn sie könnten, indem sie diesen Krieg auf sich nahmen.
 
-§3 Den Lakedaimoniern also war beschlossen, dass die Verträge gebrochen seien und die Athener Unrecht täten; und nach Delphi gesandt, fragten sie den Gott, ob es besser sei zu kämpfen. Und er antwortete ihnen, wie es heißt: Wenn sie mit ganzer Kraft kämpften, werde der Sieg ihnen sein; und er sagte, er selbst werde helfen, gerufen und ungerufen.
+§3 Den Lakedaimoniern selbst stand also fest, dass die Verträge gebrochen seien und die Athener Unrecht täten; sie sandten nach Delphi und fragten den Gott, ob es für sie besser sei zu kämpfen. Und er antwortete ihnen, wie es heißt: Wenn sie mit ganzer Kraft kämpften, werde der Sieg ihnen sein; und er selbst werde helfen, gerufen wie ungerufen.
+
 ---
 
 ### Kapitel 119
 
-§1 Und wieder riefen sie die Bundesgenossen auf und wollten die Abstimmung darüber herbeiführen, ob man Krieg führen solle. Und als die Gesandten aus dem Bund gekommen waren und die Versammlung zustande gekommen war, sagten die anderen, was sie wollten — die meisten klagten gegen die Athener und forderten den Krieg. Und die Korinther, zuvor die einzelnen Städte herbeigeholt habend, damit sie für den Krieg stimmten, traten zuletzt auf und sprachen Folgendermaßen.
+§1 Und wieder riefen sie die Bundesgenossen auf und wollten die Abstimmung darüber herbeiführen, ob man Krieg führen solle. Und als die Gesandten aus dem Bund gekommen waren und die Versammlung zustande gekommen war, sagten die anderen, was sie wollten — die meisten klagten gegen die Athener und forderten den Krieg. Und die Korinther — sie hatten zuvor jede Stadt einzeln für sich gebeten, für den Krieg zu stimmen, aus Furcht um Potidaia, es möchte vorher zugrunde gehen —, die auch damals anwesend waren und zuletzt auftraten, sprachen Folgendermaßen.
+
 ---
 
 ### Kapitel 120
 
 §1 »Die Lakedaimonier, ihr Bundesgenossen, werden wir nicht mehr beschuldigen: Sie haben selbst für den Krieg gestimmt und uns jetzt hierzu versammelt. Es ist nämlich für die Führer richtig, das Eigene gleichmäßig zu verteilen und sich um das Gemeinsame zu kümmern — wie sie auch in allem anderen vor allen ausgezeichnet sind.
 
-§2 Von uns aber bedürfen die, welche schon mit den Athenern verkehrt haben, keiner Lehre, sich vor ihnen zu hüten; die aber, die mehr im Binnenland und nicht an der Meerenge wohnen, sollen wissen: Wenn sie denen am Meer nicht beistehen, werden sie die Heranschaffung der Früchte schwieriger haben und den Zugang zu dem verlieren, was das Meer dem Festland gibt; und die, welche so reden, soll man nicht für schlechte Richter halten, weil sie nicht betroffen sind —
+§2 Von uns aber bedürfen die, welche schon mit den Athenern verkehrt haben, keiner Lehre, sich vor ihnen zu hüten; die aber, die mehr im Binnenland und nicht an der Meerenge wohnen, sollen wissen: Wenn sie denen am Meer nicht beistehen, werden sie die Heranschaffung der Früchte schwieriger haben und den Zugang zu dem verlieren, was das Meer dem Festland gibt; und die, welche so reden, soll man nicht für schlechte Richter halten, weil sie nicht betroffen sind — vielmehr sollen sie erwarten, dass, wenn sie die Leute unten preisgeben, das Unheil auch bis zu ihnen vordringen wird, und jetzt nicht weniger über sich selbst beraten.
 
-§3 deshalb sollen sie auch nicht zögern, den Krieg an die Stelle des Friedens zu setzen. Besonnene Männer ruhig zu halten, wenn man kein Unrecht erleidet — das eine; brave Männer aber, wenn man Unrecht erleidet, aus dem Frieden den Krieg zu machen und danach wieder gut übereinzukommen — das andere; und man soll sich weder im Kriegsglück überheben noch am stillen Frieden Gefallen finden, wenn man Unrecht leidet.
+§3 deshalb sollen sie auch nicht zögern, den Krieg an die Stelle des Friedens zu setzen. Besonnenen Männern kommt es zu, ruhig zu bleiben, wenn sie kein Unrecht erleiden; braven Männern aber, wenn sie Unrecht erleiden, aus dem Frieden in den Krieg zu gehen und, wenn es gut gelaufen ist, aus dem Krieg wieder zu einer Einigung zu kommen; und man soll sich weder vom Kriegsglück emporheben lassen noch, die Ruhe des Friedens genießend, Unrecht erleiden.
 
-§4 Denn der aus Gefälligkeit Zögernde wird am schnellsten des Angenehmen beraubt, um dessentwillen er zögert — wenn er stillhält; und der im Kriegsglück Übermaßende hat nicht bedacht, dass er sich auf unglaubwürdiger Verwegenheit erhebt.
+§4 Denn wer aus Genussliebe zögert, würde am schnellsten des Angenehmen an der Ruhe beraubt, um dessentwillen er zögert — wenn er stillhielte; und wer im Kriegsglück übermütig wird, hat nicht bedacht, dass er sich von einem trügerischen Wagemut emporheben lässt.
 
-§5 Vieles, schlecht beraten, ist den Gegnern, die es trafen, gut ausgegangen; und noch mehr, gut beraten scheinend, ist ins Gegenteil schimpflich umgeschlagen. Denn keiner bedenkt dasselbe in gleicher Weise, wie er es ausführt: In Sicherheit meinen wir es richtig, mit Furcht fehlt es uns im Werk.
+§5 Denn vieles, was schlecht beraten war, ist geglückt, weil die Gegner noch unverständiger waren; und noch mehr, was gut beraten schien, ist ins Gegenteil umgeschlagen und schimpflich geendet. Denn keiner denkt dabei Ähnliches, wie er es im Werk ausführt: In Sicherheit fassen wir unsere Meinungen, in Furcht aber bleiben wir im Werk zurück.
+
 ---
 
 ### Kapitel 121
@@ -1435,50 +1454,55 @@
 
 §2 Aus vielem ist es uns wahrscheinlich, die Oberhand zu behalten: Erstens, weil wir an Menge und Kriegserfahrung voranstehen; zweitens, weil wir alle gleichmäßig dem Befehl gehorchen;
 
-§3 Die Flotte aber, mit der sie stark sind, werden wir aus dem vorhandenen Besitztum eines jeden und aus dem Geld in Delphi und Olympia rüsten. Denn wenn wir es als Darlehen nehmen, können wir ihre eigenen Ruderer mit größerem Sold an uns ziehen: Die Macht der Athener ist mehr gepachtert als eigen; die unsrige aber würde das weniger erleiden, da sie mehr auf die Körper als auf das Geld gestützt ist.
+§3 Die Flotte aber, mit der sie stark sind, werden wir aus dem vorhandenen Besitztum eines jeden und aus dem Geld in Delphi und Olympia rüsten. Denn wenn wir es als Darlehen nehmen, können wir ihre fremden Ruderer mit größerem Sold abwerben: Die Macht der Athener ist mehr erkauft als eigen; die unsrige aber würde dies weniger erleiden, da sie mehr auf die Körper als auf das Geld gestützt ist.
 
 §4 Mit einem Sieg zur See werden sie voraussichtlich fallen; wenn sie aber widerstehen, werden auch wir in längerer Zeit die Seekunst lernen; und wenn wir das Können auf gleiche Stufe gebracht haben, werden wir ihnen an Verwegenheit überlegen sein. Denn das Gute, das wir von Natur haben, könnte ihnen durch Lehre nicht zuteilwerden; das aber, worin sie durch Können voranstehen, ist von uns durch Übung niederzuringen.
 
-§5 Das Geld aber, es zu haben, werden wir herschaffen. Und es wäre schrecklich, wenn deren Bundesgenossen, es bringend zu ihrer eigenen Versklavung, es nicht versagten — wir aber es nicht aufwendeten: wir, die wir die Feinde bestrafen und zugleich uns selbst retten! Und nicht sollen wir das Geld von ihnen wegnehmen lassen, um mit demselben Schaden zu erleiden.
+§5 Das Geld aber, um es zu haben, werden wir herbeischaffen. Oder wäre es nicht schrecklich: Deren Bundesgenossen tragen es zu ihrer eigenen Knechtschaft herbei und verweigern es nicht — wir aber sollten es nicht aufwenden, wir, die wir die Feinde bestrafen und zugleich uns selbst retten? Und auch dafür sollen wir es aufwenden, dass es uns nicht von ihnen weggenommen wird und wir durch eben dasselbe Schaden erleiden.
+
 ---
 
 ### Kapitel 122
 
-§1 Es gibt aber auch andere Wege des Krieges für uns — Abfall der Bundesgenossen, am meisten die Wegnahme der Einkünfte, mit denen sie stark sind, und Befestigungen im Land und anderes, was jetzt keiner voraussehen kann. Am wenigsten geht der Krieg nach abgesprochenen Regeln vor; vielmehr ersinnt er selbst das meiste gemäß dem, was jeweils begegnet. Und wer gut gefasst an ihn herangeht, ist der sicherere; wer aber zürnt...
+§1 Es gibt aber auch andere Wege des Krieges für uns — Abfall der Bundesgenossen, am meisten die Wegnahme der Einkünfte, mit denen sie stark sind, und Befestigungen im Land und anderes, was jetzt keiner voraussehen kann. Am wenigsten geht der Krieg nach abgesprochenen Regeln vor; vielmehr ersinnt er selbst das meiste gemäß dem, was jeweils begegnet. Und wer ihm mit ruhigem Sinn begegnet, ist der sicherere; wer aber zornig um ihn ist, strauchelt nicht weniger.
 
-§2 Und bedenkt auch: Wären die Streitigkeiten für jeden Grenzstreitigkeiten um Land, wäre es erträglich; jetzt aber sind die Athener Gegner von uns allen zusammen und jeder Stadt einzeln noch mächtiger — sodass, wenn wir uns nicht geschlossen und nach Völkern und jede Stadt mit einer Meinung wehren, sie uns, die wir getrennt sind, leicht unterwerfen werden.
+§2 Und bedenkt auch: Wären die Streitigkeiten für jeden von uns Grenzstreitigkeiten um Land mit einem ebenbürtigen Gegner, wäre es erträglich; jetzt aber sind die Athener gegen uns alle zusammen stark genug und gegen jede Stadt einzeln noch mächtiger — sodass sie uns, wenn wir uns nicht geschlossen, Volk für Volk und Stadt für Stadt mit einer Meinung, wehren, getrennt mühelos unterwerfen werden. Und die Niederlage — wenn es auch für jemanden schrecklich ist, es zu hören —, so soll er wissen: Sie bringt nichts anderes als offenbare Knechtschaft.
 
-§3 Es ist schimpflich, in Wort es auch nur zu zögern: dass die Peloponnes, so viele Städte, unter einer leidet. Entweder würden wir mit Recht leiden, oder wir würden es aus Feigheit ertragen und uns als schlechter erweisen als die Väter, die Griechenland befreiten — wir aber sichern es nicht einmal uns selbst, und lassen eine Stadt als Tyrannen über alle errichten, während wir fordern, die Einzelherrscher in einer Stadt zu stürzen.
+§3 Es ist schimpflich für die Peloponnes, darüber auch nur im Wort zu zögern: dass so viele Städte unter einer einzigen leiden. Dabei würden wir entweder mit Recht leiden oder es aus Feigheit ertragen und uns schlechter erweisen als die Väter, die Griechenland befreiten; wir aber sichern die Freiheit nicht einmal uns selbst und lassen eine Stadt als Tyrannin eingesetzt sein, während wir verlangen, die Einzelherrscher in einer Stadt zu stürzen.
 
-§4 Und wir wissen nicht, wie uns das von den drei größten Übeln befreit hat — Nichtzusammenwirken, Weichlichkeit, Sorglosigkeit. Denn ihr habt sie nicht gemieden und seid zu der schimpflichsten Verachtung gekommen, die am meisten schadete — die aus dem vielen Scheitern in Torheit umbenannt wurde.
+§4 Und wir wissen nicht, wie wir frei sein sollten von den drei größten Übeln: Unverstand, Weichlichkeit oder Sorglosigkeit. Denn ihr habt sie ja nicht gemieden und seid dann zu der Verachtung fortgeschritten, die am meisten geschadet hat und die, weil sie viele zu Fall bringt, in den entgegengesetzten Namen »Torheit« umbenannt wurde.
+
 ---
 
 ### Kapitel 123
 
-§1 Was also das Vergangene — wozu länger klagen, als jetzt nützt? Über das Zukünftige aber müsst ihr, den Gegenwärtigen helfend, Sorge tragen — von den Mühen die Tüchtigkeit zu erwerben ist euch väterlich — und die Gewohnheit nicht ändern, wenn ihr nämlich jetzt an Reichtum und Macht etwas voraushabt. Denn es ist nicht recht, dass man das in der Armut Erworbene durch den Überfluss verliert.
+§1 Was also das Vergangene — wozu länger klagen, als jetzt nützt? Über das Zukünftige aber müsst ihr, den Gegenwärtigen helfend, Sorge tragen — von den Mühen die Tüchtigkeit zu erwerben ist euch väterlich — und die Gewohnheit nicht ändern, wenn ihr nämlich jetzt an Reichtum und Macht etwas voraushabt. Denn es ist nicht recht, dass man das in der Armut Erworbene durch den Überfluss verliert. Sondern mit Zuversicht sollt ihr auf vielerlei Weise in den Krieg gehen: Der Gott hat es verkündet und verspricht selbst zu helfen; und das ganze übrige Griechenland wird mitkämpfen, teils aus Furcht, teils aus Nutzen.
 
 §2 Die Verträge werdet ihr nicht zuerst lösen — die löst, so meint es auch der Gott, der zum Krieg rät, als übertreten; denen aber, die Unrecht erleiden, eher helfen. Denn lösen nicht die sich Wehrenden, sondern die zuerst Angreifenden.
+
 ---
 
 ### Kapitel 124
 
-§1 Da euch also überall gut zu kämpfen möglich ist und wir gemeinsam das raten — wenn das Festeste das ist, dass Städten wie Einzelnen das Gleiche nützt —, zögert nicht, den Potidaiaten, Dorern, die von Ionern belagert werden, zu strafen — das war vorher umgekehrt —, und den übrigen die Freiheit zu verschaffen. Wartend ist es nicht mehr möglich...
+§1 Da euch also überall gut zu kämpfen möglich ist und wir gemeinsam das raten — wenn das Festeste das ist, dass Städten wie Einzelnen das Gleiche nützt —, zögert nicht, den Potidaiaten — Dorern, die von Ionern belagert werden — Vergeltung zu leisten — das war vorher umgekehrt — und für die übrigen die Freiheit zu erstreiten. Denn zuzusehen ist nicht mehr möglich, dass die einen schon geschädigt werden und die anderen — wenn man erst erkennt, dass wir zwar zusammengekommen sind, uns aber zu wehren nicht wagen — nicht viel später dasselbe erleiden.
 
 §2 Sondern weil ihr in die Notwendigkeit gekommen seid, ihr Bundesgenossen — und zugleich das Beste gesagt wird —, stimmt für den Krieg, ohne die unmittelbare Gefahr zu fürchten, sondern das Verlangen nach dem daraus in längerer Zeit entstehenden Frieden habend. Denn aus dem Krieg wird der Frieden fester bestätigt; aus dem Stillhalten aber ist es nicht gleichermaßen gefahrlos.
 
-§3 Und die in Griechenland festgesetzte Stadt als Tyrannen über alle errichtet achtend, lasst uns losziehen und beistehen: Damit wir selbst fortan ohne Gefahr wohnen und die jetzt versklavten Griechen befreien.« So sprachen die Korinther.
+§3 Und indem wir die in Griechenland eingesetzte Stadt als einen über alle gleichermaßen aufgestellten Tyrannen ansehen — der über die einen schon herrscht, über die anderen zu herrschen im Sinn hat —, lasst uns losziehen und beistehen: damit wir selbst fortan ohne Gefahr wohnen und die jetzt in Knechtschaft geratenen Griechen befreien.« So sprachen die Korinther.
+
 ---
 
 ### Kapitel 125
 
 §1 Die Lakedaimonier aber, als sie von allen die Meinung gehört hatten, brachten die Abstimmung über alle anwesenden Bundesgenossen herbei, der Reihe nach, der großen wie der kleinen Stadt. Und die Menge stimmte für den Krieg.
 
-§2 Da es ihnen aber, beschlossen, unmöglich war, unvorbereitet zu beginnen, schien es richtig, dass jeder das Seine beibringe und kein Zögern sei. Trotzdem verging, als sie das Notwendige aufstellten, nicht ein Jahr, sondern weniger, bevor sie in Attika einbrachen und den Krieg offen begannen.
+§2 Da es nun beschlossen war, sofort aber ein Angriff unmöglich war, weil sie unvorbereitet waren, schien es richtig, dass jeder das Dienliche herbeischaffe und kein Zögern sei. Trotzdem verging, als sie das Notwendige aufstellten, nicht ein Jahr, sondern weniger, bevor sie in Attika einbrachen und den Krieg offen begannen.
+
 ---
 
 ### Kapitel 126
 
-§1 Um diese Zeit wurden Gesandtschaften gegen die Athener geschickt, Beschwerden führend, damit für sie der größte Grund zum Krieg sei, falls sie nicht gehorchten.
+§1 Um diese Zeit wurden Gesandtschaften zu den Athenern geschickt, Beschuldigungen erhebend, damit für sie der größte Grund zum Krieg sei, falls sie in nichts gehorchten.
 
 §2 Und zuerst sandten die Lakedaimonier Gesandte und befahlen den Athenern, den Frevel der Göttin zu vertreiben. Der Frevel war folgender:
 
@@ -1488,7 +1512,7 @@
 
 §5 Und er nahm die Macht des Theagenes und überredete seine Freunde; und als die Olympischen Spiele in der Peloponnes kamen, besetzte er die Akropolis für die Tyrannis — weil er glaubte, die größte Festzeit des Zeus sei es und passe ihm selbst, der Olympiasieger war.
 
-§6 Ob in Attika oder sonstwo die größte Festzeit gefeiert wurde, merkte er nicht mehr, und das Orakel zeigte es nicht (denn auch die Athener haben die Diasia, die Festzeit des Zeus Meilichios, die größte außerhalb der Stadt, in der sie mit dem ganzen Volk viele nicht-heilige, sondern landestypische Opfer bringen) — und es für richtig erkennend, versuchte er das Werk.
+§6 Ob in Attika oder sonstwo die größte Festzeit gefeiert wurde, merkte er nicht mehr, und das Orakel zeigte es nicht (denn auch die Athener haben die Diasia, das größte Fest des Zeus Meilichios außerhalb der Stadt, bei dem sie mit dem ganzen Volk vieles opfern — nicht Opfertiere, sondern einheimische reine Opfergaben) — und es für richtig erkennend, versuchte er das Werk.
 
 §7 Die Athener aber, es merkend, rückten mit dem ganzen Volk aus den Feldern gegen sie und belagerten sie.
 
@@ -1498,87 +1522,96 @@
 
 §10 Kylon also und sein Bruder entflohen; die anderen aber, bedrängt — einige starben auch am Hunger —, setzten sich als Schutzbittende auf den Altar auf der Akropolis.
 
-§11 Und die von den Athenern mit der Wache Betrauten hoben sie auf — als sie sie im Heiligtum sterben sahen — mit dem Versprechen, ihnen nichts Böses zu tun, und führten sie weg und töteten sie; einige, die auf der Passage auf den Altären der hehren Götter saßen, verbrauchten sie dabei. Und von da wurden sie »die Unheiligen« und der Göttin »unheilbringend« genannt.
+§11 Und die von den Athenern mit der Wache Betrauten hoben sie auf — als sie sie im Heiligtum sterben sahen — mit dem Versprechen, ihnen nichts Böses zu tun, und führten sie weg und töteten sie; und einige, die im Gang bei den Altären der ehrwürdigen Göttinnen saßen, brachten sie um. Und von da wurden sie »die Unheiligen« und der Göttin »unheilbringend« genannt.
 
-§12 Also trieben die Athener diese Unheiligen aus; und es trieb auch Kleomenes, der Lakedaimonier, später — als Athener in Bürgerkrieg lagen — die Lebenden aus und hoben die Gebeine der Toten auf und warfen sie hinaus. Später kehrten sie zurück, und ihr Geschlecht ist noch in der Stadt.
+§12 Also trieben die Athener diese Unheiligen aus; und auch Kleomenes, der Lakedaimonier, trieb sie später aus, als die Athener in Bürgerkrieg lagen: Sie trieben die Lebenden aus, und die Gebeine der Toten hoben sie auf und warfen sie hinaus. Später kehrten sie zurück, und ihr Geschlecht ist noch in der Stadt.
+
 ---
 
 ### Kapitel 127
 
 §1 Diesen Frevel nun befahlen die Lakedaimonier den Athenern zu vertreiben — vorgebend, den Göttern zuerst zu Hilfe zu kommen, wissend aber, dass Perikles, Sohn des Xanthippos, mütterlicherseits zu diesem Geschlecht gehörte. Und sie meinten, wenn er vertrieben wäre, würde das Ihre bei den Athenern leichter gehen.
 
-§2 Nicht so viel aber erwarteten sie, dass er dies erleiden würde — als dass die Verleumdung gegen ihn in der Stadt wirken könnte, sodass durch sein Unglück der Krieg entstände.
+§2 Nicht so viel aber erwarteten sie, dass er dies erleiden würde — als dass die Verleumdung gegen ihn in der Stadt wirken könnte, sodass der Krieg zum Teil durch sein Unglück entstehen werde.
 
 §3 Denn er war der mächtigste Einzelne, führte die Politik, widersetzte sich allem Lakedaimonischen, ließ nicht nachgeben — sondern trieb die Athener in den Krieg.
+
 ---
 
 ### Kapitel 128
 
-§1 Die Athener aber befahlen ihrerseits den Lakedaimoniern, den Frevel von Tainaron zu vertreiben. Die Lakedaimonier nämlich hoben einmal die Schutzbittenden Heloten vom Heiligtum des Poseidon bei Tainaron auf und führten sie weg und töteten sie; deswegen glaubten sie, dass ihnen der große Erdbeben in Sparta geschah.
+§1 Die Athener aber befahlen ihrerseits den Lakedaimoniern, den Frevel von Tainaron zu vertreiben. Die Lakedaimonier nämlich hoben einmal die Schutzbittenden Heloten vom Heiligtum des Poseidon bei Tainaron auf und führten sie weg und töteten sie; deswegen glauben sie auch selbst, dass ihnen das große Erdbeben in Sparta geschah.
 
 §2 Und sie befahlen ihnen, den Frevel der Athena Chalkioikos zu vertreiben. Es geschah so:
 
-§3 Als Pausanias, der Lakedaimonier, zuerst von den Spartanern von der Herrschaft am Hellespont abberufen und gerichtet worden war, wurde er freigesprochen; aber er wurde nicht wieder öffentlich gesandt, sondern ging privat mit einer Triere ohne Lakedaimonier aus Hermion nach dem Hellespont — dem Wort nach für den griechischen Krieg, in Wahrheit für die eigene Sache.
+§3 Als Pausanias, der Lakedaimonier, zum ersten Mal von den Spartanern von der Herrschaft am Hellespont abberufen und von ihnen gerichtet worden war, wurde er freigesprochen, kein Unrecht getan zu haben; öffentlich aber wurde er nicht wieder ausgesandt, sondern er nahm selbst eine Triere aus Hermion und kam ohne Lakedaimonier an den Hellespont — dem Wort nach für den griechischen Krieg, in Wahrheit aber, um die Angelegenheiten mit dem König zu betreiben, wie er es schon früher versucht hatte, im Verlangen nach der Herrschaft über Griechenland.
 
 §4 Er tat zuerst dem König einen Gefallen und machte den Anfang der ganzen Unternehmung:
 
-§5 Denn Byzantion hatte er in der früheren Anwesenheit nach dem Rückzug von Kyrops genommen — es hielten es Meder und einige dem König Nahestehende und Verwandte, die dort gefangen genommen waren —; damals sandte er heimlich diese, die er gefangen hatte, dem König zu, ohne dass die anderen Bundesgenossen es wussten; mit dem Vorwand flohen sie von ihm.
+§5 Denn Byzantion hatte er bei seiner früheren Anwesenheit nach dem Rückzug von Kypros genommen — es hielten es Meder und einige Angehörige und Verwandte des Königs, die dort gefangen wurden —; diese nun, die er gefangen hatte, sandte er damals dem König zu, heimlich vor den übrigen Bundesgenossen; dem Wort nach waren sie ihm entflohen.
 
 §6 Er tat dies mit Gongylos aus Eretria, dem er Byzantion und die Gefangenen übertragen hatte. Und er sandte einen Brief mit Gongylos; es war hineingeschrieben — wie später gefunden wurde:
 
-§7 »Pausanias, der Führer Spartas, will dir diese gefangengenommenen gefallen senden und macht den Vorschlag — wenn es auch dir scheint —, deine Tochter zu heiraten und dir Sparta und das übrige Griechenland untertan zu machen. Ich glaube fähig zu sein, dies mit dir beratend zu tun. Wenn dir also etwas davon gefällt, sende einen vertrauenswürdigen Mann...«
+§7 »Pausanias, der Führer Spartas, sendet dir diese, die er mit dem Speer genommen hat, weil er dir einen Gefallen tun will; und ich fasse den Beschluss — wenn es auch dir recht ist —, deine Tochter zu heiraten und dir Sparta und das übrige Griechenland untertan zu machen. Ich glaube fähig zu sein, dies mit dir gemeinsam beratend zu vollbringen. Wenn dir also etwas davon gefällt, sende einen vertrauenswürdigen Mann ans Meer, durch den wir fortan die Verhandlungen führen werden.«
+
 ---
 
 ### Kapitel 129
 
-§1 So viel zeigte der Brief. Xerxes aber freute sich über den Brief und sandte Artabazos, Sohn des Pharnakes, ans Meer und befahl ihm, die Satrapie Daskyliitis zu übernehmen, nachdem er Megabates abgesetzt hatte, der vorher dort herrschte; und gegen Pausanias nach Byzantion legte er ihm einen Antwortbrief auf, ihn schleunigst zu übersenden.
+§1 So viel zeigte der Brief. Xerxes aber freute sich über den Brief und sandte Artabazos, Sohn des Pharnakes, ans Meer und befahl ihm, die Satrapie Daskyliitis zu übernehmen, nachdem er Megabates abgesetzt hatte, der vorher dort herrschte; und er gab ihm einen Antwortbrief für Pausanias nach Byzantion auf, ihn schleunigst hinüberzusenden und das Siegel vorzuzeigen; und wenn Pausanias ihm etwas über die Angelegenheiten des Königs auftrage, solle er es aufs beste und treueste ausführen.
 
 §2 Und er kam an und tat das übrige, wie gesagt war, und übersandte den Brief.
 
-§3 Es war hineingeschrieben: »So spricht der König Xerxes zu Pausanias: Der Männer, die du mir jenseits des Meeres aus Byzantion errettet hast, wird die Wohltat im Haus uns ein für allemal unverlöslich angeschrieben sein, und die Worte von dir gefallen mir. Weder Nacht noch Tag halte dich ab, irgendetwas der Versprochenen zu vollenden; weder Gold noch Silber...«
+§3 Es war hineingeschrieben: »So spricht der König Xerxes zu Pausanias: Für die Männer, die du mir jenseits des Meeres aus Byzantion gerettet hast, soll dir die Wohltat in unserem Haus für immer aufgeschrieben bleiben; und deine Worte gefallen mir. Weder Nacht noch Tag halte dich ab, etwas von dem, was du mir versprichst, nachzulassen zu vollbringen; und durch Aufwand von Gold und Silber sei es nicht gehindert noch durch die Menge eines Heeres, wo immer es nötig sein sollte beizustehen. Sondern mit Artabazos, einem tüchtigen Mann, den ich dir gesandt habe, handle zuversichtlich und ordne das Meine und das Deine so, wie es für uns beide am schönsten und besten sein wird.«
+
 ---
 
 ### Kapitel 130
 
-§1 Pausanias aber, die Briefe empfangend — da er auch vorher bei den Griechen in hoher Würde stand wegen der Führung bei Plataiai —, erhob sich damals noch viel mehr und konnte nicht mehr auf die eingeführte Weise leben; sondern in medische Kleidung gehüllt ging er aus Byzantion heraus, und wenn er durch Thrakien ging, begleiteten ihn medische und ägyptische Leibwache.
+§1 Pausanias aber, die Briefe empfangend — da er auch vorher bei den Griechen in hoher Würde stand wegen der Führung bei Plataiai —, erhob sich damals noch viel mehr und konnte nicht mehr auf die eingeführte Weise leben; sondern in medische Kleidung gehüllt ging er aus Byzantion heraus, und wenn er durch Thrakien zog, gaben ihm Meder und Ägyptier als Leibwache das Geleit; auch ließ er sich eine persische Tafel vorsetzen und konnte seinen Sinn nicht zurückhalten, sondern zeigte durch kleine Taten im Voraus, was er im Sinn künftig im Großen zu tun gedachte.
 
 §2 Und er machte sich unzugänglich und wandte seinen Zorn so hart gegen alle an, dass keiner sich ihm nähern konnte — deswegen ging der Bund am meisten zu den Athenern über.
+
 ---
 
 ### Kapitel 131
 
-§1 Und die Lakedaimonier, es zuerst aus diesem Grund merkend, riefen ihn zurück; und als er das zweite Mal mit dem hermionischen Schiff ohne ihren Befehl ausfuhr und solches zu tun schien, und aus Byzantion von den Athenern mit Gewalt aus der Belagerung vertrieben, kehrte er nicht nach Sparta zurück, sondern ließ sich in Kolonai in der Troas nieder.
+§1 Die Lakedaimonier aber merkten es und riefen ihn zuerst aus eben diesen Gründen zurück; und als er zum zweiten Mal mit dem hermionischen Schiff ohne ihren Befehl ausfuhr und dabei Solches zu tun schien und aus Byzantion von den Athenern mit Gewalt herausbelagert wurde, kehrte er nicht nach Sparta zurück, sondern ließ sich in Kolonai in der Troas nieder. Von dort wurde ihnen gemeldet, dass er mit den Barbaren verhandelte und seinen Aufenthalt nicht zum Guten nahm; da hielten sie nicht länger an sich, sondern die Ephoren sandten einen Herold mit einer Skytale und befahlen, er dürfe den Herold nicht verlassen; sonst kündigten ihm die Spartaner Krieg an.
 
 §2 Er aber, so wenig wie möglich verdächtig sein wollend — im Vertrauen, mit Geld die Verleumdung zu beheben —, kehrte das zweite Mal nach Sparta zurück. Und er kam zunächst durch die Ephoren in das Gefängnis (den Ephoren ist es möglich, dies gegen den König zu tun); dann aber, es ausgerichtet habend, ging er hinaus und stellte sich allen, die es wollten, zum Prozess.
+
 ---
 
 ### Kapitel 132
 
-§1 Und die Spartaner hatten kein offenkundiges Zeichen — weder die Feinde noch die ganze Stadt —, womit sie sicher gegen einen Mann vom königlichen Geschlecht, der noch gegenwärtig Ehre hatte (denn er war Vormund des Pleistarchos, Sohn des Leonidas, des noch jungen Königs),
+§1 Und die Spartaner hatten kein offenkundiges Zeichen — weder die Feinde noch die ganze Stadt —, womit sie sicher gegen einen Mann vom königlichen Geschlecht, der noch gegenwärtig Ehre hatte (denn er war, als Vetter, Vormund des Pleistarchos, des Sohnes des Leonidas, der König und noch jung war).
 
-§2 Viele Verdächtigungen aber gab er durch die Gesetzesübertretung und die Nachahmung der Barbaren — nicht gleich den Gegenwärtigen sein wollend; und sie untersuchten das übrige, ob er irgend etwas von den festgesetzten Gesetzen übertreten hatte — und dass er einmal auf den Dreifuß in Delphi, den die Griechen von den Medern als Zehnt weihten, eigenmächtig eine Inschrift anbringen wollte.
+§2 Viele Verdächtigungen aber bot er durch seine Gesetzlosigkeit und die Nachahmung der Barbaren — er wollte nicht den Anwesenden gleich sein; und sie prüften auch sein übriges Verhalten, ob er irgendwo gegen die geltenden Gesetze verstoßen habe, und dass er einst auf den Dreifuß in Delphi, den die Griechen aus der Beute der Meder als Erstlingsgabe geweiht hatten, eigenmächtig dieses Distichon zu schreiben begehrte: »Da der Hellenen Führer das Heer der Meder vernichtete, weihte Pausanias dem Phoibos dieses Denkmal.«
 
-§3 Das Distichon aber meißelten die Lakedaimonier sogleich damals vom Dreifuß aus und schrieben namentlich die Städten ein, die gemeinsam den Barbaren vertrieben und das Weihgeschenk aufgestellt hatten. Die Übertretung des Pausanias aber schien damals schon zu bestehen; und da er dabei verblieb, schien sie in der gegenwärtigen Zeit noch viel ähnlicher.
+§3 Das Distichon aber meißelten die Lakedaimonier sogleich damals vom Dreifuß ab und schrieben namentlich die Städte ein, die gemeinsam den Barbaren gestürzt und das Weihgeschenk aufgestellt hatten. Das Unrecht des Pausanias aber schien es auch damals schon zu sein; und da er sich nun in diesem Zustand befand, schien es weit eher in Ähnlichkeit mit seiner gegenwärtigen Gesinnung geschehen zu sein.
 
-§4 Und sie erfuhren, dass er auch den Heloten etwas versprach; und es war so: Er versprach ihnen Freiheit und Bürgerrecht, wenn sie gemeinsam aufständen und alles mit ihm durchsetzten.
+§4 Sie erfuhren auch, dass er bei den Heloten etwas betrieb; und es war so: Er versprach ihnen Freiheit und Bürgerrecht, wenn sie gemeinsam mit ihm aufständen und alles mit ihm durchsetzten.
 
-§5 Aber auch so vertrauten sie den Anzeigen einiger Heloten nicht und meinten, etwas Neues gegen ihn unternehmen zu müssen — auf die Weise, die sie gewohnt sind: gegen einen spartanischen Mann ohne unbestreitbare Beweise nichts Unwiderrufliches zu beschließen. Bis aber, wie es heißt, der Mann, der dem König die letzten Briefe bringen sollte...
+§5 Aber auch so vertrauten sie den Anzeigen einiger Heloten nicht und meinten, nichts Neues gegen ihn unternehmen zu dürfen — nach der Weise, die sie gegen sich selbst gewohnt sind: über einen spartanischen Mann ohne unanzweifelbare Indizien nichts Unwiderrufliches zu beschließen. Bis endlich, wie es heißt, der Mann, der dem König die letzten Briefe an Artabazos bringen sollte — ein Argilier, einst sein Geliebter und ihm höchst treu —, zum Anzeiger wurde: Er fürchtete nach einer Überlegung, dass noch keiner der Boten vor ihm zurückgekehrt sei, und zeichnete das Siegel nach — damit Pausanias nichts merke, falls er sich in seiner Vermutung täusche oder jener verlange, etwas umzuschreiben — und öffnet die Briefe. In ihnen fand er, da er vermutet hatte, es sei etwas Derartiges hinzugeschrieben, auch sich selbst eingeschrieben: dass man ihn töten solle.
+
 ---
 
 ### Kapitel 133
 
-§1 Damals also glaubten die Ephoren mehr, als einer von den Männern des Pausanias die Briefe zeigte; sie wollten aber noch es mit eigenen Ohren hören. Ein Mann ging — von ihnen vorbereitet — als Schutzbittender nach Tainaron und schlug eine doppelte Hütte mit einer Scheidewand auf, in der er einige der Ephoren verbarg; und als Pausanias zu ihm kam, um den Schutzbittenden zu besuchen, tadelte er dessen Verrat und legte die weiteren Schritte dar, ohne etwas von der bevorstehenden Ergreifung zu ahnen.
+§1 Damals glaubten die Ephoren ihm mehr, als er selbst die Briefe zeigte; sie wollten aber Pausanias noch selbst etwas sagen hören. Nach Verabredung ging der Mann als Schutzbittender nach Tainaron und schlug eine doppelte Hütte mit einer Scheidewand auf, in deren Innerem er einige der Ephoren verbarg. Und als Pausanias zu ihm kam und nach dem Grund seiner Schutzbitte fragte, hörten sie alles deutlich: Der Mann machte Vorwürfe wegen dessen, was über ihn geschrieben war, und legte das Übrige einzeln dar — dass Pausanias ihn niemals in den Diensten für den König in Gefahr gestürzt habe, nun aber solle er die Auszeichnung haben, gleich den vielen anderen Dienern zu sterben. Und jener gestand eben dies selbst ein und ließ ihn wegen des Gegenwärtigen nicht zürnen, sondern gab ihm aus dem Heiligtum Gewähr für sein Aufstehen und verlangte, er solle schleunigst aufbrechen und das Betriebene nicht behindern.
+
 ---
 
 ### Kapitel 134
 
-§1 Und es hörend, gingen die Ephoren zunächst weg; in der Stadt aber machten sie die Ergreifung sicher. Es wird erzählt: Als er auf dem Weg ergriffen werden sollte, und er das Antlitz eines der Ephoren herankommen sah, erkannte er, weshalb er kam; ein anderer aber, mit einem heimlichen Wink Wohlwollen gegen das Heiligtum der Chalkioikos andeutend, hielt ihn ab, ins Heiligtum zu fliehen.
+§1 Und als sie es genau gehört hatten, gingen die Ephoren zunächst weg; da sie nun sicher wussten, betrieben sie in der Stadt die Ergreifung. Es wird erzählt: Als er auf dem Weg ergriffen werden sollte und er das Gesicht eines der Ephoren auf sich zukommen sah, erkannte er, weswegen dieser kam; ein anderer aber gebrauchte einen verborgenen Wink und zeigte ihm aus Wohlwollen, in Lauf zum Heiligtum der Chalkioikos zu eilen und zuvor Zuflucht zu nehmen — das Heiligtum aber war nahe. Und er ging in ein nicht großes Gebäude, das zum Heiligtum gehörte, hinein, damit er nicht unter freiem Himmel litt, und verhielt sich still.
 
-§2 Und sie zögerten im Augenblick in der Verfolgung; danach aber nahmen sie das Dach der Wohnung ab und hielten ihn im Inneren beobachtend, und als sie ihn ergriffen, bauten sie innen zu; und sich davorsetzend, trieben sie ihn mit Hunger aus der Belagerung.
+§2 Sie aber kamen im Augenblick mit der Verfolgung zu spät; danach aber nahmen sie das Dach des Gebäudes ab, und als sie beobachtet hatten, dass er drinnen war, vermauerten sie von außen die Türen; und sie setzten sich davor und hungerten ihn aus der Belagerung heraus.
 
 §3 Und als er im Gemach im Begriff war zu verscheiden, merkten sie es und führten ihn aus dem Heiligtum noch atmend heraus; und hinausgeführt starb er sofort.
 
-§4 Und sie waren im Begriff, ihn in den Kaiadas zu werfen — wohin die Verbrecher; dann aber schien es richtig, ihn irgendwo nahe zu begraben. Der Gott in Delphi aber befahl später den Lakedaimoniern, das Grab dorthin zu versetzen, wo er gestorben war — und es liegt jetzt in der Vorhalle, wie Stelen-Inschriften zeigen; und weil das Getane ihnen Frevel war, galt es später als den Göttern zürnend.
+§4 Und sie waren im Begriff, ihn in den Kaiadas zu werfen — wohin die Verbrecher; dann aber schien es richtig, ihn irgendwo nahe zu begraben. Der Gott in Delphi aber befahl später den Lakedaimoniern, das Grab dorthin zu versetzen, wo er gestorben war — und es liegt jetzt in der Vorhalle, wie Stelen mit Inschriften zeigen — und, da das Getane für sie ein Frevel war, der Chalkioikos zwei Leiber statt eines zu geben. Sie aber fertigten zwei eherne Standbilder und weihten sie anstelle des Pausanias.
+
 ---
 
 ### Kapitel 135
@@ -1588,6 +1621,7 @@
 §2 Und wegen des Medismos des Pausanias schickten die Lakedaimonier Gesandte zu den Athenern und klagten auch den Themistokles an — wie sie aus den Beweisen gegen Pausanias fanden —; und sie verlangten, ihn mit der gleichen Strafe zu treffen.
 
 §3 Die Athener aber, überzeugt — er war nämlich durch das Scherbengericht verbannt und lebte in Argos, ging auch im übrigen Peloponnes umher —, sandten mit den bereitwilligen Lakedaimoniern Männer, die gemeinsam verfolgen sollten, mit dem Befehl, ihn zu greifen, wo sie ihn träfen.
+
 ---
 
 ### Kapitel 136
@@ -1598,62 +1632,67 @@
 
 §3 Und er war nicht daheim; und er wurde Schutzbittender der Frau, und sie lehrte ihn, das Kind von ihnen nehmend, sich am Herd niederzulassen.
 
-§4 Und als Admetos nicht viel später heimkam, zeigte jener, wer er sei, und verlangte nicht, dass er — wenn er ihm damals, als die Athener ihn brauchten, etwas entgegengehalten hatte — den Geflüchteten strafe. Denn er würde von ihm, dem weit Schwächeren, jetzt das Schlechte erleiden; heldenhaft aber sei es, von Gleichgesinnten Gleiches zu vergelten.
+§4 Und als Admetos nicht viel später heimkam, zeigte jener, wer er sei, und verlangte, dass er — wenn er ihm damals, als die Athener ihn um etwas baten, widersprochen hatte — ihn nun nicht als Flüchtling bestrafe. Denn dann würde er jetzt von ihm, dem weit Schwächeren, Übles erleiden; edel aber sei es, wenn Gleiche von gleicher Stellung aus Rache übten. Zugleich habe er selbst ihm nur in einer Sache von Bedarf widerstanden und nicht um seiner leiblichen Rettung willen; jener aber würde ihn, wenn er ihn auslieferte — wobei er sagte, von wem und weshalb er verfolgt werde —, der Rettung seines Lebens berauben.
+
 ---
 
 ### Kapitel 137
 
-§1 Der aber, es hörend, hob ihn mit dem eigenen Sohn auf — wie er ihn auch niedergesetzt hatte — und das war das größte Schutzbitten. Und später gab er den kommenden Lakedaimoniern und Athenern, die vieles sagten, nicht heraus, sondern sandte ihn, wie er wollte, ans andere Meer.
+§1 Er aber hörte es und hob ihn auf, zusammen mit seinem eigenen Sohn, wie er ihn haltend dasaß — und das war das mächtigste Schutzbitten. Und später gab er ihn den Lakedaimoniern und Athenern, die kamen und vieles sagten, nicht heraus, sondern sandte ihn fort, da er zum König reisen wollte, zu Fuß über das andere Meer nach Pydna, der Stadt Alexanders.
 
-§2 Und ein Frachtschiff nehmend, das nach Ionien fuhr, trieb ihn ein Sturm ins athenische Lager, das Naxos belagerte. Und — den Schiffsleuten unbekannt — fürchtend, sagte er dem Reeder, wer er sei und weshalb er fliehe; und wenn er ihn nicht rette, werde er sagen, dass dieser, durch Geld überredet, ihn führe.
+§2 Dort traf er ein Frachtschiff, das nach Ionien auslief, und ging an Bord; aber ein Sturm trieb ihn hinab ins Lager der Athener, das Naxos belagerte. Und da er den Leuten auf dem Schiff unbekannt war, fürchtete er sich und sagte dem Schiffsherrn, wer er sei und weshalb er fliehe; wenn er ihn nicht rette, werde er sagen, dass dieser, durch Geld überredet, ihn mitführe. Die Sicherheit aber bestehe darin, dass keiner vom Schiff steige, bis die Fahrt vollbracht sei; wenn er folge, werde er ihm eine würdige Dankesschuld bewahren. Der Schiffsherr tat dies und segelte, nachdem er abgelegt hatte, einen Tag und eine Nacht weit vom Lager ab und kam später in Ephesos an.
 
-§3 Und Themistokles gewann diesen durch Geldversprechen — es kam ihm nämlich später aus Athen von den Freunden und aus Argos, was er zurückgelegt hatte — und ging mit einem der persischen Untergebenen hinauf und sandte Briefe hinauf an König Artaxerxes, Sohn des Xerxes, der soeben König geworden war.
+§3 Und Themistokles gewann jenen, indem er ihm Geld gab — es war ihm nämlich später aus Athen von den Freunden und aus Argos gekommen, was er beiseitegelegt hatte — und reiste mit einem der Perser von der Küste hinauf und sandte Briefe an König Artaxerxes, den Sohn des Xerxes, der soeben König geworden war.
 
-§4 Der Brief zeigte: »Themistokles komme zu dir, der den Griechen am meisten Übles getan hat dem eurigen Haus, solange dein Vater herankam — aus Notwendigkeit wehrte ich mich —, aber weit mehr Gutes: denn als die Rückkehr ihm sicher war, mir aber gefährlich, da verschaffte ich ihm das Heil. Und Wohltat...«
+§4 Der Brief zeigte: »Ich, Themistokles, komme zu dir — ich, der ich von allen Griechen deinem Haus das meiste Üble getan habe, solange ich mich gegen deinen Vater, als er heranzog, aus Notwendigkeit wehrte; aber weit mehr Gutes, seit die Rückkehr für mich in Sicherheit, für ihn dagegen wieder in Gefahr war. Und mir wird eine Wohltat geschuldet (er hatte ja sowohl die Vorankündigung des Rückzugs aus Salamis geschrieben als auch die über die Brücken — deren Nichtzerstörung damals durch ihn er fälschlich vorgab); und jetzt bin ich hier, fähig, dir große Wohltaten zu erweisen, verfolgt von den Griechen um deiner Freundschaft willen. Ich will aber, nachdem ich ein Jahr gewartet habe, dir selbst offenlegen, weswegen ich gekommen bin.«
+
 ---
 
 ### Kapitel 138
 
 §1 Der König aber, wie es heißt, bewunderte seine Einsicht und befahl, es so zu tun. Und in der Zeit, die er sich aufhielt, lernte er so viel wie möglich von der persischen Sprache und den Sitten des Landes.
 
-§2 Und er wurde nach dem Jahr bei ihm groß, wie keiner der Griechen — wegen der vorherbestehenden Würde und der griechischen Hoffnung, die er ihm unterschob, er werde es unterwerfen; am meisten aber, weil er durch die Erfahrung klug zu scheinen gab.
+§2 Und er kam nach dem Jahr zu ihm und wurde bei ihm groß — so groß wie noch kein Grieche —, wegen seines vorausgehenden Ansehens und wegen der Hoffnung auf Griechenland, das er ihm, wie er in Aussicht stellte, in Knechtschaft bringen werde; am meisten aber, weil er, indem er Proben von sich gab, als einsichtig erschien.
 
-§3 Denn Themistokles zeigte am sichersten die Kraft der Natur und war vor allen anderen der Bewunderung würdig: Denn durch eigene Einsicht — ohne vorher gelernt zu haben, ohne auch später hinzuzulernen — war er der beste Beurteiler des sofort Notwendigen mit dem kleinsten Rat und des Zukünftigen das meiste...
+§3 Denn Themistokles hat am sichersten die Kraft der Natur gezeigt und war der Bewunderung würdig — wegen eben dieser mehr als jeder andere: Durch eigene Einsicht nämlich — ohne etwas vorher gelernt zu haben und ohne später hinzuzulernen — war er der beste Beurteiler des jeweils Sofortigen durch kürzeste Beratung und, auf das meiste dessen, was geschehen würde, der beste Schätzer der Zukunft. Und was er in der Hand hatte, konnte er auch darlegen; und worin er unerfahren war, darüber zu urteilen, war er keineswegs unfähig; und das Bessere oder Schlechtere, noch im Verborgenen, sah er am meisten voraus. Und um es insgesamt zu sagen: Durch die Kraft der Natur und bei geringer Übung wurde dieser Mann der beste darin, das Erforderliche aus dem Stegreif zu treffen.
 
 §4 Und er wurde krank und endete das Leben. Einige sagen auch, er sei freiwillig durch Gift gestorben, weil er es für unmöglich hielt, dem König zu vollenden, was er versprochen hatte.
 
-§5 Ein Grabmal ist von ihm in Magnesia in Asien auf dem Markt; denn dieses Landes herrschte er: Der König gab ihm Magnesia als Brot — es brachte fünfzig Talente im Jahr —, Lampsakos als Wein (es schien damals das weinreichste zu sein), Myus als Beigabe.
+§5 Ein Grabmal ist von ihm in Magnesia in Asien auf dem Markt; denn dieses Landes herrschte er: Der König gab ihm Magnesia als Brot — es brachte fünfzig Talente im Jahr —, Lampsakos für den Wein (es schien damals das weinreichste zu sein), Myus für die Zuspeise.
 
 §6 Die Gebeine aber, sagen sie, haben die Seinen heimgebracht, auf seinen Befehl, und heimlich in Attika bestattet; denn es war nicht erlaubt, ihn als Verbannten wegen Verrats zu bestatten. So erging es Pausanias, dem Lakedaimonier, und Themistokles, dem Athener — die glänzendsten Griechen ihrer Zeit.
+
 ---
 
 ### Kapitel 139
 
-§1 Die Lakedaimonier aber trugen bei der ersten Gesandtschaft Solches auf und wurden dagegen beauftragt wegen der Vertreibung der Unheiligen; später aber kamen sie zu den Athenern und forderten, Potidaia zu räumen und Aigina autonom zu lassen — und am meisten von allem am deutlichsten setzten sie vorher das Megarer-Dekret auf.
+§1 Die Lakedaimonier aber trugen bei der ersten Gesandtschaft Solches auf und erhielten ihrerseits den Auftrag wegen der Vertreibung der Unheiligen; später aber kamen sie wiederholt zu den Athenern und forderten, Potidaia zu räumen und Aigina autonom zu lassen — und am meisten von allem und am deutlichsten sagten sie voraus: Wenn sie das Megarer-Dekret aufhöben, werde kein Krieg entstehen. Darin aber stand geschrieben, dass die Megarer weder die Häfen im Herrschaftsbereich der Athener noch den attischen Markt benutzen dürften.
 
-§2 Die Athener aber gehorchten weder das Übrige noch hoben sie den Beschluss auf — die Megarer beschuldigend, das heilige Land beraubt zu haben und die Zuflucht der abgefallenen Sklaven anzunehmen.
+§2 Die Athener aber gehorchten weder im Übrigen noch hoben sie den Beschluss auf — wobei sie den Megarern vorwarfen, das heilige Land und das nicht abgegrenzte zu bebauen und abgefallene Sklaven aufzunehmen.
 
-§3 Am Ende aber, als die letzten Gesandten aus Lakedaimon kamen — Rhamphios und Melesippos und Agesandros —, und sagten, nichts anderes als gewöhnlich: »Die Lakedaimonier wollen, dass der Friede sei; es könnte sein, wenn ihr die Griechen autonom lasst«, beriefen die Athener die Volksversammlung ein.
+§3 Am Ende aber, als die letzten Gesandten aus Lakedaimon kamen — Ramphios und Melesippos und Agesandros — und nichts anderes sagten als gewöhnlich, sondern eben dies: »Die Lakedaimonier wollen, dass der Friede sei; er wäre aber, wenn ihr die Griechen autonom lasst«, beriefen die Athener die Volksversammlung ein und legten sich selbst Meinungen vor; und es schien richtig, ein für alle Mal über alles zu beraten und dann zu antworten.
 
 §4 Und es traten viele auf, für beide Meinungen — dass man kämpfen müsse und dass der Beschluss dem Frieden nicht hinderlich sei, sondern niedergerissen werden müsse. Und Perikles, Sohn des Xanthippos, der damals erste der Athener, am stärksten zu reden und zu tun, trat auf und riet Folgendermaßen.
+
 ---
 
 ### Kapitel 140
 
-§1 »Der Meinung bleibe ich immer bei derselben, ihr Athener: Den Peloponnesiern nicht nachzugeben — obwohl ich weiß, dass die Menschen nicht mit demselben Zorn zum Kampf zu überzeugen sind und es im Werk anders ausführen, sondern nach den Widrigkeiten und Umständen sich wandeln. Ich sehe auch jetzt, dass mir das Gleiche und Ähnliche zu raten ist; und die, welche euch nicht folgen, will ich zu rechtfertigen suchen vor dem, was gemeinsam beschlossen wurde, wenn ihr nur...
+§1 »Bei derselben Meinung, ihr Athener, bleibe ich immer: den Peloponnesiern nicht nachzugeben — obwohl ich weiß, dass die Menschen sich nicht mit demselben Eifer zum Krieg überreden lassen, wie sie ihn dann im Werk führen, sondern dass ihre Meinungen sich nach den Widrigkeiten und Umständen wenden. Ich sehe aber auch jetzt, dass mir Ähnliches und nahezu Dasselbe zu raten ist; und von euch fordere ich, die ihr euch überreden lasst: Steht dem gemeinsam Beschlossenen bei, falls wir einmal in etwas scheitern — oder maßt euch, wenn es gelingt, nicht die Einsicht allein an. Denn die Umstände der Dinge können sich nicht weniger töricht entwickeln als die Gedanken des Menschen; weshalb wir auch den Zufall anzuklagen pflegen, soviel gegen die Vernunft geschieht.«
 
-§2 Die Lakedaimonier waren früher schon offen gegen euch im Anschlag, und jetzt nicht am wenigsten. Es steht nämlich im Vertrag: Die Streitigkeiten durch Gericht zu geben und zu empfangen, und jeder solle behalten, was er hat. Sie aber haben weder Gericht verlangt noch nehmen sie es an, wenn wir es geben; vielmehr wollen sie mit Krieg statt mit Worten die Beschwerden beheben — und befehlend schon, nicht mehr beschuldigend, kommen sie herbei.
+§2 Die Lakedaimonier waren früher schon offen gegen euch im Anschlag, und jetzt nicht am wenigsten. Es steht nämlich im Vertrag: Die Streitigkeiten durch Gericht zu geben und zu empfangen, und jeder solle behalten, was er hat. Sie aber haben weder Gericht verlangt noch nehmen sie es an, wenn wir es geben; vielmehr wollen sie die Beschuldigungen mit Krieg statt mit Worten beilegen — und schon als Befehlende, nicht mehr als Ankläger, kommen sie herbei.
 
-§3 Potidaia nämlich zu räumen befehlen sie, und Aigina autonom zu lassen, und das Megarer-Dekret aufzuheben; und die letzten Gesandten hier, kommend, fordern vorher, die Griechen autonom zu lassen.
+§3 Potidaia nämlich zu räumen befehlen sie, und Aigina autonom zu lassen, und das Megarer-Dekret aufzuheben; und diese letzten Gesandten hier verkünden offen, man solle die Griechen autonom lassen.
 
-§4 Keiner von euch aber soll meinen, man werde um des Kleinen willen kämpfen, wenn wir das Megarer-Dekret nicht aufheben — das sie am meisten vorschieben, als würde, wenn es aufgehoben würde, der Krieg nicht entstehen. Und in euch selbst soll nicht die Beschuldigung zurückbleiben, dass ihr um eines Kleinen willen Krieg geführt habt.
+§4 Keiner von euch aber soll meinen, man werde um des Kleinen willen kämpfen, wenn wir das Megarer-Dekret nicht aufheben — das sie am meisten vorschieben, als würde, wenn es aufgehoben würde, der Krieg nicht entstehen. Und in euch selbst soll kein Vorwurf zurückbleiben, dass ihr um eines Kleinen wegen Krieg geführt habt.
 
 §5 Denn dieses Kleine enthält die ganze Probe und Feststellung eurer Gesinnung. Wenn ihr nachgebt, wird sogleich etwas Größeres befohlen werden — weil man glaubt, ihr habt auch dieses aus Furcht gehorcht. Euch widersetzend aber, werdet ihr ihnen deutlich machen, dass man euch auf gleicher Stufe, nicht als Untergebene, gegenübertreten muss.
+
 ---
 
 ### Kapitel 141
 
-§1 Darum bedenkt von Grund auf: Entweder nachzugeben, bevor etwas beschädigt ist, oder — wenn wir kämpfen, wie es mir besser scheint — gleichermaßen bei großem und kleinem Vorwand nicht nachgebend und nicht aus Furchd haltend, was wir haben. Denn die gleiche Versklavung vermag die größte und die kleinste Rechtfertigung, von den gleichen Voraussetzungen aus, gegen die anderen geboten werdend, vor Gericht.
+§1 Denkt also von Grund auf darüber nach: entweder zu gehorchen, bevor ihr in etwas geschädigt seid — oder, wenn wir kämpfen werden, wie es wenigstens mir besser scheint, bei großem wie bei kleinem Grund gleichermaßen nicht nachzugeben und nicht aus Furcht zu behalten, was wir besitzen. Denn die größte wie die kleinste Rechtsforderung, von Gleichen vor dem Rechtsgang den Nachbarn auferlegt, vermag dieselbe Knechtschaft.
 
 §2 Was den Krieg und die beiden Seiten vorhandenen Mittel betrifft, dass wir nicht schwächer sein werden, werdet ihr erkennen, wenn ihr es im Einzelnen hört.
 
@@ -1661,22 +1700,23 @@
 
 §4 Und solche können weder Schiffe bemannen noch oft Landheere aussenden — abwesend vom eigenen und von den eigenen Mitteln aufwendend, und zudem vom Meer ausgeschlossen.
 
-§5 Der Reichtum trägt die Kriege mehr als die gewaltsamen Einfälle. Und die Selbstversorger sind eher bereit, mit Körpern als mit Geld zu kämpfen: Das Sichere habend, dass sie aus den Gefahren obsiegen werden; das Geld aber ist nicht sicher, nicht vorher zu verausgaben — zumal wider Erwarten, wie es wahrscheinlich ist, sich der Krieg verlängert.
+§5 Der Überfluss trägt die Kriege mehr als die gewaltsamen Eintreibungen. Und die Selbstversorger sind eher bereit, mit Körpern als mit Geld zu kämpfen: Das Sichere habend, dass sie aus den Gefahren obsiegen werden; das Geld aber ist nicht sicher, nicht vorher zu verausgaben — zumal wider Erwarten, wie es wahrscheinlich ist, sich der Krieg verlängert.
 
-§6 In einer Schlacht gegen alle Griechen zusammen sind die Peloponnesier und ihre Bundesgenossen stark zu behaupten; Krieg aber gegen eine gleiche Gegenrüstung zu führen, sind sie unfähig — wenn sie nicht einen einzigen Rat habend, sofort etwas schnelleres vollenden, alle mit gleichem Stimmrecht und nicht stammgleich, jeder das Seine betreibend. Denn so pflegt nichts Vollendetes zu entstehen.
+§6 In einer Schlacht gegen alle Griechen zusammen sind die Peloponnesier und ihre Bundesgenossen stark genug, standzuhalten; einen Krieg aber gegen eine gleichartige Gegenrüstung zu führen, sind sie unfähig: Da sie nicht einen einzigen Beratungskörper haben, vollenden sie nichts sofort und schnell; alle sind gleichstimmig und nicht stammesgleich, und jeder eilt auf das Eigene — woraus nichts Vollendetes zu entstehen pflegt.
 
-§7 Die einen wollen nämlich am meisten jemanden strafen, die anderen am wenigsten das Eigene verderben. Und selten zusammenkommend, betreiben sie in einem kleinen Teil der Zeit etwas vom Gemeinsamen, das meiste aber die eigenen Angelegenheiten; und jeder meint, es schade nicht durch seine eigene Nachlässigkeit — wenn irgendein anderer auch für ihn vorausschauend sei. So entgeht unbemerkt von allen in einem jeden dasselbe...
+§7 Denn die einen wollen am meisten jemanden bestrafen, die anderen am wenigsten das Eigene verderben. Und da sie nur nach langer Zeit zusammenkommen, beraten sie in einem kleinen Teil der Zeit etwas vom Gemeinsamen, im größeren aber betreiben sie die eigenen Angelegenheiten; und jeder meint, es werde nicht durch seine eigene Nachlässigkeit schaden, sondern es werde schon irgendein anderer für ihn vorsorgen — sodass durch dasselbe Urteil, das alle einzeln fassen, unbemerkt das Gemeinsame insgesamt zugrunde geht.
+
 ---
 
 ### Kapitel 142
 
-§1 Am meisten werden sie durch den Mangel an Geld aufgehalten werden, wenn sie es sich beschaffend zögern; die Zeiten des Krieges aber warten nicht.
+§1 Am meisten aber werden sie durch den Mangel an Geld aufgehalten werden, wenn sie es nur langsam herbeischaffen und dabei zögern; die Gelegenheiten des Krieges aber warten nicht.
 
 §2 Und weder ihre Befestigung noch ihre Flotte ist der Furcht wert.
 
 §3 Eine Stadt auch im Frieden als Gegner herzurichten ist schwer — wie erst im Krieg, wo die Unseren ihnen nicht weniger entgegenbefestigt haben?
 
-§4 Ein Fort nämlich, wenn sie es machen, werden sie ein Teil des Landes durch Einfälle und Überläufer schädigen können; nicht genug aber wird sein, uns zu hindern, mit der Flotte gegen sie zu segeln und uns mit dem zu wehren, womit wir stark sind.
+§4 Wenn sie aber ein Fort anlegen, könnten sie wohl einen Teil des Landes durch Einfälle und Überläufer schädigen; aber es wird nicht genügen, uns zu hindern, gegen ihr Land zu segeln, dort Gegenbefestigungen anzulegen und uns mit den Schiffen zu wehren, worin wir stark sind.
 
 §5 Denn wir haben mehr Erfahrung vom Meer her zum Land als jene vom Land her zur See.
 
@@ -1687,40 +1727,43 @@
 §8 Gegen wenige Blockierende würden sie es vielleicht mit der Menge wagen, aus Unwissenheit dreist; von vielen ausgeschlossen aber werden sie stillhalten und im Nichtüben unwissender und dadurch ängstlicher werden.
 
 §9 Die Seefahrt ist eine Kunst wie alles andere und ist nicht, wie es gerade trifft, nebenbei zu üben; vielmehr darf es ihr kein anderes Nebenwerk geben.
+
 ---
 
 ### Kapitel 143
 
-§1 Und wenn sie das Geld in Olympia oder Delphi rührten und versuchten, mit größerem Sold unsere fremden Ruderer abzufangen — wobei wir, die Einheimischen und die Metöken einsetzend, nicht besiegt werden —, wäre es gefährlich. Jetzt aber steht uns dieses zu, und — das Beste — haben wir Bürger als Steuermänner und die übrige Schiffsmannschaft mehr und besser als ganz Griechenland.
+§1 Und wenn sie das Geld in Olympia oder Delphi in Bewegung setzten und versuchten, mit größerem Sold unsere fremden Ruderer abzuwerben, so wäre das gefährlich — wenn wir nicht ebenbürtig wären, sobald wir selbst und die Metöken einschiffen. Jetzt aber steht uns dies zu; und — was das Beste ist — wir haben Bürger als Steuermänner und die übrige Schiffsmannschaft zahlreicher und besser als das ganze übrige Griechenland.
 
-§2 Und in der Gefahr würde keiner der Fremden für die Flucht der eigenen Heimat und mit der geringeren Hoffnung zugleich, um weniger Tage willen, für eine große Soldzahlung mit ihnen kämpfen wollen.
+§2 Und angesichts der Gefahr würde keiner der Fremden es auf sich nehmen, die eigene Heimat zu fliehen und zugleich mit der geringeren Hoffnung um weniger Tage willen für die Zahlung großen Soldes mit ihnen zu kämpfen.
 
-§3 So scheint mir das Peloponnesische. Das Unsre aber hat das, wessen ich jene gescholten habe, beseitigt und anderes, nicht auf gleicher Stufe stehendes, Großes.
+§3 So erscheint mir die Lage der Peloponnesier und ähnlich. Die unsere aber ist von dem frei, woran ich bei jenen tadelte, und besitzt anderes, nicht bloß Gleiches, sondern Großes.
 
 §4 Wenn sie zu Lande gegen unser Land ziehen, werden wir gegen das ihre zur See ziehen; und es wird nicht mehr vom Gleichen sein, einen Teil der Peloponnes zu verwüsten und ganz Attika — denn jene werden kein anderes Land ohne Kampf zur Verfügung haben, uns aber steht viel Land zu, auf Inseln und auf dem Festland.
 
-§5 Groß ist die Macht des Meeres. Bedenkt: Wären wir Inselbewohner, wer wäre unbezwingbarer? Auch jetzt müssen wir, diesem Nächsten kommend, das Land und die Häuser preisgeben und das Meer und die Stadt bewachen — und gegen die Peloponnesier um dieser willen erzürnt, nicht mit viel mehreren uns schlagen; denn wenn wir siegen, werden wir mit nicht wenigeren weiterkämpfen können.
+§5 Groß ist die Macht des Meeres. Bedenkt: Wären wir Inselbewohner, wer wäre unbezwingbarer als wir? Auch jetzt müssen wir, uns diesem so nah wie möglich denkend, das Land und die Häuser preisgeben, das Meer aber und die Stadt bewahren und gegen die Peloponnesier — um dieser willen erzürnt — nicht mit weit mehreren kämpfen. Denn wenn wir siegen, werden wir wieder mit nicht wenigeren kämpfen; wenn wir aber scheitern, geht uns zusätzlich das der Bundesgenossen verloren, woraus wir stark sind; denn sie werden nicht stillhalten, wenn wir nicht tüchtig genug sind, gegen sie zu ziehen. Und die Klage sollt ihr nicht um Häuser und Land führen, sondern um die Leiber; denn nicht diese Dinge erwerben die Männer, sondern die Männer diese Dinge. Und wenn ich meinte, euch überreden zu können, würde ich euch befehlen, selbst hinauszuziehen und sie zu verwüsten und den Peloponnesiern zu zeigen, dass ihr um dieser Dinge willen jedenfalls nicht gehorchen werdet.
+
 ---
 
 ### Kapitel 144
 
 §1 Vieles andere habe ich zur Hoffnung zu obsiegen — wenn ihr nur nicht gewillt seid, während des Krieges Herrschaft hinzuzugewinnen und selbstgewählte Gefahren hinzuzufügen. Ich fürchte nämlich eher unsere eigenen Fehler als die Absichten der Gegner.
 
-§2 Jenes aber wird in einer anderen Rede zugleich mit den Taten klar werden. Jetzt aber lasst uns diesen antworten und fortschicken: Megara betreffend, dass wir es benutzen lassen werden, Markt und Häfen zu gebrauchen, wenn auch die Lakedaimonier nicht uns und die Bundesgenossen vertreiben — weder jenes verhindert der Vertrag noch dieses; die Städte betreffend, dass wir sie autonom lassen werden, wenn sie es waren, als wir die Verträge schlossen.
+§2 Jenes aber wird in einer anderen Rede zugleich mit den Taten klar werden. Jetzt aber lasst uns jenen antworten und sie fortschicken: den Megarern, dass wir sie Markt und Häfen benutzen lassen, wenn auch die Lakedaimonier weder uns noch unsere Bundesgenossen ausweisen — denn weder jenes verhindert der Vertrag noch dieses; den Städten, dass wir sie autonom lassen werden, wenn sie autonom waren, als wir die Verträge schlossen, und sobald auch jene ihren Städten zurückgeben, autonom zu sein — nicht so, wie es den Lakedaimoniern gelegen ist, sondern jedem einzelnen, wie sie wollen; und dass wir Rechtssprüche nach den Verträgen geben wollen, den Krieg aber nicht beginnen, uns gegen die Beginnenden aber wehren werden. Denn dies zu antworten ist gerecht und zugleich dieser Stadt angemessen.
 
 §3 Und wisst: Es ist Notwendigkeit zu kämpfen; wenn wir aber eher freiwillig annehmen, werden wir die Gegner weniger hart bedrängt haben. Und aus den größten Gefahren entstehen der Stadt wie dem Einzelnen die größten Ehren.
 
 §4 Die Väter nämlich haben, den Medern widerstehend und nicht von so geringen Mitteln ausbrechend, sondern auch das Vorhandene preisgebend, mit mehr Einsicht als Glück und größerer Verwegenheit als Macht den Barbaren vertrieben und es bis hierher gebracht. Diesen soll man nicht nachstehen, sondern den Feinden mit allen Mitteln wehren und versuchen, den Nachkommenden es nicht geringer zu übergeben.
+
 ---
 
 ### Kapitel 145
 
-§1 So sprach Perikles; und die Athener, meinend, er rate das Beste, stimmten ab, was er befahl. Und den Lakedaimoniern antworteten sie nach seiner Meinung — im Einzelnen, wie er es dargelegt, und im Ganzen: Nichts würden sie auf Befehl tun, bereit aber, nach den Verträgen auf gleicher Stufe die Beschwerden durch Gericht zu beheben. Und so zogen die Gesandten heim und kamen fortan nicht wieder.
+§1 So sprach Perikles; und die Athener, meinend, er rate das Beste, stimmten ab, was er befahl. Und den Lakedaimoniern antworteten sie nach seiner Meinung — im Einzelnen, wie er es dargelegt, und im Ganzen: Nichts würden sie auf Befehl tun, bereit aber, nach den Verträgen die Beschuldigungen auf gleichem und gleichem Fuß durch Rechtsspruch beizulegen. Und so zogen die Gesandten heim und kamen fortan nicht wieder.
 
 ---
 
 ### Kapitel 146
 
-§1 Das waren die Beschwerden (aitíai) und Streitigkeiten beider Seiten vor dem Krieg, beginnend sogleich von den Ereignissen in Epidamnos und Kerkyra. Sie verkehrten aber dennoch miteinander; ohne Herold gingen sie untereinander hin und her — nicht unverdächtig aber. Denn das Geschehene war die Auflösung der Verträge und der Grund (próphasis) zum Kampf.
+§1 Das waren die Vorwürfe (aitíai) und Streitigkeiten beider Seiten vor dem Krieg, beginnend sogleich von den Ereignissen in Epidamnos und Kerkyra. Sie verkehrten aber dennoch miteinander; ohne Herold gingen sie untereinander hin und her — nicht unverdächtig aber. Denn das Geschehene war die Auflösung der Verträge und der Grund (próphasis) zum Kampf.
 
 ---

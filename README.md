@@ -23,6 +23,8 @@ A modern German translation of Thucydides' *History of the Peloponnesian War* �
 | 7 | 87 | ⬜ Pending |
 | 8 | 109 | ⬜ Pending |
 
+> **Revision Buch 1 (2026-09-27):** Kapitel 118–146 vollständig aus dem Griechischen ergänzt (zehn abgebrochene Abschnitte, fehlende Sätze, Sinnfehler in 133.1, 134.1, 137.4, 140.1); Sinnfehler in 76.2 korrigiert; Schlüsselbegriffe im ganzen Buch vereinheitlicht (αἰτία = Vorwurf, ἔγκλημα = Beschuldigung, πρόφασις = Grund).
+
 ## Source text
 
 The Greek source is the Perseus Digital Library edition:
@@ -48,8 +50,9 @@ This translation follows five strict rules, applied consistently:
 
 | Greek | German | Never translated as |
 |-------|--------|---------------------|
-| πρόφασις (*prophasis*) | wahrer Grund | Ursache, Anlass, Motiv |
-| αἰτία (*aitia*) | Vorwurf / Anschuldigung | Ursache, Grund |
+| πρόφασις (*prophasis*) | Grund (nur in 1.23.6, mit *alēthestátē*: wahrster Grund) | Ursache, Anlass, Motiv |
+| αἰτία (*aitia*) | Vorwurf | Ursache, Grund, Beschwerde, Beschuldigung |
+| ἔγκλημα (*enklēma*) | Beschuldigung | Beschwerde, Vorwurf |
 | στάσις (*stasis*) | Bürgerkrieg | Aufruhr, Zwietracht |
 | δύναμις (*dynamis*) | Macht | Stärke, Kraft |
 | παρασκευή (*paraskeuē*) | Rüstung | Vorbereitung |
