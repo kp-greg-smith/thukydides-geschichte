@@ -2124,3 +2124,27 @@ Nach der Nutzerpräzisierung werden Klammeranmerkungen auf sinnverändernde Eing
 Alle 1 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
 
 `python3 scripts/check_translation.py --language de --book 1 --start 51 --end 60`: 31/31 Abschnitte, 0 Fehler, 0 Warnungen.
+
+## Nachtrag zu Kapitel 61–70: präzisierte Anmerkungsregel
+
+Nach der Nutzerpräzisierung werden Klammeranmerkungen auf sinnverändernde Eingriffe und echte Deutungsfragen begrenzt. Dieser Nachtrag betrifft 2 bereits geprüfte Abschnitte und erweitert die Gesamtzahl der geprüften Abschnitte nicht.
+
+### 64.1
+
+- Griechisch: [τεῖχος]
+- Alt: [Anm.: Der Herausgeber kennzeichnet teîchos (»Mauer«) nach »die Seite am Isthmos« als zu tilgenden Zusatz.]
+- Neu: (Anmerkung entfernt; Übersetzung unverändert.)
+- Begründung: Mit oder ohne das Substantiv ist dieselbe Seite der Stadt gemeint; das entscheidende Einschließen durch Belagerungsmauern bleibt vollständig übersetzt. Gemäß nachgereichter Präzisierung des Nutzers keine reine Klammeranmerkung.
+
+### 64.2
+
+- Griechisch: [τεῖχος]
+- Alt: [Anm.: Der Herausgeber kennzeichnet das Wort teîchos (»Mauer«) am Satzende als zu tilgenden Zusatz.]
+- Neu: (Anmerkung entfernt; Übersetzung unverändert.)
+- Begründung: Die ergänzende Bezeichnung ändert die auf Pallene gerichtete Seite der Einschließung nicht. Gemäß nachgereichter Präzisierung des Nutzers keine reine Klammeranmerkung.
+
+### Nachprüfung
+
+Alle 2 geänderten Abschnitte nochmals vollständig gegen das Griechische gelesen. Abschnitts-IDs, Reihenfolge und HTML-Grundstruktur unverändert; außerhalb dieser Portion keine Änderungen.
+
+`python3 scripts/check_translation.py --language de --book 1 --start 61 --end 70`: 45/45 Abschnitte, 0 Fehler, 0 Warnungen.
