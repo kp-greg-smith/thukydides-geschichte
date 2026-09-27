@@ -1386,20 +1386,29 @@
 
 ### Kapitel 116
 
-§1 Korinth drängte Sparta. Potidaia fiel. Kerkyra schloss das Bündnis mit Athen. All dies waren Vorzeichen des Kommenden. Der Krieg begann nun wirklich.
+§1 Und die Athener, als sie es erfuhren, fuhren mit sechzig Schiffen gegen Samos. Von den Schiffen aber benutzten sie die sechzehn nicht — es trug sich nämlich, dass die einen gegen Karion zur Aufklärung der phönikischen Schiffe gefahren waren, die anderen um Chios und Lesbos herumbotschaftend Hilfe holten —; mit vierundvierzig Schiffen aber, unter Perikles zehntmal führend, lieferten sie bei der Insel Tragia den Samiern Seeschlacht, mit siebzig Schiffen, von denen zwanzig aus Milet kamen, ihnen verbündet.
 
+§2 Später halfen ihnen aus Athen vierzig Schiffe und aus Chios und Lesbos fünfundzwanzig; und landend und zu Lande obsiegend, belagerten sie die Stadt mit drei Mauern und zugleich von See.
+
+§3 Und Perikles nahm sechzig Schiffe von den blockierenden und fuhr schleunigst gegen Kaunos und Karion — es war gemeldet worden, dass phönikische Schiffe gegen sie fuhren. Denn auch aus Samos waren fünf Schiffe unter Stesagoras und andere gegen die Phöniker gefahren.
 ---
 
 ### Kapitel 117
 
-§1 Die Perser waren besiegt, die Griechen gespalten. Athen regierte das Meer, Sparta das Land. Beide rüsteten; beide hofften auf Sieg und fürchteten Niederlage. Die Würfel fielen.
+§1 Währenddessen machten die Samier einen plötzlichen Ausfall, überfielen das unbefestigte Lager, vernichteten die Vorpostenschiffe und obsiegten in der Seeschlacht gegen die Entgegenfahrenden; und sie beherrschten das Meer ihrerseits vierzehn Tage lang und fuhren ein und aus, was sie wollten.
 
+§2 Als aber Perikles mit den Schiffen zurückkam, wurden sie eingeschlossen. Und später halfen aus Athen vierzig Schiffe unter Thukydides und Hagnon und Phormion, zwanzig unter Tlepolemos und Antikles; aus Chios und Lesbos dreißig.
+
+§3 Und eine kleine Seeschlacht lieferten die Samier; unfähig zu widerstehen, wurden sie im neunten Monat aus der Belagerung vertrieben und ergaben sich nach Übereinkunft: die Mauer niederreißend, Geiseln gebend, Schiffe übergebend und das verausgabte Geld festsetzend, in Raten zurückzuzahlen. Und auch die Byzantier ergaben sich, wie vorher untertan zu sein.
 ---
 
 ### Kapitel 118
 
-§1 Die Athener und die Peloponnesier standen einander gegenüber. Der Krieg war nicht mehr aufzuhalten. Perikles ermutigte die Athener. Sparta zog ins Feld. Die lange Nacht begann.
+§1 Nach diesen Dingen — es geschah nicht viele Jahre später — das oben Genannte: die kerkyraischen und die potidäischen Händel und was als Grund des jetzigen Krieges feststand.
 
+§2 Und dies alles, was die Griechen gegeneinander und gegen den Barbaren taten, geschah in ungefähr fünfzig Jahren zwischen dem Rückzug des Xerxes und dem Anfang dieses Krieges. In diesen richteten die Athener die Herrschaft fester ein und gingen selbst auf die große Macht zu; die Lakedaimonier aber, es erkennend, hinderten nicht — außer für kurze Zeit —, und blieben die meiste Zeit still, weil sie auch vorzeiten nicht... [Anm.: Der griechische Text dieser Begründung ist lückenhaft überliefert.]
+
+§3 Den Lakedaimoniern also war beschlossen, dass die Verträge gebrochen seien und die Athener Unrecht täten; und nach Delphi gesandt, fragten sie den Gott, ob es besser sei zu kämpfen. Und er antwortete ihnen, wie es heißt: Wenn sie mit ganzer Kraft kämpften, werde der Sieg ihnen sein; und er sagte, er selbst werde helfen, gerufen und ungerufen.
 ---
 
 ### Kapitel 119
