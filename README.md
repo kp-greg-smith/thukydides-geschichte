@@ -63,6 +63,10 @@ Translations are in [`de_translations/`](de_translations/).
 This translation: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 Greek source: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
+HTML typography uses browser-provided system fonts.
+
+The HTML reader offers a Dark Mode toggle, initially follows the system appearance, and remembers your choice when browser storage is available. Both HTML editions use the shared assets in `docs/assets/`; keep these alongside the HTML files for offline reading.
+
 ## Structure
 
 | Book | Chapters | Content |
