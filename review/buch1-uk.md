@@ -89,6 +89,16 @@ Zweitprüfung: work/uk/review/batch05.md. Meldungen: 7 in 7 Abschnitten (1 Block
 Offene unsichere Stellen aus dieser Portion: 1.46.2 πέμπτος αὐτός (dunkel, wörtlich belassen); 1.49.2 τῇ μὲν τέχνῃ οὐχ ὁμοίως (überlieferte Doppeldeutigkeit bewahrt); 1.50.5 Paian-Sänger wie im Griechischen unbenannt gelassen.
 Alle Meldungen angenommen.
 
+### Kap. 51–60 (Batch 06) — 31 Abschnitte
+Zweitprüfung: work/uk/review/batch06.md. Meldungen: 13 in 11 Abschnitten (0 Blocker, 13 Minor).
+- Namensfixes gemäß sechstem Addendum: «Главк, син Ліагра» (1.51.4), «Філіп» (1.57.3, 1.59.2 — davor «Філіппом»), «халкідяни» und «боттієйці» (1.57.5, 1.58.1, 1.58.2 — davor «халкідейці/боттійці»), «озеро Больбе» (1.58.2 — davor «Больби»).
+- Ethnikon-Flexion «керкіряни» vereinheitlicht: «керкірам» → «керкірянам» (1.53.4), «керкірів» → «керкірян» (1.55.1, ×2).
+- ἀποσία-/ἀφίσταμαι-Wortsippe einheitlich «відпадіння/відпали» statt «відступлення/відступили» (1.57.4, 1.57.5, 1.57.6, 1.58.1), im Einklang mit 1.56.2/1.59.1/1.60.3.
+- ἀντιπλέειν feindlich: «не випливли проти них із Сібот» (1.54.2); προσποιεῖσθαι = «приписували собі перемогу» (1.54.2).
+- Weitere Fixes: 1.51.5 («вже»-Zusatz getilgt; «стали на якір»), 1.52.1 (Kasus-Konstruktion), 1.52.2 («вишикувавшись», «у безлюднім місці»), 1.53.2 («здіймаючи зброю»), 1.58.1 (κατὰ τὸν καιρὸν = «у цю пору»), 1.55.1 (FLAG zu δυνάμει = «за впливом» ergänzt).
+- Bestätigt: Kurzreden 1.53 in « » und so stenographisch knapp wie das Griechische; τιμωρία allgemein = «карати», metropolis-colony = «відплата»; alle Zahlen korrekt (20; 30×3; ~70/≥1000; ~30; 800+250; 1000; †10† wie überliefert; 1600+400; vierzigster Tag); «вже»-Hausstandard; «Сіботи» (Plural) einheitlich mit 1.47/1.50.
+Alle 13 Meldungen angenommen (12 mit Texteingriff, 1 als Vermerksergänzung).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
@@ -107,10 +117,10 @@ Alle Meldungen angenommen.
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 195 in den Kapiteln 1–50 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 195 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 94 Fundstellen (8 Blocker, 86 Minor).
+- Übersetzte Abschnitte: 226 in den Kapiteln 1–60 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 226 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 107 Fundstellen (8 Blocker, 99 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 1.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 51–60: Übersetzung abgeschlossen, Zweitprüfung ausstehend; Kapitel 61–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 61–70: Übersetzung im Gang; Kapitel 71–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
