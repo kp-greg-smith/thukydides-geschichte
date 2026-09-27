@@ -1670,36 +1670,57 @@
 
 ### Kapitel 142
 
-§1 Die Flotte der Athener verheerte die Küste der Peloponnes. Sie fuhren bei Nacht in die Buchten und verbrannten die Schiffe der Feinde am Strand. Bei Tag verbargen sie sich hinter den Inseln und zählten die Verwundeten. Bei Nacht fuhren sie wieder aus. Der Krieg zur See kannte keine Jahreszeit, keinen Feiertag, keinen Gott.
+§1 Am meisten werden sie durch den Mangel an Geld aufgehalten werden, wenn sie es sich beschaffend zögern; die Zeiten des Krieges aber warten nicht.
 
-§2 Die Trierarchen schrieben auf Wachstafeln, wie viele gestorben, wie viele verwundet, wie viele Schiffe ausgebrannt waren. Die Zahlen wuchsen, die Schrift wurde kleiner. Am Ende des Sommers warf einer seine Tafel ins Meer und sagte nichts. Die Flotte fuhr in den Piräus ein; die Ruder schlugen langsamer als im Frühjahr.
+§2 Und weder ihre Befestigung noch ihre Flotte ist der Furcht wert.
 
+§3 Eine Stadt auch im Frieden als Gegner herzurichten ist schwer — wie erst im Krieg, wo die Unseren ihnen nicht weniger entgegenbefestigt haben?
+
+§4 Ein Fort nämlich, wenn sie es machen, werden sie ein Teil des Landes durch Einfälle und Überläufer schädigen können; nicht genug aber wird sein, uns zu hindern, mit der Flotte gegen sie zu segeln und uns mit dem zu wehren, womit wir stark sind.
+
+§5 Denn wir haben mehr Erfahrung vom Meer her zum Land als jene vom Land her zur See.
+
+§6 Die Kunst des Meeres wird ihnen nicht leicht zufallen.
+
+§7 Denn auch ihr habt sie nicht sofort nach den Perserkriegen zustande gebracht, obwohl ihr sie übtet; wie erst Landwirte und keine Seefahrer — und überdies zum Üben nicht einmal gelassen werdend, weil sie von uns mit vielen Schiffen immer blockiert werden —, sollten sie etwas Tüchtiges tun?
+
+§8 Gegen wenige Blockierende würden sie es vielleicht mit der Menge wagen, aus Unwissenheit dreist; von vielen ausgeschlossen aber werden sie stillhalten und im Nichtüben unwissender und dadurch ängstlicher werden.
+
+§9 Die Seefahrt ist eine Kunst wie alles andere und ist nicht, wie es gerade trifft, nebenbei zu üben; vielmehr darf es ihr kein anderes Nebenwerk geben.
 ---
 
 ### Kapitel 143
 
-§1 In der Pnyx sammelten sich die Bürger zum Gerichtstag. Sie zählten Klage und Gegenklage an den Fingern ab: wie viele Schiffe gebaut, wie viele verbrannt, wie viele Bundesgenossen gezahlt, wie viele abgefallen waren. Ein Bürger, der zwanzig Jahre im Rat gesessen hatte, sagte: Noch nie, seit der Erschaffung der Welt, hat eine Stadt einen Krieg geführt, ohne zu wissen, warum. Ein anderer entgegnete: Noch nie hat eine Stadt gewusst, warum sie ihn führt, wenn sie ihn führte.
+§1 Und wenn sie das Geld in Olympia oder Delphi rührten und versuchten, mit größerem Sold unsere fremden Ruderer abzufangen — wobei wir, die Einheimischen und die Metöken einsetzend, nicht besiegt werden —, wäre es gefährlich. Jetzt aber steht uns dieses zu, und — das Beste — haben wir Bürger als Steuermänner und die übrige Schiffsmannschaft mehr und besser als ganz Griechenland.
 
-§2 Perikles ließ beide gewähren. Er hatte die Rede vom Vorjahr nicht vergessen. Er wusste: Die Stadt brauchte Klagen, um handeln zu können. Er brauchte Handeln, um siegen zu können. Und er brauchte Siege, um zu überleben. Die Rechnung war einfach; das Rechnen war schwer.
+§2 Und in der Gefahr würde keiner der Fremden für die Flucht der eigenen Heimat und mit der geringeren Hoffnung zugleich, um weniger Tage willen, für eine große Soldzahlung mit ihnen kämpfen wollen.
 
+§3 So scheint mir das Peloponnesische. Das Unsre aber hat das, wessen ich jene gescholten habe, beseitigt und anderes, nicht auf gleicher Stufe stehendes, Großes.
+
+§4 Wenn sie zu Lande gegen unser Land ziehen, werden wir gegen das ihre zur See ziehen; und es wird nicht mehr vom Gleichen sein, einen Teil der Peloponnes zu verwüsten und ganz Attika — denn jene werden kein anderes Land ohne Kampf zur Verfügung haben, uns aber steht viel Land zu, auf Inseln und auf dem Festland.
+
+§5 Groß ist die Macht des Meeres. Bedenkt: Wären wir Inselbewohner, wer wäre unbezwingbarer? Auch jetzt müssen wir, diesem Nächsten kommend, das Land und die Häuser preisgeben und das Meer und die Stadt bewachen — und gegen die Peloponnesier um dieser willen erzürnt, nicht mit viel mehreren uns schlagen; denn wenn wir siegen, werden wir mit nicht wenigeren weiterkämpfen können.
 ---
 
 ### Kapitel 144
 
-§1 Perikles sprach zuletzt zu den Athenern: »Vieles andere noch gibt mir Hoffnung, dass wir die Oberhand behalten werden, wenn ihr den Krieg nicht noch vergrößern und keine selbstgewählten Gefahren auf euch laden wollt. Mehr noch als die Feinde fürchte ich unsere eigenen Fehler. Geht zur See gegen das Land der Feinde, bringt das Land in unsere Hand, macht das Meer zu unserer Mauer und den Feind zu unserem Gefangenen.«
+§1 Vieles andere habe ich zur Hoffnung zu obsiegen — wenn ihr nur nicht gewillt seid, während des Krieges Herrschaft hinzuzugewinnen und selbstgewählte Gefahren hinzuzufügen. Ich fürchte nämlich eher unsere eigenen Fehler als die Absichten der Gegner.
 
-§2 »Wir müssen euch sagen, dass ihr den Zwang erkennen müsst, Krieg zu führen, und dass wir die Feinde weniger angreifend haben werden, wenn wir es freiwillig auf uns nehmen. Denn aus den größten Gefahren entstehen einer Stadt und einem Einzelnen die größten Ehren. Unsere Väter, die gegen die Meder standhielten, haben nicht auf solchem Weg beginnend, sondern auch das Vorhandene verlierend, mehr durch Klugheit als durch Zufall und mehr durch Wagnis als durch Macht den Barbaren abgewehrt und bis hierher vorangebracht. Von diesen dürft ihr nicht ablassen. Wehrt den Feind auf jede Weise ab und sucht, den Nachkommenden dies nicht geringer zu übergeben.«
+§2 Jenes aber wird in einer anderen Rede zugleich mit den Taten klar werden. Jetzt aber lasst uns diesen antworten und fortschicken: Megara betreffend, dass wir es benutzen lassen werden, Markt und Häfen zu gebrauchen, wenn auch die Lakedaimonier nicht uns und die Bundesgenossen vertreiben — weder jenes verhindert der Vertrag noch dieses; die Städte betreffend, dass wir sie autonom lassen werden, wenn sie es waren, als wir die Verträge schlossen.
 
+§3 Und wisst: Es ist Notwendigkeit zu kämpfen; wenn wir aber eher freiwillig annehmen, werden wir die Gegner weniger hart bedrängt haben. Und aus den größten Gefahren entstehen der Stadt wie dem Einzelnen die größten Ehren.
+
+§4 Die Väter nämlich haben, den Medern widerstehend und nicht von so geringen Mitteln ausbrechend, sondern auch das Vorhandene preisgebend, mit mehr Einsicht als Glück und größerer Verwegenheit als Macht den Barbaren vertrieben und es bis hierher gebracht. Diesen soll man nicht nachstehen, sondern den Feinden mit allen Mitteln wehren und versuchen, den Nachkommenden es nicht geringer zu übergeben.
 ---
 
 ### Kapitel 145
 
-§1 So sprach Perikles. Die Athener, die ihn für den besten Rat hielten, beschlossen, was er ihnen befohlen hatte, und antworteten den Lakedaimoniern, nichts auf Geheiß zu tun, aber zu gleichen und gerechten Bedingungen auf Schiedsgericht nach den Verträgen bereit zu sein. Die Gesandten kehrten heim. Niemand würde je wieder als Gesandter kommen. Der Krieg war jetzt auf beiden Seiten der wahre Grund und alle Vorwürfe waren alle Gelegenheiten gewesen.
+§1 So sprach Perikles; und die Athener, meinend, er rate das Beste, stimmten ab, was er befahl. Und den Lakedaimoniern antworteten sie nach seiner Meinung — im Einzelnen, wie er es dargelegt, und im Ganzen: Nichts würden sie auf Befehl tun, bereit aber, nach den Verträgen auf gleicher Stufe die Beschwerden durch Gericht zu beheben. Und so zogen die Gesandten heim und kamen fortan nicht wieder.
 
 ---
 
 ### Kapitel 146
 
-§1 Dies waren die Vorwürfe und die Streitigkeiten auf beiden Seiten vor dem Krieg, die von den Ereignissen in Epidamnos und Kerkyra ausgingen. In ihnen verkehrten sie noch miteinander und zogen ohne Herold zueinander, doch nicht ohne Misstrauen. Denn das Geschehene war die Auflösung der Verträge und der wahre Grund zu kämpfen.
+§1 Das waren die Beschwerden (aitíai) und Streitigkeiten beider Seiten vor dem Krieg, beginnend sogleich von den Ereignissen in Epidamnos und Kerkyra. Sie verkehrten aber dennoch miteinander; ohne Herold gingen sie untereinander hin und her — nicht unverdächtig aber. Denn das Geschehene war die Auflösung der Verträge und der Grund (próphasis) zum Kampf.
 
 ---
