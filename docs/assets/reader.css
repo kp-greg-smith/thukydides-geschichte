@@ -108,7 +108,7 @@ body {
   overflow-wrap: break-word;
   hyphens: auto;
 }
-h1, h2, h3, h4, b, strong, th { font-weight: 400; }
+h1, h2, h3, h4, strong, th { font-weight: 400; }
 h1 { font-size: 1.8em; line-height: 1.3; margin-top: 1.5em; border-bottom: 1px solid var(--line); padding-bottom: .5em; }
 h2 { font-size: 1.45em; margin-top: 2em; }
 h3 { font-size: 1.2em; margin-top: 2em; }

@@ -33,10 +33,13 @@ Sinngetreu und gut lesbar übersetzen, nicht Wort für Wort, und ausschließlich
 
 Die Tabelle enthält deutsche Entsprechungen, keine Vorgaben für englische, ukrainische oder hebräische Wörter. Für jede neue Sprache vorab ein eigenes Glossar nach Bedeutungen anlegen. Die Einträge beziehen sich auf die einschlägigen Bedeutungen im Werk; bei mehrdeutigen Wörtern entscheidet der Kontext.
 
-| Griechisch | Deutsche Entsprechung je Bedeutung |
+| Griechisch / Bedeutung | Deutsche Entsprechung |
 |---|---|
 | πρόφασις (próphasis) | Grund; 1.23.6: ἀληθεστάτη: wahrster Grund |
-| αἰτία (aitía) | Vorwurf / Anschuldigung; kausal: Ursache / Schuld / Verantwortung |
+| αἰτία (aitía): Anschuldigung | Vorwurf |
+| αἰτία (aitía): ursächlicher Zusammenhang | Ursache |
+| αἰτία (aitía): zugerechnete Schuld | Schuld |
+| αἰτία (aitía): Verantwortung für ein Ergebnis | Verantwortung |
 | ἔγκλημα (énklēma) | Beschuldigung |
 | στάσις (stásis) | Bürgerkrieg |
 | δύναμις (dýnamis) | Macht |
