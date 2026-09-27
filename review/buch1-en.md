@@ -156,6 +156,8 @@ Zweitprüfung: work/en/review/batch12.md. Meldungen: 6 in 6 Abschnitten (0 Block
 - Bestätigt: alle 27 Vermerks-Griechisch-Zitate byte-exakt (kein πειχομαχεῖν-Fall); das Salamis-Homonym ohne Notiz wie verordnet; die Oeniadae-Crux beidseitig offen; die Korintherrede ab 1.120 ihre, unmarkiert, offen über die Batch-Grenze; Regel 6 überall (Milesier-Klage, Pissuthnes als Erzählerbericht, Pericles viermal attestiert).
 Alle 6 Meldungen angenommen (alle mit Text- oder Vermerkseingriff).
 
+Nachtrag (Fable-Audit, 27.09.2026, über den geschlossenen Stand 1–120): zwei Batch-12-Adjudikationen des Koordinators ZURÜCKGEWIESEN und rückgängig gemacht — (1) τὸ πλέον 1.114.2 ist adverbial („ohne weiter vorzurücken“); die Lesart „for the most part“ war eine mechanische Übertragung aus τὸ πλέον τοῦ χρόνου (1.118.2; die klassische Tradition liest anders: Crawley „and without advancing further returned home“) — der Wortlaut des Entwurfs wiederhergestellt. (2) ἐνηλλάγησαν 1.120.2 = „have had dealings with“ (so das LSJ-Medium und die klassische Tradition: Crawley „all who have already had dealings with the Athenians“); die Lesart „have been wronged by“ war eine über die Koordinationsprompts getragene Überinterpretation — zurückgenommen, der Vermerk neu gefasst. Prozesseintrag: künftig führt der Koordinator Parallel-Befunde in Prüfaufrufen als zu widerlegende Behauptungen ein, nicht als Prämissen; Crux-Entscheidungen dokumentieren ihre klassische Bezeugung.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
