@@ -1444,26 +1444,36 @@
 
 ### Kapitel 122
 
-§1 Die peloponnesischen Städte rüsteten. Sie bauten Schiffe, sie hoben Geld aus, sie warben Ruderer. Die Athener beobachteten und warteten. In den Häfen des Piräus lagen die Schiffe bereit. Die Zeit der Vorbereitung ging zu Ende.
+§1 Es gibt aber auch andere Wege des Krieges für uns — Abfall der Bundesgenossen, am meisten die Wegnahme der Einkünfte, mit denen sie stark sind, und Befestigungen im Land und anderes, was jetzt keiner voraussehen kann. Am wenigsten geht der Krieg nach abgesprochenen Regeln vor; vielmehr ersinnt er selbst das meiste gemäß dem, was jeweils begegnet. Und wer gut gefasst an ihn herangeht, ist der sicherere; wer aber zürnt...
 
+§2 Und bedenkt auch: Wären die Streitigkeiten für jeden Grenzstreitigkeiten um Land, wäre es erträglich; jetzt aber sind die Athener Gegner von uns allen zusammen und jeder Stadt einzeln noch mächtiger — sodass, wenn wir uns nicht geschlossen und nach Völkern und jede Stadt mit einer Meinung wehren, sie uns, die wir getrennt sind, leicht unterwerfen werden.
+
+§3 Es ist schimpflich, in Wort es auch nur zu zögern: dass die Peloponnes, so viele Städte, unter einer leidet. Entweder würden wir mit Recht leiden, oder wir würden es aus Feigheit ertragen und uns als schlechter erweisen als die Väter, die Griechenland befreiten — wir aber sichern es nicht einmal uns selbst, und lassen eine Stadt als Tyrannen über alle errichten, während wir fordern, die Einzelherrscher in einer Stadt zu stürzen.
+
+§4 Und wir wissen nicht, wie uns das von den drei größten Übeln befreit hat — Nichtzusammenwirken, Weichlichkeit, Sorglosigkeit. Denn ihr habt sie nicht gemieden und seid zu der schimpflichsten Verachtung gekommen, die am meisten schadete — die aus dem vielen Scheitern in Torheit umbenannt wurde.
 ---
 
 ### Kapitel 123
 
-§1 Die Athener und Peloponnesier zogen jeder für sich zu Rate mit ihren Verbündeten. Niemand konnte sagen, was der nächste Tag bringen würde. In Athen sprach Perikles ein letztes Mal zu seinem Volk.
+§1 Was also das Vergangene — wozu länger klagen, als jetzt nützt? Über das Zukünftige aber müsst ihr, den Gegenwärtigen helfend, Sorge tragen — von den Mühen die Tüchtigkeit zu erwerben ist euch väterlich — und die Gewohnheit nicht ändern, wenn ihr nämlich jetzt an Reichtum und Macht etwas voraushabt. Denn es ist nicht recht, dass man das in der Armut Erworbene durch den Überfluss verliert.
 
+§2 Die Verträge werdet ihr nicht zuerst lösen — die löst, so meint es auch der Gott, der zum Krieg rät, als übertreten; denen aber, die Unrecht erleiden, eher helfen. Denn lösen nicht die sich Wehrenden, sondern die zuerst Angreifenden.
 ---
 
 ### Kapitel 124
 
-§1 Perikles riet den Athenern, standhaft zu bleiben. Sie sollten nicht nachgeben, sich nicht fürchten und auf das Meer vertrauen. Er sah den Sieg voraus, wenn sie klug blieben. Sie hörten auf ihn. Sie hatten keine andere Wahl.
+§1 Da euch also überall gut zu kämpfen möglich ist und wir gemeinsam das raten — wenn das Festeste das ist, dass Städten wie Einzelnen das Gleiche nützt —, zögert nicht, den Potidaiaten, Dorern, die von Ionern belagert werden, zu strafen — das war vorher umgekehrt —, und den übrigen die Freiheit zu verschaffen. Wartend ist es nicht mehr möglich...
 
+§2 Sondern weil ihr in die Notwendigkeit gekommen seid, ihr Bundesgenossen — und zugleich das Beste gesagt wird —, stimmt für den Krieg, ohne die unmittelbare Gefahr zu fürchten, sondern das Verlangen nach dem daraus in längerer Zeit entstehenden Frieden habend. Denn aus dem Krieg wird der Frieden fester bestätigt; aus dem Stillhalten aber ist es nicht gleichermaßen gefahrlos.
+
+§3 Und die in Griechenland festgesetzte Stadt als Tyrannen über alle errichtet achtend, lasst uns losziehen und beistehen: Damit wir selbst fortan ohne Gefahr wohnen und die jetzt versklavten Griechen befreien.« So sprachen die Korinther.
 ---
 
 ### Kapitel 125
 
-§1 Die Peloponnesier zogen über den Isthmos und in Attika ein. Die ersten Rauchsäulen stiegen auf. Die ersten Berichte kamen nach Athen. Der Krieg war jetzt da.
+§1 Die Lakedaimonier aber, als sie von allen die Meinung gehört hatten, brachten die Abstimmung über alle anwesenden Bundesgenossen herbei, der Reihe nach, der großen wie der kleinen Stadt. Und die Menge stimmte für den Krieg.
 
+§2 Da es ihnen aber, beschlossen, unmöglich war, unvorbereitet zu beginnen, schien es richtig, dass jeder das Seine beibringe und kein Zögern sei. Trotzdem verging, als sie das Notwendige aufstellten, nicht ein Jahr, sondern weniger, bevor sie in Attika einbrachen und den Krieg offen begannen.
 ---
 
 ### Kapitel 126
