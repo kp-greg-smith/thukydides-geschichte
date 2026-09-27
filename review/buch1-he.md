@@ -153,6 +153,19 @@ Zweitprüfung: work/he/review/batch11.md. Meldungen: 14 in 15 Einträgen (1 Bloc
 - Bestätigt: ALLE Sonderprüfungen bestanden — Halieis im Körper (die EN-Panne fehlt hier), White Wall wie verordnet, historische Präsens einheitlich Präteritum (EN-konsistent, kein Nebeneinander), fünfzig Trieren, כוח חילופין, לשון המנדס, die ἔσχον-Doppellesart vorbildlich dokumentiert; Geheimversprechen an überlieferter Stelle; alle Zahlen (300, 70, 200, 1500+10000, 1000/14000, 62. Tag, ~12 Tage, 100 Geiseln, Jahr½, sechs Jahre, 50); sämtliche Zwölf/Dreizehn-Addendum-Namen auf dem Druck.
 Alle 14 Meldungen angenommen (alle mit Text- oder Vermerkseingriff).
 
+### Kap. 111–120 (Batch 12) — 35 Abschnitte
+Zweitprüfung: work/he/review/batch12.md. Meldungen: 16 in 10 Einträgen (1 Blocker, 15 Minor).
+- Blocker 1.120.2: ἐνηλλάγησαν — das einzige Vorkommen der Wurzel im ganzen Quelltext (byte-verifiziert; der Abschlussbericht des Übersetzers hatte die Existenz des Verbs geleugnet — die Falschmeldung dokumentiert) — von „באו עמם במגע“ auf die Unrecht-Seite gestellt („ומקרבנו — כל שכבר נעשה להם עוול בידי האתונאים — אינם צריכים לימוד“), der gestrandete Partitiv wieder auf die Verbündeten bezogen, der Crux-Vermerk mit byte-genaue Zitat ergänzt; die Konstruktion trägt jetzt den a-fortiori der Bündnisrede.
+- 1.120.1 die οὐ-Skala korrigiert: beide Adjuncta stehen unter dem einzigen ὡς οὐ („ושלא קיבצו אותנו עתה“ als zurückgenommene Anklage, nicht als zweiter Schuldgrund); Crux-Vermerk (ὡς οὐ + das harte ἐψηφισμένοι… εἰσι) ergänzt; mein eigener Regel-Vermerk war im Griechischen korrumpiert (τὸ statt überliefert τὰ, προσκοπεῖν in hebräischen Buchstaben mitten im Griechischen — vom Prüfer codepunkt-verifiziert) — sauber neu geschrieben; der Reden-Kontinuitäts-Vermerk ergänzt (das Quellen-Anführungszeichen schließt außerhalb von Kap. 120; alle fünf ’ im Kapitel sind Elisionsapostrophe — verifiziert).
+- 1.120.2-Rest: „אם יעדיפו הארצות שבחוף“ → „אם תיאבדנה“ (πρόοιντο = verloren gehen, nicht wählen); τοῖς κάτω von der Gebiets- auf die Personen-Lesung harmonisiert („אנשי החוף“ — parallel zu EN „those below“ und UK „тих, що внизу“); der Vermerk inventarisiert jetzt τοῖς κάτω, τὰ κάτω und μὴ ἐν πόρῳ wörtlich, die schwächere Lesart „לא במרחק מן הים“ bleibt gelebt dokumentiert.
+- 1.114.2: τὸ πλέον wiederhergestellt („בעיקרו של דבר לא התקדמו עוד“) — die absolute Lesart („gar nicht mehr vorgerückt“) beseitigt; Vermerks-Anhang zur Ausführung.
+- 1.116.1: die Boten-Inversion behoben („להודיע שיבואו לעזור“ — der Hilferuf, nicht die Selbstansage); ἐς προσκοπὴν τῶν Φοινισσῶν νεῶν vom Wächter-Duktus auf den Überfall-Sinn („לארוב לאוניות הפיניקיות“); der δεκάτου auf die Datum-Bewahrung angehoben („פריקלס — „העשירי“ — סטרטגוס“ + Regel-4-Notiz; die frühere Konstrual „בפעם העשירית לו“ war eine stille Lösung) — damit tri-sprachig deckungsgleich mit EN und UK; ἀπὸ Μιλήτου-Vermerk ergänzt (der Doppelantäzedenz bleibt offen).
+- 1.118.2: ἰσχύς auf den Editions-Slot עוצמה rückgestellt (כוח bleibt δῠ́ναμις vorbehalten; der Prüfer verifizierte neun frühere עוצמה-Stellen — der Batch-08-Ledger damit editionweit geschlossen); μάλιστα → „לכל היותר“; die beiden fehlenden Vermerke ergänzt (σαφῶς ᾔρετο mit der Aufstiegs-Lesart = EN/UK-paritätisch, die Gegensatz-Lesart dokumentiert; die zeitliche ἀρχή).
+- Vermerks-Ergänzungen: περὶ τῇ Ποτειδαίᾳ (1.119.1 — das Kapitel trug gar keinen Vermerk); εὖ δὲ παρασχὸν ἐκ πολέμου πάλιν ξυμβῆναι (1.120.3, die überlieferte Dunkelheit dokumentiert; der Körper auf „ומשעמדו יפה“ geglättet); das Register-Haar השליטים → הפקידים (τοὺς ἄρχοντας = die Beamten, nicht „Herrscher“).
+- Namens-Adjudikation: „אנשי ביזנטיון“ genehmigt (Muster אנשי+Stadt wie אנשי סאמוס; mein eigener Vorschlag הביזנטים zurückgezogen; kein früheres Byzanz-Vorkommen im Buch, das anders entscheiden könnte — verifiziert); die drei Review-Proposals הקפריסאים/הדלפים/פריינה bewilligt; Priene wie Прієна/Priene ins Vierzehn-Addendum aller drei Briefings nachgetragen — der im EN fehlende Priene-Vermerk post facto ergänzt und für das nächste EN-Protokoll notiert.
+- Bestätigt: der στρατηγοῦντος-Slot ×5 als סטרטגוס (eine Batch-11-Reparatur ohne Regression); σπονδ- und ὁμολογ- eindeutig getrennt (Fortschritt gegenüber den Batches 10–11); die Naht 1.115.4→5 auf dem überlieferten Komma gespiegelt; beide historischen Präsentien normalisiert; alle Zahlen wörtlich exakt; Regel 6 dicht (Milesier-Klage, samische Motive, Pissuthnes, Perikles, die Kongress-Rede an die Verbündet gerichtet — die zwei Verzerrungen behoben).
+Alle 16 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
@@ -166,10 +179,10 @@ Alle 14 Meldungen angenommen (alle mit Text- oder Vermerkseingriff).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 437 in den Kapiteln 1–110 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 437 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 153 Fundstellen (8 Blocker, 145 Minor).
+- Übersetzte Abschnitte: 472 in den Kapiteln 1–120 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 472 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 169 Fundstellen (9 Blocker, 160 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 111–120: Übersetzung im Gang; Kapitel 121–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 121–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
