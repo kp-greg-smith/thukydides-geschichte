@@ -144,3 +144,12 @@ button:focus-visible, select:focus-visible, a:focus-visible { outline: 2px solid
   :root { --paper: #fff; --ink: #000; --line: #999; --glow: none; color-scheme: light; }
   .reader-toolbar { display: none; }
 }
+
+/* Language-aware defaults and layout for current and future editions. */
+:root:lang(grc):not([data-font]) { --reader-font: "Source Serif 4", serif; }
+:root:lang(he):not([data-font]) { --reader-font: system-ui, sans-serif; }
+[dir="rtl"] td, [dir="rtl"] th { text-align: start; }
+.table-scroll { overflow-x: auto; }
+.table-scroll table { min-width: 36rem; }
+select { max-width: 100%; }
+.source-note, .reader-toolbar, nav { hyphens: none; }

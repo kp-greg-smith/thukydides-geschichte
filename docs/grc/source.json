@@ -1,0 +1,14 @@
+{
+  "title": "Thucydides, Historiae",
+  "editor": "Henry Stuart Jones",
+  "publisher": "Oxford University Press",
+  "published": 1910,
+  "reprint": 1942,
+  "provider": "Perseus Digital Library, Tufts University",
+  "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6/data/tlg0003/tlg001/tlg0003.tlg001.perseus-grc2.xml",
+  "revision": "bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6",
+  "sha256": "c418cbbc18d730ea4e0ba80d15425d89e21624c5eca1060f1430e11e1c478ac6",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "transformation": "TEI XML to HTML; whitespace normalized, section identifiers and navigation added; wording unchanged."
+}

@@ -1,3 +1,5 @@
+> Historische Prüfnotizen. Enthaltene Generatorentwürfe und Angaben zu MD/PDF sind archiviert; maßgeblich sind die aktuelle README und die HTML-Ausgaben unter `docs/`.
+
 Teil 1 ist fertig: Kapitel 1–30 in DeepSeeks Text sind korrigiert. Die Datei ersetzt direkt generate.py im Repo; alles ab Kapitel 31 und Buch 2 ist unverändert. Die §-Zählung stimmt jetzt in allen 30 Kapiteln mit dem Griechischen überein.
 
 Neu übersetzt (Kap. 26–30): DeepSeek hatte hier die Inhalte verschoben und teils erfunden. In seinem Kapitel 28 stand etwa schon die Seeschlacht, die erst in Kapitel 29 kommt, und in Kapitel 30 begann bereits die Rede der Kerkyräer, die erst in Kapitel 32 anfängt.

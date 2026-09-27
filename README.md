@@ -1,93 +1,104 @@
-# Thucydides: Der Peloponnesische Krieg
+# Thucydides: History of the Peloponnesian War
 
-A modern German translation of Thucydides' *History of the Peloponnesian War* — all eight books, translated directly from the Ancient Greek.
+[English](README.md) · [Deutsch](README_DE.md) · [Українська](README_UK.md) · [עברית](README_HE.md) · [Ἑλληνική](README_GRC.md)
 
-## What this repository contains
+A multilingual HTML reading edition of the Ancient Greek original and direct translations into German, English, Ukrainian, and Hebrew. The goal covers all eight books; the translations are not yet complete. This scope update adds no new translations.
 
-- **Complete German translation** of Thucydides in three formats:
-  - **Markdown** (`.md`) — readable plain text with section numbering
-  - **HTML** (`.html`) — styled for browser reading
-- **Full Book 1** (146 chapters, Kapitel 1–146) — Archeology, speeches, and pre-war history
-- **Books 2–8** — in progress
+[Open the reading portal](docs/index.html). It lists the current status and links only to editions that exist.
 
-## Current status
+## Available editions
 
-| Book | Chapters | Status |
-|------|----------|--------|
-| 1 | 146 | ✅ Complete (Kapitel 1–146, aus dem Griechischen übersetzt) |
-| 2 | 103 | ⬜ Pending |
-| 3 | 116 | ⬜ Pending |
-| 4 | 135 | ⬜ Pending |
-| 5 | 116 | ⬜ Pending |
-| 6 | 105 | ⬜ Pending |
-| 7 | 87 | ⬜ Pending |
-| 8 | 109 | ⬜ Pending |
+| Language | Role | Books available | Remaining work |
+|---|---|---|---|
+| Ancient Greek (`grc`) | **Original**, not a translation | [Books 1–8](docs/grc/book1.html), imported from the cited edition | Further editorial checks; no new transcription claimed |
+| German (`de`) | Translation | [Book 1](docs/de/book1.html): 146 chapters, 580 sections | Books 2–8 not started |
+| English (`en`) | Translation | None | Books 1–8 planned |
+| Ukrainian (`uk`) | Translation | None | Books 1–8 planned |
+| Hebrew (`he`) | Translation, right-to-left | None | Books 1–8 planned |
 
-> **Revision Buch 1 (2026-09-27):** Gesamtdurchgang abgeschlossen. (1) Kapitel 118–146 aus dem Griechischen ergänzt und korrigiert (zehn abgebrochene Abschnitte, Sinnfehler in 133.1, 134.1, 137.4, 140.1; 76.2), Schlüsselbegriffe vereinheitlicht. (2) αἰτία nach *Bedeutung* geregelt: Vorwurf bei Anschuldigung, Ursache/Schuld/Verantwortung bei kausalem Sinn (35.4, 39.3, 55.2, 69.1, 74.1, 83.3, 99.1 — mit kurzen [Anm.]-Angaben). (3) **Kapitel 31–117 abschnittweise gegen den griechischen OCT-Text verifiziert** (580 Paragrafen lückenlos geprüft): rund 120 Stellen berichtigt — fehlende Satzschlüsse (u. a. 32.5, 33.2–3, 36.1, 69.5, 82.1, 107.2–3, 111.1, 113.1, 114.1), Sinnumkehrungen (u. a. 31.3, 40.3, 40.6, 63.2, 66.1, 73.1, 76.4, 99.2, 104.2), erfundene Wörter und Zahlen (u. a. 40.5, 49.1, 70.7, 105.3, 107.5–7, 115.5, 116.1).
+“Available” describes coverage, not a guarantee that no corrections remain. German Book 1 has an existing revision history, including the section-by-section review of chapters 31–117 recorded on 2026-09-27. This scope update preserves all 580 German sections; it does not claim a new philological review. Translated READMEs describe the project and do not count as translated books.
 
-## Source text
+## Translation policy
 
-The Greek source is the Perseus Digital Library edition:
+Translate faithfully and readably, not word for word, and directly from Ancient Greek. Braun, Hobbes, Crawley, and other translations may only help with understanding; they must not serve as the source text or be copied as the translation.
 
-> Thucydides. *Historiae*. Edited by Henry Stuart Jones. Oxford: Oxford University Press, 1910/1942.
-> [PerseusDL/canonical-greekLit](https://github.com/PerseusDL/canonical-greekLit) — `tlg0003.tlg001.perseus-grc2.xml`
+1. **Consistency by sense.** Use a stable equivalent for each meaning, not a single equivalent for every occurrence of a word. In particular, αἰτία may mean accusation, cause, blame, or responsibility; do not prohibit a causal rendering where the Greek requires it.
+2. **No additions or exaggeration.** Do not introduce explanations, imagery, claims, or emphasis absent from the Greek.
+3. **No softening.** Preserve the force of harsh statements and political vocabulary; for example, German δουλεία remains *Knechtschaft* in that sense.
+4. **Notes for genuine uncertainty.** Add a brief note for textual uncertainty, genuine interpretive questions, or a significant change in a key term’s sense. Notes are not limited to damaged or corrupt text. German notes use `[Anm.: …]`; other languages use an equivalent label.
+5. **Preserve ambiguity.** Where the Greek allows more than one reading, retain that openness where possible rather than silently choosing one. Explain unavoidable choices in a brief note.
+6. **Extra care with speeches and indirect speech.** Preserve the speaker, addressee, argument, reported viewpoint, conditions, negation, modality, and temporal relations. Do not turn reported claims into the narrator’s assertions.
 
-Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+### Glossary for the existing German translation
 
-## Design goals
+These are German equivalents, not prescribed English, Ukrainian, or Hebrew renderings. Establish a separate sense-based glossary before translating each new language. Entries describe the relevant senses in this work; context governs polysemous words.
 
-This translation follows five strict rules, applied consistently:
+| Greek | German rendering by sense |
+|---|---|
+| πρόφασις (próphasis) | Grund; 1.23.6: ἀληθεστάτη: wahrster Grund |
+| αἰτία (aitía) | Vorwurf / Anschuldigung; kausal: Ursache / Schuld / Verantwortung |
+| ἔγκλημα (énklēma) | Beschuldigung |
+| στάσις (stásis) | Bürgerkrieg |
+| δύναμις (dýnamis) | Macht |
+| παρασκευή (paraskeuḗ) | Rüstung |
+| δουλεία (douleía) | Knechtschaft |
+| λόγος / ἔργον (lógos / érgon) | Wort / Tat |
+| χρήματα (chrḗmata) | Mittel |
+| τεκμήριον (tekmḗrion) | Indiz |
+| σημεῖον (sēmeîon) | Anzeichen |
+| μαρτύριον (martýrion) | Zeugnis |
+| λῃστεία (lēisteía) | Räuberei |
+| τὸ μυθῶδες (tò mythōdes) | das Mythische |
+| σπονδαί (spondaí) | Vertrag |
+| διαφοραί (diaphoraí) | Streitpunkte |
 
-| Rule | |
-|------|-----|
-| **1. Consistent key terms** | A fixed German equivalent per *sense*: where a term has distinct senses (e.g. αἰτία accusation vs. cause), each sense gets its own fixed rendering; the few sense-shifts carry a brief `[Anm.: …]` |
-| **2. Nothing added, nothing exaggerated** | No embellishments absent from the Greek |
-| **3. No softening** | δουλεία is always *Knechtschaft*, never watered down |
-| **4. Notes only for genuine doubts** | `[Anm.: …]` only where the manuscript is corrupt, or where a key term shifts sense |
-| **5. Preserving ambiguities** | Where the Greek is ambiguous, the ambiguity is preserved |
+## Workflow for future books and languages
 
-### Key term glossary
+1. Work on **at most ten chapters per assignment**. State the language, book, chapter range, and source edition before starting.
+2. Keep the actual Greek source beside the translation **section by section**, using book.chapter.section identifiers. Check every passage against Greek, not only against another translation.
+3. After each batch, run an **automatic check of section counts/identifiers, source-to-translation length ratios, and potentially unfinished sentences**. The local checker below reports missing/duplicate sections as errors and unusual ratios or sentence endings as review warnings.
+4. Resolve structural errors and manually inspect every warning against the Greek. Length and punctuation checks are heuristics, not proof of translation quality. Review speeches and indirect speech separately.
+5. Publish only existing HTML editions under `docs/<language>/book<N>.html`. Retain section IDs, set `lang="grc"`, `"de"`, `"en"`, `"uk"`, or `"he"`; Hebrew also needs `dir="rtl"`. Add tested glyph coverage for the language. Do not create empty book links.
+6. Update the reading portal and all five READMEs in the same change. Record exact coverage and distinguish planned, in-progress, available, and reviewed work. Preserve all six rules when adding an edition.
 
-| Greek | German | Never translated as |
-|-------|--------|---------------------|
-| πρόφασις (*prophasis*) | Grund (nur in 1.23.6, mit *alēthestátē*: wahrster Grund) | Ursache, Anlass, Motiv |
-| αἰτία (*aitia*) | Vorwurf (Anschuldigung); kausal: Ursache / Schuld / Verantwortung (mit kurzer [Anm.]) | Beschwerde, Beschuldigung; »Vorwurf« nie in kausaler Bedeutung |
-| ἔγκλημα (*enklēma*) | Beschuldigung | Beschwerde, Vorwurf |
-| στάσις (*stasis*) | Bürgerkrieg | Aufruhr, Zwietracht |
-| δύναμις (*dynamis*) | Macht | Stärke, Kraft |
-| παρασκευή (*paraskeuē*) | Rüstung | Vorbereitung |
-| δουλεία (*douleia*) | Knechtschaft | Abhängigkeit |
-| λόγος / ἔργον | Wort und Tat | Rede und Handlung |
+```bash
+python3 scripts/check_translation.py --language de --book 1 --start 1 --end 10
+python3 scripts/build_original.py
+```
 
-Translations are in [`de_translations/`](de_translations/).
+## Repository and reader
 
-## License
+- `docs/index.html`: reading portal and language status.
+- `docs/grc/book1.html` … `book8.html`: Ancient Greek **Original**.
+- `docs/grc/source.xml` and `source.json`: unmodified source and pinned provenance/hash.
+- `docs/de/book1.html`: the authoritative German edition; `docs/buch1.html` redirects old links.
+- `docs/assets/`: shared reader controls and eight locally bundled OFL fonts.
+- `scripts/`: original-text renderer and batch checker; `review/`: existing editorial notes.
+- `README.md`: English project documentation; `README_DE.md`, `README_UK.md`, `README_HE.md`, `README_GRC.md`: localized documentation.
 
-This translation: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
-Greek source: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+There is no Markdown edition of the work and no `de_translations/` directory. Markdown remains in use for documentation and review notes. No build is required to read the HTML: open `docs/index.html` or serve `docs/` with GitHub Pages. The reader offers saved font and light/dark choices; dark mode uses warm yellow on black, light mode muted papyrus. Greek defaults to Source Serif 4; Hebrew editions must use RTL layout and suitable glyph fallbacks.
 
-HTML typography: eight locally bundled, unmodified fonts under the SIL Open Font License 1.1. See the [font list, licenses, and sources](docs/assets/fonts/README.md). Almendra is the default; historical and reading-oriented alternatives are available.
+## Source, attribution, and licenses
 
-The HTML reader offers a font selector with eight openly licensed families and a Dark Mode toggle with warm golden-yellow text on black and no glow. It initially follows the system appearance, and remembers your font and color choices when browser storage is available. Both HTML editions use the shared assets in `docs/assets/`; keep these alongside the HTML files for offline reading.
+The **Original** reproduces the text of the cited modern edition, not an autograph or an independently established critical text:
 
-## Structure
+> Thucydides, *Historiae*, edited by Henry Stuart Jones. Oxford University Press, 1910; reprint 1942. Digital text: Perseus Digital Library, Tufts University, [PerseusDL/canonical-greekLit](https://github.com/PerseusDL/canonical-greekLit).
 
-| Book | Chapters | Content |
-|------|----------|---------|
-| 1 | 146 | Archeology (1–23), Kerkyra conflict (24–55), Congress at Sparta (56–88), Pentekontaetia (89–118), Pericles' final speeches (119–146) |
-| 2 | 103 | Outbreak of war (1–33), Theban attack on Plataea (2–6), Funeral Oration (34–46), The Plague (47–54), Pericles' death (59–65), Early campaigns |
-| 3 | 116 | Revolt of Mytilene, Plataea's fall, Civil war at Kerkyra |
-| 4 | 135 | Pylos and Sphacteria, Brasidas in Thrace |
-| 5 | 116 | Peace of Nicias, Melian Dialogue |
-| 6 | 105 | Sicilian Expedition |
-| 7 | 87 | Sicilian disaster |
-| 8 | 109 | Decelean War, Oligarchy of the Four Hundred |
+The exact revision, source URL, SHA-256, and transformation are recorded in [source.json](docs/grc/source.json). The HTML normalizes whitespace and adds headings, section IDs, and navigation; it does not modernize or translate the wording. Preserve the source attribution and [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) for the source and the derived Greek HTML.
 
-## Section numbering
+The existing German translation is released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/); document the licensing of future contributions explicitly. Fonts retain their own [SIL OFL 1.1 licenses and copyright notices](docs/assets/fonts/README.md), separate from text licenses. Embedding and redistribution with the project are permitted under those terms.
 
-Sections use **§**, following the Henry Stuart Jones (1910) Oxford Classical Text division.
+## Book structure
 
-Thucydides wrote on papyrus rolls in *scriptio continua* — continuous script without word separation, punctuation, or paragraphs. The numbering is modern convention.
+| Book | Chapters | Greek sections |
+|---|---|---|
+| 1 | 146 | 580 |
+| 2 | 103 | 463 |
+| 3 | 116 | 470 |
+| 4 | 135 | 531 |
+| 5 | 116 | 391 |
+| 6 | 105 | 391 |
+| 7 | 87 | 363 |
+| 8 | 109 | 398 |
 
----
-*Generated: 2026-09-27*
+Book 1: early history (1–23), Corcyra (24–55), Potidaea and Sparta (56–88), Pentekontaetia (89–118), Corinthian speech and deliberations (119–125), Cylon, Pausanias, and Themistocles (126–138), final negotiations (139), Pericles’ speech (140–144), and the final pre-war situation (145–146). Section numbers follow the cited edition; use `§` in the reader.
