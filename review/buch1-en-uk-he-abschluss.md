@@ -21,7 +21,7 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 | 61–70 | 45 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 71–80 | 43 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 81–90 | 42 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
-| 91–100 | 39 | offen |
+| 91–100 | 39 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 101–110 | 42 | offen |
 | 111–120 | 35 | offen |
 | 121–130 | 43 | offen |
@@ -175,6 +175,20 @@ Alle 42 Abschnitte je Sprache am Griechischen gelesen; EN/UK je 39, HE 38 übera
 - 1.90.1–5: Kenntnis des Bauvorhabens statt Vorahnung der Zukunft; bisher nicht erreichte Flottengröße. Verschwiegen werden wahre Absicht und eigene Verdachtsmomente, nicht bloß die verdächtige Form des Ratschlags. Theben als kürzlich genutzte persische Basis; erforderliche Mindesthöhe, zurückgehaltene Mitgesandte und Materialgewinnung aus öffentlichen wie privaten Bauten erhalten. Auftritt vor der Versammlung statt abstrakter Bearbeitung öffentlicher Angelegenheiten.
 
 Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 42/42 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 91–100
+
+Alle 39 Abschnitte je Sprache am Griechischen gelesen; EN/HE je 37, UK 38 überarbeitet. Frühere Korrekturen in 1.93.2 sowie 1.93.4 EN/HE bestätigt.
+
+- 1.91.1–92.1: Täuschung und wechselseitiges Festhalten der Gesandten mit eindeutigen Bezügen; spartanischer Beratungsanspruch als behauptetes Motiv. Gleiche Beratung setzt vergleichbare Mittel voraus, nicht Fortsetzung eines Krieges ohne Mauern.
+- 1.93.3–8: jährliches Archontenamt, drei Häfen, rechtwinklig bearbeitete Mauersteine und nur halbe geplante Höhe erhalten. Weniger einsatzfähige Wachleute sind nicht moralisch schlechte Menschen (HE). Thukydides markiert seine eigene Deutung von Themistokles’ Flottenpolitik ausdrücklich.
+- 1.94.1–95.7: Eroberung von Byzanz statt bloßem Ende einer Belagerung; Gewalt, Führungswechsel und Heimberufung klar verbunden. Persönliche Verfehlungen gegenüber Freispruch in den schwersten Punkten unterschieden. Befürchtete Verderbnis auswärtiger Kommandanten ist kein Vergleich mit schlechteren Spartanern (HE). Athen galt damals als befreundet, nicht bloß praktisch nützlich.
+- 1.96.1–97.2: erklärte Zielsetzung ohne zusätzlichen ausdrücklichen Fiktionsvorwurf (UK/HE); Amt der Schatzmeister, kein unbelegter Rat. Politische Maßnahmen statt pauschaler Strafunterdrückung (UK). Hellanikos’ knappe ungenaue Darstellung gegenüber der allgemeinen Überlieferungslücke verständlich.
+- 1.98.1–4: Versklavung der Einwohner und Unterwerfung einer verbündeten Stadt ausdrücklich; Naxos tatsächlich zur Aufgabe gezwungen, nicht bloß belagert (EN).
+- 1.99.1–3: `ἔκδειαι` bezeichnet ausbleibende Beiträge an Geld und Schiffen, nicht deren Erhebung (Fehler in allen drei Sprachen). Ungleiche Stellung der Verbündeten statt bloß ungleicher Truppenstärke (HE); deren Geldbeiträge stärken Athens Flotte und schwächen ihre eigene Kriegsfähigkeit.
+- 1.100.1–3: ungefähr zweihundert erbeutete und zerstörte Schiffe insgesamt; Thasos’ Besitz und Siedlerzug klar zugeordnet. Vorstoß ins thrakische Binnenland, nicht aus Thrakien heraus (HE).
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 39/39 Abschnitte, keine Fehler oder Prüfhinweise.
 
 ### 131–140
 
