@@ -24,7 +24,7 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 | 91–100 | 39 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 101–110 | 42 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 111–120 | 35 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
-| 121–130 | 43 | offen |
+| 121–130 | 43 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 131–140 | 38 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 141–146 | 27 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 
@@ -218,6 +218,22 @@ Alle 35 Abschnitte je Sprache am Griechischen gelesen; EN 31, UK/HE je 32 übera
 - 1.120.4–5: Übermaß **aufgrund** militärischen Erfolgs, nicht bloß ein Übermaß an Glück. Sichere Planungssituation gegenüber Angst im tatsächlichen Handeln; keine Behauptung, nur sichere Pläne würden erwogen (EN).
 
 Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 35/35 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 121–130
+
+Alle 43 Abschnitte je Sprache am Griechischen gelesen und sprachlich überarbeitet.
+
+- 1.121.1–5: verständliche hebräische Kriegsbegründung statt beschädigter Formen. Eigene Mannschaften gegenüber angeworbenen Seeleuten, Geldaufnahme und mögliche Abwerbung klar unterschieden. Erbeutetes Geld könnte **gegen seine bisherigen Besitzer eingesetzt** werden; der Schaden besteht nicht nur im Geldverlust.
+- 1.122.1–4: Bündnisaufstände entziehen Einnahmen; ruhiges Handeln gegenüber schweren Rückschlägen durch Zorn. `οἰστόν` heißt **erträglich**, nicht ein „Stich“ (UK/HE). Gemeinsamer Widerstand, drohende Versklavung und Gegensatz zwischen vertriebenen Einzeltyrannen und geduldeter Tyrannenstadt erhalten. Rhetorische Zurückweisung vermeintlicher Überheblichkeit statt umgekehrter Behauptung bereits vermiedener Mängel.
+- 1.123.1–2: gegenwärtige Lage bessern, nicht nur anwesenden Personen helfen. Gott hält den Vertrag für **bereits verletzt**, nicht seine Verletzung abstrakt für Unrecht (EN). `ἠδικημέναις` bezieht sich auf die **Vertragsbestimmungen**, denen beigestanden werden soll, nicht auf ungenannte Geschädigte (alle drei Fassungen).
+- 1.124.1–3: gemeinsames Interesse bindet Städte wie Einzelpersonen; keine Gleichsetzung städtischer und privater Interessen. Hilfe für Potidaia, nicht mechanische Vergeltung (UK). Warten trotz gegenwärtiger und bevorstehender Schädigung als unannehmbar formuliert. `παραστησώμεθα` fordert ausdrücklich **Unterwerfung** Athens, nicht nur Vorbeugung (EN) oder Widerstand (UK/HE).
+- 1.125.1–126.6: Abstimmungsfolge und Vorbereitung trotz Kriegsbeschluss erhalten. Kylon hält den Olympiatermin für persönlich passend, nicht eine Leistung für ihm geschuldet (EN). Unbestimmtheit des Orakels, höchstes Fest und lokale unblutige Opfer verständlich, ohne zusätzliche Opferart zu erfinden.
+- 1.126.7–12: Vollmacht der neun Archonten und Tötung trotz Sicherheitszusage erhalten. `σεμνῶν θεῶν` als Verehrte **Göttinnen** (EN/UK). Kleomenes vertreibt die Familie **zusammen mit einer athenischen Partei**, nicht bloß während eines Bürgerkriegs (alle drei Fassungen).
+- 1.127.1–3: vorgeschobene religiöse Begründung, mütterliche Abstammung und gewünschte Diskreditierung unterschieden. Kriegsgrund wäre die an Perikles haftende Befleckung, nicht sein politischer Sturz (HE).
+- 1.128.1–7: Spartas eigene Deutung des Erdbebens bleibt zugeschrieben. Pausanias’ private Rückkehr ohne Vollmacht; behaupteter griechischer Kriegseinsatz, keine neue Kriegsepoche. Beginn der Königsverbindung wird **rückblickend durch die folgende Tat erklärt**, nicht auf den Zeitpunkt der zweiten Rückkehr verlegt. Dritte Person am Briefanfang mit folgendem Ich erhalten.
+- 1.129.1–130.2: königliche Angelegenheiten als Bezug des Auftrags; Xerxes verlangt ununterbrochene Tätigkeit, kein Verbot, mit der Arbeit aufzuhören, durch verdrehte Verneinung (HE). Briefschluss „**uns** beiden“, nicht „euch beiden“ (UK). Kleine verräterische Handlungen statt zeitlich kurzer Taten; hebräischen Doppelbuchstaben in „Ägypter“ entfernt.
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 43/43 Abschnitte, keine Fehler oder Prüfhinweise. Damit sind alle 580 Abschnitte je Sprache gelesen; Abschlusskontrollen und Statusabgleich folgen.
 
 ### 131–140
 
