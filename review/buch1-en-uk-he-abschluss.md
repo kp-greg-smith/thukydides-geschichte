@@ -14,7 +14,7 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 |---|---:|---|
 | 1–10 | 37 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 11–20 | 28 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
-| 21–30 | 44 | offen |
+| 21–30 | 44 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 31–40 | 45 | offen |
 | 41–50 | 41 | offen |
 | 51–60 | 31 | offen |
@@ -62,6 +62,22 @@ Alle 28 Abschnitte in jeder der drei Sprachen geprüft. 1.18.1 aus der früheren
 - 1.20.1–2: Vertrauen in einzelne Belege statt vermeintlicher Unmöglichkeit eines fortlaufenden Beweises. Die Attentäter **vermuten** eine Anzeige durch Mitverschwörer; sie werden nicht von diesen sicher darüber informiert.
 
 Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 28/28 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 21–30
+
+Alle 44 Abschnitte in jeder Sprache am Griechischen geprüft. EN/UK jeweils 44 und HE 43 Fassungen überarbeitet; die frühere Korrektur von 1.23.6 HE bestätigt.
+
+- 1.21.1: hinreichend gesicherte Rekonstruktion angesichts des Alters der Ereignisse; nicht bloß Feststellung, dass sie alt sind.
+- 1.22.1–4: Der Historiker hält sich an die Gesamtaussage der Reden, nicht deren Sprecher. Parteineigung und Gedächtnis als unterschiedliche Ursachen widersprüchlicher Berichte; die Nützlichkeit genügt dem Autor, nicht nur seinen Lesern.
+- 1.23.1–6: Vergleich mit jedem gleich langen Zeitraum, nicht nur anderen Kriegen; Zerstörungen durch Griechen, nicht zwangsläufig durch die eigenen Bürger einer Stadt. Eigentliche Ursache statt ukrainischem „wahrstem Vorwand“.
+- 1.24.4: langjährige innere Konflikte gehen dem hier genannten Krieg gegen die Barbaren voraus; sie sind nicht dessen Folge.
+- 1.25.1–4: erbetene Hilfe statt schematischer Vergeltung; Gründungsrecht, Opferbrauch und Flottenstärke vollständig erhalten.
+- 1.26.3–5: überhebliche Forderung ohne hinzugefügte ausdrückliche Drohung; Rückführung der Verbannten statt deren Eroberung. Freier Abzug auch für Fremde.
+- 1.28.2–5: Teilnahme an einem Schiedsverfahren, nicht eigene Tätigkeit als Richter; Bedingungen für beiderseitigen Abzug und die alternative Waffenruhe getrennt erhalten. Neue Freunde werden gesucht, keine bestehende Bündnisbindung hinzuerfunden.
+- 1.29.3–5: alte Schiffe werden verstärkt, nicht mehrere Schiffe miteinander verbunden. Vierzig Schiffe vor Epidamnos kommen zu den achtzig hinzu. Verkauf der Neuankömmlinge ausdrücklich in die Sklaverei; Korinther bleiben gefesselt.
+- 1.30.2–4: Elis leistet die Hilfe, nicht der Hafen Kyllene als eigenes Gemeinwesen. `περιιόντι τῷ θέρει` als fortgeschrittenes/zu Ende gehendes Sommerhalbjahr, nicht als neuer Sommer; vgl. das ausdrückliche Beispiel bei [Smyth, Greek Grammar, zeitliche Partizipien](https://grammars.alpheios.net/smyth/xhtml/body.1_div1.4_div2.18.html). Rückzug bei bereits eingetretenem Winter.
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 44/44 Abschnitte, keine Fehler oder Prüfhinweise.
 
 ### 131–140
 
