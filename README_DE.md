@@ -12,9 +12,9 @@ Eine mehrsprachige HTML-Leseausgabe des altgriechischen Originals und direkter �
 |---|---|---|---|
 | Altgriechisch (`grc`) | **Original**, keine Übersetzung | [Bücher 1–8](docs/grc/book1.html), vollständiger Text der angegebenen Edition | — |
 | Deutsch (`de`) | Übersetzung | [Buch 1](docs/de/book1.html): 146 Kapitel, 580 Abschnitte; Lesbarkeitsdurchgang mit Gegenprüfung am Griechischen abgeschlossen; [Buch 2](docs/de/book2.html): Kapitel 1–80 (342 von 463 Abschnitten), sprachlich überarbeitet und am Griechischen geprüft | Buch 2, Kap. 81–103 nicht begonnen; Bücher 3–8 geplant |
-| Englisch (`en`) | Übersetzung | [Buch 1](docs/en/book1.html): Kapitel 1–120 (472 von 580 Abschnitten), geprüft | Buch 1, Kap. 121–146 in Arbeit; Bücher 2–8 geplant |
-| Ukrainisch (`uk`) | Übersetzung | [Buch 1](docs/uk/book1.html): Kapitel 1–120 (472 von 580 Abschnitten), geprüft | Buch 1, Kap. 121–146 in Arbeit; Bücher 2–8 geplant |
-| Hebräisch (`he`) | Übersetzung, von rechts nach links | [Buch 1](docs/he/book1.html): Kapitel 1–120 (472 von 580 Abschnitten), geprüft | Buch 1, Kap. 121–146 in Arbeit; Bücher 2–8 geplant |
+| Englisch (`en`) | Übersetzung | [Buch 1](docs/en/book1.html): 146 Kapitel, 580 Abschnitte; abschließende Gegenprüfung am Griechischen läuft | Buch 1: Abschlussprüfung Kap. 1–130; Buch 2 in Arbeit; Bücher 3–8 geplant |
+| Ukrainisch (`uk`) | Übersetzung | [Buch 1](docs/uk/book1.html): 146 Kapitel, 580 Abschnitte; abschließende Gegenprüfung am Griechischen läuft | Buch 1: Abschlussprüfung Kap. 1–130; Buch 2 in Arbeit; Bücher 3–8 geplant |
+| Hebräisch (`he`) | Übersetzung, von rechts nach links | [Buch 1](docs/he/book1.html): 146 Kapitel, 580 Abschnitte; abschließende Gegenprüfung am Griechischen läuft | Buch 1: Abschlussprüfung Kap. 1–130; Buch 2 in Arbeit; Bücher 3–8 geplant |
 
 „Vorhanden“ bezeichnet den Umfang, keine Fehlerfreiheit. Auf die am 27.09.2026 dokumentierte [Prüfung der Kapitel 31–117](review/buch1-kap31-117.md) folgte am 28.09.2026 ein [Lesbarkeitsdurchgang für das gesamte deutsche Buch 1](review/buch1-de-lesbarkeit.md). Alle 580 Abschnitte wurden sprachlich überarbeitet und erneut mit dem griechischen Text verglichen. Die [Nachprüfung von Buch 2, Kapitel 1–80](review/buch2-de.md) umfasst alle 342 vorhandenen Abschnitte; 206 wurden korrigiert oder sprachlich überarbeitet. Übersetzte READMEs sind Projektdokumentation und zählen nicht als übersetzte Bücher.
 
