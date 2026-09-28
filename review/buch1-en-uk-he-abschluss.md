@@ -23,7 +23,7 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 | 81–90 | 42 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 91–100 | 39 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 101–110 | 42 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
-| 111–120 | 35 | offen |
+| 111–120 | 35 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 121–130 | 43 | offen |
 | 131–140 | 38 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 141–146 | 27 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
@@ -204,6 +204,20 @@ Alle 42 Abschnitte je Sprache am Griechischen gelesen und sprachlich überarbeit
 - 1.109.1–110.5: in Ägypten bleiben statt bereits durchgehend ausharren; kein zusätzlicher Anspruch auf **ganz** Ägypten (HE). Durch Umleitung des Wassers wird die Insel ans Festland angeschlossen, nicht bloß zu trockenem Boden (UK). Ersatzflotte läuft die Nilmündung an, ohne sie zu erobern; Unkenntnis, Angriff von zwei Seiten und überlebender kleinerer Teil erhalten.
 
 Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 42/42 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 111–120
+
+Alle 35 Abschnitte je Sprache am Griechischen gelesen; EN 31, UK/HE je 32 überarbeitet. Frühere Korrekturen in 1.116.1, 1.120.2–3 sowie 1.120.1 EN bestätigt.
+
+- 1.111.1–3: Bewegungsradius beim Hauptheer, keine bloße Waffenreichweite (UK/HE). Oiniadai liegt **in Akarnanien**; die Fahrt führt nicht an Akarnanien vorbei (alle drei Fassungen).
+- 1.112.1–113.4: Krieg gegen Griechen nicht zum Eigennamen einer „Hellenischen Kriegs“-Epoche gemacht; See- und Landkampf sowie anschließende Rückkehr klar verbunden. Böotische Verbannte operieren aus Orchomenos, ohne dass alle ursprünglich aus dieser Stadt stammen müssen. Gefangenenrückgabe als Bedingung des Abzugs erhalten.
+- 1.114.1–115.5: Perikles ist bereits übergesetzt, nicht noch beim Übersetzen (HE). Abkommen mit den übrigen euböischen Gemeinden gegenüber Vertreibung der Hestiaier. Ungefähr siebenhundert **Söldner**, nicht exakt siebenhundert unspezifische Helfer (UK/HE). Samische Gegenpartei überwältigt die Mehrheit der Demokraten, kein unbestimmter Großteil des Ortes.
+- 1.116.2–117.3: Samische Gesandte fahren **zur** phönizischen Flotte, nicht zum Angriff auf sie (EN/UK; HE ebenso missverständlich). Verstärkungen aus Athen gelten eindeutig den Belagerern, nicht den zuvor genannten Samiern (UK/HE). Samos kapituliert im neunten Monat, keine Vertreibung durch die Belagerung (EN).
+- 1.118.1–3: **ungefähr** fünfzig Jahre statt höchstens fünfzig (UK/HE). Athen greift in Spartas Bündnis ein; eindeutige Bezüge statt unklarer eigener Allianz. Vertrag als bereits verletzt beurteilt, nicht nur abstrakt ungültig. Das Orakel bleibt ausdrücklich ein berichtetes Wort.
+- 1.119.1–120.1: vorherige Einzelwerbung um Stimmen von der anschließenden Bundesversammlung getrennt. Führungspflichten bei gleichen eigenen Ansprüchen gegenüber besonderer Ehrung verständlich.
+- 1.120.4–5: Übermaß **aufgrund** militärischen Erfolgs, nicht bloß ein Übermaß an Glück. Sichere Planungssituation gegenüber Angst im tatsächlichen Handeln; keine Behauptung, nur sichere Pläne würden erwogen (EN).
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 35/35 Abschnitte, keine Fehler oder Prüfhinweise.
 
 ### 131–140
 
