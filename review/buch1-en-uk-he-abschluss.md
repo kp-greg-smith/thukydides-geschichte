@@ -17,7 +17,7 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 | 21–30 | 44 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 31–40 | 45 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 41–50 | 41 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
-| 51–60 | 31 | offen |
+| 51–60 | 31 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 61–70 | 45 | offen |
 | 71–80 | 43 | offen |
 | 81–90 | 42 | offen |
@@ -111,6 +111,22 @@ Alle 41 Abschnitte je Sprache am Griechischen gelesen; EN/UK je 39, HE 38 übera
 - 1.50.2–5: größte bisherige Seeschlacht zwischen Griechen nach Schiffszahl; keine eigenmächtige Zuweisung des vorgetragenen Paian allein an Korinth. Rückwärtsrudern und zwanzig später nachgeschickte athenische Schiffe erhalten.
 
 Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 41/41 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 51–60
+
+Alle 31 Abschnitte je Sprache am Griechischen gelesen; EN 31, UK 29, HE 30 überarbeitet. 1.53.1 UK/HE und 1.54.2 UK aus der früheren Korrektur unverändert bestätigt. Die richtige Zahl und Anmerkung in 1.57.6 erhalten, den umgebenden Satzbau vereinfacht.
+
+- 1.51.1–2: zuerst wahrnehmende Korinther, nicht zwingend größere Entfernung; für Kerkyra ungünstigere Sicht auf die ankommenden Schiffe, nicht ausdrücklich Dunkelheit als einzige Ursache.
+- 1.51.4: bisher fehlende echte Textanmerkung in allen Sprachen ergänzt. Jones setzt `†Ἀνδοκίδης ὁ Λεωγόρου†`; Name und Patronymikon bleiben wie gedruckt, ohne erfundene Ersatzlesart.
+- 1.52.1–3: Bereitschaft Korinths zum Kampf wird erprobt; neue athenische Schiffe sind unversehrt, nicht bloß „plötzlich“ eingetroffen (UK/HE). Bewachung der Gefangenen und fehlende Reparaturmöglichkeit präzisiert.
+- 1.53.1–4: Boten bewusst ohne Heroldsstab; korinthische und athenische Bedingungen, Drohung und Zurückweisung vollständig erhalten.
+- 1.54.1–55.1: räumlicher Bezug der Wracks und Toten; beiderseitige Siegesansprüche und alle Zahlen erhalten. Die achthundert verkauften Gefangenen waren bereits Sklaven; die zweihundertfünfzig Gefangenen sollen nach ihrer Rückkehr Kerkyra für Korinth gewinnen, nicht bloß passiv einen Besitzwechsel auslösen.
+- 1.55.2–57.3: Kriegsbeschwerde von der eigentlichen Ursache unterschieden. Perdikkas wird Feind; keine aus dem Passiv frei ergänzte frühere athenische Attacke (HE).
+- 1.56.2,57.4–6: geforderter Mauerabschnitt, jährliche korinthische Amtsträger, Geiseln und Prävention benachbarter Aufstände verständlich verbunden; dreißig Schiffe, tausend Hopliten und der textkritisch unsichere Zahlenausdruck vollständig erhalten.
+- 1.58.1–59.2: erbetene Hilfe statt Vergeltung; Landnutzung um den Bolbe-See für die Dauer des Krieges, nicht unbegrenzte Übertragung ganz Mygdoniens. Gemeinsam abgefallene Städte ohne unbelegten Anschluss „zusammen mit Perdikkas“.
+- 1.60.1–3: Freiwillige und bezahlte Angeworbene unterschieden; Freundschaft der korinthischen Soldaten mit Aristeus als Beweggrund; Ankunft am vierzigsten Tag.
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 31/31 Abschnitte, keine Fehler oder Prüfhinweise.
 
 ### 131–140
 
