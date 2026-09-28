@@ -167,6 +167,18 @@ Zweitprüfung: work/he/review/batch12.md. Meldungen: 16 in 10 Einträgen (1 Bloc
 Alle 16 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
 Nachtrag (Fable-Audit, 27.09.2026, über den geschlossenen Stand 1–120): zwei Batch-12-Adjudikationen des Koordinators ZURÜCKGEWIESEN und rückgängig gemacht — (1) τὸ πλέον 1.114.2 ist adverbial („בלי להתקדם עוד“); die Lesart „בעיקרו של דבר“ war eine mechanische Übertragung aus τὸ πλέον τοῦ χρόνου (1.118.2; Crawley: „and without advancing further returned home“) — der hebräische Entwurf hatte recht, sein Wortlaut wiederhergestellt. (2) ἐνηλλάγησαν 1.120.2 = „עמדו עמם במגע“ (LSJ-Medium; Crawley: „all who have already had dealings with the Athenians“); die Lesart „נעשה להם עוול“ war eine über die Koordinationsprompts getragene Überinterpretation — zurückgenommen; die legitime Reparatur des Partitiv-Bezugs bleibt erhalten („ומקרבנו — כל שעמדו עם האתונאים במגע — אינם צריכים לימוד כדי להישמר מהם“). Prozesseintrag wie im EN-Nachtrag.
 
+### Kap. 121–130 (Batch 13) — 43 Abschnitte
+Zweitprüfung: work/he/review/batch13.md. Meldungen: 6 MINOR in 10 Einträgen (0 Blocker; alle angenommen, plus eine vom Koordinator verfügte Schärfung).
+- Alle drei Adjudikationsersuchen des Übersetzers zugunsten des Entwurfs entschieden: (1) «סעד» steht — das Etikett «גמול» in meinem rekonstruierten Fünfzehnten Addendum war ein Benennungsartefakt; der Prüfer bewies die gedruckten Slot-Stationen (1.25.1, 1.25.3) und das Dativ-Idiom; das Briefing ist berichtigt. (2) «מפקד ספרטה» steht — der militärische Slot; ein singulärer Selbsttitel in einem Kanzleibrief an den König schließt die Allianz-Vorstehens-Lesart von 1.120.1 (Plural) aus. (3) «מפיקודו» für ἀρχή 1.128.3 steht — die 1.95.6-ἄρχοντα-Präzedenz am Druck verifiziert, die 1.95.5-Kreuzreferenz des Vermerks wahr, und dieselbe Sektion druckt das Herrschafts-Wort getrennt als שלטון.
+- Naht: die überlieferte Abschnittsnaht 1.121.2 auf 1.121.3 (Satzmitte) spiegelt jetzt ihr Schlusskomma (das 1.108.2-Muster); die vier Mittel-Punkt-Enden (1.122.2, 1.124.1, 1.128.4, 1.129.2) drucken als Punkte, ihre Fortsetzungen lexikalisch geführt («אלא», «שכן») — nichts abgetrennt, keine Änderung (Haar, hier dokumentiert).
+- Vermerke: 44/44 wahr, jede griechische Zitation byte-exakt — der erste fehlerfreie Vermerk-Batch der Gesamtrechnung; drei Ergänzungen: das ναυτικὸν-Abstraktum 1.121.4 («ענייני הים»), die μονάρχους-Rückführung dokumentiert (1.122.3), die δῠ́ναμις-Slot-Kreuzung 1.127.3 gegen die batch-12-Gleichung (ἰσχύς = עוצמה, δῠ́ναμις = כוח) repariert und geflaggt.
+- Rückführungen: μονάρχους 1.122.3 in den Plural («ואת השליטים בעיר בודדת») — die many-vs-one-Schneide des Arguments; τὸ πρῶτον 1.128.3 erste Station («בראשונה»); die beiden historischen Präsentien 1.129.1 normalisiert («ושלח … וציווה») — die einzige Zeitpolitik-Abweichung des Pakets.
+- Schärfung: ἐκπεσόντος 1.127.1 «יוסר» zu «ייגרש» — der Prüfer nannte es Haar; der Koordinator schärfte der EN/UK-Sinnesparität wegen (LSJ ἐκπίπτω 4: banished).
+- Formel-Station: mein Prüfauftrag nannte 1.36.3 — die τοιαῦτα-Station ist 1.36.4; der eigene Vermerk des Entwurfs zitiert richtig, mein Zitatfehler hier dokumentiert. Das Schlussformular byte-identisch mit 1.72.1; die Familie 1.79.1 / 1.53.3 bestätigt.
+- Glossar: der dritte τιμωρία-Sinn (נקם למען נפגע, «נקם לאלים», 1.127.1) ins Briefing eingetragen; die beiden ersten Tiers am Druck verifiziert.
+- Verifiziert: Xerxes wie überliefert (ארתחשסתא nirgends); beide Briefe je genau ein Zeichen-Paar, die Überschrift ὧδε λέγει in voller Länge; die drei Editor-Eingriffe nahtlos und klammerlos; alle Zahlen in Wörtern (die neun Archonten zweimal); der Ὀλυμπίᾳ-Ort gegen die Spiele scharf; Regel 6 an allen drei Rahmens — die Erzähler-Scharniere («כפי שנמצא לאחר מכן», «וזה מה שהעיד הכתוב») und das spartanische Erdbeben-Glaube («כך הם מאמינים») als ihre.
+Alle 6 Meldungen angenommen; alle drei Adjudikationen für den Entwurf.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
@@ -180,10 +192,10 @@ Nachtrag (Fable-Audit, 27.09.2026, über den geschlossenen Stand 1–120): zwei 
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 472 in den Kapiteln 1–120 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 472 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 169 Fundstellen (9 Blocker, 160 Minor).
+- Übersetzte Abschnitte: 515 in den Kapiteln 1–130 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 515 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 175 Fundstellen (9 Blocker, 166 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 121–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 131–140: Übersetzung im Gang; Kapitel 141–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
