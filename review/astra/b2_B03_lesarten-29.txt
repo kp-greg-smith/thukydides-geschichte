@@ -1,0 +1,21 @@
+Answer from the text in this prompt only. Do not search for or read any files. Reply briefly.
+
+Two independent questions on Thucydides Book 2 (transmitted Oxford/Jones).
+
+(1) 2.29.2: "πρῶτος Ὀδρύσαις τὴν μεγάλην βασιλείαν ἐπὶ πλέον τῆς ἄλλης Θρᾴκης ἐποίησε, πολὺ γὰρ μέρος καὶ αὐτόνομόν ἐστι Θρᾳκῶν."
+Reading A (comparative): "the first to make the kingdom of the Odrysians greater than the rest of Thrace" (ἐπὶ πλέον + genitive of comparison).
+Reading B (partitive): "made the great kingdom of the Odrysians extend over the greater part of the rest of Thrace."
+Renderings printed: "was the first to make the great kingdom of the Odrysians extend over more country than the rest of Thrace" (A-ish); "перший утворив одрисам велике царство на більшу частину решти Фракії" (B); "היה הראשון שעשה לאודריסים את הממלכה הגדולה, ופרשה על פני שטח נרחב מן השאר שבתראקיה" (B-ish). Note the following clause: a great part of the Thracians is independent of the Odrysian kings (καὶ αὐτόνομόν ἐστι).
+Which construal is standard? Answer briefly.
+
+(2) 2.29.6: Nymphodorus, an Athenian ally, "ξυνεβίβασε τὸν Περδίκκαν τοῖς Ἀθηναίοις, καὶ Θέρμην αὐτῷ ἔπεισεν ἀποδοῦναι."
+Reading A: HE persuaded the Athenians to give Therme back TO Perdiccas (αὐτῷ = recipient dative with ἀποδοῦναι; the person persuaded [accusative] is elided = the Athenians; Therme had been taken by Athenian forces earlier, 1.61.2).
+Reading B: he persuaded Perdiccas to give Therme back (to the Athenians) (αὐτῷ loosely taken as the persuaded party despite the dative).
+Renderings printed: "and persuaded him to give back Therma" (B); "та умовив його віддати Ферму" (B); "וגם את תרמה הביא בדבריו לידי השבה לו" — "brought about by his words that Therme be restored to him" (A; with a flag: αὐτῷ dative = to Perdiccas; the Athenians restore what was taken at 1.61).
+Which direction is correct? Answer briefly.
+
+----- ANTWORT/ANSWER (gpt-6-astra, effort=high; 14.5k tokens) -----
+
+1. **B: spatial/partitive**—he extended the Odrysian kingdom over a greater portion of the rest of Thrace. The following independence clause qualifies the kingdom’s extent.
+
+2. **A: the Athenians restore Therme to Perdiccas.** αὐτῷ is the recipient dative with ἀποδοῦναι; “the Athenians,” as those persuaded, is understood. Reading B misassigns the dative.

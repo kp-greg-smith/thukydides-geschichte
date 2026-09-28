@@ -1,0 +1,27 @@
+Answer from the text in this prompt only. Do not search for or read any files. Reply briefly.
+
+
+Task: review each translated section below against its Greek source, sentence by sentence. Report only real problems: sense inversions, wrong or missing negations, missing or added sentence parts, wrong numbers, wrong names, grammatical misreadings, misreported speech. Quote the Greek words at issue. If a translation is correct, say "correct" for that section.
+
+### 2.22.1
+Greek: Περικλῆς δὲ ὁρῶν μὲν αὐτοὺς πρὸς τὸ παρὸν χαλεπαίνοντας καὶ οὐ τὰ ἄριστα φρονοῦντας, πιστεύων δὲ ὀρθῶς γιγνώσκειν περὶ τοῦ μὴ ἐπεξιέναι, ἐκκλησίαν τε οὐκ ἐποίει αὐτῶν οὐδὲ ξύλλογον οὐδένα, τοῦ μὴ ὀργῇ τι μᾶλλον ἢ γνώμῃ ξυνελθόντας ἐξαμαρτεῖν, τήν τε πόλιν ἐφύλασσε καὶ δι’ ἡσυχίας μάλιστα ὅσον ἐδύνατο εἶχεν.
+English translation: Pericles, seeing that for the moment they were exasperated and by no means thinking the best thoughts, but trusting that he judged aright in the question of not marching out, convened no assembly of theirs, nor any other gathering whatever, lest, coming together rather in wrath than in judgement, they should go astray; and he kept the city under guard, and held it in the greatest quietness he could.
+
+### 2.24.2
+Greek: τριήρεις τε μετ’ αὐτῶν ἐξαιρέτους ἑκατὸν ἐποιήσαντο κατὰ τὸν ἐνιαυτὸν ἕκαστον τὰς βελτίστας, καὶ τριηράρχους αὐταῖς, ὧν μὴ χρῆσθαι μηδεμιᾷ ἐς ἄλλο τι ἢ μετὰ τῶν χρημάτων περὶ τοῦ αὐτοῦ κινδύνου, ἢν δέῃ.
+English translation: Along with the money they appointed each year a hundred of the best triremes, chosen out, and with them their trierarchs; and these were not to be used for any other purpose than together with the money, for the same danger, whenever the need should arise.
+
+### 2.28.1
+Greek: τοῦ δ’ αὐτοῦ θέρους νουμηνίᾳ κατὰ σελήνην, ὥσπερ καὶ μόνον δοκεῖ εἶναι γίγνεσθαι δυνατόν, ὁ ἥλιος ἐξέλιπε μετὰ μεσημβρίαν καὶ πάλιν ἀνεπληρώθη, γενόμενος μηνοειδὴς καὶ ἀστέρων τινῶν ἐκφανέντων.
+English translation: In the same summer, on the day of new moon, by the moon’s reckoning — as indeed it seems possible for it to happen then only — the sun was eclipsed after midday, and was made full again, having become crescent-shaped, and certain of the stars appeared.
+
+### 2.30.2
+Greek: ἐπί τε Κεφαλληνίαν τὴν νῆσον προσπλεύσαντες προσηγάγοντο ἄνευ μάχης· κεῖται δὲ ἡ Κεφαλληνία κατὰ Ἀκαρνανίαν καὶ Λευκάδα τετράπολις οὖσα, Παλῆς, Κράνιοι, Σαμαῖοι, Προνναῖοι. ὕστερον δ’ οὐ πολλῷ ἀνεχώρησαν αἱ νῆες ἐς τὰς Ἀθήνας.
+English translation: And, sailing against the island of Cephallenia, they brought it over without a battle. Cephallenia lies over against Acarnania and Leucas, a land of four cities — Pala, Cranii, Same and Pronnae. Not long after, the ships withdrew to Athens.
+
+----- ANTWORT/ANSWER (gpt-6-astra, effort=medium; ~15k tokens) -----
+
+- **2.22.1:** correct.
+- **2.24.2:** correct.
+- **2.28.1:** correct.
+- **2.30.2:** correct.
