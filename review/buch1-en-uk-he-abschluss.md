@@ -16,7 +16,7 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 | 11–20 | 28 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 21–30 | 44 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 31–40 | 45 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
-| 41–50 | 41 | offen |
+| 41–50 | 41 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 51–60 | 31 | offen |
 | 61–70 | 45 | offen |
 | 71–80 | 43 | offen |
@@ -95,6 +95,22 @@ Alle 45 Abschnitte je Sprache am Griechischen gelesen; 41 je Sprache überarbeit
 - 1.40.2–6: Krieg wird dem Bündnispartner eingebracht, nicht von Kerkyra selbst gegen ihn geführt. Korinth müsste gegen Athen **und** Kerkyra kämpfen; nicht Kerkyra sich ohne Athen verteidigen. Die peloponnesischen Stimmen zu Samos waren geteilt, kein getrennt gefasster Hilfsbeschluss. `τιμωρήσετε` hier Hilfe für die Aufgenommenen, nicht Bestrafung oder Rache.
 
 Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 45/45 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 41–50
+
+Alle 41 Abschnitte je Sprache am Griechischen gelesen; EN/UK je 39, HE 38 überarbeitet. 1.46.2 und 1.50.1 in allen Sprachen sowie 1.46.4 HE aus der früheren Korrektur bestätigt.
+
+- 1.41.1–3: Bitte um Gegenleistung verständlich; zwanzig Schiffe **vor** den Perserkriegen. In Kriegsnot zählt für Menschen nur der Sieg, nicht Beobachtung durch andere (EN) oder Bedarf an allem außer dem Sieg (HE).
+- 1.42.1–4: entsprechende Hilfe erstatten, nicht Hilfe durch Gleichgestellte verlangen (HE); ungewisser künftiger Krieg gegenüber schon jetzt gewonnener korinthischer Feindschaft. Die über Abschnitt 2/3 laufende Aussage bleibt verständlich verbunden.
+- 1.43.1–44.3: Rechtsargument, bisherige korinthische Stimme und unterschiedliche Bündnisformen mit sämtlichen Bedingungen erhalten. Entscheidung über gemeinsame Freunde/Feinde und reine Verteidigung klar getrennt.
+- 1.45.3: Landungsabsicht in Kerkyra oder dessen anderem Gebiet als Bedingung des Kampfauftrags.
+- 1.46.1,4: sämtliche Flottenzahlen erhalten; Cheimerion ist hier der Name des Kaps, nicht bloß eine ungenannte Siedlung darauf. Kein unnötiger Zusatz „athenisch“ im ukrainischen Anfangssatz.
+- 1.48.3–4: drei eigene Geschwader unter den drei Feldherren; verbündete Kontingente jeweils zusammen, nicht zufällig irgendwo verteilt (UK).
+- 1.49.1–4: Signal vor dem Zusammenstoß; Gegenüberstellung von Kampfeseifer und geringerer Seekriegskunst verständlich; kein Kampfmanöver hinzuerfunden.
+- 1.49.5–7: die **verfolgten** Schiffe sind verstreut, nicht die Verfolger. Kerkyra hat schon vor Abzug der zwanzig Schiffe weniger Schiffe. Athener helfen ohne bisherige Zurückhaltung, nicht „ohne Grund“; das zunächst vermiedene `ἐμβάλλειν` bezeichnet Rammen.
+- 1.50.2–5: größte bisherige Seeschlacht zwischen Griechen nach Schiffszahl; keine eigenmächtige Zuweisung des vorgetragenen Paian allein an Korinth. Rückwärtsrudern und zwanzig später nachgeschickte athenische Schiffe erhalten.
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 41/41 Abschnitte, keine Fehler oder Prüfhinweise.
 
 ### 131–140
 
