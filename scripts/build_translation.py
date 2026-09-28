@@ -26,13 +26,25 @@ def html_escape(text):
     return text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
 
 
+BOOK_TITLES = {
+    1: {
+        'en': 'Book 1', 'en_h2': 'Book One',
+        'uk': 'Книга 1', 'uk_h2': 'Перша книга',
+        'he': 'ספר 1', 'he_h2': 'הספר הראשון',
+    },
+    2: {
+        'en': 'Book 2', 'en_h2': 'Book Two',
+        'uk': 'Книга 2', 'uk_h2': 'Друга книга',
+        'he': 'ספר 2', 'he_h2': 'הספר השני',
+    },
+}
+
 LANG_FRAMES = {
     'en': {
-        'title': 'Thucydides: The Peloponnesian War — Book 1',
+        'title': 'Thucydides: The Peloponnesian War',
         'nav': 'All languages and status',
         'grc': 'Ancient Greek — Original',
         'h1': 'Thucydides: The Peloponnesian War',
-        'h2': 'Book One',
         'principles_h': 'Translation principles',
         'principles_intro': 'Translate faithfully and readably, not word for word, and directly from the Ancient Greek. Hobbes, Crawley, Jowett and other translations may only help with understanding; they are neither the source text nor a translation to be taken over.',
         'rules': [
@@ -49,7 +61,7 @@ LANG_FRAMES = {
         'doc_lang': 'en',
     },
     'uk': {
-        'title': 'Фукідід: Пелопоннеська війна — Книга 1',
+        'title': 'Фукідід: Пелопоннеська війна',
         'nav': 'Усі мови та статус',
         'grc': 'Ancient Greek — Original',
         'h1': 'Фукідід: Пелопоннеська війна',
@@ -70,7 +82,7 @@ LANG_FRAMES = {
         'doc_lang': 'uk',
     },
     'he': {
-        'title': 'תוקידידס: המלחמה הפלופונסית — ספר 1',
+        'title': 'תוקידידס: המלחמה הפלופונסית',
         'nav': 'כל השפות והמצב',
         'grc': 'Ancient Greek — Original',
         'h1': 'תוקידידס: המלחמה הפלופונסית',
@@ -93,7 +105,7 @@ LANG_FRAMES = {
 }
 
 
-def parse_fragments(lang_dir):
+def parse_fragments(lang_dir, book):
     chapters = {}
     for path in sorted(lang_dir.glob('ch_*.md')):
         m = re.fullmatch(r'ch_(\d+)\.md', path.name)
@@ -107,12 +119,12 @@ def parse_fragments(lang_dir):
             line = raw.strip()
             if line.lstrip('`').startswith('!!'):   # coordinator flag (allow stray markdown backticks), not part of text
                 continue
-            m2 = re.fullmatch(r'# 1\.(\d+)', line)
+            m2 = re.fullmatch(rf'# {book}\.(\d+)', line)
             if m2:
                 if int(m2.group(1)) != c:
                     raise ValueError(f'{path}: chapter header {line} does not match file name')
                 continue
-            m3 = re.fullmatch(r'## 1\.(\d+)\.(\d+)', line)
+            m3 = re.fullmatch(rf'## {book}\.(\d+)\.(\d+)', line)
             if m3:
                 if current is not None:
                     sections.append((current, ' '.join(buf).strip()))
@@ -146,14 +158,15 @@ def expected_structure(book):
 
 def render(lang, book, chapters):
     f = LANG_FRAMES[lang]
+    bt = BOOK_TITLES[book]
     out = []
-    out.append('<!DOCTYPE html>')
     rtl = ' dir="rtl"' if lang == 'he' else ''
+    out.append('<!DOCTYPE html>')
     out.append(f'<html lang="{lang}"{rtl}>')
     out.append('<head>')
     out.append('<meta charset="UTF-8">')
     out.append('<meta name="viewport" content="width=device-width,initial-scale=1">')
-    out.append(f'<title>{html_escape(f["title"])}</title>')
+    out.append(f'<title>{html_escape(f["title"] + " — " + bt[lang])}</title>')
     out.append('<script src="../assets/theme.js"></script>')
     out.append('<link rel="stylesheet" href="../assets/reader.css">')
     out.append('</head>')
@@ -170,10 +183,10 @@ def render(lang, book, chapters):
     out.append('</select>')
     out.append('<button id="theme-toggle" type="button" aria-pressed="false">Dark Mode</button></div>')
     out.append('')
-    out.append(f'<nav aria-label="{html_escape(f["nav"])}"><a href="../index.html">{html_escape(f["nav"])}</a><a href="../grc/book1.html" lang="en">{html_escape(f["grc"])}</a></nav>')
+    out.append(f'<nav aria-label="{html_escape(f["nav"])}"><a href="../index.html">{html_escape(f["nav"])}</a><a href="../grc/book{book}.html" lang="en">{html_escape(f["grc"])}</a></nav>')
     out.append(f'<h1>{html_escape(f["h1"])}</h1>')
     out.append('')
-    out.append(f'<h2>{html_escape(f["h2"])}</h2>')
+    out.append(f'<h2>{html_escape(bt[lang + "_h2"])}</h2>')
     out.append('')
     out.append(f'<h3>{html_escape(f["principles_h"])}</h3>')
     out.append(f'<p>{html_escape(f["principles_intro"])}</p>')
@@ -212,9 +225,11 @@ def main():
                     help='publish only chapters up to this number (fragments beyond stay unpublished)')
     args = ap.parse_args()
     lang_dir = ROOT / 'work' / args.language
+    if args.book != 1:
+        lang_dir = lang_dir / f'b{args.book}'
     if not lang_dir.is_dir():
         sys.exit(f'No fragments yet: {lang_dir}')
-    chapters = parse_fragments(lang_dir)
+    chapters = parse_fragments(lang_dir, args.book)
     if args.end is not None:
         chapters = {c: s for c, s in chapters.items() if c <= args.end}
     if not chapters:
