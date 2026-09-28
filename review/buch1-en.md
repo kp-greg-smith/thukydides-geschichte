@@ -170,6 +170,18 @@ Zweitprüfung: work/en/review/batch13.md. Meldungen: 9 in 9 Abschnitten (0 Block
 - Bestätigt: die Korintherrede schließt exakt an der überlieferten Stelle (Wiederöffnungen 1.121.1/1.122.2/1.124.1, EIN Schluss vor τοιαῦτα, alle übrigen ’ Elisionen — maschinell gelistet), das Schlussformular byte-identisch mit 1.72.1; Xerxes wie überliefert, nirgends Artaxerxes; beide Briefe mit Zeichen (1.53-Modell), die Briefüberschrift wörtlich; die Ergänzungen 〈ἁγνὰ〉/〈ἄν〉 unsichtbar; Olympia-Ort und Olympische Spiele korrekt unterschieden; neun Archonten zweimal wie überliefert; alle Zahlen wörtlich exakt (diesmal ohne Prüfliste des Koordinators — jede Zahl wurde aus dem Griechisondern selbst erhoben).
 Alle 9 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
 
+### Kap. 131–140 (Batch 14) — 38 Abschnitte
+Zweitprüfung: work/en/review/batch14.md. Meldungen: 8 in 8 Abschnitten (0 Blocker; alle angenommen, darüber hinaus vom Koordinator verfügte Vermerks-Zusätze).
+- Adjudikation 1 (1.137.4, Brief-Rahmen): BESTANDEN — die γράψας-Klammer bleibt innerhalb der Zeichen, genau wie überliefert; die Vermerks-Grammatik war falsch und ist neu gefasst: γράψας ist NOMINATIV (Schluss-Sigma; ein Akkusativ hieße γράψαντα); die eigentliche überlieferte Anomalie ist die Stimm-Mischung — ein προσεποιήσατο in der dritten Person im Inneren des Ich-Briefs, das der Druck roh spiegelt ("I who sent … a thing he then falsely gave out"); der einzige tragfähige Bezug der falschen Vorspiegelung ist der Schreiber selbst (Herodot 8.110); der Rahmen bleibt unangetastet.
+- Adjudikation 2 (1.133.1): beide Konstruktionen BESTÄTIGT — das Paradox-Trio ἐν ἴσῳ / προτιμηθείη / ἀποθανεῖν bleibt unvereinfacht am Druck; τῆς ἀναστάσεως als "for his release" ist vertretbar (LSJ führt die Stelle unter dem Aufstehen vom Sitz; das engere Token wäre "restoration").
+- Zwei Inhalts-Fixes nach der klassischen Tradition: 1.131.1 — das Verbot läuft DURCH den Herold AN Pausanias (Hobbes, Crawley, Jowett, Smith); die überlieferte Genitiv-Anomalie bleibt im Vermerk, der Druck folgt der dort dokumentierten Alternative. 1.135.1 — αὐτό ist Neutrum, das Objekt ist der Fluch ("to drive it out", Echo des 1.127.1/1.128.1-Idioms), nicht die bereits bestattete Person.
+- Feinjustierung 1.133.1: ἔτι = "besides" (an μᾶλλον gepaart), αὐτοῦ Παυσανίου = "Pausanias in person".
+- Distichon 1.132.2: die Überlieferung trägt keine Zeichen (bloßer Doppelpunkt; das Kapitel-Griechisch enthält überhaupt kein Anführungszeichen) — der Druck behält die " " nach der Vers-als-Prosa-Regel, und die Entscheidung wird jetzt ausdrücklich vertreten und geflaggt (die klassischen Ausgaben drucken das Distichon ebenfalls markiert).
+- Vermerks-Reparaturen und -Zusätze: die Appositions-Beschreibung 1.132.1 an den echten Druck angepasst (die Apposition ist umgestellt und trägt ein versorgtes Verb — die frühere Beschreibung "as printed" war unwahr); die ἂν-Elision der 1.136.4-Zitation behoben (σωτηρίας ἂν τῆς ψυχῆς wie in der Quelle); die Ordnungs-Reserve 1.139.1 vermerkt (das Haupt der überlieferten Kette sind "the accursed"); der τιμωρία-Vermerk 1.136.4 bestätigt die Slot-Teilung (Allgemein-Sinn "punish a man in flight", die Maxime "take vengeance on one's equals on equal ground"); der 1.131.1-Vermerk ganz neu gefasst; der 1.135.1-Ruling angehängt; der 1.140.2-Vermerk neu (die Vertragsformel-Personenverschiebung ἔχειν δὲ ἑκατέρους ἃ ἔχομεν — "we" normalisiert, das Roh-Shift dokumentiert).
+- Bestätigt: die Ergänzungen [τε] und [οἷπερ τοὺς κακούργους] unsichtbar; Perikles' Rede öffnet unmarkiert bei 1.140.1 (zwei Öffner im Kapitel) und bleibt offen bei 1.140.5 — die Kontinuität ist maschinell verifiziert, der Bau-Vermerk reist in die nächste Partie; die Gesandten-Ultimatum-Zeichen nach dem 1.53-Modell; der Themistokles-Brief wörtlich, seine überlieferte Überschrift getragen; alle Zahlen vom Prüfer ohne Vorgaben selbst erhoben (fünfzig Talente, zwei eherne Statuen, zwei Leiber für einen, τὸ δεύτερον zweimal, τὸ πρῶτον, die andere See, ein für allemal, niemand vor ihm); die Namen des Sechzehnten Addendums verifiziert; die Melesippus-Homonym-Disziplin auf die Vermerk-Ebene verbannt.
+- Haar, protokolliert: die νεώτερον-Familie (1.132.5 "hostile step" gegen den B01-Slot "rash step") ist batch-übergreifend noch nicht ausgerichtet — Ledger-Eintrag.
+Alle 8 Meldungen angenommen; zwei Adjudikationen entschieden (eine BESTANDEN mit Vermerks-Reparatur, eine doppelt bestätigt).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
@@ -187,10 +199,10 @@ Alle 9 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 515 in den Kapiteln 1–130 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 515 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 140 Fundstellen (13 Blocker, 127 Minor).
+- Übersetzte Abschnitte: 553 in den Kapiteln 1–140 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 553 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 148 Fundstellen (13 Blocker, 135 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 131–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 141–146: Übersetzung im Gang.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
