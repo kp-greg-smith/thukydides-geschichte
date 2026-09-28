@@ -18,7 +18,7 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 | 31–40 | 45 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 41–50 | 41 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 51–60 | 31 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
-| 61–70 | 45 | offen |
+| 61–70 | 45 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 71–80 | 43 | offen |
 | 81–90 | 42 | offen |
 | 91–100 | 39 | offen |
@@ -127,6 +127,22 @@ Alle 31 Abschnitte je Sprache am Griechischen gelesen; EN 31, UK 29, HE 30 über
 - 1.60.1–3: Freiwillige und bezahlte Angeworbene unterschieden; Freundschaft der korinthischen Soldaten mit Aristeus als Beweggrund; Ankunft am vierzigsten Tag.
 
 Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 31/31 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 61–70
+
+Alle 45 Abschnitte je Sprache am Griechischen gelesen; je 44 überarbeitet. 1.61.1 mit Kallias und vier weiteren Feldherren unverändert bestätigt.
+
+- 1.61.2–5: Stationen, Truppenzahlen, drei Tage und durch die Lage erzwungenes Bündnis erhalten; kein zusätzlicher Herkunftsbeiname für Pausanias (HE).
+- 1.62.1–6: Lager auf der nach Olynth gerichteten Seite des Isthmus, nicht unmittelbar bei Olynth (UK/HE). Die beiden makedonischen Reiterverbände und der geplante Angriff im Rücken der Athener auseinandergehalten.
+- 1.63.1–3: Hafenmole statt natürlicher Landzunge (UK); ungefähr sechzig Stadien statt „höchstens“ (EN). Wirkliche Hilfsabsicht statt bloßem Anschein (UK); Signale werden gesenkt, nicht herausgerissen (HE). Verlustangabe „hundertfünfzig und Kallias“ ohne frei ergänztes „darunter“ erhalten.
+- 1.64.1–65.3: Belagerungsmauern und fehlender südlicher Einschluss, nicht fehlende Stadtbefestigung; volle Blockade ohne ukrainisches Wort für völlige Zerstörung. Fluchtplan für alle bis auf fünfhundert, Getreidevorrat und Aristeus’ Hilfsbeschaffung vollständig erhalten.
+- 1.66.1: Beschwerden der beiden Seiten, keine „Schuld der Korinther“ als Überschrift der gegen Athen erhobenen Beschwerde (HE).
+- 1.67.2–3: vorenthaltene vertraglich zugesicherte Autonomie; reguläre eigene Versammlung Spartas, kein unscharfer gemeinsamer Kongress. Die Megarer beschreiben Verstöße aus ihrer Sicht.
+- 1.68.1–4: spartanisches Vertrauen führt zu Unglauben an Berichte **über andere**, nicht pauschal an fremde Sprecher. Athener, nicht die gefährdeten Bundesgenossen, haben Krieg vorbereitet. Kerkyra gegen Korinths Willen gewonnen, nicht von Athen militärisch erobert; strategische Bedeutung Potidaias und Flottenbeitrag Kerkyras ausdrücklich zugeordnet.
+- 1.69.1–6: direkte Schuldzuweisung der Rede und bedingter Anspruch auf Befreierruhm erhalten. `ἤδη καὶ οὐ μέλλοντες` gehört zu den bereits angreifenden Akteuren, nicht zu Gegnern, die angeblich auch künftig nichts beschließen wollen. Spartas Ruf übertrifft seine Taten; Hilfe, nicht Strafe, ist mit `τιμωρίᾳ` gemeint. Tadel gilt fehlbaren Freunden, Anklage unrechten Feinden, nicht umgekehrt nach Sprechergruppen.
+- 1.70.1–9: große Interessen stehen auf dem Spiel, keine hinzugefügten gegensätzlichen Staatsverfassungen. Unterschiede zu Athen nicht pauschal „Überlegenheit“ genannt. Sparta handelt unter seinen Möglichkeiten; fehlende Kraft wäre ein anderer Vorwurf. Hoffen und Haben als zugespitzter Vergleich erhalten, nicht schlicht „besitzen alles Geplante“ (UK). Körper und Urteilskraft im Dienst der Stadt in natürlicher Sprache gegenübergestellt.
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 45/45 Abschnitte, keine Fehler oder Prüfhinweise.
 
 ### 131–140
 
