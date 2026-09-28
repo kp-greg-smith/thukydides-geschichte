@@ -19,7 +19,7 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 | 41–50 | 41 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 51–60 | 31 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 61–70 | 45 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
-| 71–80 | 43 | offen |
+| 71–80 | 43 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 81–90 | 42 | offen |
 | 91–100 | 39 | offen |
 | 101–110 | 42 | offen |
@@ -143,6 +143,22 @@ Alle 45 Abschnitte je Sprache am Griechischen gelesen; je 44 überarbeitet. 1.61
 - 1.70.1–9: große Interessen stehen auf dem Spiel, keine hinzugefügten gegensätzlichen Staatsverfassungen. Unterschiede zu Athen nicht pauschal „Überlegenheit“ genannt. Sparta handelt unter seinen Möglichkeiten; fehlende Kraft wäre ein anderer Vorwurf. Hoffen und Haben als zugespitzter Vergleich erhalten, nicht schlicht „besitzen alles Geplante“ (UK). Körper und Urteilskraft im Dienst der Stadt in natürlicher Sprache gegenübergestellt.
 
 Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 45/45 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 71–80
+
+Alle 43 Abschnitte je Sprache am Griechischen gelesen; EN/HE je 39, UK 40 überarbeitet. Frühere Korrekturen in 1.74.1, 1.75.1, 1.76.2 sowie 1.75.4 EN/HE bestätigt.
+
+- 1.71.1–7: spartanische Vorstellung von Ruhe und fairem Verhalten gegenüber korinthischem Argument für Bereitschaft klar formuliert. Neue Verfahren setzen sich durch; Gesetze sind nicht solche, die „nichts bewegen“. Verlassene Verbündete **suchen** fremde Hilfe, statt anderen Hilfe zu bringen (EN/HE). Aufforderung, den Peloponnes zu führen, nicht ihn selbst weiterzuvererben.
+- 1.72.1–73.1: Athener treten vor die Versammlung, statt an den Vorwürfen vorbeizugehen (HE); betonen fehlende richterliche Funktion dieser Beratung und ihr Gewicht als Stadt. Keine im Griechischen fehlende Anrede ergänzt (UK).
+- 1.73.2–5: die **Zuhörer** kennen die jüngeren Ereignisse (UK); lästige Wiederholung statt Zuwendung zur Volksmenge (HE). Aufforderung, den Nutzen der Erinnerung nicht ganz zu verweigern, keine Feststellung schon erfolgter Beraubung. Xerxes’ **eigene** Macht ist nach der Seeniederlage nicht mehr dieselbe, nicht die gegnerische Macht im Vergleich zu ihm (EN).
+- 1.74.2–4: frühere Hilfe, nicht vorweggenommene Rache. Spartaner wollten ihre bewohnten Städte **weiter bewohnen**, keine verbliebenen Länder aufteilen (HE) oder bloß Reste behalten (EN/UK). Athens Beitrag zur gemeinsamen Rettung statt Rettung eines Teils der Spartaner.
+- 1.75.2–5: Führung von Verbündeten statt bloßer Ernennung zu Feldherren; Angst, Ehre und Nutzen in ihrer Reihenfolge erhalten. Ukrainische Darstellung des aufgegebenen Reichs und möglicher Übertritte sprachlich bereinigt.
+- 1.76.3–77.1: Gerechtigkeit trotz überlegener Macht verständlich; `οὐκ εἰκότως` in 1.76.4 **ungerechtfertigt**, nicht „nicht unvernünftig“ (EN). Prozessverluste und gleiche Gesetze, keine Behauptung einer ausschließlich für Athen günstigen Gerichtsbarkeit.
+- 1.77.2–6: Rechtssuche gegenüber nackter Gewalt; Ressentiment über begrenzten Nachteil bei erwarteter Gleichbehandlung. `τὸ παρόν` auf die jeweils gegenwärtige Herrschaft bezogen, nicht abstrakte Schwere der Gegenwart. Bedingte Warnung an Sparta ohne hinzugefügte unbedingte Prognose seines Charakters.
+- 1.78.1–4: Unberechenbarkeit des Krieges statt seiner bloßen Unvernunft; Zufall und unbekannter Ausgang, frühe Gewalt gegenüber verspäteter Beratung. Noch vermeidbare Fehlentscheidung und vertragliche Streitschlichtung erhalten.
+- 1.79.1–80.4: interne spartanische Beratung nach Entlassung der anderen; Archidamos’ erfahrungsbegründete Warnung. Vergleichbare **Art** der militärischen Mittel bei Nachbarn, keine pauschale exakte Kräftegleichheit. Fehlende Gemeinschaftskasse und geringe Bereitschaft zu privaten Beiträgen unterschieden.
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 43/43 Abschnitte, keine Fehler oder Prüfhinweise.
 
 ### 131–140
 
