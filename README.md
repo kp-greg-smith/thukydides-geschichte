@@ -2,7 +2,7 @@
 
 [English](README.md) · [Deutsch](README_DE.md) · [Українська](README_UK.md) · [עברית](README_HE.md) · [Ἑλληνική](README_GRC.md)
 
-A multilingual HTML reading edition of the Ancient Greek original and direct translations into German, English, Ukrainian, and Hebrew. The goal covers all eight books. This scope update adds no new translations.
+A multilingual HTML reading edition of the Ancient Greek original and direct translations into German, English, Ukrainian, and Hebrew. The goal covers all eight books.
 
 [Open the reading portal](docs/index.html). It lists the current status and links only to editions that exist.
 
@@ -11,12 +11,14 @@ A multilingual HTML reading edition of the Ancient Greek original and direct tra
 | Language | Role | Books available | Remaining work |
 |---|---|---|---|
 | Ancient Greek (`grc`) | **Original**, not a translation | [Books 1–8](docs/grc/book1.html), imported from the cited edition | Further editorial checks; no new transcription claimed |
-| German (`de`) | Translation | [Book 1](docs/de/book1.html): 146 chapters, 580 sections | Books 2–8 not started |
+| German (`de`) | Translation | [Book 1](docs/de/book1.html): 146 chapters, 580 sections; readability revision and comparison with Greek completed | Books 2–8 not started |
 | English (`en`) | Translation | [Book 1](docs/en/book1.html): chapters 1–120 (472 of 580 sections), reviewed | Book 1 ch. 121–146 in progress; books 2–8 planned |
 | Ukrainian (`uk`) | Translation | [Book 1](docs/uk/book1.html): chapters 1–120 (472 of 580 sections), reviewed | Book 1 ch. 121–146 in progress; books 2–8 planned |
 | Hebrew (`he`) | Translation, right-to-left | [Book 1](docs/he/book1.html): chapters 1–120 (472 of 580 sections), reviewed | Book 1 ch. 121–146 in progress; books 2–8 planned |
 
-“Available” describes coverage, not a guarantee that no corrections remain. German Book 1 has an existing revision history, including the section-by-section review of chapters 31–117 recorded on 2026-09-27. This scope update preserves all 580 German sections; it does not claim a new philological review. Translated READMEs describe the project and do not count as translated books.
+“Available” describes coverage, not a guarantee that no corrections remain. The [review of German chapters 31–117](review/buch1-kap31-117.md), recorded on 2026-09-27, was followed on 2026-09-28 by a [readability revision of all 580 sections of German Book 1](review/buch1-de-lesbarkeit.md), each compared again with the Greek. Translated READMEs describe the project and do not count as translated books.
+
+**German language standard.** Preserve the full meaning of the Greek using the natural, contemporary German that a present-day author would use to express the same content. Greek syntax is not a model for German prose. Readability requires editorial judgement, not fixed sentence-length or sentence-form rules. Work in batches of at most ten chapters and compare every rewritten section with Greek again; see the [German principles](README_DE.md#übersetzungsgrundsätze).
 
 ### Language-specific glossaries
 

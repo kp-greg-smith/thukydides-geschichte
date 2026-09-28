@@ -2,7 +2,7 @@
 
 [English](README.md) · [Deutsch](README_DE.md) · [Українська](README_UK.md) · [עברית](README_HE.md) · [Ἑλληνική](README_GRC.md)
 
-Eine mehrsprachige HTML-Leseausgabe des altgriechischen Originals und direkter Übersetzungen ins Deutsche, Englische, Ukrainische und Hebräische. Das Ziel umfasst alle acht Bücher. Diese Umstellung fügt keine neuen Übersetzungen hinzu.
+Eine mehrsprachige HTML-Leseausgabe des altgriechischen Originals und direkter Übersetzungen ins Deutsche, Englische, Ukrainische und Hebräische. Das Ziel umfasst alle acht Bücher.
 
 [Leseportal öffnen](docs/index.html). Es zeigt den aktuellen Stand und verlinkt nur vorhandene Ausgaben.
 
@@ -11,16 +11,18 @@ Eine mehrsprachige HTML-Leseausgabe des altgriechischen Originals und direkter �
 | Sprache | Rolle | Vorhanden | Noch offen |
 |---|---|---|---|
 | Altgriechisch (`grc`) | **Original**, keine Übersetzung | [Bücher 1–8](docs/grc/book1.html), aus der angegebenen Edition übernommen | Weitere redaktionelle Prüfung; keine neue Transkription |
-| Deutsch (`de`) | Übersetzung | [Buch 1](docs/de/book1.html): 146 Kapitel, 580 Abschnitte | Bücher 2–8 nicht begonnen |
+| Deutsch (`de`) | Übersetzung | [Buch 1](docs/de/book1.html): 146 Kapitel, 580 Abschnitte; Lesbarkeitsdurchgang mit Gegenprüfung am Griechischen abgeschlossen | Bücher 2–8 nicht begonnen |
 | Englisch (`en`) | Übersetzung | [Buch 1](docs/en/book1.html): Kapitel 1–120 (472 von 580 Abschnitten), geprüft | Buch 1, Kap. 121–146 in Arbeit; Bücher 2–8 geplant |
 | Ukrainisch (`uk`) | Übersetzung | [Buch 1](docs/uk/book1.html): Kapitel 1–120 (472 von 580 Abschnitten), geprüft | Buch 1, Kap. 121–146 in Arbeit; Bücher 2–8 geplant |
 | Hebräisch (`he`) | Übersetzung, von rechts nach links | [Buch 1](docs/he/book1.html): Kapitel 1–120 (472 von 580 Abschnitten), geprüft | Buch 1, Kap. 121–146 in Arbeit; Bücher 2–8 geplant |
 
-„Vorhanden“ bezeichnet den Umfang, keine Fehlerfreiheit. Buch 1 hat eine bestehende Überarbeitungsgeschichte, einschließlich der am 27.09.2026 dokumentierten abschnittweisen Prüfung der Kapitel 31–117. Diese Umstellung erhält alle 580 deutschen Abschnitte; sie ist keine erneute philologische Prüfung. Übersetzte READMEs sind Projektdokumentation und zählen nicht als übersetzte Bücher.
+„Vorhanden“ bezeichnet den Umfang, keine Fehlerfreiheit. Auf die am 27.09.2026 dokumentierte [Prüfung der Kapitel 31–117](review/buch1-kap31-117.md) folgte am 28.09.2026 ein [Lesbarkeitsdurchgang für das gesamte deutsche Buch 1](review/buch1-de-lesbarkeit.md). Alle 580 Abschnitte wurden sprachlich überarbeitet und erneut mit dem griechischen Text verglichen. Übersetzte READMEs sind Projektdokumentation und zählen nicht als übersetzte Bücher.
 
 ## Übersetzungsgrundsätze
 
 Sinngetreu und gut lesbar übersetzen, nicht Wort für Wort, und ausschließlich aus dem Altgriechischen. Braun, Hobbes, Crawley und andere Übersetzungen dürfen höchstens als Verständnishilfe dienen; sie sind weder Ausgangstext noch zu übernehmende Übersetzung.
+
+**Sprache.** Die Bedeutung des griechischen Textes muss vollständig erhalten bleiben. Die deutsche Sprache soll dabei so modern und natürlich wie möglich klingen, wie ein heutiger Autor denselben Inhalt formulieren würde. Der griechische Satzbau ist kein Vorbild. Entscheidend sind die Verständlichkeit des Zusammenhangs und die Genauigkeit der Aussage; feste Vorgaben zur Satzlänge oder zu einzelnen Satzformen ersetzen dieses Urteil nicht.
 
 1. **Einheitliche Entsprechung je Bedeutung.** Nicht ein deutsches Wort für jedes Vorkommen erzwingen. αἰτία kann Vorwurf, Ursache, Schuld oder Verantwortung bedeuten; eine kausale Übersetzung darf nicht ausgeschlossen werden, wenn der griechische Sinn sie verlangt.
 2. **Nichts hinzufügen oder steigern.** Keine Erklärungen, Bilder, Behauptungen oder Hervorhebungen ergänzen, die im Griechischen fehlen.
@@ -63,6 +65,8 @@ Die Tabelle enthält deutsche Entsprechungen, keine Vorgaben für englische, ukr
 4. Strukturelle Fehler beheben und jeden Prüfhinweis am Griechischen beurteilen. Länge und Satzzeichen sind nur Indikatoren, kein Qualitätsbeweis. Reden und indirekte Rede gesondert prüfen.
 5. Nur vorhandene HTML-Ausgaben unter `docs/<Sprache>/book<N>.html` veröffentlichen. Abschnittskennungen erhalten; `lang="grc"`, `"de"`, `"en"`, `"uk"` oder `"he"` setzen, für Hebräisch zusätzlich `dir="rtl"`. Zeichenabdeckung prüfen. Keine Links auf leere Bücher anlegen.
 6. Leseportal und alle fünf READMEs gemeinsam aktualisieren. Geplant, in Arbeit, vorhanden und geprüft unterscheiden; den genauen Umfang nennen. Alle sechs Regeln in neue Ausgaben übernehmen.
+
+Bei der Überarbeitung deutscher Texte erhält die Lesbarkeit einen eigenen Durchgang, ebenfalls in Portionen von höchstens zehn Kapiteln. Jeden umformulierten Abschnitt anschließend erneut gegen das Griechische prüfen. Sprachliche Änderungen und dabei gefundene Sinnkorrekturen in `review/` dokumentieren.
 
 ```bash
 python3 scripts/check_translation.py --language de --book 1 --start 1 --end 10
