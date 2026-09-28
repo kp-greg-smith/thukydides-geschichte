@@ -179,6 +179,19 @@ Zweitprüfung: work/he/review/batch13.md. Meldungen: 6 MINOR in 10 Einträgen (0
 - Verifiziert: Xerxes wie überliefert (ארתחשסתא nirgends); beide Briefe je genau ein Zeichen-Paar, die Überschrift ὧδε λέγει in voller Länge; die drei Editor-Eingriffe nahtlos und klammerlos; alle Zahlen in Wörtern (die neun Archonten zweimal); der Ὀλυμπίᾳ-Ort gegen die Spiele scharf; Regel 6 an allen drei Rahmens — die Erzähler-Scharniere («כפי שנמצא לאחר מכן», «וזה מה שהעיד הכתוב») und das spartanische Erdbeben-Glaube («כך הם מאמינים») als ihre.
 Alle 6 Meldungen angenommen; alle drei Adjudikationen für den Entwurf.
 
+### Kap. 131–140 (Batch 14) — 38 Abschnitte
+Zweitprüfung: work/he/review/batch14.md. Meldungen: 1 Blocker + 7 Minor in 13 Einträgen; sämtliche angenommen.
+- Der Blocker ist getilgt: 1.135.1 — das überlieferte neutrale αὐτό meint die Unreinheit selbst; der Druck trug «לגרש אותו» (maskulin — der längst bestattete Pausanias), exakt die Lesart, die die EN-Prüfung eine Runde früher ersetzte; Ein-Wort-Fix «לגרש את הטומאה» plus neuer αὐτό-Vermerk mit der klassischen Bezeugung.
+- Die fünf Adjudikationsersuchen: (1) Vers-Zeichen — am Griechischen BESTÄTIGT (kein Anführungszeichen im ganzen Kapitel 132, alle vier Apostrophe Elisionen); die Zeichen bleiben als besessene Konvention, geflaggt. (2) Die τιμωρία-Spaltung 1.136.4 — BESTÄTIGT: beide Vorkommen requital-of-the-wronged; «לנקום/נקם» richtig, die Abweichung geflaggt (EN-konvergent). (3) Die τόδε-Rahmenklausel 1.132.2 — MIT HALT, mit das hängende «דבק» existiert im Griechischen nicht («ἐπὶ τὸν τρίποδά ποτε τὸν ἐν Δελφοῖς … ἠξίωσεν ἐπιγράψασθαι»); die Klausel neu gefasst («וגם משום שעל הטריפוד שבדלפי …»). (4) εὐνοία-Offenheit — HALT (Haar unbeanstandet). (5) γράψας — die EN-Analyse stimmt byte-mäßig: Nominativ, verträglich mit dem Ich-Brief; προσεποιήσατο ist die eigentliche Anomalie; der Schreiber selbst der einzige tragfähige Bezug (Herodot 8.110); das uniforme Dritte-Person des Entwurfs übernormalisierte ein Verb — das Partizip in die erste Person zurückgevoziert («שכן כתבתי …»), das dritte Person «אשר בדה בשקר» bleibt roh, der Vermerk neu gefasst.
+- Register: die biblischen Vayyiqtol-Ketten des Kapitels 134 kapitelweit normalisiert (בא/ונח; לכדוהו/גדרו/ישבו/והכריעוהו; יצא ומת; עשו/והקדישו — der 1.134.2-Vermerk mit dem neuen Druck-Wortlaut mitgeführt) plus die verstreuten Instanzen (135.3 ושלחו; 137.2–3 עשה/ונט/ושילם; 138.1 ואמר; 138.4 וחלה ומת; 139.3סection והחליטו; 139.4 בא וייעץ) — die Neuhebräisch-Regel des Briefings durchgesetzt; in den Kapiteln 100–119 kommt Vayyiqtol nach Prüfer-Suche nicht vor.
+- Nikud: die rund fünfzehn punktierten Wörter aus allen Körpern entfernt, mit zwei Ersetzungen, wo die unpointierte Form holprig läse («מִטְעָמִים» → «מעדנים»; «הֻשַּׁחַד» → «נשוחד»); Vermerke bleiben ausgenommen; plus zwei Altkorpus-Strickler nachgeholt (ch. 21 «בהּ», ch. 73 «מעשהָ») — Reiter dieses Baues.
+- Feinheiten: 1.132.5 «רשם» → «נרשם» (endliches Aktiv gegen den Reflexiv-Sinn des überlieferten ηὗρεν ἐγγεγραμμένον); 1.137.1 die Weigerungs-Wendung neu grammatisiert («לא מסר אותו; אלא שלח אותו») — das Admetus-Singular-Subjekt wiederhergestellt; 1.138.3 «ולא עמל-לימודים» → «ובמעט עמל-לימודים» (βραχύτητι heißt wenig, nicht keins — Sinnesparität mit EN/UK); der 1.138.2-Vermerk: das hebräische «טוֹ» durch das echte τὸ ersetzt; die 1.140.2-Vertragsformel-Personenverschiebung jetzt dokumentiert (normalisiert wie EN, Vermerk ergänzt).
+- Vermerks-Bilanz: 62/62 wahr und byte-exakt; zwei Ergänzungen (αὐτό; die Vertragsformel), zwei Neufassungen (γράψας; die 1.134.2-Druckpassung), eine-call Präzisierung (τὸ).
+- Die EN-Claims am HE: gehalten — die Herold-Konstruktion, ἔτι mit μᾶλλον, die Crux-Trios, die Ergänzungsnähte, die Perikles-Rahmen samt Kontinuität (die Schluss-Station jenseits der Partie bei 1.145.1 verifiziert), die Gesandten-Zeichen, sämtliche Zahlen, die historischen Präsentien (der erste reine Durchlauf eines Bereichs), der ἦρχε-Herrenz-Slot, δουλ- unweichlich. Gescheitert: 1.135.1 (der Blocker). Halb gehalten: 1.140.2 (normalisiert, aber undokumentiert — nun geflaggt).
+- Registriert: die Lesernote 1.133.1 als gerechtfertigter echter Zweifelsfall, die einzige des Bereichs; Figur-Befunde (fünfzig Kikkar, die zwei Statuen, zwei Leiber für einen, das andre Meer, kein Grieche vor ihm).
+- Glossar-Vorschläge des Übersetzers, übernommen wie gedruckt: סקיטלה; אוסטרקיזם; אוניית סוחר; בעל האונייה; מיטיב; אהובו (das längere אהוב-נעורים blieb unvermerkt optional); ὄψוד nun «מעדנים».
+Der Blocker getilgt, alle 8 Meldungen angenommen; das Register erzogen und das Nikud aus den Körpern verbannt.
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 — wie pipeline-einheitlich (הראשונים).
@@ -192,10 +205,10 @@ Alle 6 Meldungen angenommen; alle drei Adjudikationen für den Entwurf.
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 515 in den Kapiteln 1–130 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 515 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 175 Fundstellen (9 Blocker, 166 Minor).
+- Übersetzte Abschnitte: 553 in den Kapiteln 1–140 (Hebrew); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 553 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 183 Fundstellen (10 Blocker, 173 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 131–140: Übersetzung im Gang; Kapitel 141–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 141–146: Übersetzung im Gang.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
