@@ -1,0 +1,37 @@
+Answer from the text in this prompt only. Do not search for or read any files. Reply briefly.
+
+
+Task: review each translated section below against its Greek source, sentence by sentence. Report only real problems: sense inversions, wrong or missing negations, missing or added sentence parts, wrong numbers, wrong names, grammatical misreadings, misreported speech (note: sections from chapters 35-40 are Pericles' funeral oration — direct speech, no narrator's assertions allowed there). Quote the Greek words at issue. If a translation is correct, say "correct" for that section.
+
+### 2.31.3
+Greek: ἐγένοντο δὲ καὶ ἄλλαι ὕστερον ἐν τῷ πολέμῳ κατὰ ἔτος ἕκαστον ἐσβολαὶ Ἀθηναίων ἐς τὴν Μεγαρίδα καὶ ἱππέων καὶ πανστρατιᾷ, μέχρι οὗ Νίσαια ἑάλω ὑπ’ Ἀθηναίων.
+English translation: And later in the war there took place other invasions also of the Athenians into the Megarid, year by year, both with their horsemen and in full levy, until Nisaea was taken by the Athenians.
+
+### 2.32.1
+Greek: ἐτειχίσθη δὲ καὶ Ἀταλάντη ὑπὸ Ἀθηναίων φρούριον τοῦ θέρους τούτου τελευτῶντος, ἡ ἐπὶ Λοκροῖς τοῖς Ὀπουντίοις νῆσος ἐρήμη πρότερον οὖσα, τοῦ μὴ λῃστὰς ἐκπλέοντας ἐξ Ὀποῦντος καὶ τῆς ἄλλης Λοκρίδος κακουργεῖν τὴν Εὔβοιαν. ταῦτα μὲν ἐν τῷ θέρει τούτῳ μετὰ τὴν Πελοποννησίων ἐκ τῆς Ἀττικῆς ἀναχώρησιν ἐγένετο.
+English translation: Atalanta also was fortified by the Athenians as a fort towards the very end of this summer — the island that lies off the Opuntian Locrians, which had been desert before — so that pirates might not sail out from Opus and the rest of Locris and work harm upon Euboea. These things were done in this summer, after the Peloponnesians had withdrawn from Attica.
+
+### 2.34.2
+Greek: τὰ μὲν ὀστᾶ προτίθενται τῶν ἀπογενομένων πρότριτα σκηνὴν ποιήσαντες, καὶ ἐπιφέρει τῷ αὑτοῦ ἕκαστος ἤν τι βούληται·
+English translation: The bones of the departed are laid out three days beforehand, a tent having been set up, and each man brings to his own dead whatever offering he pleases;
+
+### 2.36.3
+Greek: τὰ δὲ πλείω αὐτῆς αὐτοὶ ἡμεῖς οἵδε οἱ νῦν ἔτι ὄντες μάλιστα ἐν τῇ καθεστηκυίᾳ ἡλικίᾳ ἐπηυξήσαμεν καὶ τὴν πόλιν τοῖς πᾶσι παρεσκευάσαμεν καὶ ἐς πόλεμον καὶ ἐς εἰρήνην αὐταρκεστάτην.
+English translation: And of that empire the greater part we ourselves, the present generation, have enlarged — being still mostly in the prime of life; and we have furnished the city with all things, most self-sufficient alike for war and for peace.
+
+### 2.39.1
+Greek: ‘διαφέρομεν δὲ καὶ ταῖς τῶν πολεμικῶν μελέταις τῶν ἐναντίων τοῖσδε. τήν τε γὰρ πόλιν κοινὴν παρέχομεν, καὶ οὐκ ἔστιν ὅτε ξενηλασίαις ἀπείργομέν τινα ἢ μαθήματος ἢ θεάματος, ὃ μὴ κρυφθὲν ἄν τις τῶν πολεμίων ἰδὼν ὠφεληθείη, πιστεύοντες οὐ ταῖς παρασκευαῖς τὸ πλέον καὶ ἀπάταις ἢ τῷ ἀφ’ ἡμῶν αὐτῶν ἐς τὰ ἔργα εὐψύχῳ· καὶ ἐν ταῖς παιδείαις οἱ μὲν ἐπιπόνῳ ἀσκήσει εὐθὺς νέοι ὄντες τὸ ἀνδρεῖον μετέρχονται, ἡμεῖς δὲ ἀνειμένως διαιτώμενοι οὐδὲν ἧσσον ἐπὶ τοὺς ἰσοπαλεῖς κινδύνους χωροῦμεν.
+English translation: And in the training for war we are different from our opponents in these ways. For we leave our city open to all the world, and we never by expulsions of aliens bar anyone from any lesson or spectacle — from any such thing, that is, as, were it not hidden, an enemy might profit by seeing; for our trust is placed not so much in preparations and craft as in the dauntless spirit which we ourselves bring to the deeds; and in our schooling, while others pursue courage from their earliest youth by laborious exercise, we, living at our ease, advance none the less against the evenly matched dangers.
+
+### 2.39.4
+Greek: καίτοι εἰ ῥᾳθυμίᾳ μᾶλλον ἢ πόνων μελέτῃ καὶ μὴ μετὰ νόμων τὸ πλέον ἢ τρόπων ἀνδρείας ἐθέλομεν κινδυνεύειν, περιγίγνεται ἡμῖν τοῖς τε μέλλουσιν ἀλγεινοῖς μὴ προκάμνειν, καὶ ἐς αὐτὰ ἐλθοῦσι μὴ ἀτολμοτέρους τῶν αἰεὶ μοχθούντων φαίνεσθαι, καὶ ἔν τε τούτοις τὴν πόλιν ἀξίαν εἶναι θαυμάζεσθαι καὶ ἔτι ἐν ἄλλοις.
+English translation: And yet, if ours is a will to face peril rather by way of ease than by laborious training, and not so much by the help of laws as by a habit of courage, we gain by it this: not to be worn out in advance under the hardships that are still before us, and, when we are come upon them, to show ourselves no fainter than men whose lives are one long toil among them — and that in these things our city is worthy of admiration, and in others besides.
+
+----- ANTWORT/ANSWER (gpt-6-astra, effort=medium; ~15k tokens) -----
+
+- 2.31.3: correct.
+- 2.32.1: correct.
+- 2.34.2: correct.
+- 2.36.3: correct.
+- 2.39.1: correct.
+- 2.39.4: correct.

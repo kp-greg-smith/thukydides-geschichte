@@ -1,0 +1,21 @@
+Answer from the text in this prompt only. Do not search for or read any files. Reply briefly.
+
+Thucydides 2.40.5, transmitted (end of Pericles' funeral oration): "καὶ μόνοι οὐ τοῦ ξυμφέροντος μᾶλλον λογισμῷ ἢ τῆς ἐλευθερίας τῷ πιστῷ ἀδεῶς τινὰ ὠφελοῦμεν."
+
+Three printed renderings:
+(A) English: "And we alone do good to a man fearlessly — not by a reckoning of profit more than of freedom — but on trust." (both genitives construed with λογισμῷ; τῷ πιστῷ taken by itself as "on trust")
+(B) Ukrainian: "And we alone fearlessly do good to anyone — relying not so much on a calculation of advantage as on the confidence that freedom gives." (τῆς ἐλευθερίας τῷ πιστῷ taken together, with an explicative relative "that freedom gives")
+(C) Hebrew: "and we alone benefit our neighbour without fear — not so much from a calculation of the expedient as from the trust that is in freedom." (τῆς ἐλευθερίας τῷ πιστῷ together; "the trust that is in freedom")
+
+Questions:
+(1) In the transmitted order "οὐ τοῦ ξυμφέροντος μᾶλλον λογισμῷ ἢ τῆς ἐλευθερίας τῷ πιστῷ", does τῷ πιστῷ go with τῆς ἐλευθερίας ("the trust of/in freedom") or stand by itself as a separate dative?
+(2) How should "τῆς ἐλευθερίας τῷ πιστῷ" best be rendered: (i) "in the confidence that freedom gives", (ii) "by the trust that is in freedom", (iii) construing both genitives with λογισμῷ and τῷ πιστῷ separately ("not by a reckoning of profit more than of freedom, but on trust")?
+(3) Is (B)'s explicative relative "that freedom gives" an addition beyond the transmitted, and if so is it an acceptable gloss or should the plainer "trust in freedom" form be preferred? Answer briefly.
+
+----- ANTWORT/ANSWER (gpt-6-astra, effort=high; 14.0k tokens) -----
+
+1. **τῷ πιστῷ most naturally belongs with τῆς ἐλευθερίας**, forming a parallel to τοῦ ξυμφέροντος … λογισμῷ: calculation of advantage versus confidence associated with freedom.
+
+2. A cautious rendering is **“with the confidence of freedom.”** (i) is an idiomatic interpretation; (ii) preserves the connection but also interprets the genitive. (iii) is syntactically much less natural, and its “but” has no explicit Greek counterpart.
+
+3. **“That freedom gives” is explanatory expansion**, treating freedom as the source of confidence. It is an acceptable gloss, though not required by the wording. “Trust in freedom” is also interpretive—it makes freedom the object of trust—and should not be preferred merely as supposedly more literal.
