@@ -120,6 +120,20 @@ nav { padding: .8em; border: 1px solid var(--line); }
 nav a { display: inline-block; margin-right: 1em; }
 table { border-collapse: collapse; width: 100%; margin: 1em 0; }
 td, th { padding: .4em; border-bottom: 1px solid var(--line); text-align: left; }
+.edition-table {
+  font-family: system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  hyphens: none;
+}
+.edition-table th, .edition-table td { padding: .9rem .5rem; vertical-align: middle; }
+.edition-table th:first-child, .edition-table td:first-child { padding-inline-start: 0; }
+.edition-table th:last-child, .edition-table td:last-child { padding-inline-end: 0; }
+.edition-table thead th { font-size: .8em; }
+.edition-table tbody th { font-weight: 600; }
+.edition-table small { display: block; font-size: .75em; font-weight: 400; }
+.edition-table a { display: inline-block; padding-block: .4rem; white-space: nowrap; }
+.edition-note { font-size: .85em; }
 .reader-toolbar { display: flex; flex-wrap: wrap; font-family: system-ui, sans-serif; font-size: 1rem; justify-content: flex-end; gap: .6em; align-items: center; }
 .reader-toolbar[hidden] { display: none; }
 button, select {
@@ -139,6 +153,8 @@ button:focus-visible, select:focus-visible, a:focus-visible { outline: 2px solid
   h1 { font-size: 1.55em; }
   table { font-size: .85em; }
   td, th { padding: .3em; }
+  .edition-table { font-size: .9rem; }
+  .edition-table th, .edition-table td { padding-block: .75rem; }
 }
 @media print {
   :root { --paper: #fff; --ink: #000; --line: #999; --glow: none; color-scheme: light; }

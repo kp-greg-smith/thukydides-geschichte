@@ -20,18 +20,20 @@
 </select>
 <button id="theme-toggle" type="button" aria-pressed="false">Dark Mode</button></div>
 <header><h1>Thucydides</h1><p>History of the Peloponnesian War</p>
-<p>The Ancient Greek original and direct translations into German, English, Ukrainian, and Hebrew. An HTML reading project covering eight books, with translations still in progress.</p></header>
+<p>The Ancient Greek original and translations into German, English, Ukrainian, and Hebrew.</p></header>
 <main>
-<h2>Languages and current status</h2>
-<p>The original is available in full from the cited edition. German Book 1 has been revised for natural, modern language and compared again with the Greek; German Book 2 covers chapters 1–80 (342 of 463 sections), revised for readability and checked against the Greek. English, Ukrainian, and Hebrew now contain all 146 chapters (580 sections) of Book 1. All 580 sections in each of these three translations have been revised for natural, modern language and checked against the Greek. Availability describes coverage, not a guarantee of error-free text. <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/review/buch1-en-uk-he-abschluss.md">Complete Book 1 review record</a>.</p>
-<div class="table-scroll" role="region" aria-label="Edition status" tabindex="0">
-<table><thead><tr><th scope="col">Language</th><th scope="col">Edition</th><th scope="col">Available</th><th scope="col">Remaining</th></tr></thead><tbody>
-<tr><th scope="row"><span lang="grc">Ἑλληνική</span> · Ancient Greek</th><td>Original</td><td><a href="#original">Books 1–8</a> · complete text of the cited edition</td><td>—</td></tr>
-<tr><th scope="row"><span lang="de">Deutsch</span> · German</th><td>Translation</td><td><a href="de/book1.html" hreflang="de">Book 1 · 146 chapters, 580 sections; readability revision and Greek comparison completed</a> · <a href="de/book2.html" hreflang="de">Book 2 · chapters 1–80 (342 of 463 sections), revised for readability and checked against the Greek</a></td><td>Book 2 ch. 81–103 not started; books 3–8 planned</td></tr>
-<tr><th scope="row">English</th><td>Translation</td><td><a href="en/book1.html" hreflang="en">Book 1 · 146 chapters, 580 sections; fully revised and checked against the Greek</a></td><td>Book 2 in progress; books 3–8 planned</td></tr>
-<tr><th scope="row"><span lang="uk">Українська</span> · Ukrainian</th><td>Translation</td><td><a href="uk/book1.html" hreflang="uk">Book 1 · 146 chapters, 580 sections; fully revised and checked against the Greek</a></td><td>Book 2 in progress; books 3–8 planned</td></tr>
-<tr><th scope="row"><bdi lang="he" dir="rtl">עברית</bdi> · Hebrew</th><td>Translation · right-to-left</td><td><a href="he/book1.html" hreflang="he">Book 1 · 146 chapters, 580 sections; fully revised and checked against the Greek</a></td><td>Book 2 in progress; books 3–8 planned</td></tr>
-</tbody></table></div>
+<h2>Read</h2>
+<table class="edition-table" aria-label="Available books by language">
+<thead><tr><th scope="col">Language</th><th scope="col">Complete</th><th scope="col">In progress</th></tr></thead>
+<tbody>
+<tr><th scope="row"><span lang="grc">Ἑλληνική</span><small>Original</small></th><td><a href="#original">Books 1–8</a></td><td>—</td></tr>
+<tr><th scope="row"><span lang="de">Deutsch</span></th><td><a href="de/book1.html" hreflang="de">Book 1</a></td><td><a href="de/book2.html" hreflang="de">Book 2</a></td></tr>
+<tr><th scope="row">English</th><td><a href="en/book1.html" hreflang="en">Book 1</a></td><td><a href="en/book2.html" hreflang="en">Book 2</a></td></tr>
+<tr><th scope="row"><span lang="uk">Українська</span></th><td><a href="uk/book1.html" hreflang="uk">Book 1</a></td><td><a href="uk/book2.html" hreflang="uk">Book 2</a></td></tr>
+<tr><th scope="row"><bdi lang="he" dir="rtl">עברית</bdi></th><td><a href="he/book1.html" hreflang="he">Book 1</a></td><td><a href="he/book2.html" hreflang="he">Book 2</a></td></tr>
+</tbody>
+</table>
+<p class="edition-note">Unfinished books are available as they are translated. Detailed coverage and review notes are in the <a href="#documentation">project documentation</a>.</p>
 <section id="original"><h2>Ancient Greek — Original</h2>
 <p lang="grc">Θουκυδίδου Ἱστορίαι</p>
 <p>The text of Henry Stuart Jones’s edition (Oxford, 1910; reprint 1942), supplied by the Perseus Digital Library, Tufts University. “Original” identifies the source language; this is not a new critical edition or an autograph.</p>
@@ -45,9 +47,6 @@
 <a href="grc/book7.html" hreflang="grc">Book 7</a>
 <a href="grc/book8.html" hreflang="grc">Book 8</a>
 </nav><p><a href="grc/source.xml">Source XML</a> · <a href="grc/source.json">Source revision and attribution</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></p></section>
-<section><h2>German translation</h2><p><a href="de/book1.html" lang="de" hreflang="de">Erstes Buch lesen</a> — 146 chapters, 580 sections. <a href="de/book2.html" lang="de" hreflang="de">Zweites Buch lesen</a> — chapters 1–80 (342 of 463 sections), translated from the Greek, revised for readability and checked against the Greek; chapters 81–103 remain. Books 3–8 have not been started.</p>
-<p>The revision completed on 2026-09-28 aims to preserve the full Greek meaning in natural, modern German. Every rewritten section was compared with the original in batches of at most ten chapters. <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/review/buch1-de-lesbarkeit.md">Book 1 revision notes</a> · <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/review/buch2-de.md">Book 2 review and corrections</a>.</p>
-<p>Book 1 includes the Corinthian speech and deliberations (119–125), Cylon, Pausanias and Themistocles (126–138), and Pericles’ speech (140–144).</p></section>
 <section><h2>Translation policy</h2>
 <p>Translate directly from Ancient Greek, faithfully and readably rather than word for word. Other translations, including Braun, Hobbes and Crawley, may help with understanding but are not the source.</p>
 <ol>
@@ -59,13 +58,15 @@
 <li>Take particular care with speeches and indirect speech, preserving viewpoint, argument, negation, conditions, modality and time.</li>
 </ol>
 <p>Work in batches of at most ten chapters, with Greek alongside each section. Check section counts, length ratios and potentially unfinished sentences automatically, then review every finding against the Greek.</p></section>
-<section><h2>Project documentation</h2><p>These READMEs explain the project and its complete rules and glossary. They are not book translations.</p>
+<section id="documentation"><h2>Project documentation</h2><p>Detailed coverage, translation principles, and glossaries:</p>
 <nav aria-label="Documentation languages">
 <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/README.md" lang="en" hreflang="en"><bdi>English</bdi></a>
 <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/README_DE.md" lang="de" hreflang="de"><bdi>Deutsch</bdi></a>
 <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/README_UK.md" lang="uk" hreflang="uk"><bdi>Українська</bdi></a>
 <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/README_HE.md" lang="he" hreflang="he"><bdi>עברית</bdi></a>
 <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/README_GRC.md" lang="grc" hreflang="grc"><bdi>Ἑλληνική</bdi></a>
-</nav></section></main>
+</nav>
+<p>Book 1 review notes: <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/review/buch1-de-lesbarkeit.md">German</a> · <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/review/buch1-en-uk-he-abschluss.md">English, Ukrainian, and Hebrew</a>. <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/review/buch2-de.md">German Book 2 review</a>.</p>
+</section></main>
 <footer><hr><p>German translation: <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>. Greek source and its HTML presentation: CC BY-SA 4.0. Fonts: SIL OFL 1.1, with notices bundled alongside each font. Section numbering follows the cited edition.</p></footer>
 </body></html>
