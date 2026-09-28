@@ -22,7 +22,7 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 | 71–80 | 43 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 81–90 | 42 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 91–100 | 39 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
-| 101–110 | 42 | offen |
+| 101–110 | 42 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 111–120 | 35 | offen |
 | 121–130 | 43 | offen |
 | 131–140 | 38 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
@@ -189,6 +189,21 @@ Alle 39 Abschnitte je Sprache am Griechischen gelesen; EN/HE je 37, UK 38 übera
 - 1.100.1–3: ungefähr zweihundert erbeutete und zerstörte Schiffe insgesamt; Thasos’ Besitz und Siedlerzug klar zugeordnet. Vorstoß ins thrakische Binnenland, nicht aus Thrakien heraus (HE).
 
 Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 39/39 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 101–110
+
+Alle 42 Abschnitte je Sprache am Griechischen gelesen und sprachlich überarbeitet.
+
+- 1.101.1–3: zugesagte geheime Intervention, Erdbeben und Aufstand verbunden; Thasos zahlt eine sofortige Summe und **künftigen Tribut**, nicht bloß einen späteren Restbetrag (UK/HE).
+- 1.102.1–4: im Gegenschluss ausdrücklich „sonst hätten sie die Festung erstürmt“. Politischer Umsturz statt harmloser Neuerungen (UK). Nur Athen wird heimgeschickt; angegebener Grund gegenüber tatsächlichem Verdacht unterschieden. Thessalischer Bündnisschluss mit Athen und Argos verständlich.
+- 1.103.1–4: zehntes Jahr des Grundtexts unverändert; Freiabzug und Versklavungsbedingung erhalten. Megaras Bündniswechsel bedeutet keine athenische Eroberung. `οὐχ ἥκιστα` bezeichnet den gewichtigen Ursprung des korinthischen Hasses, nicht dessen Rang gegenüber anderen Hassgefühlen (HE).
+- 1.104.1–105.6: ägyptische Revolte, zwei Drittel von Memphis und verbliebene Festung verständlich; Entlastungsangriff auf Megara ohne Abzug der Belagerer von Aigina. Unentschiedener Kampf statt gleicher Truppenstärke (HE); ungefähr zwölf Tage statt höchstens zwölf (UK).
+- 1.106.1–2: eingeschlossene Korinther werden ausdrücklich **mit Steinen** getötet; die alten Fassungen hatten dies durch unspezifisches Töten oder Geschosse ersetzt.
+- 1.107.1–7: der junge König ist Pleistoanax, nicht sein Vater Pausanias (HE). Geheime Einladung zur politischen Intervention statt bloßer Führung einer Marschkolonne. Absicht, den Mauerbau zu stoppen, nicht zwingend bestehende Mauern zu zerstören. Die Athener sehen den gegnerischen Rückweg blockiert, nicht ihren eigenen (UK).
+- 1.108.1–5: hohe Verluste beider Seiten, zweiundsechzigster Tag und hundert **reichste** Geiseln erhalten; hebräische Zahlengrammatik berichtigt. Künftiger Tribut als angenommene Verpflichtung.
+- 1.109.1–110.5: in Ägypten bleiben statt bereits durchgehend ausharren; kein zusätzlicher Anspruch auf **ganz** Ägypten (HE). Durch Umleitung des Wassers wird die Insel ans Festland angeschlossen, nicht bloß zu trockenem Boden (UK). Ersatzflotte läuft die Nilmündung an, ohne sie zu erobern; Unkenntnis, Angriff von zwei Seiten und überlebender kleinerer Teil erhalten.
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 42/42 Abschnitte, keine Fehler oder Prüfhinweise.
 
 ### 131–140
 
