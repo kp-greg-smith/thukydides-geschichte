@@ -1,0 +1,41 @@
+Answer from the text in this prompt only. Do not search for or read any files. Reply briefly.
+
+
+Task: review each translated section below against its Greek source, sentence by sentence. Report only real problems: sense inversions, wrong or missing negations, missing or added sentence parts, wrong numbers, wrong names, grammatical misreadings. Note: sections from chapters 41-46 are Pericles' funeral oration (direct speech, no narrator's assertions allowed there); chapters 47-50 are the narrator's plague narrative (personal testimony of the narrator appears at 2.48.3, that is correct, not a speech). Quote the Greek words at issue. If a translation is correct, say "correct" for that section.
+
+### 2.41.5
+Greek: περὶ τοιαύτης οὖν πόλεως οἵδε τε γενναίως δικαιοῦντες μὴ ἀφαιρεθῆναι αὐτὴν μαχόμενοι ἐτελεύτησαν, καὶ τῶν λειπομένων πάντα τινὰ εἰκὸς ἐθέλειν ὑπὲρ αὐτῆς κάμνειν.
+English translation: Of such a city, then, were these men too: judging it nobly just not to be robbed of her, died fighting; and of those who are left behind it is to be expected that each and all will be willing to toil on her behalf.
+
+### 2.42.4
+Greek: τῶνδε δὲ οὔτε πλούτου τις τὴν ἔτι ἀπόλαυσιν προτιμήσας ἐμαλακίσθη οὔτε πενίας ἐλπίδι, ὡς κἂν ἔτι διαφυγὼν αὐτὴν πλουτήσειεν, ἀναβολὴν τοῦ δεινοῦ ἐποιήσατο· τὴν δὲ τῶν ἐναντίων τιμωρίαν ποθεινοτέραν αὐτῶν λαβόντες καὶ κινδύνων ἅμα τόνδε κάλλιστον νομίσαντες ἐβουλήθησαν μετ’ αὐτοῦ τοὺς μὲν τιμωρεῖσθαι, τῶν δὲ ἐφίεσθαι, ἐλπίδι μὲν τὸ ἀφανὲς τοῦ κατορθώσειν ἐπιτρέψαντες, ἔργῳ δὲ περὶ τοῦ ἤδη ὁρωμένου σφίσιν αὐτοῖς ἀξιοῦντες πεποιθέναι, καὶ ἐν αὐτῷ τῷ ἀμύνεσθαι καὶ παθεῖν μᾶλλον ἡγησάμενοι ἢ [τὸ] ἐνδόντες σῴζεσθαι, τὸ μὲν αἰσχρὸν τοῦ λόγου ἔφυγον, τὸ δ’ ἔργον τῷ σώματι ὑπέμειναν καὶ δι’ ἐλαχίστου καιροῦ τύχης ἅμα ἀκμῇ τῆς δόξης μᾶλλον ἢ τοῦ δέους ἀπηλλάγησαν.
+English translation: And of these men not one was made soft by setting before all else the further enjoyment of his wealth, nor did any in the hope of poverty — on the thought that, if he escaped it, he would yet grow rich — make the dread thing a matter to put off; but holding the chastisement of their enemies a thing more longed for than their own selves, and deeming this danger at once the most beautiful of dangers, they chose with it both to chasten the foe and to court the danger — committing to hope the unseen issues of success, but holding themselves bound, in deed, to be confident of what was already before their own eyes; and deeming it better, in the very act of defence, to suffer than by yielding to be saved, they fled the shame that lies in words and endured the deed in their own bodies; and in the briefest turn of fortune, at once at the high point of glory rather than of fear, they were set free.
+
+### 2.43.3
+Greek: ἀνδρῶν γὰρ ἐπιφανῶν πᾶσα γῆ τάφος, καὶ οὐ στηλῶν μόνον ἐν τῇ οἰκείᾳ σημαίνει ἐπιγραφή, ἀλλὰ καὶ ἐν τῇ μὴ προσηκούσῃ ἄγραφος μνήμη παρ’ ἑκάστῳ τῆς γνώμης μᾶλλον ἢ τοῦ ἔργου ἐνδιαιτᾶται.
+English translation: For the whole earth is the tomb of famous men; and not on the columns in their own land alone does the inscription tell of them — in a land not theirs also there dwells, in every man, an unwritten memory — rather of their spirit than of their deed.
+
+### 2.45.2
+Greek: εἰ δέ με δεῖ καὶ γυναικείας τι ἀρετῆς, ὅσαι νῦν ἐν χηρείᾳ ἔσονται, μνησθῆναι, βραχείᾳ παραινέσει ἅπαν σημανῶ. τῆς τε γὰρ ὑπαρχούσης φύσεως μὴ χείροσι γενέσθαι ὑμῖν μεγάλη ἡ δόξα καὶ ἧς ἂν ἐπ’ ἐλάχιστον ἀρετῆς πέρι ἢ ψόγου ἐν τοῖς ἄρσεσι κλέος ᾖ.
+English translation: And if I must make mention also of some part of womanly excellence — for the women who will now be left in widowhood — I shall set it all out with a brief word of counsel. For great in you women is the glory — not to fall short of the nature that is in you; and the renown is hers of whom there is least speech among the men, whether for praise or for blame.
+
+### 2.49.1
+Greek: τὸ μὲν γὰρ ἔτος, ὡς ὡμολογεῖτο, ἐκ πάντων μάλιστα δὴ ἐκεῖνο ἄνοσον ἐς τὰς ἄλλας ἀσθενείας ἐτύγχανεν ὄν· εἰ δέ τις καὶ προύκαμνέ τι, ἐς τοῦτο πάντα ἀπεκρίθη.
+English translation: For the year, as was generally agreed, was of all others the freest from sickness — that is, as regarded the other maladies; and whatever a man chanced to be suffering from before, it was into this that everything resolved.
+
+### 2.49.5
+Greek: καὶ τὸ μὲν ἔξωθεν ἁπτομένῳ σῶμα οὔτ’ ἄγαν θερμὸν ἦν οὔτε χλωρόν, ἀλλ’ ὑπέρυθρον, πελιτνόν, φλυκταίναις μικραῖς καὶ ἕλκεσιν ἐξηνθηκός· τὰ δὲ ἐντὸς οὕτως ἐκάετο ὥστε μήτε τῶν πάνυ λεπτῶν ἱματίων καὶ σινδόνων τὰς ἐπιβολὰς μηδ’ ἄλλο τι ἢ γυμνοὶ ἀνέχεσθαι, ἥδιστά τε ἂν ἐς ὕδωρ ψυχρὸν σφᾶς αὐτοὺς ῥίπτειν. καὶ πολλοὶ τοῦτο τῶν ἠμελημένων ἀνθρώπων καὶ ἔδρασαν ἐς φρέατα, τῇ δίψῃ ἀπαύστῳ ξυνεχόμενοι· καὶ ἐν τῷ ὁμοίῳ καθειστήκει τό τε πλέον καὶ ἔλασσον ποτόν.
+English translation: Outwardly, to the touch, the body was neither excessively hot nor yet pale, but of a dusky red, livid, breaking out in small blisters and in sores; but the parts within burned so that the sick could not endure the laying-on even of the very thinnest garments and of fine linen, nor anything else save to go naked; and there was nothing so welcome to them as to throw themselves into cold water. And many of those who had none to attend them did even this, throwing themselves into the wells, mastered by a thirst that would not cease; and drinking much or drinking little, it was all one to them.
+
+----- ANTWORT/ANSWER (gpt-6-astra, effort=medium; ~15k tokens; Anfrage 24) -----
+
+- **2.41.5:** **περὶ τοιαύτης … πόλεως** means “For such a city … they died fighting,” not “Of such a city … were these men.”
+- **2.42.4:** Four errors:
+  - **πενίας ἐλπίδι**: hope of escaping poverty, not “hope of poverty.”
+  - **ποθεινοτέραν αὐτῶν**: vengeance was more desirable than the material prospects just mentioned, not “their own selves.”
+  - **τῶν δὲ ἐφίεσθαι**: relinquishing those prospects, not “courting the danger.”
+  - **περὶ τοῦ ἤδη ὁρωμένου σφίσιν αὐτοῖς … πεποιθέναι**: trusting themselves concerning the situation before them, not being confident of what they saw.
+- **2.43.3:** correct.
+- **2.45.2:** correct.
+- **2.49.1:** correct.
+- **2.49.5:** correct.
