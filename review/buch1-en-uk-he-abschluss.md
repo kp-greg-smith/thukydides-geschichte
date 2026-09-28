@@ -12,8 +12,8 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 
 | Kapitel | Abschnitte je Sprache | Stand |
 |---|---:|---|
-| 1–10 | 37 | offen |
-| 11–20 | 28 | offen |
+| 1–10 | 37 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
+| 11–20 | 28 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 21–30 | 44 | offen |
 | 31–40 | 45 | offen |
 | 41–50 | 41 | offen |
@@ -29,6 +29,39 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 | 141–146 | 27 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 
 ## Entscheidungen und Korrekturen
+
+### 1–10
+
+Alle 37 Abschnitte in jeder der drei Sprachen am Griechischen geprüft. 1.7.1 und 1.10.4 aus der früheren Korrektur unverändert bestätigt; die übrigen 35 Abschnittsfassungen je Sprache auch für natürliche, heutige Sprache überarbeitet.
+
+- 1.1.1–3: dritte Person des Einleitungssatzes und anschließende Ich-Perspektive erhalten; Grundlage des historischen Urteils als vom Autor für verlässlich gehaltene Belege gefasst.
+- 1.2.2–6: Subsistenzwirtschaft, ausbleibende dauerhafte Pflanzungen und Wanderungen verständlich verbunden. `τισὶ` in 1.2.4 bezeichnet mächtiger Werdende, nicht „gewisse Orte“. Nur die mächtigsten unter den Vertriebenen werden als Zuwanderer nach Athen bezeichnet, nicht sämtliche Flüchtlinge als die mächtigsten Menschen.
+- 1.3.2: die Regionen erhalten Namen ihrer Bewohner; es geht nicht darum, dass Völker sich selbst nach sich benennen. Die Namengeschichte Hellas/Hellenen bleibt auch auf Hebräisch nachvollziehbar.
+- 1.3.3–4: Bezeichnungen für das griechische Gesamtaufgebot nicht auf die anderen gegenüber Achilleus’ Gefährten beschränkt; gegenseitiges Verstehen statt bloßem Kennenlernen.
+- 1.5.1–2: unbefestigte, in Dörfer aufgegliederte Städte, nicht zwei getrennte Angriffsziele; Fragen in den Werken der Dichter, nicht persönliche Befragungen durch die Dichter; Erfolg beim Rauben als Ehrenmerkmal.
+- 1.6.1–3: gefährliche Wege statt gefährlicher Überfälle; nur Teile Griechenlands leben noch so. Athen gehört **zu den Ersten**, ohne alleinige Priorität; hebräische Zikaden statt Grillen.
+- 1.8.3: mehr erworbener Reichtum, nicht bloß sichererer Erwerb; `δουλεία` weiterhin ausdrücklich Sklaverei.
+- 1.9.1–4: Macht und Flotte als Grund des Aufgebots. Bei Atreus umfasst die übernommene Königsherrschaft Mykene und alle bisherigen Untertanen des Eurystheus; der letzte Genitivkomplex gehört nicht zum Werben um deren Gunst. Die Beweisklausel über Homer betrifft seine Verlässlichkeit, nicht die Befähigung des Lesers.
+- 1.10.1–3,5: Ortsgröße kein zuverlässiger Gegenbeweis; Ruinenvergleich und alle Zahlen erhalten; keine zusätzliche Traditionserwähnung beim rechnerischen Durchschnitt in 1.10.5.
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 37/37 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 11–20
+
+Alle 28 Abschnitte in jeder der drei Sprachen geprüft. 1.18.1 aus der früheren Korrektur erneut bestätigt. Die übrigen 27 Abschnittsfassungen je Sprache auch sprachlich überarbeitet.
+
+- 1.11.1–3: Nahrungsmangel, verteilte Kräfte und Gegenhypothese zusammenhängend formuliert. Im Hebräischen macht ein ausdrückliches „andernfalls“ die Schlussfolgerung aus dem befestigten Lager nachvollziehbar.
+- 1.12.3–4: bereits in Böotien ansässige Teilgruppe, keine unbelegten Landlose. Peloponnesier besiedeln auch Teile des übrigen Griechenlands; dieses ist hier nicht Herkunft weiterer Kolonisatoren.
+- 1.13.3–6: ukrainisches „höchstens“ bei beiden Zeitangaben durch „ungefähr“ ersetzt. Korinths Handelsplatz bedient Land- und Seeverkehr. Das ionische `πολὺ … ναυτικόν` als großer Flottenverband verstanden, nicht nur zeitliches „viel später“.
+- 1.15.1: unzureichendes eigenes Land betrifft die **Eroberer**, nicht die unterworfenen Inseln; ausdrücklich entwirrt.
+- 1.16.1: zunächst Überwindung des Kroisos und der Länder bis zum Meer, dann Angriff auf Ionien. Darius siegt **mithilfe** der phönizischen Flotte; kein bloßer Flottenbesitzerwechsel.
+- 1.17.1: Regierung der Städte, nicht bloß sicheres Wohnen der Tyrannen darin.
+- 1.18.2: großes persisches Aufgebot statt bloßem Flottenverband; Räumung des Besitzes und Besteigen der Schiffe, keine unbelegte Unterbringung sämtlicher Haushalte auf den Kriegsschiffen.
+- 1.18.3: zerstrittene Griechen schließen sich Athen bzw. Sparta an. Die drei alten Fassungen machten daraus Angriffe der beiden Großmächte auf sie.
+- 1.19.1: Sparta fördert ihm genehme oligarchische Verfassungen bei den Verbündeten; es geht nicht um einen unscharfen Vorteil „für Spartas Oligarchie“.
+- 1.20.1–2: Vertrauen in einzelne Belege statt vermeintlicher Unmöglichkeit eines fortlaufenden Beweises. Die Attentäter **vermuten** eine Anzeige durch Mitverschwörer; sie werden nicht von diesen sicher darüber informiert.
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 28/28 Abschnitte, keine Fehler oder Prüfhinweise.
 
 ### 131–140
 
