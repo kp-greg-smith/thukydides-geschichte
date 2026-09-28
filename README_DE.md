@@ -10,7 +10,7 @@ Eine mehrsprachige HTML-Leseausgabe des altgriechischen Originals und direkter �
 
 | Sprache | Rolle | Vorhanden | Noch offen |
 |---|---|---|---|
-| Altgriechisch (`grc`) | **Original**, keine Übersetzung | [Bücher 1–8](docs/grc/book1.html), aus der angegebenen Edition übernommen | Weitere redaktionelle Prüfung; keine neue Transkription |
+| Altgriechisch (`grc`) | **Original**, keine Übersetzung | [Bücher 1–8](docs/grc/book1.html), vollständiger Text der angegebenen Edition | — |
 | Deutsch (`de`) | Übersetzung | [Buch 1](docs/de/book1.html): 146 Kapitel, 580 Abschnitte; Lesbarkeitsdurchgang mit Gegenprüfung am Griechischen abgeschlossen; [Buch 2](docs/de/book2.html): Kapitel 1–80 (342 von 463 Abschnitten), sprachlich überarbeitet und am Griechischen geprüft | Buch 2, Kap. 81–103 nicht begonnen; Bücher 3–8 geplant |
 | Englisch (`en`) | Übersetzung | [Buch 1](docs/en/book1.html): Kapitel 1–120 (472 von 580 Abschnitten), geprüft | Buch 1, Kap. 121–146 in Arbeit; Bücher 2–8 geplant |
 | Ukrainisch (`uk`) | Übersetzung | [Buch 1](docs/uk/book1.html): Kapitel 1–120 (472 von 580 Abschnitten), geprüft | Buch 1, Kap. 121–146 in Arbeit; Bücher 2–8 geplant |

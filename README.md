@@ -10,7 +10,7 @@ A multilingual HTML reading edition of the Ancient Greek original and direct tra
 
 | Language | Role | Books available | Remaining work |
 |---|---|---|---|
-| Ancient Greek (`grc`) | **Original**, not a translation | [Books 1–8](docs/grc/book1.html), imported from the cited edition | Further editorial checks; no new transcription claimed |
+| Ancient Greek (`grc`) | **Original**, not a translation | [Books 1–8](docs/grc/book1.html), complete text of the cited edition | — |
 | German (`de`) | Translation | [Book 1](docs/de/book1.html): 146 chapters, 580 sections; readability revision and comparison with Greek completed; [Book 2](docs/de/book2.html): chapters 1–80 (342 of 463 sections), revised for readability and checked against the Greek | Book 2 ch. 81–103 not started; books 3–8 planned |
 | English (`en`) | Translation | [Book 1](docs/en/book1.html): chapters 1–120 (472 of 580 sections), reviewed | Book 1 ch. 121–146 in progress; books 2–8 planned |
 | Ukrainian (`uk`) | Translation | [Book 1](docs/uk/book1.html): chapters 1–120 (472 of 580 sections), reviewed | Book 1 ch. 121–146 in progress; books 2–8 planned |
