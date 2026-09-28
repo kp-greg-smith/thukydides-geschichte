@@ -1,0 +1,23 @@
+Answer from the text in this prompt only. Do not search for or read any files. Reply briefly.
+
+Thucydides 2.15.4, transmitted Oxford/Jones (a dagger marks a transmitted corruption after "akropolei"):
+"τεκμήριον δέ· τὰ γὰρ ἱερὰ ἐν αὐτῇ τῇ ἀκροπόλει † καὶ ἄλλων θεῶν ἐστὶ καὶ τὰ ἔξω πρὸς τοῦτο τὸ μέρος τῆς πόλεως μᾶλλον ἵδρυται, τό τε τοῦ Διὸς τοῦ Ὀλυμπίου καὶ τὸ Πύθιον καὶ τὸ τῆς Γῆς καὶ τὸ 〈τοῦ〉 ἐν Λίμναις Διονύσου..."
+Context: proof that the acropolis was the old city and that the old city faced south.
+Rendered sense: "A proof of this: the sanctuaries in the acropolis itself are of other gods as well, and those outside are founded rather in this part of the city — that of Olympian Zeus, the Pythium, that of Earth, and that of Dionysus in the Marshes..."
+A printed reader note says: the source edition marks the transmitted Greek of this sentence as corrupt at this point; it is rendered according to its evident sense.
+Questions: (a) Is this evident-sense reading of the dagged clause the standard one (that the sanctuaries on the acropolis belong to other gods too, and the sanctuaries outside the acropolis lie mainly in this southern part)? (b) Is the factual reader note warranted, or should the passage go unannotated? (c) Is any more specific elliptic supplement standard? Answer briefly.
+
+----- ANTWORT/ANSWER (gpt-6-astra, effort=high; 13.8k tokens) -----
+codex
+(a) Yes as to the intended sense you describe, with “southern” supplied by context. Whether it is the **standard scholarly reading** cannot be established from the prompt alone.
+
+(b) The note is warranted: it reports the marked corruption and explains the translation’s treatment. There is no reason here to remove it.
+
+(c) The supplied material establishes **no specific standard elliptic supplement**. An evident-sense rendering does not imply an agreed reconstruction.
+tokens used
+13,803
+(a) Yes as to the intended sense you describe, with “southern” supplied by context. Whether it is the **standard scholarly reading** cannot be established from the prompt alone.
+
+(b) The note is warranted: it reports the marked corruption and explains the translation’s treatment. There is no reason here to remove it.
+
+(c) The supplied material establishes **no specific standard elliptic supplement**. An evident-sense rendering does not imply an agreed reconstruction.

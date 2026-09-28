@@ -1,0 +1,16 @@
+Answer from the text in this prompt only. Do not search for or read any files. Reply briefly.
+
+Two questions.
+
+(1) Thucydides 2.18.3, transmitted: "αἰτίαν τε οὐκ ἐλαχίστην Ἀρχίδαμος ἔλαβεν ἀπ' αὐτοῦ, δοκῶν καὶ ἐν τῇ ξυναγωγῇ τοῦ πολέμου μαλακὸς εἶναι καὶ τοῖς Ἀθηναίοις ἐπιτήδειος, οὐ παραινῶν προθύμως πολεμεῖν".
+Reading A: "being thought slack already at the opening of the war" — taking ἐν τῇ ξυναγωγῇ τοῦ πολέμου temporally ("at the war's muster/outset").
+Reading B: "being thought slack also in the assembly that voted for the war" — taking it as the war-assembly (1.80.1, 1.87ff.).
+Which construal is standard? Answer briefly.
+
+(2) A multi-book Hebrew edition binds the demonym of Θῆβαι Already as follows: city "תבאי", citizens "התבנים" (used throughout book 1). A fresh reviewer proposes replacing it with "התבאים" as "the Greek-derived form". For a consistent multi-book edition whose house list is binding, should the established form be kept? Answer briefly.
+
+----- ANTWORT/ANSWER (gpt-6-astra, effort=medium; 13.4k tokens) -----
+
+(1) The supplied text alone does not establish which construal is standard; calling either A or B standard would require evidence beyond the prompt.
+
+(2) Yes. Keep **התבנים**: the binding house list and consistency across books govern. The reviewer’s “Greek-derived” claim does not override them.

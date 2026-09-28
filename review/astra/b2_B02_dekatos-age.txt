@@ -1,0 +1,23 @@
+Answer from the text in this prompt only. Do not search for or read any files. Reply briefly.
+
+Thucydides 2.13.1, transmitted Oxford/Jones. Two construction questions about one sentence.
+Sentence part 1: "Περικλῆς ὁ Ξανθίππου στρατηγὸς ὢν Ἀθηναίων δέκατος αὐτός, ὡς ἔγνω τὴν ἐσβολὴν ἐσομένην..."
+Three renderings of "στρατηγὸς ὢν Ἀθηναίων δέκατος αὐτός":
+(i) "Pericles ... then general of the Athenians for the tenth time" (i.e. serving his tenth generalship),
+(ii) "being the tenth general of the Athenians" (i.e. in the tenth year of the war / in some succession),
+(iii) "being at that time one of the ten generals of the Athenians" (i.e. a member of the board of ten).
+Question 1: which reading is standard for "δέκατος αὐτός" here? Note: at Thucydides 1.61.1 the transmitted "πέμπτον αὐτὸν στρατηγόν" was taken as "himself the fifth" (= serving his fifth term); does the same idiom govern here?
+
+Sentence part 2: "ἢ καὶ Λακεδαιμονίων κελευσάντων ἐπὶ διαβολῇ τῇ ἑαυτοῦ γένηται τοῦτο, ὥσπερ καὶ τὰ ἄγη ἐλαύνειν προεῖπον ἕνεκα ἐκείνου, προηγόρευε τοῖς Ἀθηναίοις..."
+Context: Pericles fears Archidamus might spare Pericles' own estates to embarrass him, "just as they had before given out that they would drive off ___ on his account".
+Renderings of "τὰ ἄγη ἐλαύνειν προεῖπον ἕνεκα ἐκείνου":
+(a) drive off the cattle/herds,
+(b) drive out the goats (from a connection with αἴξ),
+(c) drive out the pollutions (from ἄγος "pollution, cause of pollution").
+Question 2: what does transmitted "τὰ ἄγη" mean in this sentence, and which rendering is correct? Is there a standard construal? Answer briefly.
+
+----- ANTWORT/ANSWER (gpt-6-astra, effort=medium; 13.6k tokens) -----
+
+1. **(iii)** is standard: **δέκατος αὐτός** means “himself as the tenth,” counting him with nine others—thus “one of the ten generals.” It does not count terms of office or years. The same idiom makes **πέμπτον αὐτὸν στρατηγόν** “himself one of five generals,” not “serving his fifth term”; that proposed parallel rests on a mistaken interpretation.
+
+2. **(c)** is correct: **τὰ ἄγη** is the plural of **ἄγος**, “religious pollution” or “defilement.” The standard construal is “just as they had previously demanded that the pollutions be expelled, on his account.” **προεῖπον … ἐλαύνειν** expresses a prior demand, not an announcement that they themselves would drive something away.
