@@ -1,0 +1,27 @@
+Task: review each translated section below against its Greek source, sentence by sentence. Report only real problems: sense inversions, wrong negations, missing or added sentence parts, wrong names or numbers, ungrammatical or unnatural renderings of the target language, misread constructions. Quote the Greek words at issue. If a translation is correct, say "correct" for that section. Be concise; no background research needed.
+### 2.4.1
+Greek: οἱ δ’ ὡς ἔγνωσαν ἐξηπατημένοι, ξυνεστρέφοντό τε ἐν σφίσιν αὐτοῖς καὶ τὰς προσβολὰς ᾗ προσπίπτοιεν ἀπεωθοῦντο.
+EN translation: The Thebans, as soon as they knew that they had been cheated, drew themselves up close together, and beat off the attacks wherever these were delivered.
+
+### 2.4.8
+Greek: οἱ μὲν δὴ ἐν τῇ Πλαταίᾳ οὕτως ἐπεπράγεσαν·
+EN translation: The men at Plataea, then, fared thus.
+
+### 2.5.6
+Greek: Θηβαῖοι μὲν ταῦτα λέγουσι καὶ ἐπομόσαι φασὶν αὐτούς· Πλαταιῆς δ’ οὐχ ὁμολογοῦσι τοὺς ἄνδρας εὐθὺς ὑποσχέσθαι ἀποδώσειν, ἀλλὰ λόγων πρῶτον γενομένων ἤν τι ξυμβαίνωσι, καὶ ἐπομόσαι οὔ φασιν.
+EN translation: This is the Theban account, and they say that the Plataeans swore an oath to it; the Plataeans, for their part, do not admit that they promised at once to give the men back — only, they say, after words had first passed, and if some agreement should be reached — and they deny that they swore.
+
+### 2.8.2
+Greek: καὶ πολλὰ μὲν λόγια ἐλέγετο, πολλὰ δὲ χρησμολόγοι ᾖδον ἔν τε τοῖς μέλλουσι πολεμήσειν καὶ ἐν ταῖς ἄλλαις πόλεσιν.
+EN translation: Many prophetic sayings were repeated, and the oracle-mongers sang many things, among those on the point of making war and among the other cities alike.
+
+----- ANTWORT/ANSWER (gpt-6-astra) -----
+
+- **2.4.1:** correct.
+- **2.4.8:** correct.
+- **2.5.6:** **εὐθὺς … ἀποδώσειν** concerns returning the men immediately. “Promised at once” attaches the timing to the promise. Render: “do not admit promising to return the men immediately, but only after preliminary negotiations, if agreement were reached.”
+- **2.8.2:** correct.
+- **2.4.1:** correct.
+- **2.4.8:** correct.
+- **2.5.6:** **εὐθὺς … ἀποδώσειν** concerns returning the men immediately. “Promised at once” attaches the timing to the promise. Render: “do not admit promising to return the men immediately, but only after preliminary negotiations, if agreement were reached.”
+- **2.8.2:** correct.

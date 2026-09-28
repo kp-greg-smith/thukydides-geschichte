@@ -1,0 +1,24 @@
+Thucydides 2, transmitted Oxford/Jones text. Two disputed renderings; adjudicate each briefly.
+
+(1) 2.7.3: "ὁρῶντες, εἰ σφίσι φίλια ταῦτ' εἴη βεβαίως, πέριξ τὴν Πελοπόννησον καταπολεμήσοντες" (Athenians courting Corcyra, Cephallenia, Acarnania, Zacynthus).
+Candidate (i): "they would carry the war right round the Peloponnese" — war waged all round it, no conquest claim.
+Candidate (ii): "they would subdue the Peloponnese by war waged round about it" — perfective force of κατα- kept.
+Question: which candidate matches the standard construal of καταπολεμήσοντες here (cite lexical support, LSJ καταπολεμέω)? Is the rejected candidate actually wrong, or merely less precise?
+
+(2) 2.9.2: "Λακεδαιμονίων μὲν οἵδε ξύμμαχοι· Πελοποννήσιοι μὲν οἱ ἐντὸς Ἰσθμοῦ πάντες πλὴν Ἀργείων καὶ Ἀχαιῶν".
+Candidate (i): "all the Peloponnesians within the Isthmus" (the traditional English phrase).
+Candidate (ii): "all the Peloponnesians on the Peloponnesian side of the Isthmus".
+Question: does ἐντὸς Ἰσθμοῦ here mean "within the space bounded by the Isthmus line" (so that (i) is correct as idiomatic shorthand) or must the translation locate them explicitly south of the Isthmus? Is (i) actually wrong?
+
+----- ANTWORT/ANSWER (gpt-6-astra) -----
+
+**(1) Prefer (ii) for the standard resultative construal.** LSJ s.v. καταπολεμέω gives “to war down”: reduce or subdue by warfare. Here τὴν Πελοπόννησον is the verb’s object, and πέριξ supplies “all round.” Thus “they would subdue the Peloponnese by attacks from all round” preserves both elements. This is the Athenians’ anticipated outcome, not a statement of accomplished conquest. ([LSJ head gloss](https://areopage.net/PDF/LSJ.pdf#page=334))
+
+Candidate (i) is **less precise, rather than simply wrong**: it conveys the geographical strategy but leaves the resultative force unexpressed. There is also a scholarly basis for the weaker interpretation: the *Lexicon Thucydideum* explicitly assigns 2.7.3 to *bello infestare*, “harass with war.” Consequently, one should not present (ii) as the only defensible translation. ([Lexicon Thucydideum, s.v.](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alexicon-thucydideum-2532/))
+
+**(2) Candidate (i) is correct traditional shorthand; (ii) makes its meaning explicit.** The Isthmus serves as a boundary: “within” means within the peninsula on its Peloponnesian side, not inside the narrow strip of the Isthmus itself. Compare LSJ ἐντός I.2, “within, i.e. on this side,” and the passage’s ensuing contrast, ἔξω δὲ Πελοποννήσου. Explicitly saying “south of” or “on the Peloponnesian side of” improves clarity for modern readers but is not required for correctness. ([LSJ, ἐντός I.2](https://bible-teka.com/strong/greek/1787/dict/liddell-scott-jones/))
+**(1) Prefer (ii) for the standard resultative construal.** LSJ s.v. καταπολεμέω gives “to war down”: reduce or subdue by warfare. Here τὴν Πελοπόννησον is the verb’s object, and πέριξ supplies “all round.” Thus “they would subdue the Peloponnese by attacks from all round” preserves both elements. This is the Athenians’ anticipated outcome, not a statement of accomplished conquest. ([LSJ head gloss](https://areopage.net/PDF/LSJ.pdf#page=334))
+
+Candidate (i) is **less precise, rather than simply wrong**: it conveys the geographical strategy but leaves the resultative force unexpressed. There is also a scholarly basis for the weaker interpretation: the *Lexicon Thucydideum* explicitly assigns 2.7.3 to *bello infestare*, “harass with war.” Consequently, one should not present (ii) as the only defensible translation. ([Lexicon Thucydideum, s.v.](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alexicon-thucydideum-2532/))
+
+**(2) Candidate (i) is correct traditional shorthand; (ii) makes its meaning explicit.** The Isthmus serves as a boundary: “within” means within the peninsula on its Peloponnesian side, not inside the narrow strip of the Isthmus itself. Compare LSJ ἐντός I.2, “within, i.e. on this side,” and the passage’s ensuing contrast, ἔξω δὲ Πελοποννήσου. Explicitly saying “south of” or “on the Peloponnesian side of” improves clarity for modern readers but is not required for correctness. ([LSJ, ἐντός I.2](https://bible-teka.com/strong/greek/1787/dict/liddell-scott-jones/))

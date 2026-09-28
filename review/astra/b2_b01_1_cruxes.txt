@@ -1,0 +1,36 @@
+Thucydides Book 2, transmitted Oxford/Jones text. Five short passage questions. For each: give the standard reading, say whether the transmitted wording is an idiom or a text problem (do not recommend silent emendation), and answer the specific question. No background needed; judge from the Greek alone.
+
+(1) 2.3.1 Context: Thebans hold Plataea's market-place by night; the Plataeans accept terms and stay quiet. Greek: "καταδείσαντες καὶ νομίσαντες πολλῷ πλείους ἐσεληλυθέναι (οὐ γὰρ ἑώρων ἐν τῇ νυκτί) πρὸς ξύμβασιν ἐχώρησαν καὶ τοὺς λόγους δεξάμενοι ἡσύχαζον, ἄλλως τε καὶ ἐπειδὴ ἐς οὐδένα οὐδὲν ἐνεωτέριζον."
+English draft: "...especially as the Thebans were attempting no new thing against anyone."
+Question: is οὐδὲν ἐνεωτέριζον here literally "doing nothing new", or idiomatically "attempting nothing hostile/rash"? How is the νεωτερ- word usually taken in this diplomatic register?
+
+(2) 2.6.2 Context: Athenians instruct the Plataeans, who hold Theban prisoners, before Athens deliberates. Greek: "ἐς τὴν Πλάταιαν ἔπεμψαν κήρυκα, κελεύοντες εἰπεῖν μηδὲν νεώτερον ποιεῖν περὶ τῶν ἀνδρῶν οὓς ἔχουσι Θηβαίων, πρὶν ἄν τι καὶ αὐτοὶ βουλεύσωσι περὶ αὐτῶν"
+English draft: "to do nothing new about the Thebans whom they held, before the Athenians themselves should have deliberated."
+Question: literal "new" or idiomatic "nothing rash/irreversible"? Which should a faithful modern translation print?
+
+(3) 2.5.5 Context: Plataean herald's message to the Thebans. Greek: "λέγοντες ὅτι οὔτε τὰ πεποιημένα ὅσια δράσειαν ἐν σπονδαῖς σφῶν πειράσαντες καταλαβεῖν τὴν πόλιν"
+English draft: "telling them that what had been done was unholy — attempting, while a truce bound both parties, to seize their city".
+Question: is the optative δράσειαν construction here a text problem (requiring emendation) or a transmitted (if compressed) idiom in indirect speech? What is the standard construal? Would a reader note on textual uncertainty be warranted, or is the reading secure enough to stand without annotation?
+
+(4) 2.8.4 Context: Greek goodwill toward Sparta at the war's start. Greek: "ἐν τούτῳ τε κεκωλῦσθαι ἐδόκει ἑκάστῳ τὰ πράγματα ᾧ μή τις αὐτὸς παρέσται"
+English draft A: "in this eagerness it seemed to each that the whole business would be hindered if he himself were not present".
+Draft B (retrospective): "in this each man thought that the whole business had been hindered wherever he himself was not present".
+Question: which aspectual construal of the perfect infinitive κεκωλῦσθαι with the generalizing clause ᾧ μή τις αὐτὸς παρέσται is standard?
+
+(5) 2.10.2 Context: Peloponnesian army gathers for the first invasion. Greek: "ἐπειδὴ δὲ ἑκάστοις ἑτοῖμα γίγνοιτο, κατὰ τὸν χρόνον τὸν εἰρημένον ξυνῇσαν τὰ δύο μέρη ἀπὸ πόλεως ἑκάστης ἐς τὸν Ἰσθμόν."
+English draft: "When each had what was needed ready, the two-thirds from each city came together at the appointed time at the Isthmus."
+Question: is τὰ δύο μέρη here "two-thirds" of each city's force (as LSJ s.v. μέρος suggests for this passage), or "two parts/contingents"? Which should be printed?
+
+----- ANTWORT/ANSWER (gpt-6-astra) -----
+
+1. **2.3.1 — Idiomatic; no text problem.** νεωτερίζειν here means to take disruptive or hostile measures against someone. “Doing nothing new” preserves the etymology but obscures the force. Print: **“especially since the Thebans were taking no hostile action against anyone.”** “Hostile” is more precise here than “rash”; LSJ explicitly places this passage under the sense “use forcible measures.” [LSJ, νεωτερίζω I.2](https://translate.academic.ru/νεωτερίζειν%20ἐβούλετο%20ἐς%20τὸ%20πλῆθος/el/xx/)
+
+2. **2.6.2 — Idiomatic; no text problem.** μηδὲν νεώτερον ποιεῖν means to refrain from a drastic or rash step affecting the prisoners. Print: **“to take no rash action concerning the Theban prisoners until the Athenians themselves had deliberated about them.”** “Nothing irreversible” conveys the practical implication, but *irreversibility* is contextual, not the adjective’s lexical meaning. Bare “nothing new” is misleading in modern English.
+
+3. **2.5.5 — A defensible transmitted construction; no emendation required.** δράσειαν is the **third-person plural aorist optative of δράω**, reporting an aorist indicative in indirect speech after the historical governing verb. Its subject is the Thebans; τὰ πεποιημένα is its object, with ὅσια qualifying the deeds predicatively: approximately, “they had not acted righteously in doing what they had done.” πειράσαντες specifies the offending action. Your draft therefore gives the sense correctly: **“what they had done was impious—attempting to seize their city while a truce was in force.”** The compressed wording does not itself justify a textual-uncertainty note; it can stand unannotated.
+
+4. **2.8.4 — Draft A’s temporal sense is standard; no text problem.** κεκωλῦσθαι presents a resulting state, “be blocked/held up,” viewed prospectively with future παρέσται. It does not require “had previously been hindered.” The ancient scholia likewise paraphrase it as an undertaking that *will be hindered unless the individual comes*. [Scholia on 2.8.4](https://eulogikon.org/works/thucydides-comm-scholia-uku-aa)
+
+   One correction to A: **ἐν τούτῳ … ᾧ is correlative**, “in that undertaking/respect in which,” rather than “in this eagerness.” Print: **“Each thought that any undertaking in which he himself did not take part would be held up.”**
+
+5. **2.10.2 — “Two-thirds”; conventional fractional expression, no text problem.** Greek can omit the denominator when it exceeds the numerator by one: here, two parts out of three. Print **“two-thirds of each city’s force assembled at the appointed time at the Isthmus.”** “Two contingents” loses the fraction expressed by the idiom. [Smyth, §1125a](https://grammars.alpheios.net/smyth/xhtml/body.1_div1.4_div2.16.html)

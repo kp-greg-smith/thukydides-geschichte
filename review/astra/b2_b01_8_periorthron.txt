@@ -1,0 +1,20 @@
+Thucydides 2.3.4, transmitted Oxford/Jones text: "φυλάξαντες ἔτι νύκτα καὶ αὐτὸ τὸ περίορθρον ἐχώρουν ἐκ τῶν οἰκιῶν ἐπ' αὐτούς" (Plataeans sallying out of their houses against the Thebans still in the city; they had waited for night and this precise time).
+Current Ukrainian rendering: "вистерегши ще ніч, саму глуху її пору, рушили з осель на ворогів" — "watching for still night, the very dead hour of it, they moved out of their houses against the enemy".
+Proposed correction: "вистерегши ще ніч, над саму пору перед світанком, рушили з осель на ворогів" — "watching for still night, at the very hour before daybreak …".
+English has "at the very point before daybreak"; Hebrew has "אשמורת הלילה האחרונה" ("the last watch of the night").
+Question: does τὸ περίορθρον mean "the last watch of the night, about dawn" (from ὀρθρός, dawn — supporting the proposed correction, the English and the Hebrew), or "the dead of night / small hours" (supporting the current Ukrainian)? Cite lexical support. Answer briefly.
+
+----- ANTWORT/ANSWER (gpt-6-astra) -----
+
+**The proposed correction is supported:** τὸ περίορθρον denotes approaching dawn, here **just before daybreak**.
+
+- **LSJ, s.v. περίορθρος:** “towards morning: τὸ π. dawn,” explicitly citing **Thucydides 2.3**. [Lexical entry](https://translate.academic.ru/περίορθρος/el/xx/)
+- **LSJ, s.v. ὄρθρος** (the correct accent): “the time just before or about daybreak.” [Lexical entry](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n75052/)
+
+Thus the phrase means **“while it was still night, at the very point before dawn.”** Hebrew “the last watch” is a reasonable paraphrase, though the Greek does not technically designate a watch. Ukrainian **«ще вночі, перед самим світанком»** captures the timing; **«саму глуху її пору»** loses the essential reference to approaching dawn.
+**The proposed correction is supported:** τὸ περίορθρον denotes approaching dawn, here **just before daybreak**.
+
+- **LSJ, s.v. περίορθρος:** “towards morning: τὸ π. dawn,” explicitly citing **Thucydides 2.3**. [Lexical entry](https://translate.academic.ru/περίορθρος/el/xx/)
+- **LSJ, s.v. ὄρθρος** (the correct accent): “the time just before or about daybreak.” [Lexical entry](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionaries.v1%3Alsj-n75052/)
+
+Thus the phrase means **“while it was still night, at the very point before dawn.”** Hebrew “the last watch” is a reasonable paraphrase, though the Greek does not technically designate a watch. Ukrainian **«ще вночі, перед самим світанком»** captures the timing; **«саму глуху її пору»** loses the essential reference to approaching dawn.
