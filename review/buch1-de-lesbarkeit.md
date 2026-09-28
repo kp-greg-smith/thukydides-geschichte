@@ -72,3 +72,14 @@ Nach jedem Teilabschnitt wurde `scripts/check_translation.py` ausgeführt. Nach 
 | **Gesamt** | **580** | **0** | **0** |
 
 Geprüft wurden vollständige, eindeutige Abschnittskennungen in der Reihenfolge des Originals, Längenverhältnisse und mögliche Satzabbrüche. Zusätzlich wurden Anmerkungen, Anführungszeichen, lokale Dokumentationslinks und die unveränderte Prüfsumme der griechischen Quelle kontrolliert. Diese technischen Prüfungen sichern die Struktur; sie sind kein automatischer Nachweis der sprachlichen oder philologischen Qualität.
+
+## Nachkorrekturen nach externer Rückmeldung
+
+Die folgenden fünf Abschnitte wurden erneut mit der festgelegten griechischen Textgrundlage verglichen und berichtigt:
+
+- **1.50.1:** `ἀγνοοῦντες` bedeutet, dass die Korinther ihre eigenen Bundesgenossen nicht erkannten. „Unerkannt“ wurde durch „ohne sie zu erkennen“ ersetzt.
+- **1.84.1:** Die Anrede in der zweiten Person (`παύσαισθε`) ist wiederhergestellt; das anschließende „wir“ entspricht weiterhin `νεμόμεθα`. `μάλιστα` wird als „vor allem“ statt als Häufigkeitsangabe „so oft“ wiedergegeben.
+- **1.84.4:** `ὡς` kennzeichnet die Klugheit der Gegner als Annahme für die eigenen Vorbereitungen. „Wir gehen … davon aus“ erhält diesen Unterschied zu einer Tatsachenbehauptung.
+- **1.120.2–3:** Die dritte Person für die Bewohner des Binnenlands bleibt durchgehend erhalten. Die nachträglich eingeführte direkte Anrede mit „ihr“ wurde zurückgenommen.
+
+„Athenischen“ in 1.46.1 bleibt erhalten: Es macht den eindeutigen Bezug auf die in Kapitel 45 entsandten Schiffe ausdrücklich. Die technische Nachprüfung der Kapitel 50, 84 und 120 ergab keine Fehler oder Prüfhinweise.
