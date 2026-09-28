@@ -158,6 +158,18 @@ Alle 6 Meldungen angenommen (alle mit Text- oder Vermerkseingriff).
 
 Nachtrag (Fable-Audit, 27.09.2026, über den geschlossenen Stand 1–120): zwei Batch-12-Adjudikationen des Koordinators ZURÜCKGEWIESEN und rückgängig gemacht — (1) τὸ πλέον 1.114.2 ist adverbial („ohne weiter vorzurücken“); die Lesart „for the most part“ war eine mechanische Übertragung aus τὸ πλέον τοῦ χρόνου (1.118.2; die klassische Tradition liest anders: Crawley „and without advancing further returned home“) — der Wortlaut des Entwurfs wiederhergestellt. (2) ἐνηλλάγησαν 1.120.2 = „have had dealings with“ (so das LSJ-Medium und die klassische Tradition: Crawley „all who have already had dealings with the Athenians“); die Lesart „have been wronged by“ war eine über die Koordinationsprompts getragene Überinterpretation — zurückgenommen, der Vermerk neu gefasst. Prozesseintrag: künftig führt der Koordinator Parallel-Befunde in Prüfaufrufen als zu widerlegende Behauptungen ein, nicht als Prämissen; Crux-Entscheidungen dokumentieren ihre klassische Bezeugung.
 
+### Kap. 121–130 (Batch 13) — 43 Abschnitte
+Zweitprüfung: work/en/review/batch13.md. Meldungen: 9 in 9 Abschnitten (0 Blocker, 9 Minor).
+- Provenienz: die Übersetzer-Sitzung endete nach Fertigstellung aller zehn Dateien OHNE Abschlussbericht; der Prüfer hat Vollständigkeit, Identifikatoren und saubere Enden unabhängig verifiziert — kein Blocker aus dem Abbruch; die zwei aus den Vermerkszeilen rekonstruierten Addendum-Entscheidungen (Taenarum; Brazen-House) sind nachträglich koordiniert.
+- Token-Fixes: ἐξουσία 1.123.1 auf „command of means“ — die Kollision der drei griechischen Wörter auf einem gedruckten „command“ (ἀρχή 1.128.3, ἡγεμονία 1.130.1) aufgelöst, der Vermerk trägt die volle Glossse; διαφορά 1.122.2 zum Ausgaben-Token „differences“ zurück (Präzedenz 1.78.4); die λόγος/ἔργον-Paare 1.128.3 und 1.128.5 wieder wörtlich („in word … in deed“); das ναυτικόν-Abstraktum 1.121.4 als „naval craft“ mit neuem Vermerk (Flotten-Token ≠ Seewesen-Sinn).
+- Idiom: ἐκπεσόντος 1.127.1 von der Tötungs-Anmutung („put out of the way“) auf das überlieferte „driven out“ gestellt — die Fluch-Austreibung, nicht ein Euphemismus (LSJ-Zitatstelle).
+- Zeitpolitik: die historischen Präsentien des Pakets normalisiert (1.128.3 „arrived“; 1.129.1 der Mischsatz „sends … sent“ auf Einheit gebracht), gemaess der seit Batch 11/12 geltenden Ligne.
+- τιμωρία-Familie: 1.121.5 auf die Allgemein-Lesart „punish“ angeglichen (Grundentscheid), Vermerk dokumentiert; die Götter-Vergeltung 1.127.1 bleibt als „making requital“ mit Vermerk für die Familien-Konsolidierung (1.86.1-divergiert im Ledger); die Erweiterung des Metropolen-Slots auf die verbündeten Potideer (1.124.1) vom Prüfer am Griechischen bestätigt.
+- Namens-Korrigendum: „Taenarum“ (der Druck) bestätigt gegen „Taenarus“ (mein aus den Vermerkszeilen rekonstruiertes Fünfzehntes Addendum — das Neutrum war maskulinisiert); das Addendum in den Briefings berichtigt; die Latinisierung „Athena of the Brazen House“ abgelehnt, die beschreibende Wiedergabe bleibt (Ablehnung im Vermerk dokumentiert).
+- Vermerks-Pflege: die δʼ-Typografie des 1.121.5-Zitats an die Quelle angeglichen (U+2019); drei Zitat-Schlüssel repariert (1.124.1 Wortstellung Ποτειδεάταις τε ποιεῖσθαι; 1.129.1 τήν τε; 1.128.7 τούσδε τέ); der ἐς ἔπειτα-Crux 1.130.1 dokumentiert.
+- Bestätigt: die Korintherrede schließt exakt an der überlieferten Stelle (Wiederöffnungen 1.121.1/1.122.2/1.124.1, EIN Schluss vor τοιαῦτα, alle übrigen ’ Elisionen — maschinell gelistet), das Schlussformular byte-identisch mit 1.72.1; Xerxes wie überliefert, nirgends Artaxerxes; beide Briefe mit Zeichen (1.53-Modell), die Briefüberschrift wörtlich; die Ergänzungen 〈ἁγνὰ〉/〈ἄν〉 unsichtbar; Olympia-Ort und Olympische Spiele korrekt unterschieden; neun Archonten zweimal wie überliefert; alle Zahlen wörtlich exakt (diesmal ohne Prüfliste des Koordinators — jede Zahl wurde aus dem Griechisondern selbst erhoben).
+Alle 9 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
+
 ## Offene und unsichere Stellen (Stand 27.09.2026)
 
 - 1.6.3 „ἐν τοῖς πρῶτοι“ — Partikel unverständlich,als Einschiebsel unbeachtet gelassen (Entscheidung).
@@ -175,10 +187,10 @@ Nachtrag (Fable-Audit, 27.09.2026, über den geschlossenen Stand 1–120): zwei 
 
 ## Zahlen (Stand 27.09.2026)
 
-- Übersetzte Abschnitte: 472 in den Kapiteln 1–120 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
-- Durch Zweitprüfung geprüft: sämtliche 472 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
-- Vom Prüfer beanstandet: kumuliert 131 Fundstellen (13 Blocker, 118 Minor).
+- Übersetzte Abschnitte: 515 in den Kapiteln 1–130 (English); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
+- Durch Zweitprüfung geprüft: sämtliche 515 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
+- Vom Prüfer beanstandet: kumuliert 140 Fundstellen (13 Blocker, 127 Minor).
 - Geändert: sämtliche angenommenen Fundstellen im Textkorpus umgesetzt; abgelehnte Meldungen: keine dokumentiert; gegenstandslose Erhebungen: 0.
 - Offen bzw. unsicher: die oben verzeichneten Stellen (Zeileneinträge mit „offen“/crux); keine davon blockiert die Veröffentlichung, alle Entscheidungen sind im Text oder in der Anmerkung sichtbar.
-- Nicht veröffentlicht, obwohl work in progress: Kapitel 121–130: Übersetzung im Gang; Kapitel 131–146 noch nicht begonnen.
+- Nicht veröffentlicht, obwohl work in progress: Kapitel 131–146 noch nicht begonnen.
 - Keine Behauptung von Fehlerfreiheit: geprüft heißt nicht fehlerfrei; künftige Portionen und Nachprüfungen können weitere Befunde bringen.
