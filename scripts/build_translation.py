@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a translated book edition (en/uk/he) from the fragment files in work/.
+"""Build a translated book edition (de/en/uk/he) from the fragment files in work/.
 
 Fragments: work/<lang>/ch_NNN.md, written by the translation subagents:
 
@@ -19,7 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 NS = {'t': 'http://www.tei-c.org/ns/1.0'}
-NOTE_RE = re.compile(r'\[(Note|Прим\.|הערה): [^\]]*\]')
+NOTE_RE = re.compile(r'\[(Note|Прим\.|הערה|Anm\.): [^\]]*\]')
 
 
 def html_escape(text):
@@ -28,11 +28,13 @@ def html_escape(text):
 
 BOOK_TITLES = {
     1: {
+        'de': 'Buch 1', 'de_h2': 'Erstes Buch',
         'en': 'Book 1', 'en_h2': 'Book One',
         'uk': 'Книга 1', 'uk_h2': 'Перша книга',
         'he': 'ספר 1', 'he_h2': 'הספר הראשון',
     },
     2: {
+        'de': 'Buch 2', 'de_h2': 'Zweites Buch',
         'en': 'Book 2', 'en_h2': 'Book Two',
         'uk': 'Книга 2', 'uk_h2': 'Друга книга',
         'he': 'ספר 2', 'he_h2': 'הספר השני',
@@ -40,6 +42,27 @@ BOOK_TITLES = {
 }
 
 LANG_FRAMES = {
+    'de': {
+        'title': 'Thukydides: Der Peloponnesische Krieg',
+        'nav': 'Alle Sprachen und Status',
+        'nav_aria': 'Ausgaben',
+        'grc': 'Ancient Greek — Original',
+        'h1': 'Thukydides: Der Peloponnesische Krieg',
+        'principles_h': 'Übersetzungsgrundsätze',
+        'principles_intro': 'Sinngetreu und gut lesbar übersetzen, nicht Wort für Wort, und ausschließlich aus dem Altgriechischen. Braun, Hobbes, Crawley und andere Übersetzungen dürfen höchstens als Verständnishilfe dienen; sie sind weder Ausgangstext noch zu übernehmende Übersetzung.',
+        'sprache': '<strong>Sprache.</strong> Die Bedeutung des griechischen Textes muss vollständig erhalten bleiben. Die deutsche Sprache soll dabei so modern und natürlich wie möglich klingen, wie ein heutiger Autor denselben Inhalt formulieren würde. Der griechische Satzbau ist kein Vorbild. Entscheidend sind die Verständlichkeit des Zusammenhangs und die Genauigkeit der Aussage; feste Vorgaben zur Satzlänge oder zu einzelnen Satzformen ersetzen dieses Urteil nicht.',
+        'rules': [
+            'Einheitliche Entsprechung je Bedeutung. Nicht ein deutsches Wort für jedes Vorkommen erzwingen. αἰτία kann Vorwurf, Ursache, Schuld oder Verantwortung bedeuten; eine kausale Übersetzung darf nicht ausgeschlossen werden, wenn der griechische Sinn sie verlangt.',
+            'Nichts hinzufügen oder steigern. Keine Erklärungen, Bilder, Behauptungen oder Hervorhebungen ergänzen, die im Griechischen fehlen.',
+            'Nicht abschwächen. Die Härte von Aussagen und politischem Vokabular bewahren; δουλεία bleibt in dieser Bedeutung Knechtschaft.',
+            'Anmerkungen bei echten Zweifeln. Kurze Anmerkungen bei textkritischer Unsicherheit, echten Deutungsfragen oder einem bedeutsamen Bedeutungswechsel eines Schlüsselbegriffs. Nicht auf beschädigten oder verderbten Text beschränken. Deutsch: `[Anm.: …]`; andere Sprachen verwenden eine entsprechende Kennzeichnung.',
+            'Mehrdeutigkeiten bewahren. Lässt der griechische Text mehrere Lesarten zu, diese Offenheit möglichst erhalten. Unvermeidliche Entscheidungen kurz erläutern.',
+            'Besondere Sorgfalt bei Reden und indirekter Rede. Sprecher, Adressat, Argumentation, wiedergegebene Sichtweise, Bedingungen, Verneinung, Modalität und Zeitverhältnisse erhalten. Berichtete Behauptungen nicht zu Aussagen des Erzählers machen.',
+        ],
+        'doc_p': 'Das vollständige Glossar und die Arbeitsweise stehen in der <a href="https://github.com/kp-greg-smith/thukydides-geschichte/blob/main/README_DE.md">deutschen Projektdokumentation</a>.',
+        'chapter': 'Kapitel {n}',
+        'toolbar': 'de',
+    },
     'en': {
         'title': 'Thucydides: The Peloponnesian War',
         'nav': 'All languages and status',
@@ -172,30 +195,52 @@ def render(lang, book, chapters):
     out.append('</head>')
     out.append('<body>')
     out.append('<div class="reader-toolbar" hidden>')
-    out.append('<label for="font-select">Font</label>')
-    out.append('<select id="font-select">')
-    out.append('  <optgroup label="Reading">')
-    out.append('    <option value="ebgaramond">EB Garamond</option>')
-    out.append('    <option value="crimsontext">Crimson Text</option>')
-    out.append('    <option value="sourceserif4" selected>Source Serif 4</option>')
-    out.append('    <option value="sourcesans3">Source Sans 3</option>')
-    out.append('  </optgroup>')
-    out.append('</select>')
+    if f.get('toolbar') == 'de':
+        out.append('<label for="font-select">Schrift</label>')
+        out.append('<select id="font-select">')
+        out.append('  <optgroup label="Historisch">')
+        out.append('    <option value="unifrakturmaguntia">UnifrakturMaguntia</option>')
+        out.append('    <option value="pirataone">Pirata One</option>')
+        out.append('    <option value="medievalsharp">MedievalSharp</option>')
+        out.append('    <option value="almendra" selected>Almendra</option>')
+        out.append('  </optgroup>')
+        out.append('  <optgroup label="Gut lesbar">')
+        out.append('    <option value="ebgaramond">EB Garamond</option>')
+        out.append('    <option value="crimsontext">Crimson Text</option>')
+        out.append('    <option value="sourceserif4">Source Serif 4</option>')
+        out.append('    <option value="sourcesans3">Source Sans 3</option>')
+        out.append('  </optgroup>')
+        out.append('</select>')
+    else:
+        out.append('<label for="font-select">Font</label>')
+        out.append('<select id="font-select">')
+        out.append('  <optgroup label="Reading">')
+        out.append('    <option value="ebgaramond">EB Garamond</option>')
+        out.append('    <option value="crimsontext">Crimson Text</option>')
+        out.append('    <option value="sourceserif4" selected>Source Serif 4</option>')
+        out.append('    <option value="sourcesans3">Source Sans 3</option>')
+        out.append('  </optgroup>')
+        out.append('</select>')
     out.append('<button id="theme-toggle" type="button" aria-pressed="false">Dark Mode</button></div>')
     out.append('')
-    out.append(f'<nav aria-label="{html_escape(f["nav"])}"><a href="../index.html">{html_escape(f["nav"])}</a><a href="../grc/book{book}.html" lang="en">{html_escape(f["grc"])}</a></nav>')
+    out.append(f'<nav aria-label="{html_escape(f.get("nav_aria", f["nav"]))}"><a href="../index.html">{html_escape(f["nav"])}</a><a href="../grc/book{book}.html" lang="en">{html_escape(f["grc"])}</a></nav>')
     out.append(f'<h1>{html_escape(f["h1"])}</h1>')
     out.append('')
     out.append(f'<h2>{html_escape(bt[lang + "_h2"])}</h2>')
     out.append('')
     out.append(f'<h3>{html_escape(f["principles_h"])}</h3>')
     out.append(f'<p>{html_escape(f["principles_intro"])}</p>')
+    if f.get('sprache'):
+        out.append(f'<p>{f["sprache"]}</p>')
     out.append('<ol>')
     for rule in f['rules']:
         out.append(f'<li>{rule}</li>')
     out.append('</ol>')
-    href, label = f['doc_link']
-    out.append(f'<p><a href="{href}">{html_escape(label)}</a></p>')
+    if f.get('doc_p'):
+        out.append(f'<p>{f["doc_p"]}</p>')
+    else:
+        href, label = f['doc_link']
+        out.append(f'<p><a href="{href}">{html_escape(label)}</a></p>')
     out.append('')
     out.append('<hr>')
     out.append('')
@@ -219,7 +264,7 @@ def render(lang, book, chapters):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument('--language', required=True, choices=['en', 'uk', 'he'])
+    ap.add_argument('--language', required=True, choices=['de', 'en', 'uk', 'he'])
     ap.add_argument('--book', type=int, default=1)
     ap.add_argument('--end', type=int, default=None,
                     help='publish only chapters up to this number (fragments beyond stay unpublished)')
