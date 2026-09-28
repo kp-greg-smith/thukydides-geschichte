@@ -15,7 +15,7 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 | 1–10 | 37 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 11–20 | 28 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 21–30 | 44 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
-| 31–40 | 45 | offen |
+| 31–40 | 45 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 41–50 | 41 | offen |
 | 51–60 | 31 | offen |
 | 61–70 | 45 | offen |
@@ -78,6 +78,23 @@ Alle 44 Abschnitte in jeder Sprache am Griechischen geprüft. EN/UK jeweils 44 u
 - 1.30.2–4: Elis leistet die Hilfe, nicht der Hafen Kyllene als eigenes Gemeinwesen. `περιιόντι τῷ θέρει` als fortgeschrittenes/zu Ende gehendes Sommerhalbjahr, nicht als neuer Sommer; vgl. das ausdrückliche Beispiel bei [Smyth, Greek Grammar, zeitliche Partizipien](https://grammars.alpheios.net/smyth/xhtml/body.1_div1.4_div2.18.html). Rückzug bei bereits eingetretenem Winter.
 
 Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 44/44 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 31–40
+
+Alle 45 Abschnitte je Sprache am Griechischen gelesen; 41 je Sprache überarbeitet. 1.33.3, 1.36.2–3 und 1.37.5 aus der früheren Korrektur unverändert bestätigt.
+
+- 1.31.1–4: Rüstungszeitraum, Bündnislosigkeit und Gesandtschaften in natürlicher Sprache; angestrebter Kriegsausgang statt bloßer Art der Kriegführung.
+- 1.32.1: frühere Leistungen begründen einen Anspruch des Bittstellers, keine eigene Dankesschuld. Bei Ablehnung sollen die Bittsteller nicht zürnen, nicht die Athener (HE).
+- 1.33.1–2: Ansehen **bei** der Öffentlichkeit und Dankbarkeit **von** den Begünstigten, nicht umgekehrte Empfänger; gleichwertig angebotene Sicherheit und Ehre.
+- 1.34.1,3: „Sie sollen lernen“ richtet sich an die Korinther, nicht als Imperativ an Athen. Auch offenen korinthischen Bitten soll Athen nicht nachgeben; HE kehrte diese Verneinung um.
+- 1.35.4–5: Kerkyra wird Athen beschuldigen, nicht selbst größere Schuld tragen. Beide haben **dieselben** Feinde. Bündnis offen annehmen statt nur offen Bittende aufnehmen.
+- 1.36.1: Vorsicht mit Stärke schreckt Feinde ab, unbegründete Zuversicht weniger. Der Krieg steht **fast schon** bevor, nicht bloß „noch nicht“. Athen ist der Bezug von `αὐταῖς`, keine Mehrzahl zweier Städte.
+- 1.37.1–4: begründete Ablehnung der Bitte; gewöhnliche Schiffsreisen statt Angriffe auf Nachbarn. `προσλάβωσιν` aktiv als Erwerb behandelt, nicht ohne Textgrundlage als passives Ertapptwerden; keine zusätzliche Unterwerfung anlaufender Fremder.
+- 1.38.4–6: außerordentlicher Feldzug aufgrund außerordentlicher Kränkung; Hilfe für Epidamnos statt schematischer Vergeltung.
+- 1.39.1–3: ernst zu nehmendes Schiedsangebot auf gleicher Grundlage. Kerkyra, nicht Athen, liegt mit Korinth im Streit. Athen gäbe Hilfe ohne früheren Nutzen und erhielte gleiche Schuldzuweisung trotz fehlender Tatbeteiligung; sämtliche alten Fassungen verwirrten diesen Gegensatz.
+- 1.40.2–6: Krieg wird dem Bündnispartner eingebracht, nicht von Kerkyra selbst gegen ihn geführt. Korinth müsste gegen Athen **und** Kerkyra kämpfen; nicht Kerkyra sich ohne Athen verteidigen. Die peloponnesischen Stimmen zu Samos waren geteilt, kein getrennt gefasster Hilfsbeschluss. `τιμωρήσετε` hier Hilfe für die Aufgenommenen, nicht Bestrafung oder Rache.
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 45/45 Abschnitte, keine Fehler oder Prüfhinweise.
 
 ### 131–140
 
