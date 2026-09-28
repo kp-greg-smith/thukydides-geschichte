@@ -20,7 +20,7 @@ Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abg
 | 51–60 | 31 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 61–70 | 45 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 71–80 | 43 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
-| 81–90 | 42 | offen |
+| 81–90 | 42 | geprüft und korrigiert, EN/UK/HE je 0 Checker-Fehler und 0 Warnungen |
 | 91–100 | 39 | offen |
 | 101–110 | 42 | offen |
 | 111–120 | 35 | offen |
@@ -159,6 +159,22 @@ Alle 43 Abschnitte je Sprache am Griechischen gelesen; EN/HE je 39, UK 40 übera
 - 1.79.1–80.4: interne spartanische Beratung nach Entlassung der anderen; Archidamos’ erfahrungsbegründete Warnung. Vergleichbare **Art** der militärischen Mittel bei Nachbarn, keine pauschale exakte Kräftegleichheit. Fehlende Gemeinschaftskasse und geringe Bereitschaft zu privaten Beiträgen unterschieden.
 
 Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 43/43 Abschnitte, keine Fehler oder Prüfhinweise.
+
+### 81–90
+
+Alle 42 Abschnitte je Sprache am Griechischen gelesen; EN/UK je 39, HE 38 überarbeitet. Frühere Korrekturen in 1.84.1, 1.84.3 und 1.86.2 sowie 1.84.4 HE bestätigt. Die Auslegungsanmerkung zu 1.86.2 bleibt erhalten.
+
+- 1.81.1–6: Seeherrschaft bzw. Entzug der Flotteneinnahmen als Alternativen; größerer eigener Schaden ohne diese Mittel. Danach wäre **Friedensschluss** ehrenrührig, nicht weiterer Aufschub der Kriegführung (UK), und nicht zwingend Kapitulation (HE).
+- 1.82.1–6: Beschwerden diplomatisch vorbringen, zugleich Kräfte sammeln, ohne bereits die Waffen zu erheben. Zwei **oder** drei Jahre; keine hinzugefügte vollständige Befestigung aller Seiten. Schonung des bebauten Landes als Druckmittel, keine bereits erfolgte spartanische Besetzung. Krieg aller wegen besonderer Interessen gegenüber verhandelbaren einzelnen Beschwerden.
+- 1.83.1–3: Athener haben **nicht weniger Verbündete**, die Geld liefern, nicht bloß Verbündete, die „nicht weniger Geld“ liefern (UK). Sparta trägt vorrangig Verantwortung für gute wie schlechte Ergebnisse; `αἰτία` hier keine Seite eines Streitfalls.
+- 1.84.2,4: Erfolg und Unglück, Lob und Vorwurf als Prüfungen der Selbstbeherrschung verständlich. Ausbildung unter strengsten Anforderungen, nicht bloß Unterricht in den notwendigsten Gegenständen (EN).
+- 1.85.1–86.5: keine übereilte Entscheidung über viele Leben; Schiedsbereitschaft verbietet einen vorwegnehmenden Angriff. Verbündete erleiden tatsächlichen Schaden, nicht nur Worte (HE hatte die Verneinung entstellt). `τιμωρητέα` als rasche Hilfe; spartanerwürdiges **Abstimmen** für Krieg statt bloßer Qualitätsangabe eines Krieges. Wechsel vom Imperativ an die Zuhörer zum gemeinsamen „wir“ erhalten.
+- 1.87.1–6: Abstimmung durch Zurufe statt Stimmsteine, nicht vermeintlich „ohne Abstimmung“; offener Seitenwechsel zur erzwungenen Festlegung. Athener handeln **nach Spartas Ansicht** unrecht; keine zusätzliche Behauptung, ausschließlich Sparta sei geschädigt (UK). Die Versammlung stellt den Vertrag als **bereits gebrochen** fest, sie beschließt nicht, ihn zu brechen.
+- 1.88.1: denselben Tempusfehler in UK korrigiert. Machtzuwachs und Furcht bleiben die vom Erzähler hervorgehobenen Motive.
+- 1.89.2–3: Flucht **mit Schiffen nach Mykale**, nicht Flucht zu Schiffen in Mykale (EN/HE). Mehrere kleine erhaltene Mauerstücke, nicht ein einziger Abschnitt.
+- 1.90.1–5: Kenntnis des Bauvorhabens statt Vorahnung der Zukunft; bisher nicht erreichte Flottengröße. Verschwiegen werden wahre Absicht und eigene Verdachtsmomente, nicht bloß die verdächtige Form des Ratschlags. Theben als kürzlich genutzte persische Basis; erforderliche Mindesthöhe, zurückgehaltene Mitgesandte und Materialgewinnung aus öffentlichen wie privaten Bauten erhalten. Auftritt vor der Versammlung statt abstrakter Bearbeitung öffentlicher Angelegenheiten.
+
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 42/42 Abschnitte, keine Fehler oder Prüfhinweise.
 
 ### 131–140
 
