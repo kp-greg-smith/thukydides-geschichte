@@ -12,13 +12,15 @@ A multilingual HTML reading edition of the Ancient Greek original and direct tra
 |---|---|---|---|
 | Ancient Greek (`grc`) | **Original**, not a translation | [Books 1–8](docs/grc/book1.html), complete text of the cited edition | — |
 | German (`de`) | Translation | [Book 1](docs/de/book1.html): 146 chapters, 580 sections; readability revision and comparison with Greek completed; [Book 2](docs/de/book2.html): chapters 1–80 (342 of 463 sections), revised for readability and checked against the Greek | Book 2 ch. 81–103 not started; books 3–8 planned |
-| English (`en`) | Translation | [Book 1](docs/en/book1.html): 146 chapters, 580 sections; final Greek comparison in progress | Book 1: final review of ch. 1–130; book 2 in progress; books 3–8 planned |
-| Ukrainian (`uk`) | Translation | [Book 1](docs/uk/book1.html): 146 chapters, 580 sections; final Greek comparison in progress | Book 1: final review of ch. 1–130; book 2 in progress; books 3–8 planned |
-| Hebrew (`he`) | Translation, right-to-left | [Book 1](docs/he/book1.html): 146 chapters, 580 sections; final Greek comparison in progress | Book 1: final review of ch. 1–130; book 2 in progress; books 3–8 planned |
+| English (`en`) | Translation | [Book 1](docs/en/book1.html): 146 chapters, 580 sections; fully revised and checked against the Greek | Book 2 in progress; books 3–8 planned |
+| Ukrainian (`uk`) | Translation | [Book 1](docs/uk/book1.html): 146 chapters, 580 sections; fully revised and checked against the Greek | Book 2 in progress; books 3–8 planned |
+| Hebrew (`he`) | Translation, right-to-left | [Book 1](docs/he/book1.html): 146 chapters, 580 sections; fully revised and checked against the Greek | Book 2 in progress; books 3–8 planned |
 
 “Available” describes coverage, not a guarantee that no corrections remain. The [review of German chapters 31–117](review/buch1-kap31-117.md), recorded on 2026-09-27, was followed on 2026-09-28 by a [readability revision of all 580 sections of German Book 1](review/buch1-de-lesbarkeit.md), each compared again with the Greek. Translated READMEs describe the project and do not count as translated books.
 
-**German language standard.** Preserve the full meaning of the Greek using the natural, contemporary German that a present-day author would use to express the same content. Greek syntax is not a model for German prose. Readability requires editorial judgement, not fixed sentence-length or sentence-form rules. Work in batches of at most ten chapters and compare every rewritten section with Greek again; see the [German principles](README_DE.md#übersetzungsgrundsätze).
+On 2026-09-28, the [complete Book 1 review in English, Ukrainian and Hebrew](review/buch1-en-uk-he-abschluss.md) covered all 580 Greek sections in each language, corrected meaning and language, and completed the missing Ukrainian and Hebrew chapters. Book 1 is complete and reviewed in all four translations.
+
+**Language standard for all translations.** Preserve the full meaning of the Greek using the most natural, contemporary language possible, as a present-day author would express the same content. Greek syntax is not a model for the translation. Readability requires editorial judgement, not fixed sentence-length or sentence-form rules. Work in batches of at most ten chapters and compare every rewritten section with Greek again; see the [German principles](README_DE.md#übersetzungsgrundsätze).
 
 ### Language-specific glossaries
 
@@ -36,7 +38,7 @@ The existing [German glossary](README_DE.md#glossar-der-vorhandenen-deutschen-ü
 
 | Greek | Sense | English |
 |---|---|---|
-| πρόφασις | stated ground of an action (esp. against the deeper cause) | ground; 1.23.6 ἡ ἀληθεστάτη πρόφασις = the truest ground |
+| πρόφασις | stated ground of an action (esp. against the deeper cause) | stated reason; 1.23.6 ἡ ἀληθεστάτη πρόφασις = the underlying cause |
 | αἰτία | accusation | accusation |
 | αἰτία | causal factor | cause |
 | αἰτία | blame | blame |
@@ -69,7 +71,7 @@ The existing [German glossary](README_DE.md#glossar-der-vorhandenen-deutschen-ü
 | στρατηγός | Athenian commander | general |
 | οἰκιστής | founder of a colony | founder |
 | ἱκέτης / ἱκετεία | suppliant / supplication | suppliant / supplication |
-| τιμωρία | aid owed by a metropolis to a wronged colony | redress (punitive force retained) |
+| τιμωρία | help or defence for someone wronged; in other contexts, retaliation | help / defence; vengeance / punishment where the context requires it, never imposed mechanically |
 | ἐπιτήδευμα | settled line of conduct | line of conduct |
 
 **Approved name forms beyond the core list:** Chersonese, Isthmus, Arne, Cadmeis, Ameinocles, Cyrus, Cambyses, Darius, Polycrates, Rhenea, Phocaeans, Massalia, Carthaginians, river Halys, Marathon, Chians, Lesbians, Hippias, Hipparchus, Harmodius, Aristogiton, Pisistratus, Thessalus, Leocorium, Panathenaic procession, Pitane (the Pitanate company), Arcadia/Arcadians, Phoenicians, Tyndareus, Helen, Mycenae, Heraclids, Pelopids, Perseids, Chrysippus, Philoctetes, Argos, peoples of Asia, Olympic games, Hellas; Taulantians, Phalius, Eratocleides, Heraeum, Apollonia, Cephallenia, Pala, Epidaurus, Hermione, Troezen, Thebes, Phlius, Elis, Sicyon, Ambracia, Phaeacians, Aristeus, Pellichus, Callicrates, Callias, Timanor, Timanthes, Archetimus, Eurytimus, Isarchidas, Isarchus, Actium, Apollo, Leukimme, Cyllene, Thesprotis, Samos/Samians, Italy, Sicily.

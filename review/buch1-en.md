@@ -1,5 +1,13 @@
 # Buch 1 (en): Übersetzungs- und Prüfprotokoll
 
+## Aktueller Abschlussstand: 28.09.2026
+
+Buch 1 ist vollständig: 146 Kapitel, 580 Abschnitte. Der [vollständige Abschlussdurchgang](buch1-en-uk-he-abschluss.md) hat jeden Abschnitt dieser Ausgabe am Griechischen geprüft und Sinn sowie Sprache überarbeitet. Er ersetzt die früheren Einzelentscheidungen und Statusangaben unten. Maßgeblich sind der neue Abschlussbericht und das aktuelle Glossar im README der jeweiligen Sprache; insbesondere ist Hilfe nicht mechanisch als Strafe oder Vergeltung wiederzugeben.
+
+## Historische Protokolle
+
+Die folgenden Einträge bleiben als Entstehungsgeschichte erhalten. Ihre Prüfbehauptungen, offenen Aufgaben, festen Wortzuweisungen und Namenslisten geben frühere Stände wieder und sind keine aktuellen Vorgaben oder zusätzlichen Qualitätsnachweise.
+
 ## Korrekturstand vom 28.09.2026
 
 Für die im [Korrekturprotokoll vom 28.09.2026](buch1-en-uk-he-korrekturen-2026-09-28.md) genannten Stellen gilt die dort dokumentierte Nachprüfung am Griechischen. In dieser Ausgabe wurden 28 Abschnittsfassungen berichtigt, einschließlich Sprache und Anmerkungen. Die konkreten Befunde des GLM-Prüfberichts sind bearbeitet; eine neue vollständige Prüfung aller Abschnitte wird damit nicht behauptet.
@@ -8,7 +16,7 @@ Die folgenden älteren Einträge und kumulierten Zahlen dokumentieren den urspr�
 
 Grundlage ist ausschließlich der griechische Text (`docs/grc/source.xml`, Oxford-Ausgabe H. S. Jones). Jede Portion von höchstens zehn Kapiteln wurde durch einen Übersetzungs-Subagenten angefertigt, sodann durch einen zweiten, unabhängigen Subagenten abschnitts- und satzweise am Griechischen geprüft; jede Meldung wurde durch die Koordination am griechischen Text entschieden, bevor die Portion gebaut und veröffentlicht wurde. Automatische Strukturprüfung (`scripts/check_translation.py`) je Portion: 0 Fehler in allen hier verzeichneten Portionen.
 
-## Festlegungen (bindend für die englische Ausgabe)
+## Historische Festlegungen der englischen Ausgabe
 
 - Britische Rechtschreibung mit Oxford-„-ize“ (honour, defence, judgement; organize, recognize).
 - Latinisierte Namensformen (Corcyra, Potidaea, Aegina; etablierte Ausnahmen wie Heracles).

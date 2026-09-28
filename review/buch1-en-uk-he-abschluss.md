@@ -2,11 +2,11 @@
 
 Begonnen am 28.09.2026 durch Codex, Ausgangsstand `8164eca`.
 
-**Status: in Arbeit.** Die frühere gezielte Korrektur wird zu einer Prüfung aller 580 Abschnitte in jeder der drei Sprachen erweitert. Ukrainisch 131–146 und Hebräisch 141–146 werden ergänzt. Die deutsche Ausgabe wurde bereits vollständig überarbeitet und am Griechischen geprüft; Buch 2 gehört nicht zu diesem Auftrag.
+**Status: abgeschlossen am 28.09.2026.** Alle 580 Abschnitte in jeder der drei Sprachen wurden vollständig am Griechischen geprüft. Ukrainisch 131–146 und Hebräisch 141–146 sind ergänzt. Sinnfehler und sprachliche Mängel sind korrigiert. Die deutsche Ausgabe war bereits vollständig überarbeitet und am Griechischen geprüft; ihre Buch-1-Datei blieb unverändert. Buch 2 gehört nicht zu diesem Auftrag.
 
-Grundlage: der unveränderte griechische Text in `docs/grc/source.xml`, Jones, Oxford 1910 / Nachdruck 1942. Jeder Abschnitt wird mit allen drei Fassungen verglichen. Sinn, Sprecher, Adressaten, Bedingungen, Verneinungen, Modalität, Zahlen und sprachliche Natürlichkeit werden geprüft. Frühere GLM-Entscheidungen gelten als zu prüfende Behauptungen, nicht als Vorgaben für die Auslegung.
+Grundlage: der unveränderte griechische Text in `docs/grc/source.xml`, Jones, Oxford 1910 / Nachdruck 1942. Jeder Abschnitt wurde mit allen drei Fassungen verglichen. Geprüft wurden Sinn, Sprecher, Adressaten, Bedingungen, Verneinungen, Modalität, Zahlen und sprachliche Natürlichkeit. Frühere GLM-Entscheidungen gelten als zu prüfende Behauptungen, nicht als Vorgaben für die Auslegung.
 
-Die Bearbeitung erfolgt in Portionen von höchstens zehn Kapiteln. Erst nach abgeschlossener Prüfung, Umsetzung der Korrekturen und struktureller Kontrolle wird eine Portion als fertig verzeichnet. Eine abgeschlossene Prüfung ist kein Anspruch auf absolute Fehlerfreiheit.
+Die Bearbeitung erfolgte in Portionen von höchstens zehn Kapiteln. Jede Portion wurde erst nach abgeschlossener Prüfung, Umsetzung der Korrekturen und struktureller Kontrolle als fertig verzeichnet. Der Durchgang erfolgte ohne Subagenten. Eine abgeschlossene Prüfung ist kein Anspruch auf absolute Fehlerfreiheit.
 
 ## Fortschritt
 
@@ -233,11 +233,11 @@ Alle 43 Abschnitte je Sprache am Griechischen gelesen und sprachlich überarbeit
 - 1.128.1–7: Spartas eigene Deutung des Erdbebens bleibt zugeschrieben. Pausanias’ private Rückkehr ohne Vollmacht; behaupteter griechischer Kriegseinsatz, keine neue Kriegsepoche. Beginn der Königsverbindung wird **rückblickend durch die folgende Tat erklärt**, nicht auf den Zeitpunkt der zweiten Rückkehr verlegt. Dritte Person am Briefanfang mit folgendem Ich erhalten.
 - 1.129.1–130.2: königliche Angelegenheiten als Bezug des Auftrags; Xerxes verlangt ununterbrochene Tätigkeit, kein Verbot, mit der Arbeit aufzuhören, durch verdrehte Verneinung (HE). Briefschluss „**uns** beiden“, nicht „euch beiden“ (UK). Kleine verräterische Handlungen statt zeitlich kurzer Taten; hebräischen Doppelbuchstaben in „Ägypter“ entfernt.
 
-Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 43/43 Abschnitte, keine Fehler oder Prüfhinweise. Damit sind alle 580 Abschnitte je Sprache gelesen; Abschlusskontrollen und Statusabgleich folgen.
+Mechanische Kontrolle nach Neubau: EN/UK/HE jeweils 43/43 Abschnitte, keine Fehler oder Prüfhinweise. Damit waren alle 580 Abschnitte je Sprache gelesen; die anschließenden Abschlusskontrollen sind unten dokumentiert.
 
 ### 131–140
 
-Alle 38 griechischen Abschnitte mit EN, UK und HE verglichen, darunter die bisher unveröffentlichten ukrainischen Entwürfe. Sprache durchgehend vereinfacht, ohne die Aussage dem modernen Satzbau zu opfern. 1.133.1 EN/HE aus dem vorherigen Korrekturdurchgang erneut geprüft und beibehalten. Wesentliche Sachkorrekturen:
+Alle 38 griechischen Abschnitte mit EN, UK und HE verglichen, darunter die bisher unveröffentlichten ukrainischen Entwürfe. Sprache durchgehend vereinfacht, ohne die Aussage dem modernen Satzbau zu opfern. 1.133.1 EN/HE aus dem vorherigen Korrekturdurchgang inhaltlich bestätigt; bei der Abschlusskontrolle „die meisten der anderen Boten“ präzisiert. Wesentliche Sachkorrekturen:
 
 - 1.131.1: Rückkehr **mit dem Boten**, andernfalls Kriegserklärung. Kein Auftrag an den Boten, bei Nichterfüllung eines vermeintlichen eigenen Befehls Krieg auszurufen.
 - 1.131.2–132.1: mögliche Ankläger sind keine Richter; die Stadt und die Gegner verfügen über keine Beweise — sie sind nicht die gesuchten Quellen der Beweise.
@@ -265,4 +265,27 @@ Alle 27 Abschnitte am Griechischen geprüft. UK und HE neu direkt aus dem griech
 - 1.143.5: Folgen von Sieg und Niederlage, mögliche Abkehr der Bundesgenossen sowie Vorrang der Menschen vor dem Besitz erhalten.
 - 1.144.2–3: Bedingungen für Autonomie und Aufhebung der Verbote vollständig erhalten; Bereitschaft zum Krieg beeinflusst die gegnerische Bedrängnis, nicht einen angeblich sicher geringeren „Preis“ des Krieges.
 
-Mechanische Kontrolle: EN/UK/HE jeweils 27/27 Abschnitte, keine Fehler oder Prüfhinweise. Alle drei HTML-Ausgaben enthalten jetzt 580 Abschnitte bis 1.146.1. Die noch offene Gesamtprüfung betrifft Kapitel 1–130.
+Mechanische Kontrolle: EN/UK/HE jeweils 27/27 Abschnitte, keine Fehler oder Prüfhinweise. Alle drei HTML-Ausgaben enthalten jetzt 580 Abschnitte bis 1.146.1. Die zunächst noch offenen Kapitel 1–130 wurden anschließend vollständig geprüft, wie oben dokumentiert.
+
+
+## Abschlusskontrolle
+
+| Ausgabe | Vollständig am Griechischen geprüft | Vorhandene Abschnittsfassungen geändert | Neu hinzugefügt | Endstand |
+|---|---:|---:|---:|---:|
+| Englisch | 580 | 554 | 0 | 580 |
+| Ukrainisch | 580 | 494 | 65 | 580 |
+| Hebräisch | 580 | 531 | 27 | 580 |
+
+Die Änderungszahlen vergleichen den veröffentlichten Ausgangsstand `8164eca` mit dem Abschlussstand und zählen Sinnkorrekturen, Sprachüberarbeitung, Anmerkungen und Namensvereinheitlichungen gemeinsam. Sie sind **keine Anzahl nachgewiesener Sinnfehler**. Unverändert bestätigte Abschnitte gehören ebenfalls zum vollständigen Prüfungsumfang.
+
+Abschließende Präzisierungen: 1.1.2 EN bezieht den Superlativ auch auf die betroffenen Barbaren; 1.10.3 EN bezeichnet den größten Feldzug **bis dahin**; 1.33.4 EN erhält das aktive Vorwegplanen gegen den Gegner; 1.42.1 HE formuliert die Aufforderung zur entsprechenden Hilfe klar; 1.133.1 EN/HE bewahrt „die meisten“ der übrigen Boten. Ukrainische und hebräische Namensschreibungen vereinheitlicht, unter anderem Олена, фаяки, Ерміона, мідійці, לקדימונים und כימריון. Der Personenname לקדמוניוס bleibt davon unterschieden.
+
+- Alle 15 Portionen je Sprache abschließend mit `scripts/check_translation.py` geprüft: **45 Prüfungen, 0 Fehler, 0 Warnungen**. Je Ausgabe 146 Kapitel und 580 eindeutige Abschnittskennungen in der Reihenfolge des griechischen Textes.
+- Veröffentlichte Absätze und eingelesene Markdown-Arbeitsfragmente stimmen Zeichen für Zeichen überein. Hebräisches `lang="he"` und `dir="rtl"` geprüft. Keine griechischen Textlecks, internen Flags, Entwurfsmarkierungen oder Ziffern im Übersetzungstext.
+- Je Sprache vier Anmerkungen: 1.51.4 und 1.57.6 zu den beiden tatsächlichen Kreuzmarkierungen der Jones-Ausgabe; 1.86.2 zur Deutung; 1.136.4 zur zugrunde gelegten Lesart. Die zuvor unbelegten Anmerkungen bleiben entfernt.
+- Griechische Quelldatei unverändert: SHA-256 `c418cbbc18d730ea4e0ba80d15425d89e21624c5eca1060f1430e11e1c478ac6`. Alle griechischen Lesedateien, die deutsche Buch-1-Datei und sämtliche Buch-2-Dateien sind gegenüber dem Arbeitsbeginn unverändert.
+- Alle fünf READMEs und das Leseportal nennen Buch 1 vollständig und geprüft. Der Maßstab vollständiger Bedeutung bei möglichst natürlicher moderner Sprache gilt ausdrücklich für alle Übersetzungen. Die drei neuen Ausgaben enthalten entsprechende verständliche Einleitungen.
+- Glossare korrigiert: insbesondere keine mechanisch erzwungene Strafbedeutung bei `τιμωρία`; die kausale Bedeutung von `πρόφασις` in 1.23.6 bleibt zugelassen. Frühere GLM-Protokolle sind als historische, durch diesen Durchgang ersetzte Dokumente gekennzeichnet.
+- `git diff --check`: keine Befunde. Änderungen in nachvollziehbaren Portionen committed.
+
+Die Strukturkontrollen ergänzen die inhaltliche Prüfung; sie beweisen für sich genommen keine Übersetzungsqualität. Der Abschluss bedeutet vollständige Bearbeitung und Gegenprüfung, keinen Anspruch auf Unfehlbarkeit.
