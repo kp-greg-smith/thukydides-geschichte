@@ -157,7 +157,18 @@ that records the wrong reading as a verified decision.
 
 ## Appendix: open corrections in Book 1 (as of HEAD 104b191)
 
-None of the following have been applied yet.
+The list below records the historical state at HEAD `104b191`.
+
+**Correction update, 2026-09-28 (Codex):** The concrete findings below have now been
+checked against the Greek in the current Book 1 editions and corrected wherever
+still present. Related errors found during that check were corrected as well;
+1.86.2 has an explicit interpretive decision and a reader note in all three
+languages. See the [correction record](buch1-en-uk-he-korrekturen-2026-09-28.md)
+for the exact scope, decisions and validation. This is not a new complete audit
+of Book 1 and does not establish that the estimated additional errors in section 6
+have all been found. Book 2 is outside this correction pass.
+
+Original list of required corrections:
 
 - EN 1.116.1, UK 1.116.1, HE 1.116.1: remove the note; render "Pericles with nine colleagues".
 - EN/UK/HE 1.46.2: render "with four colleagues"; strike from the open-issues lists.

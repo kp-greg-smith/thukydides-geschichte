@@ -1,5 +1,11 @@
 # Buch 1 (uk): Übersetzungs- und Prüfprotokoll
 
+## Korrekturstand vom 28.09.2026
+
+Für die im [Korrekturprotokoll vom 28.09.2026](buch1-en-uk-he-korrekturen-2026-09-28.md) genannten Stellen gilt die dort dokumentierte Nachprüfung am Griechischen. In dieser Ausgabe wurden 29 Abschnittsfassungen berichtigt, einschließlich Sprache und Anmerkungen. Die konkreten Befunde des GLM-Prüfberichts sind bearbeitet; eine neue vollständige Prüfung aller Abschnitte wird damit nicht behauptet.
+
+Die folgenden älteren Einträge und kumulierten Zahlen dokumentieren den ursprünglichen GLM-Durchgang. Seine Angaben über erfolgreiche unabhängige Prüfungen sind ein historischer Selbstbericht, keine Bestätigung durch die jetzige Nachprüfung. Zurückgenommene Einzelentscheidungen sind gekennzeichnet. Die neue Nachprüfung wurde ohne Subagenten durchgeführt.
+
 Grundlage ist ausschließlich der griechische Text (`docs/grc/source.xml`, Oxford-Ausgabe H. S. Jones). Jede Portion von höchstens zehn Kapiteln wurde durch einen Übersetzungs-Subagenten angefertigt, sodann durch einen zweiten, unabhängigen Subagenten abschnitts- und satzweise am Griechischen geprüft; jede Meldung wurde durch die Koordination am griechischen Text entschieden, bevor die Portion gebaut und veröffentlicht wurde. Automatische Strukturprüfung (`scripts/check_translation.py`) je Portion: 0 Fehler in allen hier verzeichneten Portionen.
 
 ## Festlegungen (bindend für die ukrainische Ausgabe)
@@ -86,7 +92,7 @@ Zweitprüfung: work/uk/review/batch04.md. Meldungen: 19 in 28 Abschnitten (3 Blo
 Zweitprüfung: work/uk/review/batch05.md. Meldungen: 7 in 7 Abschnitten (1 Blocker, 6 Minor).
 - Blocker 1.44.2: ἀσθενεστέροις οὖσιν — die Schwäche gehört den Korinthern und den anderen Flottenbesitzern; die verdoppelte Partizip-Wiedergabe mit hängendem «уже послабленими» wurde korrigiert.
 - Minor: 1.42.2 (ἐν ᾧ = «рішенням», nicht Person), 1.45.3 (ein ἀποβαίνειν für beide Alternativen: «висадитися на Керкірі чи на якійсь із володінь»), 1.46.4 (genehmigte Namensformen «Ефира», «річка Ахерон», «річка Тіяміс» angewandt), 1.49.2 (Zusatz «зіткнення впритул» entfernt), 1.49.5 («все» entfernt), Orthograph Vereinheitlichung «уже» → «вже» ausgabenweit (Kap. 1–50).
-Offene unsichere Stellen aus dieser Portion: 1.46.2 πέμπτος αὐτός (dunkel, wörtlich belassen); 1.49.2 τῇ μὲν τέχνῃ οὐχ ὁμοίως (überlieferte Doppeldeutigkeit bewahrt); 1.50.5 Paian-Sänger wie im Griechischen unbenannt gelassen.
+Offene unsichere Stellen aus dieser Portion: 1.49.2 τῇ μὲν τέχνῃ οὐχ ὁμοίως (überlieferte Doppeldeutigkeit bewahrt); 1.50.5 Paian-Sänger wie im Griechischen unbenannt gelassen.
 Alle Meldungen angenommen.
 
 ### Kap. 51–60 (Batch 06) — 31 Abschnitte
@@ -118,9 +124,9 @@ Zweitprüfung: work/uk/review/batch08.md. Meldungen: 14 in 14 Abschnitten (4 Blo
 - Blocker 1.75.4: das ausgefallene überlieferte Satzgefüge «καὶ γὰρ ἂν αἱ ἀποστάσεις πρὸς ὑμᾶς ἐγίγνοντο» am Abschnittsende ergänzt («адже і відпадіння міст відбувалися б тоді у ваш бік») + Vermerk zur ἄν-mit-Imperfekt-Anomalie.
 - Blocker 1.77.6: die Apodosis «ὁμοῖα καὶ νῦν γνώσεσθε» als eigene Prognose gelöst («такі самі ви і нині виявитеся» statt in den Protasis gefaltet), γνώσεσθε nicht mehr als «викажете».
 - Vorab verfügte Prüfungen sauber umgesetzt: 1.71.2 (подібним до вас самих — a-fortiori-Bedingung trat NICHT ein) und 1.73.1 («промови бо — ні наші, ні цих людей — не відбувалися б у вас, як перед суддями»); Quellbasis erneut zeichenweise mit source.xml verprobt (10/10).
-- Minorfixes: 1.71.3 (ohne «у всякому», ohne «помітно»), 1.73.2 («радше в тягар», grammatische Glättung), 1.73.3 (странное «борня» → «з яким же містом випаде вам боротися»), 1.74.1 (idiomatische Gruppierung «трохи менш як чотириста, тобто трохи менш як дві частини»; Lesernotiz präzisiert: «як співвідносяти обидва числа»), 1.76.4 (εἴ τι = «якщо», nicht «чи»), 1.77.3 (Doppelverneinung eindeutig), 1.78.2 («обертається»), 1.80.4 (Vergleichsbasis «ніж у кораблях»).
+- **Historischer Eintrag; in den betroffenen Punkten durch die Nachprüfung vom 28.09.2026 revidiert:** Minorfixes: 1.71.3 (ohne «у всякому», ohne «помітно»), 1.73.2 («радше в тягар», grammatische Glättung), 1.73.3 (странное «борня» → «з яким же містом випаде вам боротися»), 1.74.1 (idiomatische Gruppierung «трохи менш як чотириста, тобто трохи менш як дві частини»; Lesernotiz präzisiert: «як співвідносяти обидва числа»), 1.76.4 (εἴ τι = «якщо», nicht «чи»), 1.77.3 (Doppelverneinung eindeutig), 1.78.2 («обертається»), 1.80.4 (Vergleichsbasis «ніж у кораблях»).
 - Vermerks-Ergänzungen: 1.75.4 (ἄν + Imperfekt), 1.77.2 (Kasus-Anomalie bei σκοπεῖ), 1.77.3 (παρὰ τὸ μὴ οἴεσθαι χρῆναι); Vermerks-Sync: 1.77.6, 1.71.3.
-- 1.74.1-Lesernotiz: vom Prüfer bestätigt — kurz, faktisch (beide Zahlen stehen überliefert nebeneinander; die antike Kontroverse über die Flottenzahlen ist bezeugt) und nötig; Wortlaut präzisiert.
+- **Historischer Eintrag; in den betroffenen Punkten durch die Nachprüfung vom 28.09.2026 revidiert:** 1.74.1-Lesernotiz: vom Prüfer bestätigt — kurz, faktisch (beide Zahlen stehen überliefert nebeneinander; die antike Kontroverse über die Flottenzahlen ist bezeugt) und nötig; Wortlaut präzisiert.
 - Glossar-Vorschläge geprüft und unterstützt: ξυνθήκη = «умова», ἐπιείκεια = «поблажливість», ἐπιτήδεύματα = «повадки», παράλογος, μοῖρα offen; der εἰκότως-Kontrast 1.76.4/1.77.5 bleibt als dokumentierte Zweilesarigkeit bewusst stehen.
 Alle 14 Meldungen angenommen (12 mit Texteingriff, 2 reine Vermerks-Fälle; dazu 1 Notiz-Präzisierung, 3 Vermerks-Ergänzungen, 2 Vermerks-Syncs).
 
@@ -128,7 +134,7 @@ Alle 14 Meldungen angenommen (12 mit Texteingriff, 2 reine Vermerks-Fälle; dazu
 Zweitprüfung: work/uk/review/batch09.md. Meldungen: 21 in 21 Abschnitten (2 Blocker, 19 Minor).
 - Blocker 1.81.3: die Hilfs-Inversion korrigiert — δεήσει [ἡμῖν] τούτοις ναυσὶ βοηθεῖν = «доведеться нам і цим союзникам допомагати кораблями» (nicht „diesen Verbündeten müsste man zu Hilfe kommen“) — Archidamos’ Insel-Argument wiederhergestellt; das ausgefallene καί ergänzt.
 - Blocker 1.90.5: θαυμάζειν zurück unter ἔφη («і що він, мовляв, дивується») — keine freie Erzählung mehr; das ausgefallene μέντοι («втім») ergänzt.
-- Sonderprüfungen: 1.87-Stimmenzahl bestanden (πολλῷ πλείους wie überliefert, keine Betrügerei-Glosse, nichts ausgelassen); 1.83.3 echtes Verderbnis bestätigt (Objekt «про них» statt «про неї» korrigiert); 1.82.2 ἴμεν ohne Vermerk — Vermerk mit beiden Lesarten ergänzt; 1.86.2 die οἱ-Offenheit war STILL zugunsten der ALLIIERTEN aufgelöst — Wahl jetzt dokumentiert (Athener als Alternative); 1.84.3 ἀμαθέστερον geglättet zu «занадто просто» — korrigiert zu «з недолею навчання» und das Vermerks-Resümee korrigiert (es hatte die Glättung als „общепринятый смысл“ ausgegeben); τὸ κοινόν 1.90.5 = «громадські справи».
+- **Historischer Eintrag; in den betroffenen Punkten durch die Nachprüfung vom 28.09.2026 revidiert:** Sonderprüfungen: 1.87-Stimmenzahl bestanden (πολλῷ πλείους wie überliefert, keine Betrügerei-Glosse, nichts ausgelassen); 1.83.3 echtes Verderbnis bestätigt (Objekt «про них» statt «про неї» korrigiert); 1.82.2 ἴμεν ohne Vermerk — Vermerk mit beiden Lesarten ergänzt; 1.86.2 die οἱ-Offenheit war STILL zugunsten der ALLIIERTEN aufgelöst — Wahl jetzt dokumentiert (Athener als Alternative); 1.84.3 ἀμαθέστερον geglättet zu «занадто просто» — korrigiert zu «з недолею навчання» und das Vermerks-Resümee korrigiert (es hatte die Glättung als „общепринятый смысл“ ausgegeben); τὸ κοινόν 1.90.5 = «громадські справи».
 - Minorfixes (Auswahl): 1.81.4 (без «самі»), 1.81.5 (δόξομεν = Eindruck der anderen + Vermerk zur καταλύεσθαι-Doppellesung), 1.81.6 (Antezedens «війну» + καί = «аж»: «лишити війну аж нашим дітям»), 1.82.1 («ставитися до них» statt normwidrigem «стояти до них»; Vermerk zur zweiten Öffnungslasche der Archidamus-Rede im Quelltext), 1.82.2 (πεφραγμένοι = «укріплені»; ἢν δοκῇ = «якщо розсудимо за добре»), 1.82.3 (Präsens-Partizip + potentialer Optativ «поступилися б»), 1.82.4 (ἀληπτοτέρους = «недосяжнішими», nicht «некерованішими»), 1.84.2 («не піддаємося потісі»), 1.84.3 («доброрадні» statt unkodifiziertem «добрерадні»), 1.85.2 («а проти того, хто його дає»; βουλεύσεσθε = «порадите»), 1.86.2 («а вони ж таки»), 1.87.4 (σφίσι ergänzt: «кривдять їх самих»), 1.90.1 (τε…καί = «і… і», nicht Alternativen; «чисельності» statt «численности»), 1.90.3 (Kasus + Konstruktion), 1.90.5-κοινόν.
 - Vermerks-Ergänzungen: 1.81.5, 1.82.1 (Quell-Anomalie der Rede-Grenzen), 1.82.2, 1.86.2, 1.87.5 (Anakoluth ohne Hauptverb), 1.89.3 (Zahl-Diskordanz bei τὸ κοινόν); Vermerks-Revisionen: 1.83.3, 1.84.3.
 - Übersetzervorschläge verifiziert: τὰ Εὐβοϊκά = «після здобуття Евбеї» nach dem identischen 1.23.1-Vorbild (bestätigt); ὑπεκτίθημι = «вивезено в безпеку» (mit «звідти» statt «звідусіль»); «спільна справа» 1.90.5 verworfen («громадські справи»), «загал афінян» 1.89.3 bestätigt; ἐξαρτύειν/ἐκπορίζειν-Unterscheidung bestätigt.
@@ -159,7 +165,7 @@ Alle 6 Meldungen angenommen (jeweils Text- oder Vermerkseingriff).
 ### Kap. 111–120 (Batch 12) — 35 Abschnitte
 Zweitprüfung: work/uk/review/batch12.md. Meldungen: 10 in 10 Abschnitten (4 Blocker, 6 Minor).
 - Blocker 1.114.2: das überlieferte τὸ πλέον wiederhergestellt („більшею частиною далі вже не просуваючись“) — ohne den Begrenzer hätte der Satz die Rückkehr absolut gemacht; dasselbe τὸ πλέον ist im selben Paket bei 1.118.2 korrekt übertragen („переважну частину часу“), der Ausfall war also Vergessen, nicht Prinzip.
-- Blocker 1.116.1: die glatte Konjektur („уже вдесяте“) aus dem Körper entfernt — der überlieferte dunkle Ausdruck bleibt jetzt sichtbar („коли стратегував Перікл — сам „десятий““) mit Regel-4-Lesernotiz nach dem Muster der freigegebenen EN-Fassung; der Vermerk jetzt dokumentierend (Crux + vollzogene Ausführung).
+- **Historischer Eintrag; in den betroffenen Punkten durch die Nachprüfung vom 28.09.2026 revidiert:** Blocker 1.116.1: die glatte Konjektur („уже вдесяте“) aus dem Körper entfernt — der überlieferte dunkle Ausdruck bleibt jetzt sichtbar („коли стратегував Перікл — сам „десятий““) mit Regel-4-Lesernotiz nach dem Muster der freigegebenen EN-Fassung; der Vermerk jetzt dokumentierend (Crux + vollzogene Ausführung).
 - Blocker 1.118.2: ᾔρετο auf die aufsteigende Lesart festgelegt („почала зрастати“) — der Erzählgang verlangt sie (die Lakedaimonier greifen ein, WEIL die athenische Macht gewachsen ist), die EN druckt „was clearly on the rise“, die frühere „викорчовуватись“-Linie im Vermerk als gelebte Alternative dokumentiert; τῆς ξυμμαχίας αὐτῶν dem Athener-Besitz zugeführt („до союзу, власного їм“) — vorher las sich der Satz gegen den eigenen Vermerk als lakedaimonischer Bund; der Vermerk komplett neu gefasst; der fällige Doppel-ἀρχή-Vermerk ergänzt (Staats-„панування“ gegen zeitliches „початок“ im selben Absatz).
 - Blocker 1.120.2: drei Argumentationsfehler der korinthischen Bündnisrede behoben — ἐνηλλάγησαν („стикався“ → „зазнав од афінян кривди“: die Unrecht-Lesart trägt den a-fortiori, denn belehrt werden muss, wem Unrecht geschah), τοῖς κάτω die Richtungs-Inversion („боронитимуться од“ → „не оборонятимуть тих, що внизу“: die Binnen-Verbündeten sollen die Küstenleute schützen, nicht sich gegen sie wehren), τὰ κάτω πρόοιντο („подадуться вперед“ → „буде втрачено“: Verlust der unteren Bezirke, nicht freiwilliger Vormarsch); der μὴ ἐν πόρῳ-Vermerk ergänzt (Zitat wörtlich, die schwächere Linie „недалеко від моря“ gelebt dokumentiert, die κάτω-Trennung Menschen/Gebiete verzeichnet).
 - Sechs Pflicht-Vermerke ergänzt: Δελφοῖς-Ethnikon (1.112.5, Cleombrotus-Präzedenz), Прієна (1.115.2 — der Name stand in keinem Addendum; jetzt in alle drei Briefings nachgetragen), περὶ τῇ Ποτειδαίᾳ-Dativ (1.119.1), die Reden-Kontinuität (1.120.1 — das Quellen-Anführungszeichen schließt erst außerhalb des Kapitels; alle ’ in 119–120 sind Elisionsapostrophe, verifiziert), der ἐσεκομίσαντο-Doppel-Augment-Hinweis zur EN-Parität (1.117.1), der ἀλλὰ-Ellipsis-Marker im 1.120.5-Zitat.
@@ -182,23 +188,20 @@ Der Prüfer widerlegte einen vom Koordinator übermittelten Claim mit Druckbewei
 - Mitgerittene Rück-Korrekturen dieses Baues: 1.72.1 «коринфяне» → «коринфяни» (Fund des Übersetzers, 47:1-Druckbeweis, vor der Prüfung angewandt); 1.56.2 die τιμωρία-Harmonisierung (aus der Prüfung).
 Alle 8 Meldungen angenommen; ein Koordinator-Claim widerlegt und dokumentiert.
 
-## Offene und unsichere Stellen (Stand 27.09.2026)
+## Verbleibende Prüfliste aus dem älteren GLM-Protokoll
+
+Die folgenden, hier nicht erneut untersuchten Einträge sind offene Prüfbehauptungen des früheren Durchgangs. Insbesondere ihre Bezeichnungen als „Crux“ oder „gestört“ gelten nicht als durch diese Nachprüfung bestätigt. Die erledigten Einträge zu 1.7.1, 1.10.4, 1.18.1, 1.36.3, 1.37.5 und 1.46.2 sind entfernt; der Homerverweis in 1.9.4 ist ein editorischer Verweis, kein Textschaden.
+
 
 - 1.6.3 — wie pipeline-einheitlich («першими»).
-- 1.7.1 ἀνῳκισμένοι — Lesartentscheidung mit Dokumentation.
-- 1.9.4/1.10.4 — wie EN (gemeinsame Entscheidungen, sinngemäß mit Anmerkung).
-- 1.18.1 — gestörte Überlieferung, sinngemäß mit Anmerkung.
 - 1.25.4→1.26.1, 1.26.5→1.27.1 — Anakoluthon-Typografie wie in der deutschen Referenz.
 - 1.31.3 τὸ αὐτῶν — auf die athenische Flotte bezogen, Alternative dokumentiert.
 - 1.32.2 μετὰ τῆς ξυμμαχίας τῆς αἰτήσεως — crux, gewählte Satzteilung dokumentiert.
-- 1.36.3 τῷδ᾿ ἂν μὴ προέσθαι — auf «не відпускати нас» festgelegt, Alternativen dokumentiert.
 - 1.37.3 ἀνάγκῃ καταίροντας δέχεσθαι — ungrammatisch; nach evidentem Sinn.
-- 1.37.5 δεχομένοις τὰ δίκαια δεικνύναι — zwei mögliche Bezüge; adverbiale Lesart gewählt, crux dokumentiert.
 - 1.38.4 ἐκπρεπῶς μὴ καὶ διαφερόντως — spätere Lesart als Vermerk dokumentiert, Text belassen.
-- 1.46.2 πέμπτος αὐτός — dunkel, wörtlich belassen.
 - 1.49.2 τῇ μὲν τέχνῃ οὐχ ὁμοίως — Doppeldeutigkeit bewahrt.
 
-## Zahlen (Stand 27.09.2026)
+## Zahlen des ursprünglichen GLM-Durchgangs (Stand 27.09.2026)
 
 - Übersetzte Abschnitte: 515 in den Kapiteln 1–130 (Ukrainian); insgesamt Buch 1 hat 146 Kapitel / 580 Abschnitte.
 - Durch Zweitprüfung geprüft: sämtliche 515 veröffentlichten Abschnitte (jede Portion durch einen unabhängigen Subagenten, jede Meldung durch die Koordination am griechischen Text entschieden; automatische Strukturprüfung je Portion ohne Fehler).
