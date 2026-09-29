@@ -66,9 +66,9 @@
   --reader-font: "Almendra", "Source Serif 4", serif;
   color-scheme: dark;
   --paper: #000;
-  --ink: #ffe6a3;
+  --ink: #ffeb55;
   --line: #66532c;
-  --glow: 0 0 2px rgba(255, 230, 163, .18);
+  --glow: 0 0 2px rgba(255, 235, 85, .18);
 }
 :root[data-theme="light"] {
   color-scheme: light;
