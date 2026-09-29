@@ -1,0 +1,62 @@
+OpenAI Codex v0.157.1
+--------
+workdir: /tmp/astra-empty
+model: gpt-6-astra
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a0ea82-5bf7-7c30-8579-b5e8e7a9f29c
+--------
+user
+Answer from the text in this prompt only. Do not search for or read any files. Reply briefly.
+
+Unabhängige Stichprobenprüfung: Thukydides Buch 2 (P02-Ausgabe). Unten stehen sechs Abschnitte: jeweils erst der griechische Text, dann die Übersetzung. Prüfe je Abschnitt kurz, ob die Übersetzung sinnhaltig dem Griechischen folgt (Auslassungen, Zusätze, Verneinungsfehler, Zahlfehler, Missverständnisse). Antworte je Abschnitt mit OK oder dem konkreten Befund.
+
+### 2.71.4 — Griechisch:
+μάρτυρας δὲ θεοὺς τούς τε ὁρκίους τότε γενομένους ποιούμενοι καὶ τοὺς ὑμετέρους πατρῴους καὶ ἡμετέρους ἐγχωρίους, λέγομεν ὑμῖν γῆν τὴν Πλαταιίδα μὴ ἀδικεῖν μηδὲ παραβαίνειν τοὺς ὅρκους, ἐᾶν δὲ οἰκεῖν αὐτονόμους καθάπερ Παυσανίας ἐδικαίωσεν.’
+### 2.71.4 — Übersetzung (en):
+And we take the gods to witness — the gods of the oaths that were sworn on that day, and your ancestral gods and our own gods of this country — and we say to you: do no wrong to the Plataean land, do not transgress the oaths, but suffer us to dwell autonomous, even as Pausanias judged it right.
+
+### 2.72.3 — Griechisch:
+ὁ δὲ θαρσύνων αὐτοὺς πρὸς ταῦτα ἔφη· ‘ὑμεῖς δὲ πόλιν μὲν καὶ οἰκίας ἡμῖν παράδοτε τοῖς Λακεδαιμονίοις, καὶ γῆς ὅρους ἀποδείξατε καὶ δένδρα ἀριθμῷ τὰ ὑμέτερα καὶ ἄλλο εἴ τι δυνατὸν ἐς ἀριθμὸν ἐλθεῖν· αὐτοὶ δὲ μεταχωρήσατε ὅποι βούλεσθε, ἕως ἂν ὁ πόλεμος ᾖ· ἐπειδὰν δὲ παρέλθῃ, ἀποδώσομεν ὑμῖν ἃ ἂν παραλάβωμεν. μέχρι δὲ τοῦδε ἕξομεν παρακαταθήκην, ἐργαζόμενοι καὶ φορὰν φέροντες ἣ ἂν ὑμῖν μέλλῃ ἱκανὴ ἔσεσθαι.’
+### 2.72.3 — Übersetzung (en):
+And he, heartening them upon these things, said: “But do you: hand over the city and the houses to us, to the Lacedaemonians, and show forth the boundaries of the land, and the trees that are your own, by number, and whatever else beside that can be brought to a number; and yourselves withdraw wheresoever you please, so long as the war is; and when it is past, we will give you back all that we take over. Until that time we will hold it as a deposit, working the land and bringing in a yield, such as we trust will suffice you.”
+
+### 2.73.1 — Griechisch:
+οἱ δ’ ἀκούσαντες ἐσῆλθον αὖθις ἐς τὴν πόλιν, καὶ βουλευσάμενοι μετὰ τοῦ πλήθους ἔλεξαν ὅτι βούλονται ἃ προκαλεῖται Ἀθηναίοις κοινῶσαι πρῶτον, καὶ ἢν πείθωσιν αὐτούς, ποιεῖν ταῦτα· μέχρι δὲ τούτου σπείσασθαι σφίσιν ἐκέλευον καὶ τὴν γῆν μὴ δῃοῦν. ὁ δὲ ἡμέρας τε ἐσπείσατο ἐν αἷς εἰκὸς ἦν κομισθῆναι, καὶ τὴν γῆν οὐκ ἔτεμνεν.
+### 2.73.1 — Übersetzung (en):
+And they, having heard it, went back again into the city, and, having taken counsel with the people, told him that they wished first to lay before the Athenians the things that he challenged, and — if they persuaded them — to do them; and until that time they bade him make a truce with them and not ravage the land. And he concluded a truce for the days within which the return was like to be made, and he did not cut up the land.
+
+### 2.77.1 — Griechisch:
+μετὰ δὲ τοῦτο οἱ Πελοποννήσιοι, ὡς αἵ τε μηχαναὶ οὐδὲν ὠφέλουν καὶ τῷ χώματι τὸ ἀντιτείχισμα ἐγίγνετο, νομίσαντες ἄπορον εἶναι ἀπὸ τῶν παρόντων δεινῶν ἑλεῖν τὴν πόλιν πρὸς τὴν περιτείχισιν παρεσκευάζοντο.
+### 2.77.1 — Übersetzung (en):
+After this the Peloponnesians, since the engines availed nothing and the counter-work against the mound was growing up, judging it hopeless — from the difficulties present — to take the city, made their preparations for its circumvallation.
+
+### 2.77.2 — Griechisch:
+πρότερον δὲ πυρὶ ἔδοξεν αὐτοῖς πειρᾶσαι εἰ δύναιντο πνεύματος γενομένου ἐπιφλέξαι τὴν πόλιν οὖσαν οὐ μεγάλην· πᾶσαν γὰρ δὴ ἰδέαν ἐπενόουν, εἴ πως σφίσιν ἄνευ δαπάνης καὶ πολιορκίας προσαχθείη.
+### 2.77.2 — Übersetzung (en):
+Before that, it had seemed good to them to make trial with fire, to see whether, upon a wind arising, they could burn the city — which was not great; for they were turning over in their minds every device, if somehow, without expenditure and without a siege, it might be brought under their hand.
+
+### 2.79.3 — Griechisch:
+καὶ οἱ μὲν ὁπλῖται τῶν Χαλκιδέων καὶ ἐπίκουροί τινες μετ’ αὐτῶν νικῶνται ὑπὸ τῶν Ἀθηναίων καὶ ἀναχωροῦσιν ἐς τὴν Σπάρτωλον, οἱ δὲ ἱππῆς τῶν Χαλκιδέων καὶ ψιλοὶ νικῶσι τοὺς τῶν Ἀθηναίων ἱππέας καὶ ψιλούς·
+### 2.79.3 — Übersetzung (en):
+And the hoplites of the Chalcidians, and certain auxiliaries with them, were defeated by the Athenians and retired into Spartolus; but the horsemen of the Chalcidians and the light troops defeated the horsemen and the light troops of the Athenians.
+
+warning: Codex's Linux sandbox uses bubblewrap and needs access to create user namespaces.
+codex
+- **2.71.4:** OK.
+- **2.72.3:** OK.
+- **2.73.1:** Kleine Fehlübersetzung: „the things that he challenged“ sollte „seine Vorschläge“ heißen (ἃ προκαλεῖται). Sonst sinngemäß korrekt.
+- **2.77.1:** OK.
+- **2.77.2:** OK.
+- **2.79.3:** OK.
+tokens used
+14,907
+- **2.71.4:** OK.
+- **2.72.3:** OK.
+- **2.73.1:** Kleine Fehlübersetzung: „the things that he challenged“ sollte „seine Vorschläge“ heißen (ἃ προκαλεῖται). Sonst sinngemäß korrekt.
+- **2.77.1:** OK.
+- **2.77.2:** OK.
+- **2.79.3:** OK.
